@@ -1,0 +1,1835 @@
+CHAPTER 16
+Diseases of the genitourinary system
+This chapter has 120 four-character categories.
+Code range starts with GA00
+Any disease characterised by pathological changes to the genitourinary system.
+Exclusions:	Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Endocrine, nutritional or metabolic diseases (Chapter 05)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Certain infectious or parasitic diseases (Chapter 01)
+Coded Elsewhere:	Contact with health services for reasons associated with reproduction (QA20-QA4Z)
+Predominantly sexually transmitted infections (1A60-1A9Z)
+Symptoms, signs or clinical findings of the genitourinary system (MF30-MG0Y)
+Female gonococcal pelvic inflammatory disease (1A71)
+This chapter contains the following top level blocks:
+•	Diseases of the female genital system
+•	Diseases of the male genital system
+•	Disorders of breast
+•	Diseases of the urinary system
+•	Other conditions of the genitourinary system
+•	Postprocedural disorders of genitourinary system
+
+Diseases of the female genital system (BlockL1‑GA0)
+Coded Elsewhere:	Certain specified disorders of genital development
+Neoplasms of the female genital organs
+Symptoms, signs or clinical findings involving the female genital system (MF30-MF3Y)
+Inflammatory disorders of the female genital tract (BlockL2‑GA0)
+Exclusions:	those complicating: abortion or ectopic or molar pregnancy (BlockL1‑JA0)
+Infections of genitourinary tract in pregnancy (JA62)
+Other infection during labour (JB0D)
+Infections in the puerperium (JB40)
+  GA00  	Vulvitis
+Exclusions:	senile (atrophic) vaginitis (GA30.2)
+Coded Elsewhere:	Irritant contact dermatitis of vulva (EK02.13)
+Genital warts of vulva (1A95.1)
+Tuberculous ulceration of vulva (1B12.8)
+
+GA00.0	Acute vulvitis
+Exclusions:	Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+GA00.1	Subacute, chronic or recurrent vulvitis
+
+GA00.2	Abscess of vulva
+A condition of the vulva, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the vulva. This condition may present with pain and swelling of the vulva, pain on sexual intercourse, or fever. Confirmation is by gynaecological examination.
+
+GA00.3	Genital ulcer of vulva
+Ulceration of the vulva of unknown or uncertain aetiology but where a sexually transmitted infection, especially Herpes simplex, primary syphilis or chancroid, is suspected. This is a provisional diagnosis which should be amended once the cause of the ulceration is known.
+Coding Note:	Code aslo the causing condition
+
+GA00.4	Vulvovaginal ulceration and inflammation
+Coded Elsewhere:	Vulvovaginal candidosis (1F23.10)
+
+GA00.40	Vulvovaginal ulceration
+
+GA00.4Y	Other specified vulvovaginal ulceration and inflammation
+
+GA00.4Z	Vulvovaginal ulceration and inflammation, unspecified
+
+  GA01  	Inflammatory disorders of the uterus, except cervix
+A spectrum of inflammation involving the UTERUS and the supporting tissues. It is usually caused by an ascending infection of organisms from the endocervix. Such inflammation can lead to functional impairment and infertility.
+
+GA01.0	Acute inflammatory disease of uterus
+
+GA01.00	Acute endometritis
+A disease of the endometrium, caused by an infection with a bacterial or viral source. This condition is characterised by fever, lower abdominal pain, abnormal vaginal bleeding, or vaginal discharge. Confirmation is by a pelvic exam and identification of the bacteria or virus from a cervical swab, endometrial biopsy, or laparoscopy.
+Coded Elsewhere:	Tuberculous endometritis (1B12.5)
+
+GA01.01	Acute inflammatory disease of uterus with pyometra
+
+GA01.0Z	Acute inflammatory disease of uterus, unspecified
+
+GA01.1	Chronic inflammatory disease of uterus
+A condition characterised by inflammation of the uterus which lasts for more than 3 months.
+
+GA01.10	Chronic endometritis
+Coded Elsewhere:	Tuberculous endometritis (1B12.5)
+
+GA01.11	Chronic inflammatory disease of uterus with pyometra
+
+GA01.1Z	Chronic inflammatory disease of uterus, unspecified
+
+GA01.Y	Other specified inflammatory disorders of the uterus, except cervix
+
+GA01.Z	Inflammatory disorders of the uterus, except cervix, unspecified
+
+  GA02  	Vaginitis
+Coded Elsewhere:	Vulvovaginal ulceration and inflammation (GA00.4)
+Genital warts of vagina (1A95.1)
+
+GA02.0	Acute vaginitis
+Coding Note:	Code aslo the causing condition
+
+GA02.1	Inflammatory vaginitis
+Clinical syndrome characterised by diffuse exudative vaginitis, epithelial cell exfoliation and a profuse purulent vaginal discharge, associated with vulvovaginal burning or irritation and dyspareunia. Signs may include vulvovaginal erythema and ecchymotic spots.
+Coding Note:	Code aslo the causing condition
+
+GA02.2	Subacute or chronic vaginitis
+Chronic vulvovaginal candidiasis, marked by chronic irritative symptoms of vestibule, vulva and vagina, with burning replacing itching as the prominent symptom. Differential diagnosis with chronic atopic dermatitis or atrophic vulvovaginitis.
+
+GA02.3	Genital ulcer disease of vagina
+
+  GA03  	Diseases of Bartholin gland
+Any disease characterised by inflammation of the Bartholin gland.
+
+GA03.0	Abscess of Bartholin gland
+A condition of the Bartholin gland, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by focal accumulation of purulent material in the Bartholin gland, located on either side of the vaginal opening. This condition may present with swelling on either side of the vagina, pain on sexual intercourse, or fever. Confirmation is by gynaecological examination.
+
+GA03.1	Cyst of Bartholin gland
+A condition of the vagina, caused by growth of a flap of skin, occlusion of the Bartholin duct due to mucus, or infection. This condition is characterised by the accumulation of mucus or clear fluid in a closed sac-like structure that forms on (or from) one of the Bartholin glands or its ducts. This condition is commonly asymptomatic, but may become painful if the cyst becomes enlarged or infected.
+
+GA03.Y	Other specified diseases of Bartholin gland
+
+GA03.Z	Diseases of Bartholin gland, unspecified
+
+  GA04  	Cervicitis
+Coded Elsewhere:	Tuberculosis of cervix uteri (1B12.5)
+
+  GA05  	Female pelvic inflammatory diseases
+Coded Elsewhere:	Postprocedural acute female pelvic inflammatory disease (GC78)
+Secondary syphilitic female pelvic inflammatory disease (1A61.4)
+
+GA05.0	Acute female pelvic inflammatory disease
+Coded Elsewhere:	Tuberculous female pelvic inflammatory disease (1B12.5)
+
+GA05.1	Chronic pelvic inflammatory disease
+Coded Elsewhere:	Chlamydial female pelvic inflammatory disease (1A81.1)
+
+GA05.2	Female pelvic peritonitis, unspecified
+This is an inflammation of the peritoneum, the thin tissue that lines the inner wall of the abdomen and covers most of the abdominal organs, unspecified.
+
+GA05.3	Tuboovarian abscess
+End-stage process of acute PID, marked by pelvic mass palpable during bimanual examination. Usually bilateral but can be unilateral,
+
+GA05.Y	Other specified female pelvic inflammatory diseases
+
+GA05.Z	Female pelvic inflammatory diseases, unspecified
+
+  GA06  	Pelvic peritoneal adhesions of unknown or combined origin
+A condition characterised by fibrous bands of scar tissue and abnormal connection between pelvic organs or tissues. This condition may also present with pelvic pain or bowel obstruction.
+
+  GA07  	Salpingitis and oophoritis
+Inflammation of the fallopian tube, characterised by a typical inflammatory response (redness and oedema). It is usually manifested by lower abdominal pain and tenderness, fever, increased pulse rate, hypermenorrhoea and/or metrorrhagia. The disorder may resolve or result in fibrosis, hydrosalpinx, pyosalpinx, or cyst formation.
+Inclusions:	salpingo-oophoritis
+tubo-ovarian inflammatory disease
+Coded Elsewhere:	Tuberculous oophoritis or salpingitis (1B12.5)
+Chlamydial salpingitis (1A81.1)
+
+GA07.0	Acute salpingitis and oophoritis
+Coded Elsewhere:	Acute gonococcal salpingitis (1A71)
+
+GA07.1	Chronic salpingitis and oophoritis
+Coded Elsewhere:	Chronic gonococcal salpingitis (1A71)
+
+GA07.Z	Salpingitis and oophoritis, unspecified
+
+  GA0Z  	Inflammatory disorders of the female genital tract, unspecified
+
+Noninflammatory disorders of female genital tract (BlockL2‑GA1)
+Any disorder of the female genital tract, characterised by pathological changes, leading to noninflammatory effects.
+Coded Elsewhere:	Congenital abnormalities of vulva or perineum
+Congenital abnormalities of vagina
+Congenital abnormalities of cervix uteri
+Congenital abnormalities of uterus, except cervix
+Congenital abnormalities of fallopian tube
+Congenital abnormalities of ovary
+Congenital abnormalities of broad ligament
+  GA10  	Endometriosis
+A condition of the uterus that is frequently idiopathic. This condition is characterised by ectopic growth and function of endometrial tissue outside the uterine cavity. This condition may be associated with remaining vestigial tissue from the wolffian or mullerian duct, or fragments endometrium refluxed backward into the peritoneal cavity during menstruation. This condition may also present with dysmenorrhoea, dyspareunia, nonmenstrual pelvic pain, infertility, alteration of menses, or may be asymptomatic. Confirmation is by laparoscopy and histological identification of ectopic fragments.
+
+GA10.0	Superficial endometriosis of pelvic peritoneum
+A condition that is frequently idiopathic. This condition is characterised by ectopic growth and function of endometrial tissue extending 5 millimetres or less under the visceral or parietal pelvic peritoneal surface and appearing as black-brown or light red-orange lesions. This condition may be associated with remaining vestigial tissue from the wolffian or mullerian duct, or fragments endometrium refluxed backward into the peritoneal cavity during menstruation. This condition may also present with dysmenorrhoea, dyspareunia, nonmenstrual pelvic pain, infertility, alteration of menses, or may be asymptomatic. Confirmation is by laparoscopy and histological identification of ectopic fragments.
+
+GA10.1	Peritoneal pockets
+Peritoneal pockets usually observed in the cul-de-sac, may occur in other parts of the female pelvis, also known as Allen-Masters defect. Can be asymptomatic or harbour microscopic endometriosis.
+
+GA10.2	Superficial ovarian endometriosis
+Endometriosis on the ovarian cortex, containing typical or subtle lesions.
+
+GA10.3	Deep ovarian endometriosis
+Ovarian endometriosis cyst containing dark stained blood (chocolate fluid) and lined by a pseudocyst wall covered by ectopic endometrium. This cyst can be subdivided according to its size in the following categories: less than 1 cm, 1-3 cm, > 3 cm
+
+GA10.4	Deep endometriosis
+A condition that is commonly idiopathic. This condition is characterised by ectopic growth and function of endometrial tissue extending more than 5 millimetres under the peritoneal surface. This condition may be associated with remaining vestigial tissue from the wolffian or mullerian duct, or fragments of endometrium refluxed backward into the peritoneal cavity during menstruation, or may be idiopathic. This condition may also present with dysmenorrhoea, dyspareunia, nonmenstrual pelvic pain, infertility, alteration of menses, or may be asymptomatic. Confirmation is by laparoscopy and histological identification of ectopic fragments.
+Coded Elsewhere:	Deep ovarian endometriosis (GA10.3)
+
+GA10.5	Endometriosis of fallopian tube
+
+GA10.6	Endometriosis in cutaneous scar
+
+GA10.7	Endometriosis of intestine
+Endometriosis situated inside the bowel wall at or below the subserosal level, excluding superficial serosal lesions that are still classified as peritoneal endometriosis. Mostly affecting rectosigmoid area, but can be found also in other parts of the bowel system.
+
+GA10.8	Thoracic endometriosis
+Thoracic endometriosis lesions can affect the diaphragm, pleura, lung and bronchi. There may be a greater affinity for the right hemi thorax, and the parenchyma is more commonly affected in the lower lobes. Macroscopically, the endometriotic implants appear as brown–yellow and sometimes red nodules surrounded by neovascularization. Symptoms include: dyspnea, shortness of breath, rapid heartbeat, coughing up blood and a variety of pain patterns to include scapula, chest, ipsilateral neck and shoulder, upper abdominal and epigastric. Thoracic endometriosis may present with catamenial pneumothorax (recurrent pneumothorax occurring within 72 hours of menstruation), haemoptysis in case of bronchial location, haemothorax, pericardial effusions. A diagnosis of thoracic endometriosis is simple when both endometrial stroma and gland are present. In cases of endometriosis with stroma only, a further classification of “aggregated pattern”, in which immunohistochemistry is ER-, PR- and CD10-positive might be necessary for diagnosis.
+
+GA10.9	Salpingitis isthmica nodosa
+A condition of the fallopian tube caused by infection or inflammation. This condition is characterised by bilateral, nodular thickening of the isthmic and proximal ampullary tunica muscularis. This condition may also present with infertility or ectopic pregnancy. Confirmation is by imaging.
+
+GA10.A	Endometriosis-related adhesions
+
+GA10.Y	Endometriosis of other specified sites
+
+GA10.Z	Endometriosis, unspecified
+
+  GA11  	Adenomyosis
+A condition of the uterus characterised by endometrial tissue growth in the myometrium, hypertrophy of the myometrium, and heavy or prolonged menstrual bleeding, dysmenorrhoea, dyspareunia, bleeding between menstruation, infertility, or is asymptomatic. Confirmation is by histopathology or ultrasound.
+Exclusions:	Leiomyoma of uterus (2E86.0)
+
+  GA12  	Dyspareunia
+A symptom of the genital system affecting females, caused by physical determinants. This symptom is characterised by recurrent genital pain or discomfort that occurs before, during, or after sexual intercourse, or superficial or deep vaginal penetration that is related to an identifiable physical cause, not including lack of lubrication. Confirmation is by medical assessment of physical causes.
+Exclusions:	Sexual pain-penetration disorder (HA20)
+
+  GA13  	Acquired abnormalities of vulva or perineum
+Any condition of the vulva and perineum, caused by determinants arising after birth. These conditions are characterised by a malfunction, malformation, or another anomaly of the vulva and perineum.
+Coded Elsewhere:	Vulvar intraepithelial neoplasia, grade I, usual type, HPV-associated (2F33.0)
+
+GA13.0	Polyp of vulva
+
+GA13.1	Vulvar intraepithelial neoplasia, not otherwise specified
+A condition of the vulva, characterised by lesion of the squamous vulvar intraepithelial cells, leading to unspecified grade or severity of dysplasia and varying degrees of atypia of the cells. This condition is associated with smoking and immunosuppression, or conditions such as human papillomavirus, chronic vulvar irritation, or herpes simplex virus type 2. Confirmation is by tissue biopsy.
+Exclusions:	Vulvar intraepithelial neoplasia grade II-III (2E67.10)
+
+GA13.2	Hypertrophy of vulva
+A condition of the vulva that is frequently idiopathic. This condition is characterised by enlargement or thickening of the tissues of all or part of the female external genitalia, such as the clitoris, labia, vestibule, or glands. This condition may also present with a patchy white discolouration, itching, pain or burning of the skin.
+
+GA13.3	Vulvar cyst
+Closed, fluid filled sac located on or in the vulvar tissue.
+
+GA13.4	Labial agglutination
+Sign of agglutination of labia minora and/or majora as a result of chronic vulvar inflammation from any cause, usually observed in prepubertal girls.
+
+GA13.5	Skene duct cyst
+Cystic dilations of the Skene glands, typically located adjacent to the urethral meatus within the vulvar vestibule. Mostly small and often asymptomatic, they may enlarge urinary obstruction, requiring excision.
+
+GA13.6	Vulvar laceration
+An injury to the vulva, caused by trauma due to childbirth, sexual abuse, or forceful impact. This injury is characterised by tearing of the skin, muscle, or other tissue in the vulvar area.
+
+GA13.7	Vulvar haematoma
+An injury to the vulvar branches of the internal pudendal or inferior rectal arteries, caused by rupture and trauma due to childbirth, sexual abuse, or forceful impact. This injury is characterised by a localised collection of extravasated blood vessels and significant bruising. This injury may also present with an inability to urinate.
+
+GA13.Y	Other specified acquired abnormalities of vulva or perineum
+
+GA13.Z	Acquired abnormalities of vulva or perineum, unspecified
+
+  GA14  	Acquired abnormalities of vagina
+Any condition of the vagina, caused by determinants arising after birth. These conditions are characterised by pathological changes to the vagina.
+Coded Elsewhere:	Postoperative adhesions of vagina (GC70)
+Prolapse of vaginal vault after hysterectomy (GC71)
+Vaginal intraepithelial neoplasia grade I (2F33.1)
+Vaginal intraepithelial neoplasia grade II (2E67.20)
+Vaginal intraepithelial neoplasia grade III (2E67.21)
+
+GA14.0	Polyp of vagina
+
+GA14.1	Haematocolpos
+A condition of the vagina, caused by an outflow vaginal obstruction. This condition is characterised by the presence of blood in the vagina.
+
+GA14.2	Vaginal foreign body
+A condition of the vagina, caused by foreign bodies lodged into the vaginal canal. This condition is characterised by vaginitis, vaginal bleeding, foul-smelling and purulent vaginal discharge, abdominal pain, and supra-pubic pain. This condition may also present with dysuria or infection.
+
+GA14.3	Vaginal haematoma
+A condition of the vagina, caused by trauma, commonly subsequent to childbirth, sexual abuse, or forceful impact. This condition is characterised by a localised collection of extravasated blood vessels and significant bruising. This condition may also present with pain, swelling, ecchymosis and urinary retention.
+
+GA14.5	Leukoplakia of vagina
+A condition of the vagina, caused by hyperkeratinisation of epithelial cells due to human papillomavirus (HPV) infection, chronic trauma, radiotherapy, or premalignant/ malignant lesions. This condition is characterised by white, whitish yellow, or grey plaque on the mucosal surfaces in the vagina.
+
+GA14.Y	Other specified acquired abnormalities of vagina
+
+GA14.Z	Acquired abnormalities of vagina, unspecified
+
+  GA15  	Acquired abnormalities of cervix uteri
+
+GA15.0	Polyp of cervix uteri
+
+GA15.1	Erosion or ectropion of cervix uteri
+A condition of the cervix uteri, caused by an increase in the total estrogen level in the body. This condition is characterised by protrusion and transformation of the endocervical columnar epithelium to stratified squamous epithelium on the cervix uteri. This condition may also present with non-purulent vaginal discharge, post-coital bleeding, or may be asymptomatic.
+Exclusions:	Cervicitis (GA04)
+
+GA15.2	Nabothian cyst
+
+GA15.3	Old laceration of cervix uteri
+An injury of the cervix, caused by trauma subsequent to procedures that lacerate the cervix, such as vaginal delivery, induced abortion, or surgery. This condition is characterised by tearing of the cervix uteri tissue.
+Exclusions:	Perineal laceration during delivery (JB09)
+
+GA15.4	Stricture or stenosis of cervix uteri
+A condition of the cervix uteri, caused by inflammation, trauma, scarring, or atrophy. This condition is characterised by narrowing of the cervical ostium.
+Exclusions:	Obstructed labour due to abnormality of maternal pelvic organs (JB05.5)
+
+GA15.5	Hypertrophic elongation of cervix uteri
+A condition of the cervix uteri, caused by uterine prolapse. This condition is characterised by hypertrophy, hyperplasia, elongation or strain to the vaginal or supravaginal parts of the cervix uteri. This condition may also present with dyspareunia or infertility. Confirmation is by pelvic examination to differentiate between vaginal or supravaginal elongation.
+
+GA15.6	Incompetence of cervix uteri
+A condition of the cervix uteri, caused by the weakness of the cervical tissue and intrauterine pressure as pregnancy progresses. This condition is characterised by dilation and effacement of the cervix before reaching a term pregnancy. This condition may lead to a miscarriage during the second trimester, or an early preterm birth during the third trimester.
+Exclusions:	Fetus or newborn affected by incompetence of cervix uteri (KA01.0)
+Maternal care for cervical incompetence (JA84.3)
+
+GA15.7	Dysplasia of cervix uteri
+A condition of the cervix uteri caused by chronic infection. This condition is characterised by premalignant transformation and abnormal cell growth and behaviour of the cervical squamous epithelial tissue.
+Exclusions:	Carcinoma in situ of cervix uteri (2E66)
+Coded Elsewhere:	Cervical Intraepithelial neoplasia grade I (2F31.00)
+Cervical intraepithelial neoplasia grade II (2E66.0)
+Cervical intraepithelial neoplasia grade III (2E66.1)
+
+GA15.Y	Other specified acquired abnormalities of cervix uteri
+
+GA15.Z	Acquired abnormalities of cervix uteri, unspecified
+
+  GA16  	Acquired abnormalities of uterus, except cervix
+Any condition of the uterus, caused by determinants arising after birth. These conditions are characterised by a malfunction, malformation, or another anomaly of the uterus (excluding the cervix).
+Coded Elsewhere:	Adenomyosis (GA11)
+Leiomyoma of uterus (2E86.0)
+Acquired absence of the uterus (QF01.10)
+
+GA16.0	Endometrial glandular hyperplasia
+A condition of the uterus, caused by chronic, excess oestrogen stimulation due to obesity, anovulation, or oestrogen therapy. This condition is characterised by excessive proliferation of the endometrial gland cells and a greater gland-to-stroma ratio of endometrial cells. This condition may also present with abnormal uterine bleeding, particularly among postmenopausal women and premenopausal women of increasing age. Confirmation is by sampling endometrial tissue through biopsy or dilation and curettage.
+
+GA16.1	Malposition of uterus
+A condition of the uterus, caused by weakened pelvic ligaments, enlargement of the uterus, scarred pelvic tissue from pregnancy, tumour, menopause, endometriosis, inflammation, or salpingitis. This condition is characterised by a deviation in the position of the uterus from normal.
+Exclusions:	Obstructed labour due to abnormality of maternal pelvic organs (JB05.5)
+Maternal care for other abnormalities of pelvic organs (JA84)
+
+GA16.2	Intrauterine synechiae
+Intrauterine adhesions caused by pelvic inflammatory disease, uterine surgery, or complications related to spontaneous, incomplete or induced abortion. May be asymptomatic or associated with amenorrhea or light menstrual bleeding and subfertility.
+
+GA16.3	Haematometra
+Presence of blood clots inside the uterus, usually caused by a uterine outflow obstruction.
+Exclusions:	haematometra with haematocolpos (GA14.1)
+
+GA16.Y	Other specified acquired abnormalities of uterus, except cervix
+
+GA16.Z	Acquired abnormalities of uterus, except cervix, unspecified
+
+  GA17  	Acquired abnormalities of fallopian tube
+A condition of the fallopian tube, caused by determinants arising after birth. This condition is characterised by a malfunction, malformation, or another anomaly.
+
+GA17.0	Acquired parafimbrial cyst of the fallopian tube
+Cyst located on the fallopian tube at the outside of the fimbrial end.
+
+GA17.1	Fimbrial agglutination
+Agglutination of fimbriae in the presence of an open or closed fallopian tube
+
+GA17.2	Hydrosalpinx
+A condition of the fallopian tube, caused by a distal occlusion and the release of purulent material following infection. This condition is characterised by the presence of fluid inside the fallopian tube, and pelvic pressure, pelvic pain, or dyspareunia.
+
+GA17.3	Haematosalpinx
+A condition of the Fallopian tube, caused by tubal pregnancy, endometriosis, tubal carcinoma, or cryptomenorrhoea. This condition is characterised by bleeding and the presence of blood clots inside the Fallopian tubes, and pelvic pain or uterine bleeding. Confirmation is by imaging.
+Exclusions:	haematosalpinx with haematocolpos (GA14.1)
+haematosalpinx with haematometra (GA16.3)
+
+GA17.Y	Other specified acquired abnormalities of fallopian tube
+
+GA17.Z	Acquired abnormalities of fallopian tube, unspecified
+
+  GA18  	Acquired abnormalities of ovary
+Any condition of the ovary, caused by determinants arising after birth. These conditions are characterised by a malfunction, malformation, or another anomaly of the ovary.
+Coded Elsewhere:	Polycystic ovary (5A80.2)
+Cystic teratoma (2F32.0)
+Ovarian fibroma (2F32.1)
+Meigs' Syndrome (2F32.2)
+Serous ovarian cystadenoma (2F32.3)
+
+GA18.0	Follicular cyst of ovary
+A condition of the ovary, caused by a follicular growth or involution due to failure of ovulation. This condition is characterised by the non-neoplastic formation of closed sac-like structures filled with fluid on or in the ovary and lined by layers of granulosa cells. This condition is commonly asymptomatic, but may also present with pelvic pain, irregular menstrual bleeding, dyspareunia, nausea, vomiting, or urgency to urinate. Confirmation is by imaging.
+Inclusions:	Cyst of graafian follicle
+
+GA18.1	Corpus luteum cyst
+A condition affecting females, caused by the expansion of the corpus luteum with air, blood, or fluid in the ovary after ovulation of a follicle. This condition is characterised by a mass of up to 10 cm in diameter. This condition may also present with pelvic or abdominal pain, haemorrhage, or ovarian torsion.
+
+GA18.2	Theca lutein cyst
+Least common of functional ovarian cysts, usually bilateral and coexistent with pregnancy, including molar pregnancies. May be quite large (up to 30 cm), are multicystic and disappear spontaneously.
+
+GA18.4	Para ovarian cyst
+
+GA18.5	Torsion of ovary, ovarian pedicle or fallopian tube
+A condition of the ovary, ovarian pedicle, and fallopian tube, caused by a benign ovarian cyst or ovarian hyperstimulation. This condition is characterised by the partial or complete rotation of the ovarian vascular pedicle and abdominal pain. Confirmation is by imaging.
+
+GA18.6	Other or unspecified ovarian cysts
+Any collection of fluid, surrounded by a very thin wall, within an ovary, which is not classified elsewhere. This includes any ovarian follicle that is larger than about two centimetres in diameter.
+Exclusions:	Polycystic ovary syndrome (5A80.1)
+ovarian cyst: developmental (LB45.2)
+ovarian cyst: neoplastic (2C73)
+
+GA18.7	Acquired atrophy of ovary or fallopian tube
+A condition of the ovary and Fallopian tube, caused by determinants such as infection, chemotherapy or radiation therapy, or shock, arising after birth. This condition is characterised by the partial or complete decrease in size and function of the ovary and the Fallopian tube, premature menopause, fatigue, irregular menstruation, weight gain, and irritability. Confirmation is by identification of elevated levels of oestrogen and follicle stimulating hormone levels in a blood sample.
+
+GA18.Y	Other specified acquired abnormalities of ovary
+
+GA18.Z	Acquired abnormalities of ovary, unspecified
+
+  GA19  	Acquired abnormalities of broad ligament
+Coded Elsewhere:	Postprocedural pelvic peritoneal adhesions (GC73)
+
+GA19.0	Haematoma of broad ligament
+A condition affecting females, caused by childbirth, trauma, or surgery. This condition is characterised by a tear in the upper vagina, cervix, or uterus that extends into uterine or vaginal arteries, bleeding (although not always with obvious vaginal bleeding), back pain, pressure in the rectoanal area, dizziness, hypotension, or anaemia. Confirmation is by rectovaginal exam to rule out clotting and expansion of haematoma.
+
+GA19.Y	Other specified acquired abnormalities of broad ligament
+
+GA19.Z	Acquired abnormalities of broad ligament, unspecified
+
+  GA1Y  	Other specified noninflammatory disorders of female genital tract
+
+  GA1Z  	Noninflammatory disorders of female genital tract, unspecified
+
+Abnormal uterine or vaginal bleeding (BlockL2‑GA2)
+A condition of the genital system, caused by hormonal disturbances, weight changes, neoplasms, or use of pharmacological agents. This condition is characterised by irregular or excessive shedding of the uterine lining, or vaginal bleeding during or between menstrual cycles.
+Exclusions:	pseudomenses (KA83.9)
+neonatal vaginal haemorrhage (KA83.9)
+Coded Elsewhere:	Postmenopausal uterine bleeding (GA30.1)
+  GA20  	Menstrual cycle bleeding disorders
+
+GA20.0	Amenorrhoea
+A condition of the genital system, caused by hormonal or endocrine disturbances, absence of the uterus, pregnancy, lactation, abnormalities of the genital outflow tract, or failure of the ovaries to retain egg cells during the antenatal period. This condition is characterised by the absence of menstruation by age 16, or the termination of an established menstruation cycle for more than 3-9 months.
+Exclusions:	Ovarian dysfunction (5A80)
+Coded Elsewhere:	Amenorrhoea related to obstetric fistula (GC04.1Y)
+
+GA20.00	Primary amenorrhoea
+No menses by age 14 in the absence of growth or development of secondary sexual characteristics ; OR; no menses by age 16 regardless of the presence of normal growth and development of secondary sexual characteristics
+Coded Elsewhere:	46,XX gonadal dysgenesis (LB45.1)
+
+GA20.01	Secondary amenorrhoea
+In women who have menstruated previously, no menses for an interval of time equivalent to a total of at least 3 previous cycles, or 6 months
+Coding Note:	Code aslo the causing condition
+
+GA20.02	Lactational amenorrhoea
+A condition of the genital system affecting females, caused by hormonal disturbances associated with lactation. This condition is characterised by the termination of an established menstruation cycle for more than 3-9 months.
+
+GA20.0Y	Other specified amenorrhoea
+
+GA20.0Z	Amenorrhoea, unspecified
+
+GA20.1	Abnormal frequency of uterine bleeding
+Any condition of the genital system affecting females, caused by hormonal disturbances. These conditions are characterised by menstrual bleeding episodes that occur with increased frequency or are delayed over several menstrual cycles (within 90 days).
+
+GA20.10	Frequent menstrual bleeding
+A condition of the genital system affecting females, caused by hormonal change due to pharmacologic or nonpharmacologic agents. This condition is characterised by menstrual bleeding episodes that occur with increased frequency over several menstrual cycles (more than four episodes within 90 days).
+
+GA20.11	Infrequent menstrual bleeding
+Menstruation with a frequency of 39 days or more
+
+GA20.1Z	Abnormal frequency of uterine bleeding, unspecified
+
+GA20.2	Ovulation bleeding
+A condition of the genital system affecting females, caused by natural and routine fluctuations in endocrine hormones. This condition is characterised by recurrent and cyclic bleeding of the uterine lining, occurring during the peri-ovulatory period.
+
+GA20.20	Intermenstrual bleeding
+A condition of the genital system affecting females, caused by a hormonal imbalance, use of an intrauterine device, pregnancy complications, uterine fibroids or polyps, infection, or cancer. This condition is characterised by vaginal bleeding between menstrual periods.
+
+GA20.2Y	Other specified ovulation bleeding
+
+GA20.2Z	Ovulation bleeding, unspecified
+
+GA20.3	Abnormal regularity of uterine bleeding
+A condition of the genital system affecting females, caused by hormonal disturbances. This condition is characterised by abnormal menstruation, with a between cycle variation of 2-20 days.
+
+GA20.4	Abnormal duration of uterine bleeding
+
+GA20.5	Abnormal volume of uterine bleeding
+
+GA20.50	Heavy menstrual bleeding
+Menstruation with heavy (> 80 ml) volume of monthly blood loss
+
+GA20.51	Light menstrual bleeding
+Menstruation with light (< 5 ml) volume of monthly blood loss
+
+GA20.5Z	Abnormal volume of uterine bleeding, unspecified
+
+GA20.Y	Other specified menstrual cycle bleeding disorders
+
+GA20.Z	Menstrual cycle bleeding disorders, unspecified
+
+  GA21  	Nonmenstrual bleeding disorders
+Coded Elsewhere:	Postprocedural nonmenstrual uterine bleeding (GC77)
+
+GA21.0	Postcoital or contact bleeding
+A condition of the genital system, caused by infection, cervical ectropion, cervical or endometrial polyps, cancer, or trauma to the cervix or vagina. This condition is characterised by non-menstrual bleeding after sexual intercourse. Confirmation is by transvaginal imaging to identify any structural abnormalities.
+
+GA21.Y	Other specified nonmenstrual bleeding disorders
+
+GA21.Z	Nonmenstrual bleeding disorders, unspecified
+
+  GA22  	Excessive menstruation with irregular cycle
+Inclusions:	Menometrorrhagia
+
+  GA23  	Anovulatory bleeding
+
+  GA2Y  	Other specified abnormal uterine or vaginal bleeding
+
+  GA2Z  	Abnormal uterine or vaginal bleeding, unspecified
+
+  GA30  	Menopausal or certain specified perimenopausal disorders
+Any disorder affecting females, characterised by pathological changes during the menopausal and perimenopausal periods.
+Coded Elsewhere:	Postprocedural ovarian failure (5D44)
+Menopausal symptom or complaint (MF32)
+
+GA30.0	Menopause
+A condition affecting females, caused by the loss of ovarian follicular function and decline in circulating blood oestrogen levels. This condition is characterised by the cessation of menstruation, hot flushes, atrophic genital changes, psychophysiological effects, and bone loss. Confirmation is by taking a patient history to determine psychophysiological effects such as the presence of amenorrhoea, and identification of hypooestrogenaemia and elevated serum FSH levels in a blood sample.
+Coded Elsewhere:	Contact with health services for menopausal counselling (QA4B)
+
+GA30.00	Menopausal or female climacteric states
+Any condition of the genital system affecting females, caused by pathological changes associated with the perimenopausal period, such as the permanent cessation of menstruation and infertility.
+Coding Note:	Includes: Symptoms such as flushing, sleeplessness, headache, lack of concentration, associated with menopause
+Exclusions:	States associated with artificial menopause (GA30.3)
+
+GA30.01	Menopausal transition
+A condition affecting females, caused by gradual loss of ovarian follicular function and decline in circulating blood estrogen levels. This condition is characterised by infrequent or irregular menstrual bleeding, alterations in the functioning of the ovary, and gradual atrophic genital changes, psychophysiological effects. Confirmation is by taking a patient history to determine psychophysiological effects.
+
+GA30.02	Excessive bleeding in the premenopausal period
+aka ""menorrhagia"", excessive uterine bleeding during MENSTRUATION
+
+GA30.0Y	Other specified menopause
+
+GA30.0Z	Menopause, unspecified
+
+GA30.1	Postmenopausal uterine bleeding
+A condition of the genital system, caused by polyps, endometrial atrophy, hyperplasia, or cancer. This condition is characterised by abnormal uterine bleeding subsequent to the completion of menopause.
+Exclusions:	that associated with artificial menopause (GA30.3)
+
+GA30.2	Postmenopausal atrophic vaginitis
+A condition of the vagina, caused by decreased oestrogen levels during the menopausal period. This condition is characterised by inflammation of the vagina and outer urinary tract, thinning and drying of the vaginal tissues, decreased lubrication, vaginal burning or dryness, shortening and tightening of the vaginal canal, or urinary incontinence after menopause.
+Exclusions:	States associated with artificial menopause (GA30.3)
+
+GA30.3	States associated with artificial menopause
+Any condition caused by the artificial cessation of menstruation induced by surgical or pharmacological effects.
+
+GA30.4	Menopausal hot flush
+A condition affecting females, caused by hormonal changes associated with menopause. This condition is characterised by recurrent and transient periods of flushing, sweating, and a systemic sensation of heat. This condition may also present with palpitations, anxiety, or periods of heat followed by chills.
+
+GA30.5	Menopausal osteoporosis
+
+GA30.6	Premature ovarian failure
+Menopause occurring spontaneously before 40 years of age, generally resulting in secondary amenorrhea although some women may exhibit intermittent ovarian function and ovulation, with a minority conceiving and delivering a pregnancy. POF/POI occurs mostly without a known cause, but can be caused by the following conditions: numerical and structural chromosomal abnormalities, Fragile X (FMR1) premutations, autoimmune disorders, radiation therapy, chemotherapy, galactosemia, and other rare enzyme defects or mutations. To be subdivided in 4 categories according to cause: congenital, acquired, iatrogenic and unknown
+Exclusions:	Isolated gonadotropin deficiency (5A61.0)
+Postprocedural ovarian failure (5D44)
+Coded Elsewhere:	Primary amenorrhoea (GA20.00)
+Secondary amenorrhoea (GA20.01)
+
+GA30.Y	Other specified menopausal and perimenopausal disorders
+
+GA30.Z	Menopausal and perimenopausal disorders, unspecified
+
+  GA31  	Female infertility
+Disease of the reproductive system defined by the failure to achieve a clinical pregnancy after 12 months or more of regular unprotected sexual intercourse.
+Inclusions:	inability to achieve a pregnancy
+Exclusions:	relative infertility (GA33)
+Male infertility (GB04)
+Coded Elsewhere:	Contact with health services for preconception counselling (QA33)
+Contact with health services for fertility preservation counselling (QA34)
+Contact with health services by gestational carrier (QA35)
+Female hypofertility in classical cystic fibrosis (CA25.0)
+Female hypofertility in atypical cystic fibrosis (CA25.1)
+Contact with health services for preimplantation genetic diagnosis (QA3Y)
+Contact with health services for preimplantation genetic screening (QA3Y)
+
+GA31.0	Primary female infertility
+Infertility in a woman who has never had a clinical pregnancy
+
+GA31.00	Primary female infertility of uterine origin
+Female infertility caused by uterine abnormalities on the level of the endometrium or myometrium, with more detailed description classified elsewhere, i.e. under genitourinary infections, STDs and noninflammatory benign gynaecological disease
+Coding Note:	Code aslo the causing condition
+
+GA31.01	Primary female infertility of tubal origin
+Female infertility caused by dysfunction of one or both fallopian tubes, usually related to pelvic adhesions or occurring after pelvic surgery, with or without hydrosalpinx
+Coding Note:	Code aslo the causing condition
+
+GA31.0Y	Primary female infertility of other specified origin
+
+GA31.0Z	Primary female infertility of unspecified origin
+
+GA31.1	Secondary female infertility
+Infertility in a woman who has had at least one clinical pregnancy
+
+GA31.10	Secondary female infertility of uterine origin
+
+GA31.11	Secondary female infertility of tubal origin
+
+GA31.1Y	Secondary female infertility of other specified origin
+
+GA31.1Z	Secondary female infertility of unspecified origin
+
+GA31.Z	Female infertility without specification whether primary or secondary
+
+  GA32  	Complications associated with medically assisted reproduction
+Any complication caused by or subsequent to any intervention used to achieve pregnancy by artificial or partially artificial means.
+
+GA32.0	Ovarian hyperstimulation syndrome
+A disease of the endocrine system, caused by elevated human chorionic gonadotropin hormone, commonly after the use of injectable fertility treatments. This disease is characterised by ovarian enlargement, and hemodynamic or metabolic complications. This disease may also present with abdominal pain, abdominal bloating, or weight gain depending on graded symptoms.
+Inclusions:	Hyperstimulation of ovaries associated with induced ovulation
+
+GA32.1	Bleeding after egg retrieval
+Significant bleeding after egg retrieval requiring hospitalization for blood transfusion, surgical intervention, clinical observation or other medical procedure
+
+GA32.2	Infection associated with medically assisted reproduction
+Significant genital or pelvic infection occurring after egg retrieval or other treatment with medically assisted reproduction
+
+GA32.3	Complications of attempted embryo transfer or medically assisted insemination
+Any complication caused by or subsequent to any attempted embryo transfer or medically assisted sperm insemination procedure.
+
+GA32.Y	Other specified complications associated with medically assisted reproduction
+
+GA32.Z	Complications associated with medically assisted reproduction, unspecified
+
+  GA33  	Recurrent pregnancy loss
+Exclusions:	currently pregnant (Chapter 18)
+with current abortion (BlockL1‑JA0)
+
+  GA34  	Female pelvic pain associated with genital organs or menstrual cycle
+A symptom affecting females, characterised by pain in the pelvic region associated with any of the genital organs or the menstrual cycle.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+Coded Elsewhere:	Interstitial cystitis (GC00.3)
+
+GA34.0	Pain related to vulva, vagina or pelvic floor
+A condition affecting females, characterised by any type of pain associated with the vulva, vagina, and pelvic floor tissues, either during sexual intercourse, physical activity, or rest.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.00	Vulval pain
+A symptom of vulval pain affecting females, caused by trauma, infection, injury, inflammation, or hypersensitivity of the nerve fibres. This symptom is characterised by any type of pain in the vulva, during sexual intercourse, physical activity, or rest.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.01	Perineal pain
+A symptom of perineal pain affecting females, caused by trauma, infection, injury, inflammation, or hypersensitivity of the nerve fibres. This symptom is characterised by any type of pain in the area between the posterior lip of the vaginal introitus and the anus, during sexual intercourse, physical activity, or rest.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.02	Vulvodynia
+Vulvodynia describes a chronic sensation of pain, burning or rawness of vulval skin which cannot be ascribed to any specific cause and persists for at least three months. Symptoms may be diffuse and unprovoked (dysaesthetic vulvodynia) or localised, usually to the vulval vestibule, and provoked by touch (vestibulodynia). Dysaesthetic vulvodynia characteristically occurs in postmenopausal women who are often not sexually active: pain is spontaneous and often occurs independently of touch. Vestibulodynia occurs typically in younger women and is characterised by vestibular tenderness to touch, erythema of the vestibular epithelium and secondary dyspareunia.
+
+GA34.0Y	Other specified pain related to vulva, vagina or pelvic floor
+
+GA34.0Z	Pain related to vulva, vagina or pelvic floor, unspecified
+
+GA34.1	Vaginal laxity
+
+GA34.2	Female pelvic pain
+Pain in the pelvic region in a female associated with any of the genital organs or the menstrual cycle.
+Exclusions:	Pain related to vulva, vagina or pelvic floor (GA34.0)
+Pelvic or perineal pain (MD81.11)
+Bladder pain (MF52)
+Chronic primary bladder pain syndrome (MG30.00)
+Sexual pain-penetration disorder (HA20)
+Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+Coded Elsewhere:	Vulvodynia (GA34.02)
+Chronic pelvic pain in females (MG30.00)
+
+GA34.20	Cyclic pelvic pain
+A symptom affecting females, caused by gynaecological and physiological aspects associated with the menstrual cycle such as dysmenorrhoea or mittelschmertz. This symptom is characterised by recurrent pain in the pelvis, anterior abdominal wall, lower back, or buttocks, associated with a specific moment or period of time.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.21	Noncyclic pelvic pain
+A symptom affecting females, caused by gynaecological and physiological aspects not associated with the menstrual cycle. This symptom is characterised by chronic pelvic pain in the pelvis, anterior abdominal wall, lower back, or buttocks, not associated with a specific moment or period of time.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.2Z	Female pelvic pain, unspecified
+
+GA34.3	Dysmenorrhoea
+A condition of the genital system affecting females, caused by endometriosis, adenomyosis, ovarian cysts, or may be idiopathic. This condition is characterised by cyclic pelvic pain preceding or accompanying menstruation that interferes with daily activities, lower, umbilical, or suprapubic abdominal pain, such as sharp, throbbing, burning, or shooting pains that may extend to the thighs and lower back.
+
+GA34.4	Premenstrual disturbances
+
+GA34.40	Premenstrual tension syndrome
+A syndrome affecting females that is frequently idiopathic. This syndrome is characterised by certain environmental, metabolic, or behavioural factors that occur during the luteal phase of the menstrual cycle, and leads to cyclic emotional, physical, or behavioural symptoms that interfere with an individual's lifestyle. Confirmation is by documentation of specific cyclic symptoms associated with the luteal and menstrual phases of the cycle (from a prospective symptom diary), and evidence of socioeconomic dysfunction.
+Exclusions:	Premenstrual dysphoric disorder (GA34.41)
+Coded Elsewhere:	Premenstrual symptom or complaint (MF33)
+
+GA34.41	Premenstrual dysphoric disorder
+During a majority of menstrual cycles within the past year, a pattern of mood symptoms (depressed mood, irritability), somatic symptoms (lethargy, joint pain, overeating), or cognitive symptoms (concentration difficulties, forgetfulness) that begin several days before the onset of menses, start to improve within a few days after the onset of menses, and then become minimal or absent within approximately 1 week following the onset of menses. The temporal relationship of the symptoms and luteal and menstrual phases of the cycle should ideally be confirmed by a prospective symptom diary over at least two symptomatic menstrual cycles. The symptoms are severe enough to cause significant distress or significant impairment in personal, family, social, educational, occupational or other important areas of functioning and do not represent the exacerbation of a mental disorder.
+Inclusions:	PMDD - [premenstrual dysphoric disorder]
+Exclusions:	Premenstrual tension syndrome (GA34.40)
+
+GA34.4Y	Other specified premenstrual disturbances
+
+GA34.4Z	Premenstrual disturbances, unspecified
+
+GA34.5	Ovarian remnant syndrome
+Chronic pelvic pain in a patient after bilateral salpingooophorectomy for severe endometriosis or PID, caused by residual ovarian cortical tissue left in situ after difficult dissection. Symptoms may include lateralizing pelvic pain, often cyclic and associated with genitourinary or gastrointestinal symptoms. Signs may include a tender mass in the lateral region of the pelvis.
+
+GA34.6	Female genital pain
+A symptom of genital pain affecting females that is idiopathic. This symptom is characterised by any type of pain in the genital area tissues, during sexual intercourse, physical activity, or rest.
+Exclusions:	Chronic primary visceral pain (MG30.00)
+Chronic secondary visceral pain (MG30.4)
+
+GA34.Y	Other specified female pelvic pain associated with genital organs or menstrual cycle
+
+GA34.Z	Female pelvic pain associated with genital organs or menstrual cycle, unspecified
+
+Dermatoses of female genitalia (BlockL2‑GA4)
+Coded Elsewhere:	Malignant neoplasms of vulva (2C70)
+Carcinoma in situ of vulva (2E67.1)
+  GA40  	Inflammatory dermatoses of the vulva
+Coded Elsewhere:	Dermatitis or eczema of female genitalia (EA87.1)
+Lichen sclerosus of vulva (EB60.0)
+Vulval psoriasis (EA90.53)
+
+  GA41  	Ulcerative or erosive disorders of the vulva
+Coded Elsewhere:	Genital ulcer of vulva (GA00.3)
+Herpes simplex infection of vulva (1A94.0)
+Erosive lichen planus of vulva or vagina (EA91.3)
+Ulceration of vulva due to Behçet disease (4A62)
+Vulval pemphigus (EB40.0Y)
+Mucous membrane pemphigoid of vulval mucosa (EB41.1)
+
+GA41.0	Vulval aphthosis
+Vulval aphthae are vulval ulcers not attributable to infection or other identifiable cause. They typically occur on the medial aspects of the labia minora in young females (second decade of life). They may be associated with fever and malaise or with oral aphthae.
+
+GA41.Y	Other specified ulcerative or erosive disorders of the vulva
+
+  GA42  	Sensory disturbance of the vulva
+Disorders characterised by vulval pruritus, dysaesthesia or pain.
+Coded Elsewhere:	Lichen simplex of vulva (EA83.00)
+Vulvodynia (GA34.02)
+
+GA42.0	Vulval pruritus
+Intense itching of the external female genitalia.
+
+  GA43  	Miscellaneous dermatoses of female genitalia
+Coded Elsewhere:	Vulval melanotic macule (ED61.11)
+Heterotopic sebaceous glands of vulva (ED91.0)
+
+  GA4Y  	Other specified dermatoses of female genitalia
+
+  GA6Y  	Other specified diseases of the female genital system
+
+  GA6Z  	Diseases of the female genital system, unspecified
+
+Diseases of the male genital system (BlockL1‑GA8)
+Any disease characterised by pathological changes to the male genital system.
+Coded Elsewhere:	Neoplasms of the male genital organs
+Ejaculatory dysfunctions (HA03)
+Problems of male genital organs (MF40)
+Penoscrotodynia (EC92.0)
+Structural developmental anomalies of the male genital system (LB50-LB5Z)
+Symptoms, signs or clinical findings involving the male genital system (MF40-MF4Y)
+Herpes simplex infection of genitalia or urogenital tract (1A94.0)
+Dermatoses of male genitalia (BlockL2‑GA8)
+Coded Elsewhere:	Inflammatory dermatoses affecting the penis or scrotum
+Premalignant or malignant disorders of the penis or scrotum
+Balanoposthitis (GB06.0)
+  GA80  	Ulcerative disorders of the penis or scrotum
+Coded Elsewhere:	Herpes simplex infection of penis (1A94.0)
+Mucous membrane pemphigoid of penile mucosa (EB41.1)
+Ulceration of penis or scrotum due to Behçet disease (4A62)
+Necrotising fasciitis of the scrotum, penis or perineum (1B71.1)
+Amoebiasis of penis (1A36.1Y)
+
+GA80.0	Aphthosis of penis or scrotum
+Genital aphthosis in men is a non-infective but often painful ulceration of penile, scrotal or perigenital skin. It may be associated with oral ulceration (orogenital aphthosis) or with Behçet disease but may occur on its own. Both genital and orogenital aphthosis may represent formes frustes of Behçet disease.
+Inclusions:	Penile or scrotal ulceration due to Behçet disease
+Genital aphthosis in the male
+
+GA80.1	Ulcer of penis of uncertain nature
+Exclusions:	Syphilitic chancre of penis (1A61.0)
+Penile chancroid (1A90)
+Herpetic ulcer of penis (1A94.0)
+Penile aphthosis (GA80.0)
+Ulceration of penis or scrotum due to Behçet disease (4A62)
+
+GA80.Y	Other specified ulcerative disorders of penis and scrotum
+
+  GA81  	Miscellaneous dermatoses of male genitalia
+Coded Elsewhere:	Lichen simplex of male genitalia (EA83.01)
+Penile melanotic macule (ED61.10)
+Heterotopic sebaceous glands of penis (ED91.0)
+Angiokeratoma of the scrotum (EF20.1)
+Burning scrotum (EC92.0)
+Genitoperineal median raphe cyst (LB5Y)
+
+GA81.0	Penoscrotal pruritus
+An intense itching sensation that produces the urge to rub or scratch the skin of the scrotum and/ or base of the penis to obtain relief.
+
+GA81.Y	Other specified dermatoses of male genitalia
+
+Diseases of prostate (BlockL2‑GA9)
+Coded Elsewhere:	Tuberculosis of prostate (1B12.5)
+  GA90  	Hyperplasia of prostate
+A condition of the prostate, caused by an increased rate of cellular division of the glandular and stromal cells. This condition is characterised by enlargement of the prostatic tissue, dysuria, urinary urgency, nocturia, weak urine stream, straining while urinating, incomplete bladder emptying during urination, or increased frequency of urinary tract infection.
+Inclusions:	Adenofibromatous hypertrophy of prostate
+Exclusions:	Benign neoplasms of prostate (2F34)
+
+  GA91  	Inflammatory and other diseases of prostate
+Any disease caused by obstruction of the prostate gland. These diseases are characterised by a build-up of secretions and inflammation of the prostate.
+Coded Elsewhere:	Gonococcal prostatitis (1A70.Y)
+Prostatitis due to Trichomonas vaginalis (1A92)
+
+GA91.0	Chronic prostatitis
+A condition caused by obstruction of the prostate glands. This condition is characterised by inflammation of the prostate gland, dysuria, pollakiuria, urinary urgency, genital pain, lower back pain, abdominal pain, and repeated bladder infections that last for at least three months.
+
+GA91.1	Abscess of prostate
+A condition caused by infection with the gram-negative bacteria Neisseria gonorrhoeae, Staphylococcus, or Escherichia coli, or the gram-positive bacteria Staphylococcus aureus or Mycobacterium tuberculosis. This condition is characterised by a focal accumulation of purulent material and neutrophils within or on the prostatic tissue, dysuria, fever, and suprapubic pain. Confirmation is by a transrectal ultrasound to identify size and location of abscess, and a urine sample to identify leukocytes.
+
+GA91.2	Prostatocystitis
+A condition characterised by inflammation of the bladder, bladder neck, prostate, and prostatic urethra.
+
+GA91.3	Calculus of prostate
+A condition characterised by a small, solid calcification commonly composed of calcium carbonate or calcium phosphate that is formed in the prostate. This condition may be associated with diabetes mellitus, infection, cancer, iatrogenic factors, or may be idiopathic. Confirmation is by imaging.
+Inclusions:	Prostatolithiasis
+
+GA91.4	Haemorrhage of the prostate
+A condition of the prostate, caused by ruptured vessel walls in the prostate. This condition is characterised by excessive loss of blood from the prostate.
+Inclusions:	Bleeding of prostate
+prostatic varicosis
+
+GA91.5	Atrophy of prostate
+A condition of the prostate, caused by apoptosis of the cells due to diminished cellular proliferation, decreased cellular volume, decreased function, ischemia, malnutrition, disease, mutation, or hormonal changes. This condition is characterised by a partial or complete decrease in size and function of the prostatic tissue.
+
+GA91.6	Dysplasia of prostate
+A condition of the prostate, caused by an alteration or mutation in cell growth, or prostatic epithelial cells that are dividing more rapidly than normal epithelium. This condition is characterised by premalignant transformation and abnormal development of the prostatic epithelial tissue.
+Inclusions:	Low grade prostatic intraepithelial neoplasia
+Exclusions:	high grade dysplasia of prostate (2E67.5)
+PIN III (2E67.5)
+high grade PIN (2E67.5)
+
+GA91.Y	Other specified inflammatory and other diseases of prostate
+
+GA91.Z	Inflammatory and other diseases of prostate, unspecified
+
+  GB00  	Hydrocele or spermatocele
+A condition characterised by an accumulation of serous fluid in the tunica vaginalis testis or along the spermatic cord, and cystic swelling containing fluid and dead spermatozoa of the testicular epididymis, rete testis or efferent ductuli.
+Coded Elsewhere:	Congenital hydrocele (KC00)
+
+GB00.0	Encysted hydrocele
+A condition of the testis, caused by inflammation or testicular epididymis, obstruction to the venous or lymphatic systems through the cord, or an abnormality during the antenatal period. This condition is characterised by a circumscribed accumulation of fluid in the tunica vaginalis testis or along the spermatic cord.
+
+GB00.1	Infected hydrocele
+
+GB00.2	Spermatocele
+A condition characterised by cystic swelling (containing fluid and dead spermatozoa) of the epididymis, rete testis, or efferent ductuli. This condition may be associated with obstruction of the epididymal ducts due to trauma, infection, or an inflammatory process.
+Exclusions:	Encysted hydrocele (GB00.0)
+Infected hydrocele (GB00.1)
+
+GB00.Y	Other specified hydrocele or spermatocele
+
+GB00.Z	Hydrocele or spermatocele, unspecified
+
+  GB01  	Torsion of testis, epididymis or appendices
+Any condition characterised by a partial or complete rotation and an occlusion to the venous or arterial blood supply of the testis, epididymis or testicular appendix.
+
+GB01.0	Torsion of testis
+A condition of the testes, caused by determinants arising during the antenatal period, or exposure to cold temperatures. This condition is characterised by twisting of the spermatic cord, ischaemia of the testis, severe pain, tenderness, and decreased or absent cremasteric reflex. Confirmation is by imaging.
+Inclusions:	Torsion of spermatic cord
+
+GB01.1	Torsion of epididymis
+A condition of the epididymis, caused by determinants arising during the antenatal period. This condition is characterised by twisting of the epididymis around its axis and ischaemia, scrotal pain, or inflammation. This condition may also present with a thickened scrotal wall, a reactive hydrocele, and enlargement of the head of the epididymis. Confirmation is by imaging.
+
+GB01.2	Torsion of hydatids
+A condition of the testicular appendix, caused by determinants arising during the antenatal period. This condition is characterised by twisting of the hydatid of Morgagni and pedunculated hydatid around its axis and ischaemia, testicular pain, scrotal oedema, and a palpable blue dot discolouration on the scrotum. Confirmation is by imaging.
+
+GB01.Z	Torsion of testis, epididymis or appendices, unspecified
+
+  GB02  	Orchitis or epididymitis
+Coded Elsewhere:	Orchitis due to mumps virus (1D80.1)
+Gonococcal epididymitis (1A70.Y)
+Gonococcal orchitis (1A70.Y)
+Chlamydial epididymitis (1A81.1)
+Chlamydial orchitis (1A81.1)
+
+GB02.0	Orchitis, epididymitis or epididymo-orchitis with abscess
+Inflammation of a testis and / or the epididymitis with an associated abscess, a collection of pus (neutrophils) that has accumulated within a tissue because of an inflammatory process in response to either an infectious process or other foreign materials.
+
+GB02.1	Orchitis, epididymitis or epididymo-orchitis without abscess
+Inflammation of a testis and / or the epididymitis without associated abscess, a collection of pus (neutrophils) that has accumulated within a tissue because of an inflammatory process in response to either an infectious process or other foreign materials.
+
+GB02.Y	Other specified orchitis or epididymitis
+
+GB02.Z	Orchitis or epididymitis, unspecified
+
+  GB03  	Atrophy of testis
+A condition of the testis, caused by apoptosis of the cells due to diminished cellular proliferation, decreased cellular volume, decreased function, ischemia, malnutrition, disease, infection, mutation, or hormonal changes. This condition is characterised by a partial or complete decrease in size and function of the testis tissue.
+
+  GB04  	Male infertility
+Any disorder of the reproductive system affecting males, characterised by dysfunctionalities in the ejection of semen or an abnormal absence in the measurable level of sperm in semen.
+Coded Elsewhere:	Male infertility in classical cystic fibrosis (CA25.0)
+Male infertility in atypical cystic fibrosis (CA25.1)
+
+GB04.0	Azoospermia
+Any condition of the genital system affecting males, caused by obstruction of the reproductive tract, abnormal hormone levels, testicular failure, or inadequate production of spermatozoa. These conditions are characterised by the absence of a measurable level of sperm cells in semen, and very low levels of fertility. Confirmation is by the absence of spermatozoa in the sediment of a centrifuged sample of ejaculate.
+
+GB04.Y	Other specified male infertility
+
+GB04.Z	Male infertility, unspecified
+
+  GB05  	Redundant prepuce, phimosis or paraphimosis
+Several conditions of the foreskin, caused by abnormalities in the prepuce. This condition is characterised by redundant or tight foreskin and lack of retractability of the foreskin or the inability of the foreskin to be reduced.
+
+GB05.0	Redundant prepuce
+A condition of the foreskin, caused by determinants arising during the antenatal period. This condition is characterised by the presence of excess foreskin tissue.
+
+GB05.1	Frenulum breve
+A condition of the frenulum preputii penis, caused by determinants arising during the antenatal period. This condition is characterised by a short frenulum and restricted movement of the prepuce, leading to hindered penetration during sexual intercourse or pain and tearing.
+
+GB05.2	Phimosis
+A condition of the foreskin, caused by the improper development of the foreskin during the antenatal period, balanitis, lichen sclerosus, inflammation, infection, repeated catheterization, or forcible foreskin retraction. This condition is characterised by constriction of the preputial orifice and restricted movement of the prepuce over the glans. This condition may also present with difficulty urinating or dysfunctions during sexual intercourse.
+
+GB05.3	Paraphimosis
+A condition of the foreskin, caused by a narrow or inflamed foreskin, improper handling of foreskin, or retraction of the foreskin for an extended duration. This condition is characterised by an inability for the foreskin to return to its normal position after being retracted over the glans, pain, and inflammation, and may lead to gangrene.
+
+GB05.4	Adherent prepuce
+A condition in which the prepuce is adherent to the prepuce which makes it hard to retract the prepuce.
+
+GB05.Z	Redundant prepuce, phimosis or paraphimosis, unspecified
+
+  GB06  	Certain specified disorders of penis
+Exclusions:	Redundant prepuce, phimosis or paraphimosis (GB05)
+Coded Elsewhere:	Male erectile dysfunction (HA01.1)
+
+GB06.0	Balanoposthitis
+Inflammation of the foreskin and/or glans penis. It may be associated with specific disorders such as lichen planus, lichen sclerosus, reactive arthritis or contact dermatitis etc. but is most commonly "non-specific".
+
+GB06.01	Irritant balanoposthitis
+
+GB06.02	Balanoposthitis due to infection
+Coded Elsewhere:	Candida balanoposthitis (1F23.11)
+
+GB06.0Y	Other specified forms of balanitis and balanoposthitis
+
+GB06.0Z	Balanoposthitis, unspecified
+
+GB06.1	Priapism
+A condition of the penis, caused by acute leukaemia, sickle cell anaemia, infection, a penile or central nervous system lesion, or the use of certain pharmacological agents. This condition is characterised by prolonged or persistent painful penile erection lasting over four hours without physical or psychological sexual arousal.
+Inclusions:	Painful erection
+
+GB06.2	Penile fibromatosis
+A condition characterised by induration of the corpora cavernosa of the penis producing a painful fibrous chordee within the soft tissue of the penis and inflammation of the tunica albuginea. This condition may be associated with trauma or injury to the penis. This condition may also present with pain during erection, erectile dysfunction, shortening, or abnormal curvature of the penis when erect. Confirmation is by ultrasonography.
+Inclusions:	Peyronie disease
+Plastic induration of penis
+Induratio penis plastica
+
+GB06.3	Mondor disease of the penis
+A well-recognised usually benign and self-limiting entity occurring in sexually active men and presenting with a cord-like thickening of penile veins or lymphatics located around the coronal sulcus or, less commonly, along the dorsal vein of the penis. Infrequently it may be associated with non-sexual trauma or with hypercoagulable states.
+
+GB06.4	Chronic penile oedema
+Chronic oedema localised to the penis. Proposed causes include chronic strangulation, low grade streptococcal infection with resultant irreversible lymphatic damage or primary hypoplastic lymphatics.
+
+GB06.5	Sclerosing lymphangitis of penis
+This condition presents with a usually painless serpiginous cord-like swelling in the coronal sulcus of the penis. It is typically associated with vigorous sexual intercourse. It normally resolves within a period of weeks.
+
+GB06.Y	Other specified disorders of penis
+
+GB06.Z	Disorders of penis, unspecified
+
+  GB07  	Inflammatory disorders of male genital organs, not elsewhere classified
+Any disorder of the male genital organs, characterised by pathological changes and inflammation of the tissue, not classified elsewhere.
+Exclusions:	Inflammation of penis (GB06)
+Orchitis or epididymitis (GB02)
+Epididymorchitis (GB02)
+
+GB07.0	Inflammatory disorders of seminal vesicle
+Any disorder of the seminal vesicle, characterised by pathological changes and inflammation of the tissue.
+Coded Elsewhere:	Tuberculosis of seminal vesicle (1B12.5)
+
+GB07.1	Inflammatory disorders of spermatic cord, tunica vaginalis or vas deferens
+Any disorder of the spermatic cord, tunica vaginalis and vas deferens, characterised by pathological changes and inflammation of the tissue.
+Coded Elsewhere:	Chylocele of tunica vaginalis in loiasis (1F66.0)
+Chylocele of tunica vaginalis in filariasis due to Wuchereria bancrofti (1F66.30)
+
+GB07.2	Inflammatory disorders of scrotum
+Any disorder of the scrotum, caused by poor hygiene or chafing of the skin. This condition is characterised by superficial inflammation of the tissue.
+Exclusions:	Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+GB07.Y	Other specified inflammatory disorders of male genital organs, not elsewhere classified
+
+  GB08  	Vascular disorders of male genital organs
+Any disorder affecting the cardiovascular and genital systems, characterised by pathological changes to the blood vessels of the male genital organs.
+
+  GB0Y  	Other specified diseases of the male genital system
+
+  GB0Z  	Diseases of the male genital system, unspecified
+
+Disorders of breast (BlockL1‑GB2)
+Any disorder characterised by pathological changes to the breast or breast tissue.
+Exclusions:	Certain specified disorders of breast or lactation associated with childbirth (JB46)
+Coded Elsewhere:	Neoplasms of the breast
+  GB20  	Benign breast disease
+Any disease affecting females, characterised by benign, noncancerous lesions in the breast, leading to pathological changes to (and discomfort of) the breast or breast tissue.
+Coded Elsewhere:	Breast abscess (GB21.0)
+Disorders of breast augmentation (GC7A)
+Disorders of breast reduction (GC79)
+
+GB20.0	Fibrocystic change
+A condition characterised by changes to the breast tissue leading to benign, noncancerous lesions in the breast. This conditions may be associated with small or large cyst formation, hyperplasia of the ductal epithelium, apocrine metaplasia of the ductal cells, papillomatosis, duct ectasia, sclerosing adenosis, or fibrosis of the stroma. This condition may also present with breast pain, thickening of breast tissue, or nipple discharge that worsen prior to menstruation, or may be asymptomatic. Confirmation is by clinical breast exam, followed by mammography or ultrasonography to distinguish between abnormal tissue.
+
+GB20.1	Fibroadenosis of breast
+Exclusions:	Fibroadenoma of breast (2F30.5)
+
+GB20.Y	Other specified benign breast disease
+
+GB20.Z	Benign breast disease, unspecified
+
+  GB21  	Inflammatory disorders of breast
+Any disorder of the breast or breast tissue, characterised by inflammatory effects, pain, heat, redness, swelling, and loss of function.
+Coded Elsewhere:	Nonpurulent mastitis associated with childbirth (JB45.1)
+Neonatal infectious mastitis (KA65.3)
+
+GB21.0	Breast abscess
+A condition of the breast, caused by inflammation due to infection with a bacterial or parasitic host, or contact with other foreign materials. This condition is characterised by a focal accumulation of purulent material within or on the breast tissue.
+Coded Elsewhere:	Abscess of breast associated with childbirth (JB45.0)
+
+GB21.Y	Other specified inflammatory disorders of breast
+
+GB21.Z	Inflammatory disorders of breast, unspecified
+
+  GB22  	Hypertrophy of breast
+A condition affecting the breast, characterised by unilateral or bilateral enlargement or thickening of the connective tissues that exceeds 3% of the total body weight. This condition may be associated with increased histologic sensitivity to, or abnormally high levels of, prolactin, estrogen, and progesterone in the blood.
+
+  GB23  	Certain specified disorders of breast
+Any disorder of the breast or breast tissue, characterised by pathological changes, not classified elsewhere.
+Coded Elsewhere:	Other signs or symptoms in breast (MF3Y)
+
+GB23.0	Mammary duct ectasia
+A condition of the breast, caused by lipid and cellular debris or secretory (such as colostrum) stasis, or a nonspecific duct widening process. This condition is characterised by obstruction and subsequent dilation of the lactiferous duct, periductal inflammation, periductal fibrosis, nipple retraction, inversion, pain, or bloody discharge from the nipple.
+
+GB23.1	Fissure or fistula of nipple
+A condition characterised by the formation of a deep furrow or crack-like lesion on the nipple and an abnormal passage between the nipple and adjacent tissues or surfaces.
+
+GB23.2	Fat necrosis of breast
+A condition of the breast, caused by saponification of fat tissue, commonly subsequent to trauma or radiation therapy. This condition is characterised by damage, death, or inflammation of the fat tissue by blood and tissue digestive enzymes, and the development of scar tissue and lesions. Confirmation is by imaging of the breast and needle aspiration.
+
+GB23.3	Atrophy of breast
+A condition of the breast, caused by apoptosis of the cells commonly due to prolonged estrogen reduction, diminished cellular proliferation, decreased cellular volume, decreased function, ischaemia, malnutrition, disease, or mutation. This condition is characterised by a partial or complete decrease in size and function of the breast tissue.
+
+GB23.4	Galactorrhoea not associated with childbirth
+A condition of the breast, characterised by persistent and abnormal secretion of white discharge. In females, the secretions occur between intervals of neonate or infant nursing, or after the infant has stopped breastfeeding. In males and children, these secretions occur spontaneously. This condition is not associated with the physiological changes as part of pregnancy, childbirth, or the puerperium.
+
+GB23.5	Mastodynia
+The symptom of breast pain. This symptom may be classified as cyclic or non-cyclical depending on the clinical patterns.
+Exclusions:	Chronic pain (MG30)
+
+  GB2Z  	Disorders of breast, unspecified
+
+Diseases of the urinary system (BlockL1‑GB4)
+Any disease characterised by pathological changes to the urinary system.
+Coded Elsewhere:	Neoplasms of the urinary system
+Clinical findings on examination of urine, without diagnosis (MF90-MF9Y)
+Structural developmental anomalies of the urinary system (LB30-LB3Z)
+Symptoms, signs or clinical findings involving the urinary system (MF50-MF5Y)
+Hypertensive renal disease (BA02)
+Glomerular diseases (BlockL2‑GB4)
+Any disease characterised by pathological changes to the glomerulus.
+Exclusions:	Hypertensive renal disease (BA02)
+Coded Elsewhere:	Clinical findings in specimens from the urinary system (MF80-MF8Z)
+Symptomatic late syphilis of other sites (1A62.2)
+Plasmodium malariae malaria with nephropathy (1F42.0)
+Glomerular disorders in secondary systemic amyloidosis (5D00.1)
+  GB40  	Nephritic syndrome
+Sudden onset of glomerular disease usually with severe (macroscopic/visible) haematuria accompanied by oliguria, elevated blood pressure, mild oedema and albuminuria or proteinuria usually of sub-nephrotic range. May be a cause of acute renal failure in which case the syndrome is termed rapidly progressive nephritis. Nephritic syndrome has many possible causes and is associated with renal light microscopic changes such hypercellularity, necrosis or thrombosis.
+Inclusions:	acute nephritis
+Exclusions:	Tubulo-interstitial nephritis, not specified as acute or chronic (GB54)
+
+  GB41  	Nephrotic syndrome
+A condition characterised by severe proteinuria, greater than 3.5 g/day in an average adult. The substantial loss of protein in the urine results in hypoalbuminaemia and generalised oedema. There is also usually hyperlipidaemia. Other manifestations of glomerular disease may be present. There are many possible causes and renal histological appearances. Possible complications include vascular thrombosis, infections, malnutrition and renal failure.
+
+  GB42  	Persistent proteinuria or albuminuria
+Persistent albuminuria >3mg/mmol creatinine or >30mg/day is regarded as abnormal, indicative and often the first manifestation of chronic kidney disease (KDOQI, KDIGO). In surveillance for CKD in “at risk” patients such as diabetics, urinalysis for albuminuria is recommended by most clinical practice guidelines. This diagnosis does not refer to intermittent proteinuria as in orthostatic or exercise induced proteinuria, nor to non-albuminuric proteinuria such as Bence Jones (immunoglobulin light chain) proteinuria.
+Exclusions:	Orthostatic proteinuria (MF96.0)
+proteinuria NOS (MF96)
+Gestational proteinuria without hypertension (JA22.0)
+Bence Jones proteinuria (MF96.1)
+Nephrotic syndrome (GB41)
+albuminuria NOS (MF96)
+
+GB42.0	Albuminuria, Grade A2
+Presence of excessive albumin in the urine, indicating abnormal permeability glomerular filtration. Can be quantitated by either timed collections or spot urine samples with the concentration adjusted to the urine creatinine concentration to correct for variations in overall urine concentration. When persistent and of moderate or greater severity usually indicates overt glomerular disease such as caused by diabetic glomerulosclerosis, glomerulonephritis or amyloid.
+Coding Note:	Code aslo the causing condition
+
+GB42.1	Albuminuria, Grade A3
+Presence of excessive albumin in the urine, indicating abnormal permeability glomerular filtration. Can be quantitated by either timed collections or spot urine samples with the concentration adjusted to the urine creatinine concentration to correct for variations in overall urine concentration. When persistent and of moderate or greater severity usually indicates overt glomerular disease such as caused by diabetic glomerulosclerosis, glomerulonephritis or amyloid.
+Coding Note:	Code aslo the causing condition
+
+GB42.Y	Other specified persistent proteinuria or albuminuria
+
+GB42.Z	Persistent proteinuria or albuminuria, unspecified
+
+  GB4Y  	Other specified glomerular diseases
+
+  GB4Z  	Glomerular diseases, unspecified
+
+Renal tubulo-interstitial diseases (BlockL2‑GB5)
+Any disease characterised by pathological changes to the renal tubules and interstitial tissues.
+Exclusions:	pyeloureteritis cystica (GB90)
+Coded Elsewhere:	Renal tubulo-interstitial disorders due to toxoplasmoa gondii (1F57.Y)
+Renal tubulo-interstitial disorders due to salmonella infection (1A09.Y)
+  GB50  	Acute tubulo-interstitial nephritis
+A disease characterised by acute inflammation of, and damage to, tubules and the interstitium of the kidney, usually accompanied by acute renal failure (acute kidney injury). Histology shows acute inflammatory infiltrate in the interstitium with oedema and tubular cell necrosis, and often prominent eosinophils and plasma cells. Usually due to an allergic or immunological reaction to an identifiable allergen. Usually accompanied by acute renal failure which may be reversible if the allergen is withdrawn expeditiously with or without corticosteroid administration. Can lead to chronic tubulointerstitial nephritis, particularly if the allergen exposure is not short term. May be associated with other signs of an allergic reaction such as rash or fever.
+
+  GB51  	Acute pyelonephritis
+Acute inflammation of the renal pelvis and parenchyma due to bacterial infection. One of the commonest bacterial infections of adult women. Symptoms include fever, loin (kidney) pain, nausea and vomiting. Co-incident symptoms of acute cystitis with dysuria, frequency and haematuria may occur. Renal failure is not a feature unless there is septicaemia, hypotension or hypovolemia.
+
+  GB52  	Acute tubular necrosis
+Any condition of the kidney, caused by hypotension, hypoperfusion, ischaemia, hypoxia, or use of nephrotoxic drugs. These conditions are characterised by death of tubular epithelial cells and acute kidney injury. Confirmation is by identification of "muddy brown casts" of epithelial cells in a urine sample.
+Coding Note:	Code aslo the causing condition
+
+  GB53  	Acute renal papillary necrosis
+A condition of the kidney, caused by ischaemia, liver disease, or analgesic nephropathy. This condition is characterised by death of single or multiple renal papillae, haematuria, flank pain, and tissue fragments in the urine. This condition may also present with fever and chills.
+
+  GB54  	Tubulo-interstitial nephritis, not specified as acute or chronic
+A disease characterised by inflammation of and damage to tubules or the interstitium of the kidney while sparing the glomeruli secondary to immune reaction or toxic agent.
+Exclusions:	calculous pyelonephritis (GB70)
+
+  GB55  	Chronic tubulo-interstitial nephritis
+A disease characterised by inflammation of and damage to tubules and/or the interstitium of the kidney, interstitial scarring, fibrosis and tubule atrophy resulting in progressive chronic renal insufficiency
+Coding Note:	Code aslo the causing condition
+Exclusions:	calculous pyelonephritis (NFAD) (GB70)
+Coded Elsewhere:	Autosomal dominant polycystic kidney disease (GB81)
+
+GB55.0	Balkan nephropathy
+Balkan nephropathy is a form of interstitial nephritis characterised by a very localised geographic occurrence. It was first identified in the 1920s among several small, discrete communities along the Danube River and its major tributaries. Now thought to be due to chronic aristolochic acid ingestion (ingestion of Aristolochia clematitis seeds native to the Balkan region), though it has some differences from Chinese herbal nephropathy. This disease is characterised by renal insufficiency, proteinuria, tubulointerstitial nephritis, anaemia, weakness, copper discoloration of the skin, and may lead to end-stage renal disease within 5 years after onset.
+Inclusions:	Balkan endemic nephropathy
+
+GB55.1	Nephropathy induced by heavy metals
+A disease of the kidney, caused by exposure to heavy, nephrotoxic metals such as cadmium, lead, copper, and mercury. This disease is characterised by tubular damage, renal insufficiency, interstitial fibrosis, necrosis, or renal dysfunction. This disease may also present with hypertension, proteinuria, hyperuricaemia, aminoaciduria, or other symptoms characteristic of chronic kidney disease.
+
+GB55.2	Chronic urate nephropathy
+A condition characterised by deposition of urate crystals in the tubules and interstitium, partial or complete obstruction of the collecting ducts, renal pelvis, or ureter, hyperuricaemia disproportionate to the degree of renal insufficiency and decreased urate excretion. This condition may lead to inflammation, fibrosis, and renal failure.
+
+GB55.Y	Other specified chronic tubulo-interstitial nephritis
+Coding Note:	Code aslo the causing condition
+
+GB55.Z	Chronic tubulo-interstitial nephritis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  GB56  	Obstructive or reflux nephropathy
+Distention of the pelvis and calices of the kidney with urine as a result of obstruction of the ureter or as a result of a vesicoureteral or vesicoureterorenal reflux of urine. Diffuse or focal cortical scarring and chronic tubulointerstitial nephritis may be present.
+Exclusions:	Calculus of kidney and ureter without hydronephrosis (BlockL2‑GB7)
+Obstructive pyelonephritis (GB55)
+
+GB56.0	Hydronephrosis with ureteropelvic junction obstruction
+A condition caused by any obstruction in or stenosis of the ureteropelvic junction. This condition is characterised by distension of the pelvis and calyces of the kidney with a partial or complete obstructed flow of urine. This condition may present with flank pain, haematuria, pyuria, or hyperpyrexia.
+Exclusions:	Congenital ureteropelvic junction occlusion (QJCB) (LB31.8)
+Congenital hydronephrosis (LB31.0)
+
+GB56.1	Hydronephrosis with ureteral obstruction
+Intrinsic stenosis or stricture or extrinsic obstruction of the ureter, except at the ureteropelvic junction or at the ureteral orifice, causing distension of the pelvis and calices of the kidney with urine.
+Exclusions:	Congenital hydronephrosis (LB31.0)
+
+GB56.2	Hydronephrosis with ureteral orifice obstruction
+Dilatation of the renal pelvis and calyces associated with (and presumably due to ) obstruction of the ureter at the insertion into the bladder and hence ascending back pressure.
+Exclusions:	with infection (GB58)
+
+GB56.3	Hydronephrosis due to bladder obstruction
+A condition caused by an obstruction in the urinary bladder. It is characterised by distention of the pelvis and calices of one or both kidneys, and lack of free flow of urine from the kidney, and can lead to progressive atrophy of the kidney if untreated. The condition may also present with pain in the flank, haematuria, pyuria, or hyperpyrexia.
+
+GB56.4	Other or unspecified hydronephrosis
+This refers to distension and dilation of the renal pelvis and calyces in situations other than those coded elsewhere or when no additional details is available.
+Exclusions:	Pyonephrosis (GB58)
+
+GB56.5	Hydronephrosis and reflux nephropathy with vesicoureteral or vesico-uretero-renal reflux
+Distention of the pelvis and calices of the kidney with urine as a result of obstruction of the ureter not caused by strictures or stenoses of the ureter or by ureteral stones.
+Exclusions:	Congenital vesico-uretero-renal reflux (LB31.D)
+Congenital hydronephrosis (LB31.0)
+
+GB56.Y	Other specified obstructive or reflux nephropathy
+
+GB56.Z	Obstructive or reflux nephropathy, unspecified
+
+  GB57  	Nephrocalcinosis
+A condition of the kidney, caused by previous inflammation or degeneration when accompanied by previous renal failure. This condition is characterised by renal lithiasis, or calcium-based deposition in the renal parenchyma. This condition may also present with infection, haematuria, anal colic, or decreased renal function. Confirmation is by abdominal medical imaging to determine location of deposits.
+
+  GB58  	Pyonephrosis
+A condition caused by complications subsequent to calyces, hydronephrosis, or pyelonephritis, or which may be idiopathic. This condition is characterised by a collection of pus in the renal pelvis, leading to distension of the kidney and possibly kidney failure.
+
+  GB59  	Renal or perinephric abscess
+A collection of purulent material in the kidney substance and/or around the kidneys. Usually due to bacterial infection. Minor: Origin Can be haematogenous or ascending infection
+
+  GB5Y  	Other specified renal tubulo-interstitial diseases
+
+  GB5Z  	Renal tubulo-interstitial diseases, unspecified
+
+Kidney failure (BlockL2‑GB6)
+Inability of the kidneys to adequately filter the blood of waste products, with a lower than normal glomerular filtration rate (GFR). Can be abrupt and potentially reversible (acute kidney injury) or persistent due to irreversible kidney damage (chronic kidney disease).
+Exclusions:	Hypertensive renal disease (BA02)
+Coded Elsewhere:	Renal failure following abortion, ectopic or molar pregnancy (JA05.4)
+Congenital renal failure (KC01)
+  GB60  	Acute kidney failure
+An increase in serum creatinine by 0.3 mg/dl or greater within 48 hours; or Increase in serum creatinine by 1.5-fold or greater above baseline, which is known or presumed to have occurred within 7 days; or Urine volume less than 0.5 ml/kg/h for 6 hours or more.
+Inclusions:	nontraumatic acute kidney injury
+Coded Elsewhere:	Postpartum acute renal failure (JB44.4)
+
+GB60.0	Acute kidney failure, stage 1
+Rate of change of serum creatinine: Increase 1.5-1.9 times baseline within 7 days OR increase by 0.3 mg/dl increase within 48 h OR Magnitude of urine output: <0.5 ml/kg/h for 6-12 hours
+Coding Note:	Code aslo the causing condition
+Inclusions:	Acute nontraumatic kidney injury, mild
+
+GB60.1	Acute kidney failure, stage 2
+Rate of change of serum creatinine: 2.0-2.9 times baseline OR Magnitude of urine output: <0.5 ml/kg/h for >= 12 hours
+Coding Note:	Code aslo the causing condition
+Inclusions:	Acute nontraumatic kidney injury, moderate
+
+GB60.2	Acute kidney failure, stage 3
+Rate of change of serum creatinine: 3.0 times baseline OR increase to 4.0 mg/dl OR need for renal replacement therapy (i.e. dialysis) or for patients <18 years, decrease in GFR to <35 ml/min per 1.73 m2 OR Magnitude of urine output: <0.3 ml/kg/h for 24 hours OR anuria for >= 12 hours
+Coding Note:	Code aslo the causing condition
+Inclusions:	Acute nontraumatic kidney injury, severe
+
+GB60.Y	Other specified acute kidney failure
+
+GB60.Z	Acute kidney failure, stage unspecified
+
+  GB61  	Chronic kidney disease
+GFR <60 or presence of kidney damage that is present for more than 3 months. Evidence of kidney damage can include structural abnormalities (imaging or histology), albuminuria above normal limits, urinary sediment abnormalities or electrolyte disturbances due to tubular disorders.
+Inclusions:	chronic renal failure
+Chronic renal insufficiency
+Exclusions:	Hypertensive renal disease (BA02)
+
+GB61.0	Chronic kidney disease, stage 1
+Kidney damage with normal or increased GFR (>90 ml/min/1.73m²)
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 1
+
+GB61.1	Chronic kidney disease, stage 2
+Kidney damage and GFR 60-89 ml/min/1.73m²
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 2
+
+GB61.2	Chronic kidney disease, stage 3a
+GFR 45-59 ml/min/1.63m²
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 3a
+
+GB61.3	Chronic kidney disease, stage 3b
+GFR 30-44 ml/min/1.73m²
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 3b
+
+GB61.4	Chronic kidney disease, stage 4
+GFR (15-29 ml/min/1.73m²)
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 4
+
+GB61.5	Chronic kidney disease, stage 5
+Kidney failure, GFR < 15 ml/min/1.73m²
+Coding Note:	Code aslo the causing condition
+Inclusions:	chronic renal failure, stage 5
+Coded Elsewhere:	Albuminurica retinitis (9B65.Z)
+
+GB61.Z	Chronic kidney disease, stage unspecified
+
+  GB6Z  	Kidney failure, unspecified
+
+Urolithiasis (BlockL2‑GB7)
+A condition of the urinary system, caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by the presence of calculi originating in the urinary system or are which are located within the urinary system. Confirmation is by abdominal radiography, or intravenous pyelography.
+Exclusions:	Hyperoxaluria (5C51.2)
+Hypercalciuria (MF98.0)
+Crystalluria (BlockL2‑MF9)
+Cystinuria (5C60.2)
+  GB70  	Calculus of upper urinary tract
+A condition of the urinary system, caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the upper urinary tract (renal papilla). This condition may present with haematuria, dysuria, or pain in the flank, lower abdomen, or groin. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+
+GB70.0	Calculus of kidney
+A condition of the kidney, caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by the urinary calculi located in the kidney, in renal calyces, or in the renal pelvis. This condition may present with haematuria, dysuria, or pain in the flank, lower abdomen, or groin. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+Inclusions:	Renal calculus or stone
+Stone in kidney
+
+GB70.00	Staghorn calculus
+A condition of the kidney, characterised by large, branched, struvite or calcium carbonate apatite calculi within the renal pelvis and extending into one or more caliceal extensions, and fever, haematuria, or flank pain, leading to renal failure and life-threatening sepsis. This condition may be associated with urinary tract infection. Confirmation is by imaging of the abdominal region.
+
+GB70.0Y	Other specified calculus of kidney
+
+GB70.0Z	Calculus of kidney, unspecified
+
+GB70.1	Calculus of ureter
+A condition of the ureter, caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the ureter, and may lead to renal colic. This condition may present with haematuria, dysuria, or pain in the flank, lower abdomen, groin, thighs, or genitalia. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+Inclusions:	Ureteric stone
+Ureteral calculus or stone
+Stone in the ureter
+
+GB70.Z	Calculus of upper urinary tract, unspecified
+
+  GB71  	Calculus of lower urinary tract
+A condition of the urinary system, caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the lower urinary tract (urinary bladder and urethra). This condition may also present with haematuria, dysuria, or pain in the flank, lower abdomen, or groin. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+
+GB71.0	Calculus in bladder
+A condition caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the bladder. This condition may also present with haematuria, dysuria, or pain in the flank, lower abdomen, or groin. Confirmation is by abdominal radiography, to determine the presence and location of calculi.
+Inclusions:	Urinary bladder stone
+Exclusions:	Calculus in a bowel segment for urinary diversion (e.g. neobladder, pouch) (NFBC) (GB71.2)
+
+GB71.1	Calculus in urethra
+A condition caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the urethra, where it may lead to renal colic. This condition may also present with haematuria, dysuria, or pain in the flank, lower abdomen, groin, thighs, or genitalia. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+Exclusions:	Calculus of bowel segments for urinary diversion (GB71.2)
+
+GB71.2	Calculus of bowel segments for urinary diversion
+A condition caused by dehydration, decreased urine volume or fluid flow rates, or increased excretion of minerals such as calcium, oxalate, magnesium, cystine, and phosphate. This condition is characterised by urinary calculi located in the bowel segment for urinary diversion (ileal neobladder, ileal conduit, ileocaecal pouch). This condition may also present with haematuria, dysuria, or pain in the flank, lower abdomen, or groin. Confirmation is by abdominal radiography to determine the presence and location of calculi.
+
+GB71.Z	Calculus of lower urinary tract, unspecified
+
+  GB7Z  	Urolithiasis, unspecified
+
+Cystic or dysplastic kidney disease (BlockL2‑GB8)
+Any disease of the kidney, caused by determinants arising during the antenatal period or after birth. These diseases are characterised by pathological changes to one or both kidneys, and may manifest in other anatomical tissues.
+Coded Elsewhere:	Tuberous sclerosis (LD2D.2)
+Noonan syndrome (LD2F.15)
+Meckel-Gruber syndrome (LD2F.13)
+Asphyxiating thoracic dystrophy (LD24.B1)
+Multicystic renal dysplasia (LB30.9)
+  GB80  	Nonfamilial nongenetic cystic kidney disease
+Diseases where there are developmental anatomical or pathological changes in the renal substance not occurring in a familial distribution and not known to have a mono-genetic cause.
+Coded Elsewhere:	Medullary sponge kidney (LB30.8)
+Multicystic renal dysplasia (LB30.9)
+
+GB80.0	Simple renal cyst
+A disease of the kidney, caused by obstruction of tubules, anaemia, or detachment of diverticula. This disease is characterised by the formation of thin-walled abnormal sacs filled with hypo-echogenic radiolucent fluid in the kidney. Confirmation is by imaging.
+Inclusions:	Bosniak 1 cyst
+
+GB80.1	Complex renal cyst
+Renal cyst with high attenuation or mixed contents, septate or thickened wall. May be subclassified by the Bosniak classification Bosniak 2-4 to indicate increasing likelihood of neoplasm.
+
+GB80.2	Subscapular or perirenal urinoma
+A disease of the kidney, caused by urinary obstruction such as calices in the kidney or ureter, or a breach of the integrity of the pelvis. This disease is characterised by an encapsulated collection of urine located in a fat-lined sac around the kidneys or in the retroperitoneum. Confirmation is by imaging.
+
+GB80.Y	Other specified nonfamilial nongenetic cystic kidney disease
+
+GB80.Z	Nonfamilial nongenetic cystic kidney disease, unspecified
+
+  GB81  	Autosomal dominant polycystic kidney disease
+Multiple cysts in both kidneys increasing in number and size from adolescence, associated with development of hypertension and chronic renal failure. Autosomal dominant familial pattern is usual and due to mutations on Chromosomes 16 and 4. Non-renal manifestations can include cysts in the liver and less commonly pancreas,. Cerebral arterial aneurysms with subarachnoid haemorrhage, and other non-renal vascular abnormalities can also occur.
+
+  GB82  	Autosomal dominant tubulointerstitial disease
+Nonglomerular, autosomal dominant kidney diseases characterised by progressive tubulointerstitial fibrosis and progression to end-stage renal disease. Currently there are 4 known genetic defects - in oromudulin, mucin-1, renin and hepatocyte nuclear factor 1-ß. The last is associated with Maturity-Onset Diabetes of the Young (MODY) and thus is classified as MODY-5.
+Coded Elsewhere:	Medullary sponge kidney (LB30.8)
+MODY 5 syndrome (5A13.6)
+
+  GB83  	Nephronophthisis
+Autosomal recessive disease characterised by polyuria, polydipsia, enuresis and chronic kidney disease with end stage renal failure occurring between birth and late adolescence depending on the NPHP gene involved. Extra-renal manifestations occur with associated multisystem genetic disorders (e.g. Senior-Loken, Cogan, Joubert)
+
+  GB8Y  	Other specified cystic or dysplastic kidney disease
+
+  GB8Z  	Cystic or dysplastic kidney disease, unspecified
+
+  GB90  	Certain specified disorders of kidney or ureter
+Any disorder characterised by pathological changes to the kidney or ureter.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Urolithiasis (BlockL2‑GB7)
+Coded Elsewhere:	Macroscopic changes of size of the kidney (MF54)
+Ureteral fistula (GC04.2)
+Postinterventional ischemia or infarction of kidney (GC7B)
+Diabetic nephropathy (GB61.Z)
+Renal late syphilis (1A62.2Y)
+Disorders of kidney or ureter in tuberculosis (1B1Y)
+
+GB90.0	Nephroptosis
+Enhanced mobility of the kidney, resulting in ptosis when the patient is upright. More common on the right, associated with a longer renal artery, and debatably associated with fibromuscular hyperplasia and hypertension.
+
+GB90.1	Hydroureter
+A condition caused by obstruction, stricture, or stenosis of the ureter, which may be due to prostatic hypertrophy, carcinoma, retroperitoneal or pelvic neoplasms, calculi, or a congenital anomaly. This condition is characterised by distention of the ureter with urine.
+Exclusions:	Congenital primary megaureter (LB31.1)
+
+GB90.2	Ureteral kinking or deviation without obstruction
+A condition characterised by a sharp twist, curve, or other deviation in the length of the ureter, but without an obstructed flow of urine.
+Inclusions:	Kinking of the ureter without hydronephrosis
+Exclusions:	with infection (GB58)
+congenital ureteric stenosis (LB31.8)
+
+GB90.3	Ischaemia or infarction of kidney
+Exclusions:	Atherosclerosis of renal artery (BD40.2)
+Goldblatt kidney (BD40.2)
+Congenital renal artery stenosis (LA90.40)
+
+GB90.4	Renal tubular function disorders
+Disorders primarily due to abnormalities of renal tubular resorption or secretion.
+Coded Elsewhere:	Cystinuria (5C60.2)
+Nephrogenic syndrome of inappropriate antidiuresis (5A60.20)
+
+GB90.40	Hypotonia-cystinuria type 1
+This is a rare syndrome including neonatal and infantile hypotonia and failure to thrive, cystinuria type 1, nephrolithiasis, growth retardation due to growth hormone deficiency, and minor facial dysmorphism due to a homozygous deletion of two contiguous genes on chromosome 2: SLC3A1 and PREP (2p21).
+Coded Elsewhere:	Hypotonia-cystinuria syndrome (5C60.Y)
+
+GB90.41	Pseudohypoaldosteronism type 1
+Pseudohypoaldosteronism type 1 (PHA1) are rare forms of mineralocorticoid resistance. PHA1 presents in the newborn with renal salt wasting, failure to thrive and dehydration. Two clinical forms have been described: i) a renal form (renal PHA1) that improves with age and in which mineralocorticoid resistance is restricted to the kidney, and ii) a generalised severe form (generalised PHA1) that persists into adulthood and in which mineralocorticoid resistance is systemic and salt loss occurs in multiple organs. Inheritance can be autosomal recessive (arPHA1) which is more severe and persistent than the autosomal dominant form (AdPHA1)
+
+GB90.42	Fanconi syndrome
+Disorder associated with generalised dysfunction of the proximal tubule expressed as amino-aciduria, low molecular weight proteinuria, polyuria with sodium and potassium wasting, hyper-phosphaturia (hence bone disease), renal tubular acidosis, glycosuria and hypercalciuria.
+Coded Elsewhere:	Oculocerebrorenal syndrome (5C60.0)
+
+GB90.43	Bartter syndrome
+Bartter syndrome is a genetic renal tubular disease characterised by the association of hypokalaemic alkalosis, increased levels of plasma renin and aldosterone, low blood pressure and vascular resistance to angiotensin II. Two forms of the disease can be distinguished according to clinical criteria: an antenatal or infantile Bartter syndrome (most patients with genotypes I, II and IV), characterised by polyhydramnios, premature delivery, polyuria, dehydration, hypercalciuria and nephrocalcinosis; and classical Bartter syndrome (mostly patients with genotype III, but also some type IV patients), manifesting as polyuria-polydipsia in infancy-childhood through to adulthood, dehydration and a variable delay in the height-weight growth curve.
+
+GB90.44	Renal tubular acidosis
+Conditions characterised by failure of the kidney to excrete acids, or to lose bicarbonate into the urine, which causes the blood to become too acidic. Characteristically hyperchloremic acidosis (low anion gap metabolic acidosis) . Has several forms and many causes.
+Coded Elsewhere:	Osteopetrosis with renal tubular acidosis (LD24.10)
+
+GB90.45	Renal glycosuria
+Glycosuria (glucose in the urine) at normal blood glucose levels due to inadequate renal tubular resorption. Can be due to above normal glomerular filtration as in pregnancy or occurs residual nephrons in renal failure, or reduced tubular resorption.
+
+GB90.46	Tubular disorders of sodium or potassium transport
+Abnormalities of the renal tubules resorptive or secretory functions, inherited or acquired.
+Exclusions:	Fanconi syndrome (GB90.42)
+
+GB90.47	Aminoaciduria
+Conditions in which amino acids are found in the urine either due to over-production (high blood levels) or failure of tubular resorption
+
+GB90.48	Disorders of calcium or phosphate excretion
+Conditions in which renal excretion of calcium and / or phosphate is deranged.
+Coded Elsewhere:	Pseudohypoparathyroidism (5A50.1)
+Hypophosphataemic rickets (5C63.22)
+
+GB90.49	Renal hypocalciuria
+A condition of the kidney, caused by renal tubular retention, low dietary calcium intake, or abnormalities in calcium absorption and may be associated with thiazide diuretic intake, Gitelmans disease, or familial hypocalciuric hypercalcaemia. This condition is characterised by a decrease in the level of calcium in the urine.
+Coded Elsewhere:	Familial hypocalciuric hypercalcaemia (5A51.2)
+Acquired hypocalciuric hypercalcemia (5A51.Y)
+
+GB90.4A	Nephrogenic diabetes insipidus
+Nephrogenic diabetes insipidus is a condition in which the kidney tubules respond poorly to pituitary secreted anti-diuretic hormone, resulting in a failure to concentrate the urine, and water loss. Polyuria with dilute urine and polydypsia (excessive thirst) are present. It can be congenital or acquired with many causes. The congenital forms may be attributed to vasopressin receptor or aquaporin -2 defects. They are characterised by polyuria with polydipsia, recurrent bouts of fever, constipation, and acute hypernatraemic dehydration after birth that may cause neurological sequelae.
+Exclusions:	Central diabetes insipidus (5A61.5)
+
+GB90.4Y	Other specified renal tubular function disorders
+
+GB90.4Z	Renal tubular function disorders, unspecified
+
+GB90.Y	Other specified disorders of kidney or ureter
+Coding Note:	Code aslo the causing condition
+
+Certain specified diseases of urinary system (BlockL2‑GC0)
+Exclusions:	Infections of genitourinary tract in pregnancy (JA62)
+Urolithiasis (BlockL2‑GB7)
+Coded Elsewhere:	Urinary incontinence (MF50.2)
+Tuberculosis of kidney or ureter (1B12.5)
+Tuberculosis of bladder (1B12.5)
+  GC00  	Cystitis
+A condition of the bladder, caused by infection, reaction to pharmacological agents, exposure to radiation therapy, or potential irritants. This condition is characterised by inflammation of the urinary bladder, dysuria, pollakiuria, fever, or flank pain.
+Exclusions:	Prostatocystitis (GA91.2)
+Coded Elsewhere:	Infections of bladder in pregnancy (JA62.1)
+
+GC00.0	Trigonitis
+A condition of the bladder that is frequently idiopathic. This condition is characterised by inflammation of the nonkeratinizing squamous metaplasia in the trigone region of the bladder.
+
+GC00.1	Infectious cystitis
+Inflammation of the urinary bladder caused by microbes
+Exclusions:	tuberculous cystitis (NHEA) (1B12.5)
+bladder disorder in schistosomiasis [bilharziasis] (NHEB) (1F86.0)
+
+GC00.2	Contracted urinary bladder
+A condition characterised by inflammation of the urinary bladder that may lead to progressive shrinkage, fibrosis, contraction, and irreversible end-stage disease with high urination frequency.
+
+GC00.3	Interstitial cystitis
+A condition characterised by inflammation of the urinary bladder and ureters. This condition may be associated with a malformation of, or injury to, the bladder epithelium, infection with toxins, an autoimmune reaction, or an allergy. This condition may also present with Hunner ulcers diffuse glomerulations affecting all quadrants of the bladder mucosa, mild to severe chronic bladder pressure, bladder pain, urgency to urinate, and low volumes of urine.
+
+GC00.Y	Other specified cystitis
+
+GC00.Z	Cystitis, unspecified
+
+  GC01  	Other disorders of bladder
+Any disorder characterised by pathological changes to the urinary bladder.
+Exclusions:	Cystocele (GC40.0)
+hernia or prolapse of bladder, female (GC40.0)
+Calculus in bladder (GB71.0)
+Coded Elsewhere:	Bladder pain (MF52)
+
+GC01.0	Bladder neck obstruction
+A condition of the bladder, caused by congenital or acquired abnormalities that impair the muscles that connect the bladder to the urethra. This condition is characterised by obstruction of the bladder neck and constricted opening during urination. This condition may also present with pelvic pain, pollakiuria, incontinence, or incomplete bladder emptying. Confirmation is by video urodynamics to observe the obstruction as the bladder fills and voids.
+
+GC01.1	Vesical fistula, not elsewhere classified
+A condition caused by medical intervention, trauma, inflammation, infection, cancer, or congenital factors. This condition is characterised by the formation of an abnormal passage between the urinary bladder and the skin, bowel, vagina, uterus, or rectum, and suprapubic pain, frequency, dysuria, or tenesmus.
+Coded Elsewhere:	Vesicovaginal fistula (GC04.10)
+
+GC01.2	Diverticulum of bladder
+A condition of the bladder, caused by congenital or acquired obstruction to the bladder outlet, a bladder dysfunction following a nerve injury, or a prior bladder surgery. This condition is characterised by balloon-like protrusions on the bladder lining, leading to an area of weakness in the bladder wall. This condition may be asymptomatic, or present with recurrent bladder infections, difficulty urinating, or abdominal fullness. Confirmation is by contrast radiography or cystoscopy.
+Exclusions:	Congenital diverticulum of urinary bladder (LB31.4)
+Urachal diverticulum (LB03.0)
+Hutch-diverticulum (LB31.4)
+
+GC01.3	Rupture of bladder, nontraumatic
+A condition of the bladder, caused by determinants not attributable to wound or injury. This condition is characterised by rupture of the bladder.
+
+GC01.4	Neuromuscular dysfunction of bladder, not elsewhere classified
+Exclusions:	Functional urinary incontinence (MF50.23)
+neurogenic bladder due to cauda equina syndrome (8B40)
+due to spinal cord lesion (ND51)
+Urinary incontinence associated with pelvic organ prolapse (GC40.5)
+
+GC01.Y	Other specified disorders of bladder
+
+GC01.Z	Disorder of bladder, unspecified
+
+  GC02  	Urethritis and urethral syndrome
+A condition of the urethra, caused by non-infectious factors such as trauma, allergies, anatomical malformations, or scarring and adhesions following a medical intervention. This condition is characterised by inflammation of the urethra, chronic recurrent urinary tract infections without bacterial growth, and pyuria.
+Exclusions:	urethrotrigonitis (GC00.0)
+urethritis in diseases with a predominantly sexual mode of transmission (BlockL1‑1A6)
+Reiter disease (FA11.2)
+Coded Elsewhere:	Infections of urethra in pregnancy (JA62.2)
+
+GC02.0	Urethral abscess
+A condition of the urethra, caused by an obstruction to the periurethral glands that is commonly the result of frequent infection. This condition is characterised by a focal accumulation of purulent material within or on the urethral tissue.
+Exclusions:	Urethral caruncle (GC07)
+
+GC02.1	Nonspecific urethritis
+Urethral inflammation for which a specific sexually transmitted infective cause, in particular gonococcal or chlamydial infection, has not been identified. It typically presents in males with dysuria, urethral discharge, itching or urinary urgency. It can occur following urinary tract infection or genital trauma. Historically, before chlamydia infection could be easily identified, chlamydial urethritis was labeled "non-specific".
+Exclusions:	Chlamydial infection of lower genitourinary tract (1A81.0)
+Chlamydial urethritis (1A81.0)
+Gonococcal genitourinary infection (1A70)
+
+GC02.Y	Other specified urethritis and urethral syndrome
+
+GC02.Z	Urethritis and urethral syndrome, unspecified
+
+  GC03  	Urethral stricture
+Stenosis of the urethra accompanied by fibrosis and scarring of the spongiosal body
+Coded Elsewhere:	Postprocedural urethral stricture (GC72)
+
+  GC04  	Fistula of the genitourinary tract
+Any condition caused by trauma, medical intervention, infection, cancer, or congenital factors. This condition is characterised by the formation of an abnormal passage between any two locations within the genitourinary tract.
+Coded Elsewhere:	Fistula of intestinal segments used for urinary diversion (GC01.1)
+
+GC04.0	Urethral fistula
+A condition of the urethra, caused by surgery, infection, trauma, or congenital factors. This condition is characterised by the formation of an abnormal passage between the urethra and adjacent organs or surfaces.
+Coded Elsewhere:	Urethrovaginal fistula (GC04.14)
+
+GC04.1	Fistulae involving female genital tract
+Any condition characterised by the formation of an abnormal passage between the genital tract and another organ, or between a genital organ and an adjacent organ or surface.
+
+GC04.10	Vesicovaginal fistula
+A condition of the bladder and vagina, caused by and subsequent to childbirth, trauma, hysterectomy, medical intervention, infections, bladder calculi, endometriosis, cone biopsy, or congenital factors. This condition is characterised by the formation of an abnormal passage between the urinary bladder and the vagina, leading to the continuous involuntary discharge of urine into the vagina.
+
+GC04.11	Fistula of small intestine to vagina
+Exclusions:	Obstetric Fistula (GC04.1)
+
+GC04.12	Fistula of large intestine to vagina
+A condition of the large intestine and vagina, caused by damage to the tissue due to childbirth, an inflammatory bowel disease, radiation treatment, cancer, or a complication following pelvic surgery. This condition is characterised by the formation of an abnormal passage between any part of the large bowel and the vagina. This condition may also present with leakage of bowel contents (faeces or gas) through the vagina.
+Exclusions:	Obstetric Fistula (GC04.1)
+Coded Elsewhere:	Rectovaginal fistula (GC04.16)
+
+GC04.13	Female genital tract-skin fistulae
+A condition of the genital system, caused by damage to the tissue between the genital tract and the skin. This condition is characterised by the formation of an abnormal passage between the genital tract and the skin.
+Exclusions:	Obstetric Fistula (GC04.1)
+
+GC04.14	Urethrovaginal fistula
+This refers to the abnormal connection or passageway between the female urethra and the vagina without further specification.
+
+GC04.15	Combined urethrovesicovaginal fistula
+A condition of the bladder, urethra, and vagina, caused by and subsequent to childbirth, trauma, hysterectomy, medical intervention, infection, bladder calculi, endometriosis, cone biopsy, or congenital factors. This condition is characterised by the formation of an abnormal passage between the urinary bladder, urethra, and the vagina, not otherwise specified.
+Inclusions:	Urethrovesicovaginal fistula
+
+GC04.16	Rectovaginal fistula
+A condition of the rectum and vagina, caused by childbirth, trauma, Crohn's disease, medical intervention, or infection. This condition is characterised by the formation of an abnormal passage between the rectum and the vagina, not otherwise specified.
+
+GC04.17	Vesicouterine fistula with severe scar or extensive tissue loss
+This is a condition characterised by the presence of extensive amounts of fibrous tissue (fibrosis) that have replaced normal tissue associated with a vesicouterine fistula.
+
+GC04.18	Other combined urinary fistula with severe scar or extensive tissue loss
+Any other condition characterised by the presence of extensive amounts of fibrous tissue (fibrosis) that have replaced normal tissue associated with any other abnormal connection or passageway between any two locations within the urinary tract which do not normally connect.
+
+GC04.19	Combined urinary and rectal fistula including cloaca with severe scar or extensive tissue loss
+A condition characterised by the presence of extensive amounts of fibrous tissue (fibrosis) that have replaced normal tissue associated with an abnormal connection or passageway between the rectum, including cloaca, and a location within the urinary system.
+
+GC04.1A	Vaginal stenosis or gynatresia related to obstetric fistula
+A condition of the vagina, caused by congenital or acquired factors. The congenital condition is caused by Mayer-Kustner-Hauser syndrome. The acquired condition is caused by severe or failed childbirth or medical intervention to repair a fistula. This condition is characterised by an abnormal narrowing and foreshortening of the vagina. Confirmation is by pelvic examination.
+
+GC04.1Y	Other specified fistulae involving female genital tract
+
+GC04.1Z	Fistulae involving female genital tract, unspecified
+
+GC04.2	Ureteral fistula
+Abnormal passage or communication between the ureter and another body organ or cavity or the body surface.
+
+GC04.Y	Other specified fistula of the genitourinary tract
+
+GC04.Z	Fistula of the genitourinary tract, unspecified
+
+  GC05  	Prolapsed urethral mucosa
+A condition characterised by a circular protrusion of the distal urethra mucosa through the external urethral meatus. This condition may be associated with congenital or acquired abnormalities such as weakened pelvic floor structures, trauma, or separation of the longitudinal and circular-oblique smooth muscle layers. This condition is commonly asymptomatic in adolescents, or presents with vaginal bleeding and difficulty urinating in postmenopausal individuals.
+Inclusions:	prolapse of urethra
+Exclusions:	Female urethrocele (GC40.0)
+
+  GC06  	Urethral diverticulum
+A disease of the urethra, caused by an obstruction to the periurethral glands due to subsequent to frequent infection, or congenitally. This disease is characterised by a localised protrusion of the urethra into the anterior vaginal wall, consisting mostly of fibrous tissue. This disease may also present with urinary frequency, urgency, and dysuria. Confirmation is by imaging to determine the extent and location of the diverticulum.
+
+  GC07  	Urethral caruncle
+A condition characterised by small, focal, benign, pink or red polypoid masses of the distal urethral mucosa, which may become painful, bloody, and deep red in colour. This condition may be associated with urogenital atrophy due to estrogen deficiency, and may be aggravated by chronic irritation of urethral mucosa exposure. This condition typically affects postmenopausal women.
+
+  GC08  	Urinary tract infection, site not specified
+Coded Elsewhere:	Urinary tract infection following delivery (JB40.3)
+Neonatal urinary tract infection (KA65.2)
+Pyuria associated with urinary tract infection (MF97)
+
+GC08.0	Urinary tract infection, site not specified, due to Escherichia coli
+
+GC08.1	Urinary tract infection, site not specified, due to Klebsiella pneumoniae
+
+GC08.2	Urinary tract infection, site not specified, due to Proteus
+A disease of the urinary tract, caused by an infection with the gram-negative bacteria Proteus. In females, this disease is characterised by dysuria, pyuria, or pollakiuria; in males, this disease may present with urethral discharge. Transmission is unknown. Confirmation is by identification of Proteus in a urinary sample.
+
+GC08.Y	Urinary tract infection, site not specified due to other agent
+
+GC08.Z	Urinary tract infection, site and agent not specified
+
+  GC0Y  	Other diseases of urinary system
+
+  GC2Z  	Diseases of the urinary system, unspecified
+
+Other conditions of the genitourinary system (BlockL1‑GC4)
+Any disorder characterised by pathological changes to the genitourinary system.
+Female pelvic floor dysfunction (BlockL2‑GC4)
+Any condition affecting females, caused by an altered or lack of function of the female pelvic floor. These conditions are characterised by weakened or tightened pelvic floor muscles, or an impairment of the sacroiliac joint, lower back, coccyx, or hip joint.
+Coded Elsewhere:	Rectal prolapse (DB31.2)
+  GC40  	Pelvic organ prolapse
+The descent of one or more of the anterior vaginal wall, posterior vaginal wall, the uterus (cervix), or the apex of the vagina (vaginal vault) or cuff scar after hysterectomy.
+Exclusions:	Obstructed labour due to abnormality of maternal pelvic organs (JB05.5)
+Maternal care for other abnormalities of gravid uterus (JA84)
+
+GC40.0	Prolapse of anterior vaginal wall
+
+GC40.00	Incomplete anterior vaginal wall prolapse
+Most distal prolapse is 1cm or less proximal or distal to the hymen
+
+GC40.01	Complete anterior vaginal wall prolapse
+
+GC40.0Z	Prolapse of anterior vaginal wall, unspecified
+
+GC40.1	Prolapse of posterior vaginal wall
+
+GC40.10	Incomplete posterior vaginal wall prolapse
+
+GC40.11	Complete posterior vaginal wall prolapse
+
+GC40.1Z	Prolapse of posterior vaginal wall, unspecified
+
+GC40.2	Prolapse of the vaginal apex
+
+GC40.20	Incomplete apical vaginal wall prolapse
+
+GC40.21	Complete apical vaginal wall prolapse
+
+GC40.2Z	Prolapse of the vaginal apex, unspecified
+
+GC40.3	Uterovaginal prolapse
+
+GC40.30	Incomplete uterovaginal prolapse
+A condition caused by weakness, damage, or stretching of the ligaments between the uterus and the vaginal wall, typically subsequent to childbirth. This condition is characterised by stage 1 descensus of the uterus into the vagina, leading to a bulge and distal prolapse greater than 1 centimetre above the hymen or stage 2 descensus with distal prolapse of 1 centimetre or less proximal or distal to the hymen. This condition is may also present with urinary incontinence, sensation of heaviness in the pelvis, or difficulty urinating.
+Exclusions:	Incomplete uterine prolapse with anterior vaginal wall prolapse (GC40.31)
+Incomplete uterine prolapse with posterior vaginal wall prolapse (GC40.32)
+Incomplete uterine prolapse with anterior and posterior vaginal wall prolapse (GC40.33)
+
+GC40.31	Incomplete uterine prolapse with anterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position into the vaginal area in association with herniation of the bladder into the vagina due to tearing of the tough fibrous wall between a woman's bladder and her vagina (the pubovesical fascia).
+
+GC40.32	Incomplete uterine prolapse with posterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position into the vaginal area in association with herniation of the rectum into the vagina, due to a tear in the rectovaginal septum (which is normally a tough, fibrous, sheet-like divider between the rectum and vagina).
+
+GC40.33	Incomplete uterine prolapse with anterior and posterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position into the vaginal area in association with herniation of both the bladder and the rectum into the vagina, due to tears in the tough fibrous wall between a woman's bladder and her vagina (the pubovesical fascia) and in the rectovaginal septum, a tough, fibrous, sheet-like divider between the rectum and vagina.
+
+GC40.34	Complete uterovaginal prolapse
+A condition caused by weakness, damage, or stretching of the ligaments between the uterus and the vaginal wall, typically subsequent to childbirth. This condition is characterised by stage 3 descensus of the uterus into the vagina, leading to a bulge and distal prolapse greater than 1 centimetre below the hymen or stage 4 descensus with complete eversion of the total length of the genital tract. This condition may also present with urinary incontinence, sensation of heaviness in the pelvis, or difficulty urinating.
+
+GC40.35	Complete uterine prolapse with anterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position to at least one cm below the hymen, possibly up to complete eversion of the female genital tract, in association with herniation of the bladder into the vagina due to tearing of the tough fibrous wall between a woman's bladder and her vagina (the pubovesical fascia).
+
+GC40.36	Complete uterine prolapse with posterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position to at least one cm below the hymen, possibly up to complete eversion of the female genital tract, in association with herniation of the rectum into the vagina, due to a tear in the rectovaginal septum (which is normally a tough, fibrous, sheet-like divider between the rectum and vagina).
+
+GC40.37	Complete uterine prolapse with anterior and posterior vaginal wall prolapse
+A condition characterised by the displacement of the uterus from its normal position to at least one cm below the hymen, possibly up to complete eversion of the female genital tract, in association with herniation of both the bladder and the rectum into the vagina, due to tears in the tough fibrous wall between a woman's bladder and her vagina (the pubovesical fascia) and in the rectovaginal septum, a tough, fibrous, sheet-like divider between the rectum and vagina.
+
+GC40.3Z	Uterovaginal prolapse, unspecified
+
+GC40.4	Pelvic floor muscle disruption
+A condition caused by damage or trauma to the muscles of the pelvic floor. This condition is characterised by weakness and dysfunction of the muscle.
+
+GC40.40	Levator avulsion from symphysis pubis
+A condition caused by damage or trauma to the pelvic floor, leading to the detachment of the levator ani muscle fibres from the symphysis pubis. This condition is characterised by weakness and dysfunction of the muscle.
+
+GC40.4Y	Other specified pelvic floor muscle disruption
+
+GC40.4Z	Pelvic floor muscle disruption, unspecified
+
+GC40.5	Urinary incontinence associated with pelvic organ prolapse
+A condition of the urinary system, caused by the abnormal displacement of one or more pelvic organs. This condition is characterised by the involuntary loss of urine. Confirmation is by urinalysis.
+
+GC40.50	Stress Incontinence associated with pelvic organ prolapse
+A condition of the urinary system, caused by weakness of the pelvic floor muscles and an increase in intra-abdominal pressure, leading to pressure on the bladder. This condition is characterised by a shift in the position of the urethra allowing urine to pass easily, and urinary incontinence when coughing, laughing, sneezing, exercising, or other physical activities that increase intra-abdominal pressure.
+
+GC40.51	Urge incontinence associated with pelvic organ prolapse
+A condition of the urinary system, caused by detrusor dysfunction. This condition is characterised by urinary incontinence that accompanies detrusor hyperreflexia when a specific bladder volume is reached, leakage of urine, lack of urge to urinate, or lack of awareness of bladder filling.
+
+GC40.52	Mixed urinary incontinence associated with pelvic organ prolapse
+A condition of the urinary system, caused by detrusor overactivity and impaired urethral function. This condition is characterised by a mix of stress and urge incontinence symptoms including involuntary loss of urine, urinary urgency, urinary frequency, or urinary incontinence when coughing, laughing, sneezing, exercising, or other physical activities that increase intra-abdominal pressure.
+
+GC40.53	Overflow incontinence associated with pelvic organ prolapse
+A condition of the urinary system, caused by the incomplete emptying of urine from the bladder and an acontractile detrusor muscle. This condition is characterised by urinary incontinence and leakage of urine in small volumes. This condition may be associated with obstruction, weak bladder muscles, injury, pharmacological use, diabetes mellitus, nerve damage or nervous system dysfunction.
+
+GC40.54	Urinary incontinence, not otherwise specified with pelvic organ prolapse
+
+GC40.6	Functional bladder disorders associated with pelvic organ prolapse
+Any condition characterised by urinary postponement, stress incontinence, urge incontinence, urinary urgency, or urinary incontinence, or dysfunctional urinary voiding. These conditions are associated with abnormal displacement of one or more pelvic organs.
+Exclusions:	Diurnal enuresis (6C00.1)
+Enuresis (6C00)
+Nocturnal and diurnal enuresis (6C00.2)
+Nocturnal enuresis (6C00.0)
+Coded Elsewhere:	Absent or diminished bladder sensation associated with pelvic organ prolapse (GC50.10)
+
+GC40.60	Overactive bladder associated with pelvic organ prolapse
+A condition of the bladder, caused by impaired kidney function, dysfunctional or absent nerve innervation, involuntary contraction of the bladder muscles, diabetes, pharmacological use, or infection. This condition is characterised by a sudden urge to urinate, urinary frequency, and urge incontinence. This condition may also present with nocturia.
+
+GC40.6Y	Other specified functional bladder disorders associated with pelvic organ prolapse
+
+GC40.6Z	Functional bladder disorders associated with pelvic organ prolapse, unspecified
+
+GC40.Z	Pelvic organ prolapse, unspecified
+
+  GC41  	Anorectal dysfunction associated with pelvic organ prolapse
+Any condition characterised by abnormal or absent function of the anus and rectum and dysfunctional defecation or flatus. These conditions are associated with abnormal displacement of one or more pelvic organs.
+
+  GC42  	Sexual dysfunction associated with pelvic organ prolapse
+A condition affecting women, characterised by difficulties experienced in the sensations or function of the genital system during normal sexual activity. This condition is associated with abnormal displacement of the vagina, introitus, or pelvic floor tissues.
+
+GC42.0	Diminished sensation due to vaginal or introital laxity
+A condition characterised by decreased or absent feeling due to decreased muscle tone in the vaginal muscles or at the vaginal opening (introitus).
+
+GC42.1	Obstructed intercourse
+A condition of the genital system, caused by obstruction or blockage in the vaginal canal, or hypertonicity of the vaginal muscles. This condition is characterised by the inability to engage in vaginal sexual intercourse.
+
+  GC4Z  	Female pelvic floor dysfunction, unspecified
+
+  GC50  	Functional bladder disorders, not otherwise specified
+Any other condition characterised by symptoms that include overactive bladder syndrome, voiding postponement, stress incontinence, giggle incontinence, and dysfunctional voiding in children, without further specification.
+Exclusions:	Diurnal enuresis (6C00.1)
+Nocturnal and diurnal enuresis (6C00.2)
+Enuresis (6C00)
+Nocturnal enuresis (6C00.0)
+
+GC50.0	Overactive bladder
+A urological condition characterised by urgency and frequency, as well as the potential for nocturia, which may or may not be accompanied by incontinence.
+Exclusions:	Diurnal enuresis (6C00.1)
+Nocturnal and diurnal enuresis (6C00.2)
+Enuresis (6C00)
+Nocturnal enuresis (6C00.0)
+Coded Elsewhere:	Overactive bladder associated with pelvic organ prolapse (GC40.60)
+
+GC50.1	Absent or diminished bladder sensation
+A condition of the bladder, caused by lack of muscle tone, dysfunctional or absent innervation, or chronic obstruction. This condition is characterised by a large, dilated bladder and incomplete bladder emptying.
+
+GC50.10	Absent or diminished bladder sensation associated with pelvic organ prolapse
+
+GC50.1Y	Other specified absent or diminished bladder sensation
+
+GC50.1Z	Absent or diminished bladder sensation, unspecified
+
+GC50.Y	Other specified functional bladder disorders, not otherwise specified
+
+GC50.Z	Functional bladder disorders, not otherwise specified, unspecified
+
+  GC51  	Female Genital Mutilation
+A condition caused by procedures or other interventions for non-medical purposes. This condition is characterised by the partial or total removal of the external female genitalia or other injury to the female genital organs.
+Exclusions:	Traumatic amputation of entire vulva (NB93.24)
+Traumatic amputation of part of vulva (NB93.25)
+
+GC51.0	Female Genital Mutilation Type 1
+Vulvar abnormality caused by partial or total removal of the clitoris and/or the prepuce (clitoridectomy).
+
+GC51.00	Female Genital Mutilation Type 1a
+Removal of the clitoral hood or prepuce only.
+
+GC51.01	Female Genital Mutilation Type 1b
+Removal of the clitoris with the prepuce.
+
+GC51.0Z	Female Genital Mutilation Type 1, unspecified
+
+GC51.1	Female Genital Mutilation Type 2
+Vulvar abnormality caused by partial or total removal of the clitoris and the labia minora, with or without excision of the labia majora (excision).
+
+GC51.10	Female Genital Mutilation Type 2a
+Removal of the labia minora only.
+
+GC51.11	Female Genital Mutilation Type 2b
+Partial or total removal of the clitoris and the labia minora.
+
+GC51.12	Female Genital Mutilation Type 2c
+Partial or total removal of the clitoris, the labia minora and the labia majora.
+
+GC51.1Z	Female Genital Mutilation Type 2, unspecified
+
+GC51.2	Female Genital Mutilation Type 3
+Vulvar/vaginal abnormality caused by narrowing of the vaginal orifice with a covering seal, as a result from cutting and appositioning the labia minora and/or the labia majora, with or without excision of the clitoris (infibulation).
+
+GC51.20	Female Genital Mutilation Type 3a
+Removal and apposition of the labia minora.
+
+GC51.21	Female Genital Mutilation Type 3b
+Removal and apposition of the labia majora.
+
+GC51.2Z	Female Genital Mutilation Type 3, unspecified
+
+GC51.3	Female Genital Mutilation Type 4
+All other harmful procedures to the female genitalia for non-medical purposes, for example: pricking, piercing, incising, scraping and cauterization.
+
+GC51.Z	Female Genital Mutilation, unspecified
+
+Postprocedural disorders of genitourinary system (BlockL1‑GC7)
+Any disorder caused by or subsequent to any intervention of the genitourinary system.
+Exclusions:	Irradiation cystitis (GC00)
+States associated with artificial menopause (GA30.3)
+Coded Elsewhere:	Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+  GC70  	Postoperative adhesions of vagina
+A condition caused by or subsequent to any vaginal surgery or intervention. This condition is characterised by fibrous bands of scar tissue between the intravaginal tissues (intravaginal adhesions). This condition may also present with pelvic pain and dyspareunia.
+
+  GC71  	Prolapse of vaginal vault after hysterectomy
+A condition of the vagina, caused by or subsequent to hysterectomy. This condition is characterised by descensus of the vaginal vault that may also lead to weakening of the vaginal walls.
+
+  GC72  	Postprocedural urethral stricture
+Urethral stricture caused by catheterization, transurethral manipulations (e.g. transurethral resections), urethral instillations, or irradiation exposure
+
+  GC73  	Postprocedural pelvic peritoneal adhesions
+A condition caused by or subsequent to any pelvic intervention leading to damage and inflammation of the peritoneum. This condition is characterised by fibrous bands of scar tissue and abnormal connection between pelvic organs or tissues. This condition may also present with pelvic pain or bowel obstruction.
+Exclusions:	Endometriosis (GA10)
+
+  GC74  	Malfunction or complication of external stoma of urinary tract
+A condition caused by a surgically created opening connecting the urinary tract to the external environment. This condition is characterised by dysfunction or decreased function of the incision.
+Exclusions:	Postsurgical leak (NE81.3)
+
+  GC75  	Malfunction of the afferent segment of a continent urinary pouch
+A condition characterised by the dysfunction or lack of function of a surgically created urine reservoir within the body, specifically along the path by which urine enters the pouch.
+
+  GC76  	Malfunction of the efferent segment of a continent urinary pouch
+A condition characterised by the dysfunction or lack of function of a surgically created urine reservoir within the body, specifically along the path by which urine exits the pouch.
+
+  GC77  	Postprocedural nonmenstrual uterine bleeding
+Uterine bleeding occurring after procedure (i.e. uterine surgery, induced abortion, …)
+
+  GC78  	Postprocedural acute female pelvic inflammatory disease
+
+  GC79  	Disorders of breast reduction
+
+  GC7A  	Disorders of breast augmentation
+A group of disorders that may arise in concert with or subsequent to the surgical placement of breast implants.
+
+  GC7B  	Postinterventional ischemia or infarction of kidney
+This refers to a restriction in blood supply to tissues of the kidney due to a health care intervention causing a shortage of oxygen and glucose needed for cellular metabolism resulting in the death of kidney tissue cells.
+
+
+  GC8Y  	Other specified diseases of the genitourinary system
+
+  GC8Z  	Diseases of the genitourinary system, unspecified
+

@@ -1,0 +1,4887 @@
+CHAPTER 22
+Injury, poisoning or certain other consequences of external causes
+This chapter has 235 four-character categories.
+Code range starts with NA00
+In the ICD, injury means physical or physiological bodily harm resulting from interaction of the body with energy (mechanical, thermal, electrical, chemical or radiant, or due to extreme pressure) in an amount, or at a rate of transfer, that exceeds physical or physiological tolerance. Injury can also result from lack of vital elements, such as oxygen. Poisoning by and toxic effects of substances are included, as is damage of or due to implanted devices. Maltreatment syndromes are included even if physical or physiological bodily harm has not been reported. Otherwise, psychological effects are not included (e.g. injured feelings).
+Injury usually has rapid onset in response to a well-defined event (e.g. a car crash, striking the ground after falling, drinking a strongly alkaline liquid, an overdose of a medication, a burn sustained during a surgical procedure). These events are often referred to as external causes of injury. The injurious energy can, however, originate from the injured person and/or from his or her immediate environment (e.g. a person running on a hot day sustains heat exhaustion), and injury can be caused by the injured person (i.e. intentional self-harm).
+Injury includes manifestations that are evident immediately after onset, which may persist or not, and manifestations that first become evident at a later date.
+Exclusions:	Stress fracture, not elsewhere classified (FB80.A)
+Pathological fracture, not elsewhere classified (FB80.B)
+Certain specified obstetric trauma (JB0A)
+Malunion of fracture (FB80.7)
+Birth injury (BlockL1‑KA4)
+Nonunion of fracture (FB80.8)
+This chapter contains the following top level blocks:
+•	Injuries to the head
+•	Injuries to the neck
+•	Injuries to the thorax
+•	Injuries to the abdomen, lower back, lumbar spine or pelvis
+•	Injuries to the shoulder or upper arm
+•	Injuries to the elbow or forearm
+•	Injuries to the wrist or hand
+•	Injuries to the hip or thigh
+•	Injuries to the knee or lower leg
+•	Injuries to the ankle or foot
+•	Injuries involving multiple body regions
+•	Injuries to unspecified part of trunk, limb or body region
+•	Effects of foreign body entering through natural orifice
+•	Burns
+•	Frostbite
+•	Harmful effects of substances
+•	Injury or harm arising from surgical or medical care, not elsewhere classified
+•	Other or unspecified effects of external causes
+
+Injuries to the head (BlockL1‑NA0)
+Coding Note:	This Block includes the following:
+• injuries of face [any part]
+• injuries of gum
+• injuries of jaw
+• injuries of oral cavity
+• injuries of palate
+• injuries of periocular area
+• injuries of scalp
+• injuries of temporomandibular joint area
+• injuries of tongue
+• injuries of tooth
+Exclusions:	Foreign body in ear (ND71)
+Foreign body in mouth (ND73.0)
+Foreign body in larynx (ND72.3)
+Foreign body in pharynx (ND72.2)
+Foreign body in nostril (ND72.1)
+Burns (BlockL1‑ND9)
+Frostbite (BlockL1‑NE4)
+Foreign body on external eye (ND70)
+Coded Elsewhere:	Epilepsy due to injuries to the head (8A60.5)
+  NA00  	Superficial injury of head
+Damage inflicted on the surface or shallow tissues of the head as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Exclusions:	Injury of eye or orbit (NA06)
+cerebral contusion (diffuse) focal (NA07.4)
+
+NA00.0	Superficial injury of scalp
+Coded Elsewhere:	Birth injury to scalp (KA42)
+
+NA00.00	Abrasion of scalp
+
+NA00.01	Contusion of scalp
+Coded Elsewhere:	Bruising of scalp due to birth injury (KA42.0)
+
+NA00.02	Superficial foreign body in scalp
+
+NA00.0Y	Other specified superficial injury of scalp
+
+NA00.0Z	Superficial injury of scalp, type unspecified
+
+NA00.1	Superficial injury of eyelid or periocular area
+
+NA00.10	Abrasion of eyelid or periocular area
+
+NA00.11	Contusion of eyelid or periocular area
+Inclusions:	black eye
+Exclusions:	Contusion of eyeball or orbital tissues (NA06.9)
+
+NA00.12	Other superficial injuries of eyelid or periocular area
+Exclusions:	superficial injury of conjunctiva and cornea (NA06.4)
+
+NA00.1Y	Other specified superficial injury of eyelid or periocular area
+
+NA00.1Z	Superficial injury of eyelid or periocular area, unspecified
+
+NA00.2	Superficial injury of ear
+Damage inflicted on the surface or shallow tissues of the ear as the direct or indirect result of an external force, with or without disruption of structural continuity.
+
+NA00.3	Superficial injury of nose
+
+NA00.4	Superficial injury of lip or oral cavity
+
+NA00.5	Multiple superficial injuries of head
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA00.6	Abrasion of other or unspecified sites of head
+
+NA00.7	Contusion of other or unspecified sites of head
+
+NA00.Y	Superficial injury of other specified part of head
+
+NA00.Z	Superficial injury of unspecified part of head
+
+  NA01  	Open wound of head
+Exclusions:	Decapitation (NA63)
+Traumatic amputation of part of head (NA09)
+Injury of eye or orbit (NA06)
+Coded Elsewhere:	Open wound of eyelid or periocular area (NA06.04)
+
+NA01.2	Laceration without foreign body of head
+Inclusions:	laceration of skin of head
+
+NA01.3	Laceration with foreign body of head
+
+NA01.4	Puncture wound without foreign body of head
+
+NA01.5	Puncture wound with foreign body of head
+
+NA01.6	Open bite of head
+
+NA01.7	Multiple open wounds of head
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA01.Y	Other specified open wound of head
+
+NA01.Z	Open wound of head, unspecified
+
+  NA02  	Fracture of skull or facial bones
+Coded Elsewhere:	Fracture of skull due to birth injury (KA45.0)
+Birth injury to facial bones (KA45.2)
+
+NA02.0	Fracture of vault of skull
+
+NA02.00	Fracture of squama of frontal bone of skull
+
+NA02.01	Fracture of parietal bone of skull
+
+NA02.02	Fracture of squama of temporal bone of skull
+
+NA02.03	Fracture of squama of occipital bone of skull
+
+NA02.1	Fracture of base of skull
+Fractures which extend through the base of the skull, usually involving the petrous bone.
+Exclusions:	Fracture of orbital floor (NA02.21)
+fracture of orbit NOS (NA02.2)
+
+NA02.10	Fracture of anterior fossa of base of skull
+
+NA02.11	Fracture of middle fossa of base of skull
+
+NA02.12	Fracture of posterior fossa of base of skull
+
+NA02.13	Fracture of sinus of ethmoid bone of skull
+
+NA02.14	Fracture of frontal sinus of skull
+
+NA02.15	Fracture of sphenoid bone of skull
+
+NA02.16	Fracture of occipital condyle of skull, type I
+
+NA02.17	Fracture of occipital condyle of skull, type II
+
+NA02.18	Fracture of occipital condyle of skull, type III
+
+NA02.19	Fracture of other part of occipital bone of skull
+
+NA02.1A	Other fractures of base of skull
+
+NA02.1Z	Fracture of base of skull, unspecified
+
+NA02.2	Orbital fracture
+
+NA02.20	Fracture of orbital roof
+
+NA02.21	Fracture of orbital floor
+Exclusions:	Fracture of orbital roof (NA02.20)
+
+NA02.2Y	Other specified orbital fracture
+
+NA02.2Z	Orbital fracture, unspecified
+
+NA02.3	Fracture of nasal bones
+
+NA02.4	Fracture of maxilla
+
+NA02.40	Le Fort fracture type I
+
+NA02.41	Le Fort fracture type II
+
+NA02.42	Le Fort fracture type III
+
+NA02.4Y	Other specified fracture of maxilla
+
+NA02.4Z	Fracture of maxilla, unspecified
+
+NA02.5	Fracture of zygoma
+Inclusions:	Fracture of malar
+
+NA02.6	Fracture of tooth
+Inclusions:	Broken tooth
+Exclusions:	Nontraumatic fracture of tooth (DA08.3)
+
+NA02.7	Fracture of mandible
+Fracture of the largest and strongest bone of the face constituting the lower jaw.
+
+NA02.70	Fracture of condylar process of mandible
+Condylar process fractures are defined as fractures running above or posterior to a line confined by the sigmoid notch line and the masseteric notch line. The mandibular condylar process comprises three fracture levels and is subdivided into the head region, the condylar neck, and the condylar base. Fractures of the condylar head show typical fracture lines either within the lateral pole zone, which may lead to loss of vertical height, or medially to the pole zone, with the latter ones usually not compromising the vertical condyle to disc and fossa relation. Fractures of the condylar neck and base can be differentiated according to radiologically based rules with regard to the proportion of the fracture line above and below the level of the sigmoid notch, and are basically subdivided according to the presence or absence of displacement or dislocation. Further parameters for definition are presence or absence of fragmentation, sideward displacement (medially or laterally), angulation of the superior main fragment and fracture-site geometry (e.g. straight or oblique, interfragmentary interdigitation)
+Exclusions:	Fracture of ramus of mandible (NA02.73)
+Fracture of subcondylar process of mandible (NA02.71)
+
+NA02.71	Fracture of subcondylar process of mandible
+
+NA02.72	Fracture of coronoid process of mandible
+
+NA02.73	Fracture of ramus of mandible
+
+NA02.74	Fracture of angle of mandible
+
+NA02.75	Fracture of alveolar margin of mandible
+
+NA02.76	Fracture of symphysis of mandible
+
+NA02.7Y	Other specified fracture of mandible
+
+NA02.7Z	Fracture of mandible, unspecified
+
+NA02.8	Multiple fractures involving skull or facial bones
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA02.Y	Fracture of other specified skull or facial bones
+
+NA02.Z	Fracture of skull and facial bones, part unspecified
+
+  NA03  	Dislocation or strain or sprain of joints or ligaments of head
+
+NA03.0	Dislocation of jaw
+Displacement of the mandible, the largest and strongest bone of the face constituting the lower jaw. Dislocation of the temporomandibular joint is a painful condition that occurs when the mandibular condyle becomes fixed in the anterosuperior aspect of the articular eminence.
+TMJ dislocation is due to either trauma or, more commonly, excessive opening of the mandible. Spasm of the masseter, temporalis, and internal pterygoid muscles results in trismus, preventing return of the condyle to the temporal fossa.
+Exclusions:	disc displacement (internal derangement of the TMJ) (DA0E.8)
+
+NA03.1	Dislocation of septal cartilage of nose
+
+NA03.2	Dislocation of tooth
+
+NA03.3	Strain or sprain of jaw
+A collective term for muscle and ligament injuries of the tissues associated with the mandible without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NA03.Y	Dislocation or sprain of other specified joints or ligaments of head
+
+NA03.Z	Dislocation or strain or sprain of joints or ligaments of head, unspecified
+
+  NA04  	Injury of cranial nerves
+Coded Elsewhere:	Birth injury to cranial nerves (KA44.0)
+
+NA04.0	Injury of olfactory nerve
+
+NA04.1	Injury of optic nerve or pathways
+
+NA04.10	Injury of optic nerve, unilateral
+Coded Elsewhere:	Traumatic optic neuropathy (9C40.7)
+
+NA04.11	Injury of optic nerve, bilateral
+Coded Elsewhere:	Traumatic optic neuropathy (9C40.7)
+
+NA04.12	Injury of optic chiasm
+
+NA04.13	Injury of optic tract or pathways, unilateral
+
+NA04.14	Injury of optic tract or pathways, bilateral
+
+NA04.15	Injury of visual cortex, unilateral
+
+NA04.16	Injury of visual cortex, bilateral
+
+NA04.1Y	Other specified injury of optic nerve or pathways
+
+NA04.1Z	Injury of optic nerve or pathways, unspecified
+
+NA04.2	Injury of oculomotor nerve
+
+NA04.3	Injury of trochlear nerve
+
+NA04.4	Injury of trigeminal nerve
+
+NA04.5	Injury of abducent nerve
+
+NA04.6	Injury of facial nerve
+
+NA04.7	Injury of acoustic nerve
+
+NA04.8	Injury of glossopharyngeal nerve
+
+NA04.9	Injury of vagus nerve
+
+NA04.A	Injury of accessory nerve
+
+NA04.B	Injury of hypoglossal nerve
+
+NA04.Z	Injury of cranial nerves, unspecified
+
+  NA05  	Injury of blood vessels of head
+
+NA05.0	Injury of intracranial vessels of head
+
+NA05.1	Injury of extracranial vessels of head
+
+NA05.Z	Injury of blood vessels of head, unspecified
+
+  NA06  	Injury of eye or orbit
+Exclusions:	Orbital fracture (NA02.2)
+Injury of optic nerve, unilateral (NA04.10)
+Injury of oculomotor nerve (NA04.2)
+superficial injury of eyelid (NA00.12)
+Coded Elsewhere:	Birth injury to eye (KA41)
+
+NA06.0	Eyelid trauma
+Coded Elsewhere:	Contusion of eyelid or periocular area (NA00.11)
+Chemical burn of eyelid and periocular area (NE00)
+
+NA06.00	Eyelid Avulsion
+This an injury in which a body structure is forcibly detached from its normal point of insertion by either trauma or surgery. The term most commonly refers to a surface trauma where all layers of the skin have been torn away, exposing the underlying structures (i.e.—subcutaneous tissue, muscle, tendons, or bone). This is similar to an abrasion but more severe, where the eyelid can be partially or fully detached from the body.
+
+NA06.01	Haematoma of eyelid
+
+NA06.02	Oedema of eyelid
+
+NA06.03	Retained foreign body in eyelid
+
+NA06.04	Open wound of eyelid or periocular area
+
+NA06.0Y	Other specified eyelid trauma
+
+NA06.0Z	Eyelid trauma, unspecified
+
+NA06.1	Penetrating wound of orbit with or without foreign body
+Exclusions:	Retained foreign body following penetrating wound of orbit (NA06.2)
+
+NA06.2	Retained foreign body following penetrating wound of orbit
+Exclusions:	Penetrating wound of orbit with or without foreign body (NA06.1)
+Traumatic injury to eyeball (NA06.8)
+
+NA06.3	Traumatic orbital haemorrhage
+This is the loss of blood or blood escaping from the circulatory system, of the cavity or socket of the skull in which the eye and its appendages are situated.
+
+NA06.4	Injury of conjunctiva or corneal abrasion without mention of foreign body
+Exclusions:	Foreign body in cornea (ND70.0)
+Foreign body in conjunctival sac (ND70.1)
+
+NA06.5	Trauma to the iris sphincter
+This refers to trauma to the muscle in the part of the eye called the iris. It encircles the pupil of the iris, appropriate to its function as a constrictor of the pupil.
+
+NA06.6	Traumatic injuries of the retina
+This refers to traumatic injuries of the light-sensitive layer of tissue, lining the inner surface of the eye. The optics of the eye create an image of the visual world on the retina, which serves much the same function as the film in a camera.
+
+NA06.60	Traumatic macular hole
+Exclusions:	Non-traumatic macular hole (9B75.1)
+
+NA06.61	Choroidal rupture
+
+NA06.62	Commotio Retina
+
+NA06.63	Optic nerve avulsion
+
+NA06.6Y	Other specified traumatic injuries of the retina
+
+NA06.6Z	Traumatic injuries of the retina, unspecified
+
+NA06.7	Traumatic retinal haemorrhage
+
+NA06.8	Traumatic injury to eyeball
+Coded Elsewhere:	Chemical burn with resulting rupture or destruction of eyeball (NE00)
+
+NA06.80	Retained intraocular magnetic foreign body, unilateral
+Inclusions:	old magnetic foreign body in eyeball
+
+NA06.81	Retained intraocular nonmagnetic foreign body, unilateral
+
+NA06.82	Closed eyeball trauma, unilateral
+
+NA06.83	Closed eyeball trauma, bilateral
+
+NA06.84	Penetrating wound of eyeball without foreign body, unilateral
+
+NA06.85	Avulsion of eye, unilateral
+Inclusions:	Traumatic enucleation
+
+NA06.86	Avulsion of eye, bilateral
+
+NA06.87	Ocular laceration or rupture with prolapse or loss of intraocular tissue, unilateral
+Forcible or traumatic tearing or breaking of the eyeball with protrusion or loss of the tissues and fluids located within the eyeball.
+
+NA06.88	Ocular laceration or rupture with prolapse or loss of intraocular tissue, bilateral
+
+NA06.89	Penetrating injury of eyeball, bilateral
+
+NA06.8A	Perforating injury of eyeball, bilateral
+
+NA06.8B	Retained intraocular magnetic foreign body, bilateral
+
+NA06.8C	Retained intraocular nonmagnetic foreign body, bilateral
+
+NA06.8D	Ocular laceration without prolapse or loss of intraocular tissue, unilateral
+
+NA06.8E	Ocular laceration without prolapse or loss of intraocular tissue, bilateral
+
+NA06.8Y	Other specified traumatic injury to eyeball
+
+NA06.8Z	Traumatic injury to eyeball, unspecified
+
+NA06.9	Contusion of eyeball or orbital tissues
+Injuries to the eyeball and surrounding tissue resulting in haemorrhage, usually manifested in the skin.
+Exclusions:	black eye (NA00.11)
+Contusion of eyelid or periocular area (NA00.11)
+
+NA06.A	Injury of lens
+
+NA06.Y	Other specified injury of eye or orbit
+
+NA06.Z	Injury of eye or orbit, unspecified
+
+  NA07  	Intracranial injury
+Damage inflicted on the tissues of the brain as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Coded Elsewhere:	Intracranial laceration or haemorrhage due to birth injury (KA40.0)
+Epilepsy due to injuries to the head (8A60.5)
+
+NA07.0	Concussion
+Loss or diminution of consciousness due to injury.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Commotio cerebri
+
+NA07.00	Incomplete loss of consciousness with amnesia
+
+NA07.01	Incomplete loss of consciousness without amnesia
+
+NA07.02	Loss of consciousness, short duration of less than 30 minutes
+
+NA07.03	Loss of consciousness, short duration of 30 minutes to less than one hour
+
+NA07.04	Loss of consciousness, short duration of one hour to less than 6 hours
+
+NA07.05	Loss of consciousness, intermediate duration of 6 hours to less than 24 hours
+
+NA07.06	Loss of consciousness, persisting longer than 24 hours or until discharge or latest assessment
+
+NA07.07	Loss of consciousness, persisting until death
+
+NA07.08	Loss of consciousness, duration unspecified or unknown due to effects of therapy
+
+NA07.09	Loss of consciousness, duration unspecified or unknown due to lack of information
+
+NA07.0Y	Other specified concussion
+Coding Note:	Code aslo the causing condition
+
+NA07.1	Traumatic intracerebral haemorrhage
+Inclusions:	traumatic intracerebral haematoma
+
+NA07.2	Traumatic cerebral oedema
+Coded Elsewhere:	Cerebral oedema due to birth injury (KA40.1)
+
+NA07.20	Diffuse traumatic oedema
+
+NA07.21	Focal traumatic oedema
+
+NA07.2Y	Other specified traumatic cerebral oedema
+
+NA07.2Z	Traumatic cerebral oedema, unspecified
+
+NA07.3	Diffuse brain injury
+Coded Elsewhere:	Cerebral contusion due to birth injury (KA40.07)
+
+NA07.30	Diffuse injury of cerebrum
+
+NA07.31	Diffuse injury of cerebellum
+Coded Elsewhere:	Cerebellar contusion due to birth injury (KA40.06)
+
+NA07.32	Diffuse injury of brainstem
+Coded Elsewhere:	Birth injury to brainstem (KA40.3)
+
+NA07.33	Diffuse injury of multiple parts of brain
+
+NA07.3Y	Other specified diffuse brain injury
+
+NA07.3Z	Unspecified diffuse traumatic brain injury
+
+NA07.4	Focal brain injury
+
+NA07.40	Focal non-haemorrhagic contusion of cerebrum
+
+NA07.41	Focal haemorrhagic contusion of cerebrum
+
+NA07.42	Focal laceration of cerebrum
+
+NA07.43	Multiple focal injuries of cerebrum
+
+NA07.44	Focal non-haemorrhagic contusion of cerebellum
+
+NA07.45	Focal haematoma or haemorrhage of cerebellum
+
+NA07.46	Focal laceration of cerebellum
+
+NA07.47	Multiple focal injuries of cerebellum
+
+NA07.48	Focal non-haemorrhagic contusion of brainstem
+
+NA07.49	Focal haematoma or haemorrhage of brainstem
+
+NA07.4A	Contusion of temporal lobe
+
+NA07.4B	Focal laceration of brainstem
+
+NA07.4C	Focal brain contusion
+
+NA07.4D	Focal brain laceration
+
+NA07.4E	Contusion of parietal lobe
+
+NA07.4F	Contusion of occipital lobe
+
+NA07.4Z	Unspecified focal traumatic brain injury
+
+NA07.5	Traumatic epidural haemorrhage
+Coded Elsewhere:	Extradural or epidural haemorrhage due to birth injury (KA40.08)
+
+NA07.6	Traumatic subdural haemorrhage
+Exclusions:	Nontraumatic subdural haemorrhage (8B02)
+Coded Elsewhere:	Subdural haemorrhage due to birth injury (KA40.00)
+
+NA07.7	Traumatic subarachnoid haemorrhage
+Coded Elsewhere:	Subarachnoid haemorrhage due to birth injury (KA40.04)
+
+NA07.8	Traumatic haemorrhage in brain tissue
+
+NA07.80	Traumatic haemorrhage in cerebrum white matter
+
+NA07.81	Traumatic haemorrhage in thalamus or basal ganglia
+
+NA07.82	Traumatic haemorrhage in cerebellum
+
+NA07.83	Traumatic haemorrhage in brainstem
+
+NA07.84	Traumatic haemorrhage in brainstem, primary
+
+NA07.85	Traumatic haemorrhage in brainstem, secondary
+
+NA07.86	Multiple traumatic haemorrhages
+
+NA07.8Y	Other specified traumatic haemorrhage in brain tissue
+
+NA07.8Z	Traumatic haemorrhage in brain tissue, unspecified
+
+NA07.Y	Other specified intracranial injury
+
+NA07.Z	Intracranial injury, unspecified
+
+  NA08  	Crushing injury of head
+Damage inflicted on the tissues of the head as the direct or indirect result of an crushing external force.
+
+NA08.0	Crushing injury of brain
+
+NA08.1	Crushing injury of face
+
+NA08.2	Crushing injury of skull
+Exclusions:	with crushing injury of brain (NA08.0)
+
+NA08.3	Crushed scalp
+
+NA08.Y	Other specified crushing injury of head
+
+NA08.Z	Crushing injury of head, unspecified
+
+  NA09  	Traumatic amputation of part of head
+Exclusions:	Decapitation (NA63)
+
+NA09.0	Avulsion of scalp
+
+NA09.1	Traumatic amputation of ear
+
+NA09.10	Traumatic amputation of ear, complete
+
+NA09.11	Traumatic amputation of ear, partial
+
+NA09.1Y	Other specified traumatic amputation of ear
+
+NA09.1Z	Traumatic amputation of ear, unspecified
+
+NA09.2	Traumatic amputation of nose
+
+NA09.20	Traumatic amputation of nose, complete
+
+NA09.21	Traumatic amputation of nose, partial
+
+NA09.2Y	Other specified traumatic amputation of nose
+
+NA09.2Z	Traumatic amputation of nose, unspecified
+
+NA09.3	Traumatic amputation of lip
+
+NA09.Y	Other specified traumatic amputation of part of head
+
+NA09.Z	Traumatic amputation of part of head, unspecified
+
+  NA0A  	Certain specified injuries of head
+Coded Elsewhere:	Decapitation (NA63)
+
+NA0A.0	Complex wounds to the head
+Exclusions:	Decapitation (NA63)
+
+NA0A.00	Complex wounds to the head with retained external material
+
+NA0A.01	Complex wounds to the head with intracranial haemorrhage
+
+NA0A.02	Complex wounds to the head with through and through perforation
+
+NA0A.03	Complex wounds to the head with avulsive loss of part of skull and cranial contents
+
+NA0A.0Y	Other specified complex wounds to the head
+
+NA0A.0Z	Complex wounds to the head, unspecified
+
+NA0A.1	Injury of muscle, fascia or tendon of head
+
+NA0A.10	Strain or sprain of muscle, fascia or tendon of head
+
+NA0A.11	Laceration of muscle, fascia or tendon of head
+
+NA0A.1Y	Other specified injury of muscle, fascia or tendon of head
+
+NA0A.1Z	Injury of muscle, fascia or tendon of head, unspecified
+
+NA0A.2	Traumatic rupture of ear drum
+
+NA0A.3	Multiple injuries of head
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA0A.Y	Other specified injuries of head
+
+  NA0B  	Injury of the auricle
+Exclusions:	Haematoma of auricle (NA00.2)
+Superficial injury of ear auricle (NA00.2)
+
+  NA0C  	Injury of middle or inner ear
+
+  NA0Z  	Injuries to the head, unspecified
+Coding Note:	This Block includes the following:
+• injuries of face [any part]
+• injuries of gum
+• injuries of jaw
+• injuries of oral cavity
+• injuries of palate
+• injuries of periocular area
+• injuries of scalp
+• injuries of temporomandibular joint area
+• injuries of tongue
+• injuries of tooth
+
+Injuries to the neck (BlockL1‑NA2)
+Coding Note:	This Block includes the following:
+• injuries of nape
+• injuries of supraclavicular region
+• injuries of throat
+Exclusions:	injury of spinal cord NOS (ND51)
+Frostbite (BlockL1‑NE4)
+injury of trunk NOS (BlockL1‑ND5)
+fracture of spine NOS (ND50)
+effects of foreign body in: larynx (ND72.3)
+effects of foreign body in: oesophagus (ND73.1)
+effects of foreign body in: pharynx (ND72.2)
+effects of foreign body in: trachea (ND72.4)
+burns and corrosions (ND90)
+  NA20  	Superficial injury of neck
+Coded Elsewhere:	Sequelae of superficial injury or open wound of neck or trunk (NF2Y)
+
+NA20.0	Abrasion of throat
+
+NA20.1	Contusion of throat
+
+NA20.2	Other or unspecified superficial injuries of throat
+
+NA20.3	Multiple superficial injuries of neck
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA20.Y	Other specified superficial injury of neck
+
+NA20.Z	Superficial injury of neck, unspecified
+
+  NA21  	Open wound of neck
+Exclusions:	Decapitation (NA63)
+
+NA21.0	Laceration without foreign body of neck
+Inclusions:	laceration of skin of neck
+
+NA21.1	Laceration with foreign body of neck
+
+NA21.2	Puncture wound without foreign body of neck
+
+NA21.3	Puncture wound with foreign body of neck
+
+NA21.4	Open bite of neck
+
+NA21.5	Multiple open wounds of neck
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA21.Y	Other specified open wound of neck
+
+NA21.Z	Open wound of neck, unspecified
+
+  NA22  	Fracture of neck
+Inclusions:	fracture of cervical neural arch
+fracture of cervical spine
+fracture of cervical spinous process
+fracture of cervical transverse process
+fracture of cervical vertebra
+fracture of cervical vertebral arch
+
+NA22.0	Fracture of first cervical vertebra
+
+NA22.00	Fracture of first cervical vertebra, burst fracture
+
+NA22.01	Fracture of posterior arch of first cervical vertebra
+
+NA22.02	Fracture of lateral mass of first cervical vertebra
+
+NA22.03	Other fracture of first cervical vertebra
+
+NA22.0Z	Fracture of first cervical vertebra, unspecified
+
+NA22.1	Fracture of second cervical vertebra
+
+NA22.10	Traumatic spondylolisthesis of second cervical vertebra, type III
+
+NA22.11	Other traumatic spondylolisthesis of second cervical vertebra
+
+NA22.12	Fracture of odontoid process
+
+NA22.13	Other fracture of second cervical vertebra
+
+NA22.1Z	Fracture of second cervical vertebra, unspecified
+
+NA22.2	Fracture of other specified cervical vertebra
+
+NA22.3	Multiple fractures of cervical spine
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA22.Z	Fracture of neck, unspecified
+
+  NA23  	Dislocation or strain or sprain of joints or ligaments at neck level
+
+NA23.0	Traumatic rupture of cervical intervertebral disc
+
+NA23.1	Dislocation of cervical vertebra
+Displacement of one or more bones of the cervical spine
+
+NA23.10	Cranio-cervical dissociation
+
+NA23.11	Atlanto-axial dislocation
+
+NA23.12	Dislocation of other specified cervical vertebra
+
+NA23.1Z	Dislocation of cervical vertebra, unspecified
+
+NA23.2	Dislocation of other or unspecified parts of neck
+
+NA23.3	Multiple dislocations of neck
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA23.4	Strain or sprain of cervical spine
+A collective term for muscle and ligament injuries of the tissues associated with the cervical spine without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+Inclusions:	Whiplash injury
+
+NA23.40	Acute whiplash associated disorder with complaint of neck pain, stiffness or tenderness only
+Exclusions:	Chronic whiplash injury associated pain (MG30.20)
+
+NA23.41	Acute whiplash associated disorder with complaint of neck pain with musculoskeletal signs
+Exclusions:	Chronic whiplash injury associated pain (MG30.20)
+
+NA23.42	Acute whiplash associated disorder with complaint of neck pain with neurological signs
+Exclusions:	Chronic whiplash injury associated pain (MG30.20)
+
+NA23.4Y	Other specified strain or sprain of cervical spine
+
+NA23.4Z	Strain or sprain of cervical spine, unspecified
+
+NA23.5	Strain or sprain of thyroid region
+
+NA23.Y	Other specified dislocation or strain or sprain of joints or ligaments at neck level
+
+NA23.Z	Dislocation or strain or sprain of joints or ligaments at neck level, unspecified
+
+Injury of nerves or spinal cord at neck level (BlockL2‑NA3)
+Injury of spinal cord at neck level (BlockL3‑NA3)
+  NA30  	Concussion or oedema of cervical spinal cord
+
+  NA31  	Certain specified injuries of cervical spinal cord
+
+NA31.0	Complete lesion of cervical spinal cord
+
+NA31.1	Central cord syndrome of cervical spinal cord
+
+NA31.2	Anterior cord syndrome of cervical spinal cord
+
+NA31.3	Posterior cord syndrome of cervical spinal cord
+
+NA31.4	Brown-Sequard syndrome of cervical spinal cord
+
+NA31.5	Other incomplete cord syndrome of cervical spinal cord
+
+  NA3Z  	Injury of cervical spinal cord, unspecified
+
+Injury of nerves at neck level (BlockL3‑NA4)
+  NA40  	Injury of nerve root of cervical spine
+
+  NA41  	Injury of brachial plexus
+Coded Elsewhere:	Brachial plexus palsy in newborn (KA44.1)
+
+NA41.0	Injury of brachial plexus cord
+
+NA41.1	Injury of brachial plexus division
+
+NA41.2	Injury of brachial plexus trunk
+
+NA41.Y	Other specified injury of brachial plexus
+
+NA41.Z	Injury of brachial plexus, unspecified
+
+  NA42  	Injury of peripheral nerves of neck
+
+NA42.0	Injury of supraclavicular nerve
+
+NA42.1	Injury to anterior cutaneous nerve of neck
+
+NA42.Y	Injury of other specified peripheral nerves of neck
+
+NA42.Z	Injury of peripheral nerves of neck, unspecified
+
+  NA43  	Injury of cervical sympathetic nerves
+
+  NA44  	Injury of phrenic nerve
+Coded Elsewhere:	Phrenic nerve paralysis due to birth injury (KA44.2)
+
+  NA4Y  	Injury of other specified nerves at neck level
+
+  NA4Z  	Injury of nerves at neck level, unspecified
+
+  NA60  	Injury of blood vessels at neck level
+
+NA60.0	Injury of carotid artery
+
+NA60.00	Laceration of carotid artery, minor
+Inclusions:	incomplete transection of carotid artery
+laceration of carotid artery NOS
+superficial laceration of carotid artery
+
+NA60.01	Laceration of carotid artery, major
+Inclusions:	complete transection of carotid artery
+traumatic rupture of carotid artery
+
+NA60.0Y	Other specified injury of carotid artery
+
+NA60.0Z	Injury of carotid artery, unspecified
+
+NA60.1	Injury of vertebral artery
+
+NA60.10	Laceration of vertebral artery, minor
+Inclusions:	incomplete transection of vertebral artery
+laceration of vertebral artery NOS
+superficial laceration of vertebral artery
+
+NA60.11	Laceration of vertebral artery, major
+Inclusions:	complete transection of vertebral artery
+traumatic rupture of vertebral artery
+
+NA60.1Y	Other specified injury of vertebral artery
+
+NA60.1Z	Injury of vertebral artery, unspecified
+
+NA60.2	Injury of external jugular vein
+
+NA60.20	Laceration of external jugular vein, minor
+Inclusions:	incomplete transection of external jugular vein
+laceration of external jugular vein NOS
+superficial laceration of external jugular vein
+
+NA60.21	Laceration of external jugular vein, major
+Inclusions:	complete transection of external jugular vein
+traumatic rupture of external jugular vein
+
+NA60.2Y	Other specified injury of external jugular vein
+
+NA60.2Z	Injury of external jugular vein, unspecified
+
+NA60.3	Injury of internal jugular vein
+
+NA60.30	Laceration of internal jugular vein, minor
+Inclusions:	incomplete transection of internal jugular vein
+laceration of internal jugular vein NOS
+superficial laceration of internal jugular vein
+
+NA60.31	Laceration of internal jugular vein, major
+Inclusions:	complete transection of internal jugular vein
+traumatic rupture of internal jugular vein
+
+NA60.3Y	Other specified injury of internal jugular vein
+
+NA60.3Z	Injury of internal jugular vein, unspecified
+
+NA60.4	Injury of multiple blood vessels at neck level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NA60.Y	Injury of other specified blood vessels at neck level
+
+NA60.Z	Injury of blood vessels at neck level, unspecified
+
+  NA61  	Injury of muscle, fascia or tendon at neck level
+
+NA61.0	Strain or sprain of muscle, fascia or tendon at neck level
+
+NA61.1	Laceration of muscle, fascia or tendon at neck level
+
+NA61.Y	Other specified injury of muscle, fascia or tendon at neck level
+
+NA61.Z	Injury of muscle, fascia or tendon at neck level, unspecified
+
+  NA62  	Crushing injury of neck
+
+NA62.0	Crushing injury of larynx or trachea
+
+NA62.Y	Crushing injury of other specified site of neck
+
+NA62.Z	Crushing injury of neck, unspecified
+
+  NA63  	Traumatic amputation at neck level
+
+  NA64  	Multiple injuries of neck
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NA6Y  	Other specified injuries to the neck
+Coding Note:	This Block includes the following:
+• injuries of nape
+• injuries of supraclavicular region
+• injuries of throat
+
+  NA6Z  	Injuries to the neck, unspecified
+Coding Note:	This Block includes the following:
+• injuries of nape
+• injuries of supraclavicular region
+• injuries of throat
+
+Injuries to the thorax (BlockL1‑NA8)
+Exclusions:	injuries of spinal cord NOS (ND51)
+injuries of shoulder (BlockL1‑NC1)
+Injuries of trunk NOS (ND51)
+insect bite or sting, venomous (NE61)
+fracture of spine NOS (ND50)
+injuries of clavicle (BlockL1‑NC1)
+injuries of scapular region (BlockL1‑NC1)
+Frostbite (BlockL1‑NE4)
+injuries of axilla (BlockL1‑NC1)
+effects of foreign body in lung (ND72)
+effects of foreign body in bronchus (ND72.5)
+Foreign body in trachea (ND72.4)
+Foreign body in oesophagus (ND73.1)
+Burns (BlockL1‑ND9)
+Coded Elsewhere:	Birth injury of thorax (KA45.3)
+  NA80  	Superficial injury of thorax
+Damage inflicted on the surface or shallow tissues of the thorax as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Coded Elsewhere:	Sequelae of superficial injury or open wound of neck or trunk (NF2Y)
+
+NA80.0	Abrasion of breast
+
+NA80.1	Contusion of breast
+
+NA80.2	Other or unspecified superficial injuries of breast
+
+NA80.3	Other superficial injuries of front wall of thorax
+
+NA80.4	Other superficial injuries of back wall of thorax
+
+NA80.5	Abrasion of thorax
+
+NA80.6	Contusion of thorax
+
+NA80.7	Multiple superficial injuries of thorax
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA80.Y	Other specified superficial injury of thorax
+
+NA80.Z	Superficial injury of thorax, unspecified
+
+  NA81  	Open wound of thorax
+Inclusions:	open wound thoracic wall NOS
+Exclusions:	Traumatic pneumothorax (NB32.0)
+Traumatic haemothorax (NB32.1)
+Traumatic haemopneumothorax (NB32.2)
+
+NA81.0	Laceration without foreign body of thorax
+Inclusions:	laceration of skin of thorax
+
+NA81.1	Laceration with foreign body of thorax
+
+NA81.2	Puncture wound without foreign body of thorax
+
+NA81.3	Puncture wound with foreign body of thorax
+
+NA81.4	Open bite of thorax
+
+NA81.5	Multiple open wounds of thoracic wall
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA81.Y	Other specified open wound of thorax
+
+NA81.Z	Open wound of thorax, unspecified
+
+  NA82  	Fracture of rib, sternum or thoracic spine
+Exclusions:	Fracture of scapula (NC12.1)
+Fracture of clavicle (NC12.0)
+
+NA82.0	Fracture of thoracic vertebra
+
+NA82.1	Multiple fractures of thoracic spine
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA82.2	Fracture of sternum
+
+NA82.3	Fracture of rib
+
+NA82.30	Fracture of rib, posterior or posterior and lateral
+
+NA82.3Y	Other specified fracture of rib
+
+NA82.3Z	Fracture of rib, unspecified
+
+NA82.4	Multiple fractures of ribs
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NA82.5	Flail chest
+
+NA82.Y	Other specified fracture of rib, sternum or thoracic spine
+
+NA82.Z	Fracture of rib, sternum or thoracic spine, unspecified
+
+  NA83  	Dislocation or strain or sprain of joints or ligaments of thorax
+Exclusions:	Intervertebral disc degeneration of thoracic spine with prolapsed disc (FA80.5)
+
+NA83.0	Traumatic rupture of thoracic intervertebral disc
+
+NA83.1	Dislocation of thoracic vertebra
+
+NA83.2	Dislocation of other or unspecified parts of thorax
+
+NA83.3	Strain or sprain of ligaments of thoracic spine
+
+NA83.4	Strain or sprain of ribs or sternum
+
+NA83.40	Strain or sprain of sternum
+
+NA83.41	Strain or sprain of sterno-clavicular joint or ligament
+
+NA83.42	Strain or sprain of chondro-sternal joint
+Aberrant biomechanical functions of the joints between the ribs and the sternum, which may be as a result of local disease, systemic disease, postural strain or trauma.
+
+NA83.4Y	Strain or sprain of other specified site of ribs or sternum
+
+NA83.4Z	Strain or sprain of ribs or sternum, unspecified
+
+NA83.Y	Other specified dislocation or strain or sprain of joints or ligaments of thorax
+
+NA83.Z	Dislocation or strain or sprain of joints or ligaments of thorax, unspecified
+
+Injury of nerves or spinal cord at thorax level (BlockL2‑NA9)
+Exclusions:	Injury of brachial plexus (NA41)
+Injury of spinal cord at thorax level (BlockL3‑NA9)
+  NA90  	Concussion or oedema of thoracic spinal cord
+
+  NA91  	Certain specified injuries of thoracic spinal cord
+
+NA91.0	Complete lesion of thoracic spinal cord
+
+NA91.1	Central cord syndrome of thoracic spinal cord
+
+NA91.2	Anterior cord syndrome of thoracic spinal cord
+
+NA91.3	Posterior cord syndrome of thoracic spinal cord
+
+NA91.4	Brown-Sequard syndrome of thoracic spinal cord
+
+NA91.5	Other incomplete cord syndrome of thoracic spinal cord
+
+  NA9Z  	Injury of thoracic spinal cord, unspecified
+
+Injury of nerves at thorax level (BlockL3‑NB0)
+  NB00  	Injury of nerve root of thoracic spine
+
+  NB01  	Injury of peripheral nerves of thorax
+
+  NB02  	Injury of thoracic sympathetic nerves
+
+  NB0Y  	Injury of other specified nerves at thorax level
+
+  NB2Y  	Other specified injury of nerves or spinal cord at thorax level
+
+  NB2Z  	Injury of nerves or spinal cord at thorax level, unspecified
+
+  NB30  	Injury of blood vessels of thorax
+
+NB30.0	Injury of thoracic aorta
+
+NB30.00	Minor laceration of thoracic aorta
+Inclusions:	incomplete transection of thoracic aorta
+laceration of thoracic aorta NOS
+superficial laceration of thoracic aorta
+
+NB30.01	Major laceration of thoracic aorta
+Inclusions:	complete transection of thoracic aorta
+traumatic rupture of thoracic aorta
+
+NB30.0Y	Other specified injury of thoracic aorta
+
+NB30.0Z	Injury of thoracic aorta, unspecified
+
+NB30.1	Injury of innominate or subclavian artery
+
+NB30.10	Minor laceration of innominate or subclavian artery
+Inclusions:	incomplete transection of innominate or subclavian artery
+laceration of innominate or subclavian artery NOS
+superficial laceration of innominate or subclavian artery
+
+NB30.11	Major laceration of innominate or subclavian artery
+Inclusions:	complete transection of innominate or subclavian artery
+traumatic rupture of innominate or subclavian artery
+
+NB30.1Y	Other specified injury of innominate or subclavian artery
+
+NB30.1Z	Injury of innominate or subclavian artery, unspecified
+
+NB30.2	Injury of superior vena cava
+
+NB30.20	Minor laceration of superior vena cava
+Inclusions:	incomplete transection of superior vena cava
+laceration of superior vena cava NOS
+superficial laceration of superior vena cava
+
+NB30.21	Major laceration of superior vena cava
+Inclusions:	complete transection of superior vena cava
+traumatic rupture of superior vena cava
+
+NB30.2Y	Other specified injury of superior vena cava
+
+NB30.2Z	Injury of superior vena cava, unspecified
+
+NB30.3	Injury of innominate or subclavian vein
+
+NB30.30	Minor laceration of innominate or subclavian vein
+Inclusions:	incomplete transection of innominate or subclavian vein
+laceration of innominate or subclavian vein NOS
+superficial laceration of innominate or subclavian vein
+
+NB30.31	Major laceration of innominate or subclavian vein
+Inclusions:	complete transection of innominate or subclavian vein
+traumatic rupture of innominate or subclavian vein
+
+NB30.3Y	Other specified injury of innominate or subclavian vein
+
+NB30.3Z	Injury of innominate or subclavian vein, unspecified
+
+NB30.4	Injury of pulmonary blood vessels
+
+NB30.40	Minor laceration of pulmonary blood vessels
+Inclusions:	incomplete transection of pulmonary blood vessels
+laceration of pulmonary blood vessels NOS
+superficial laceration of pulmonary blood vessels
+
+NB30.41	Major laceration of pulmonary blood vessels
+Inclusions:	complete transection of pulmonary blood vessels
+traumatic rupture of pulmonary blood vessels
+
+NB30.4Y	Other specified injury of pulmonary blood vessels
+
+NB30.4Z	Injury of pulmonary blood vessels, unspecified
+
+NB30.5	Injury of intercostal blood vessels
+
+NB30.50	Laceration of intercostal blood vessels
+
+NB30.5Y	Other specified injury of intercostal blood vessels
+
+NB30.5Z	Injury of intercostal blood vessels, unspecified
+
+NB30.6	Injury of multiple blood vessels of thorax
+Coding Note:	Assign additional codes for the specific injuries.
+
+NB30.Y	Injury of other specified blood vessels of thorax
+
+NB30.Z	Injury of blood vessels of thorax, unspecified
+
+  NB31  	Injury of heart
+
+NB31.0	Injury of heart with haemopericardium
+
+NB31.00	Contusion of heart with haemopericardium
+
+NB31.01	Minor laceration of heart with haemopericardium
+Inclusions:	laceration of heart without penetration of heart chamber
+
+NB31.02	Moderate laceration of heart with haemopericardium
+Inclusions:	laceration of heart with penetration of heart chamber
+
+NB31.03	Major laceration of heart with haemopericardium
+Inclusions:	laceration of heart with penetration of multiple heart chambers
+
+NB31.0Y	Other specified injury of heart with haemopericardium
+
+NB31.0Z	Injury of heart with haemopericardium, unspecified
+
+NB31.1	Injury of heart without haemopericardium
+
+NB31.10	Contusion of heart without haemopericardium
+
+NB31.11	Laceration of heart without haemopericardium
+
+NB31.1Y	Other specified injury of heart without haemopericardium
+
+NB31.1Z	Injury of heart without haemopericardium, unspecified
+
+NB31.2	Injury of heart, unspecified without open wound into thoracic cavity
+
+NB31.3	Injury of heart, unspecified with open wound into thoracic cavity
+
+NB31.4	Injury of heart valve
+
+NB31.40	Injury to mitral valve
+
+NB31.4Y	Injury of other specified heart valve
+
+NB31.4Z	Injury of heart valve, unspecified
+
+NB31.Y	Other specified injury of heart
+
+NB31.Z	Injury of heart, unspecified
+
+  NB32  	Injury of other or unspecified intrathoracic organs
+Exclusions:	injury of cervical oesophagus (BlockL1‑NA2)
+injury of trachea (cervical) (BlockL1‑NA2)
+
+NB32.0	Traumatic pneumothorax
+
+NB32.1	Traumatic haemothorax
+
+NB32.2	Traumatic haemopneumothorax
+
+NB32.3	Certain injuries of lung
+
+NB32.30	Contusion of lung
+
+NB32.31	Laceration of lung
+
+NB32.32	Inhalation injury of lung
+
+NB32.33	Primary blast injury of lung
+
+NB32.3Y	Other injury of lung
+
+NB32.3Z	Injury of lung, unspecified
+
+NB32.4	Injury of bronchus
+
+NB32.40	Contusion of bronchus
+
+NB32.41	Minor laceration of bronchus
+Inclusions:	laceration of bronchus less than 1 cm
+laceration of bronchus NOS
+
+NB32.42	Moderate laceration of bronchus
+Inclusions:	laceration of bronchus 1 to 3 cm
+Exclusions:	Multiple moderate lacerations of bronchus (NB32.43)
+
+NB32.43	Major laceration of bronchus
+Inclusions:	laceration of bronchus greater than 3 cm
+massive laceration of bronchus
+multiple moderate lacerations of bronchus
+stellate laceration of bronchus
+
+NB32.4Y	Other specified injury of bronchus
+
+NB32.4Z	Injury of bronchus, unspecified
+
+NB32.5	Injury of thoracic trachea
+
+NB32.50	Contusion of thoracic trachea
+
+NB32.51	Minor laceration of thoracic trachea
+Inclusions:	laceration of thoracic trachea less than 1 cm
+laceration of thoracic trachea NOS
+
+NB32.52	Moderate laceration of thoracic trachea
+Inclusions:	laceration of thoracic trachea 1 to 3 cm
+Exclusions:	Multiple moderate lacerations of thoracic trachea (NB32.53)
+
+NB32.53	Major laceration of thoracic trachea
+Inclusions:	laceration of thoracic trachea greater than 3 cm
+massive laceration of thoracic trachea
+multiple moderate lacerations of thoracic trachea
+stellate laceration of thoracic trachea
+
+NB32.5Y	Other specified injury of thoracic trachea
+
+NB32.5Z	Injury of thoracic trachea, unspecified
+
+NB32.6	Injury of pleura
+
+NB32.60	Laceration of pleura
+
+NB32.6Y	Other specified injury of pleura
+
+NB32.6Z	Injury of pleura, unspecified
+
+NB32.7	Multiple injuries of intrathoracic organs
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB32.8	Injury of other specified intrathoracic organs
+Coded Elsewhere:	Oesophagitis due to external causes (DA24.2)
+
+NB32.Y	Other specified injury of other or unspecified intrathoracic organs
+
+NB32.Z	Injury of other or unspecified intrathoracic organs, unspecified
+
+  NB33  	Crushing injury of thorax or traumatic amputation of part of thorax
+
+NB33.0	Crushed chest
+Exclusions:	Flail chest (NA82.5)
+
+NB33.1	Traumatic amputation of breast
+
+NB33.10	Traumatic amputation of part of breast
+
+NB33.11	Traumatic amputation of entire breast
+
+NB33.1Z	Traumatic amputation of breast, unspecified
+
+NB33.2	Traumatic amputation of other part of thorax
+Exclusions:	transection of thorax (ND35)
+
+NB33.Y	Other specified crushing injury of thorax or traumatic amputation of part of thorax
+
+NB33.Z	Crushing injury of thorax or traumatic amputation of part of thorax, unspecified
+
+  NB34  	Injury of muscle, fascia or tendon at thorax level
+
+NB34.0	Strain or sprain of muscle, fascia or tendon at thorax level
+
+NB34.1	Laceration of muscle, fascia or tendon at thorax level
+
+NB34.Y	Other specified injury of muscle, fascia or tendon at thorax level
+
+NB34.Z	Injury of muscle, fascia or tendon at thorax level, unspecified
+
+  NB35  	Multiple injuries of thorax
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NB3Y  	Other specified injuries to the thorax
+
+  NB3Z  	Injuries to the thorax, unspecified
+
+Injuries to the abdomen, lower back, lumbar spine or pelvis (BlockL1‑NB5)
+Exclusions:	insect bite or sting, venomous (NE61)
+Foreign body in anus or rectum (ND73.5)
+Foreign body in genitourinary tract (ND74)
+Burns (BlockL1‑ND9)
+Foreign body in colon (ND73.4)
+Fracture of spine, level unspecified (ND50)
+injuries of trunk NOS (ND51)
+injuries of spinal cord NOS (ND51)
+Frostbite (BlockL1‑NE4)
+Foreign body in stomach (ND73.2)
+Foreign body in small intestine (ND73.3)
+  NB50  	Superficial injury of abdomen, lower back or pelvis
+Damage inflicted on the surface or shallow tissues of the abdomen, lower back and pelvis as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Exclusions:	superficial injury of hip (NC70)
+Coded Elsewhere:	Sequelae of superficial injury or open wound of neck or trunk (NF2Y)
+
+NB50.0	Abrasion of lower back or pelvis
+
+NB50.1	Contusion of lower back or pelvis
+
+NB50.2	Abrasion of abdominal wall
+
+NB50.3	Contusion of abdominal wall
+
+NB50.4	Abrasion of external genital organs
+
+NB50.5	Contusion of external genital organs
+
+NB50.6	Multiple superficial injuries of abdomen, lower back or pelvis
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB50.Y	Other specified superficial injury of abdomen, lower back or pelvis
+
+NB50.Z	Superficial injury of abdomen, lower back or pelvis, unspecified
+
+  NB51  	Open wound of abdomen, lower back or pelvis
+Exclusions:	open wound of hip (NC71)
+traumatic amputation of part of abdomen, lower back and pelvis (NB93)
+
+NB51.0	Laceration without foreign body of abdomen, lower back or pelvis
+Inclusions:	laceration of skin of abdomen, lower back or pelvis
+
+NB51.1	Laceration with foreign body of abdomen, lower back or pelvis
+
+NB51.2	Puncture wound without foreign body of abdomen, lower back or pelvis
+
+NB51.3	Puncture wound with foreign body of abdomen, lower back or pelvis
+
+NB51.4	Open bite of abdomen, lower back or pelvis
+
+NB51.5	Multiple open wounds of abdomen, lower back or pelvis
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB51.Y	Other specified open wound of abdomen, lower back or pelvis
+
+NB51.Z	Open wound of abdomen, lower back or pelvis, unspecified
+
+  NB52  	Fracture of lumbar spine or pelvis
+Broken bone in the lumbar spine or pelvis.
+Exclusions:	fracture of hip NOS (NC72.2)
+
+NB52.0	Fracture of lumbar vertebra
+
+NB52.1	Fracture of pelvic bone without disruption of posterior arch of pelvic ring
+
+NB52.10	Fracture of sacrum without disruption of pelvic ring
+
+NB52.11	Fracture of coccyx
+
+NB52.12	Fracture of ilium without disruption of pelvic ring
+
+NB52.13	Fracture of acetabulum without disruption of pelvic ring
+
+NB52.14	Fracture of pubis without disruption of pelvic ring
+
+NB52.15	Fracture of ischium without disruption of pelvic ring
+
+NB52.1Y	Fracture of other specified pelvic bone without disruption of posterior arch of pelvic ring
+
+NB52.1Z	Fracture of unspecified pelvic bone without disruption of posterior arch of pelvic ring
+
+NB52.2	Fracture of the pelvic ring with incomplete disruption of posterior arch
+
+NB52.3	Fracture of pelvic ring with complete disruption of posterior arch
+
+NB52.4	Multiple fractures of lumbar spine or pelvis
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB52.Y	Other specified fracture of lumbar spine or pelvis
+
+NB52.Z	Fracture of lumbar spine or pelvis, unspecified
+
+  NB53  	Dislocation or strain or sprain of joints or ligaments of lumbar spine or pelvis
+Exclusions:	Dislocation or strain or sprain of joint or ligaments of hip (NC73)
+Obstetric damage to pelvic joints or ligaments (JB0A.7)
+
+NB53.0	Traumatic rupture of lumbar intervertebral disc
+
+NB53.1	Dislocation of lumbar vertebra
+
+NB53.2	Dislocation of sacroiliac or sacrococcygeal joint without disruption of pelvic ring
+
+NB53.3	Dislocation of other or unspecified parts of lumbar spine or pelvis without disruption of pelvic ring
+
+NB53.4	Traumatic rupture of symphysis pubis without disruption of pelvic ring
+
+NB53.5	Strain or sprain of lumbar spine
+A collective term for muscle and ligament injuries of the tissues associated with the lumbar spine without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NB53.6	Strain or sprain of sacroiliac joint
+Aberrant biomechanical functions of the joints between the ilia and the sacrum, which may be as a result of local disease, systemic disease, postural strain or trauma.
+
+NB53.Y	Other specified dislocation or strain or sprain of joints or ligaments of lumbar spine or pelvis
+
+NB53.Z	Dislocation or strain or sprain of joints or ligaments of lumbar spine or pelvis, unspecified
+
+Injury of nerves or lumbar spinal cord at abdomen, lower back or pelvis level (BlockL2‑NB6)
+Injury of spinal cord at abdomen, lower back or pelvis level (BlockL3‑NB6)
+  NB60  	Concussion or oedema of lumbar spinal cord
+
+  NB61  	Concussion or oedema of sacral spinal cord
+
+  NB62  	Certain specified injuries of lumbar spinal cord
+
+NB62.0	Complete lesion of lumbar spinal cord
+
+NB62.1	Central cord syndrome of lumbar spinal cord
+
+NB62.2	Anterior cord syndrome of lumbar spinal cord
+
+NB62.3	Posterior cord syndrome of lumbar spinal cord
+
+NB62.4	Brown-Sequard syndrome of lumbar spinal cord
+
+NB62.5	Other incomplete cord syndrome of lumbar spinal cord
+
+NB62.6	Puncture wound or laceration of dura mater of lumbar spinal cord
+
+  NB63  	Certain specified injuries of sacral spinal cord
+
+NB63.0	Complete injury of sacral spinal cord
+
+NB63.1	Incomplete injury of sacral spinal cord
+
+NB63.Z	Injury of sacral spinal cord, unspecified
+
+  NB6Z  	Injury of spinal cord at abdomen, lower back or pelvis level, unspecified
+
+Injury of nerves at abdomen, lower back or pelvis level (BlockL3‑NB7)
+  NB70  	Injury of nerve root of lumbar spine
+
+  NB71  	Injury of nerve root of sacral spine
+
+  NB72  	Injury of cauda equina
+
+  NB73  	Injury of lumbosacral plexus
+
+  NB74  	Injury of lumbar, sacral or pelvic sympathetic nerves
+
+  NB75  	Injury of peripheral nerve of abdomen, lower back or pelvis
+
+  NB7Y  	Other specified injury of nerves at abdomen, lower back or pelvis level
+
+  NB7Z  	Injury of nerves at abdomen, lower back or pelvis level, unspecified
+
+  NB90  	Injury of blood vessels at abdomen, lower back or pelvis level
+
+NB90.0	Injury of abdominal aorta
+Exclusions:	injury aorta NOS (NB30.0)
+
+NB90.00	Minor laceration of abdominal aorta
+Inclusions:	incomplete transection of abdominal aorta
+laceration of abdominal aorta NOS
+superficial laceration of abdominal aorta
+
+NB90.01	Major laceration of abdominal aorta
+Inclusions:	complete transection of abdominal aorta
+traumatic rupture of abdominal aorta
+
+NB90.0Y	Other specified injury of abdominal aorta
+
+NB90.0Z	Injury of abdominal aorta, unspecified
+
+NB90.1	Injury of inferior vena cava
+Exclusions:	injury vena cava NOS (NB30.2)
+
+NB90.10	Minor laceration of inferior vena cava
+Inclusions:	incomplete transection of inferior vena cava
+laceration of inferior vena cava NOS
+superficial laceration of inferior vena cava
+
+NB90.11	Major laceration of inferior vena cava
+Inclusions:	complete transection of inferior vena cava
+traumatic rupture of inferior vena cava
+
+NB90.1Y	Other specified injury of inferior vena cava
+
+NB90.1Z	Injury of inferior vena cava, unspecified
+
+NB90.2	Injury of coeliac artery
+
+NB90.20	Minor laceration of coeliac artery
+Inclusions:	incomplete transection of coeliac artery
+laceration of coeliac artery NOS
+superficial laceration of celiac artery
+
+NB90.21	Major laceration of coeliac artery
+Inclusions:	complete transection of coeliac artery
+traumatic rupture of coeliac artery
+
+NB90.2Y	Other specified injury of coeliac artery
+
+NB90.2Z	Injury of coeliac artery, unspecified
+
+NB90.3	Injury of mesenteric artery
+
+NB90.30	Minor laceration mesenteric artery
+Inclusions:	incomplete transection of mesenteric artery
+laceration of mesenteric artery NOS
+superficial laceration of mesenteric artery
+
+NB90.31	Major laceration of mesenteric artery
+Inclusions:	complete transection of mesenteric artery
+traumatic rupture of mesenteric artery
+
+NB90.3Y	Other specified injury of mesenteric artery
+
+NB90.3Z	Injury of mesenteric artery, unspecified
+
+NB90.4	Injury of portal or splenic vein
+
+NB90.40	Minor laceration of portal or splenic vein
+Inclusions:	incomplete transection of portal or splenic vein
+laceration of portal or splenic vein NOS
+superficial laceration of portal or splenic vein
+
+NB90.41	Major laceration of portal or splenic vein
+Inclusions:	complete transection of portal or splenic vein
+traumatic rupture of portal or splenic vein
+
+NB90.4Y	Other specified injury of portal or splenic vein
+
+NB90.4Z	Injury of portal or splenic vein, unspecified
+
+NB90.5	Injury of renal blood vessels
+
+NB90.50	Minor laceration of renal blood vessels
+Inclusions:	incomplete transection of renal blood vessels
+superficial laceration of renal blood vessels
+laceration of renal blood vessels NOS
+
+NB90.51	Major laceration of renal blood vessels
+Inclusions:	complete transection of renal blood vessels
+traumatic rupture of renal blood vessels
+
+NB90.5Y	Other specified injury of renal blood vessels
+
+NB90.5Z	Injury of renal blood vessels, unspecified
+
+NB90.6	Injury of iliac blood vessels
+
+NB90.60	Minor laceration of iliac blood vessels
+Inclusions:	incomplete transection of iliac blood vessels
+laceration of iliac blood vessels NOS
+superficial laceration of iliac blood vessels
+
+NB90.61	Major laceration of iliac blood vessels
+Inclusions:	complete transection of iliac blood vessels
+traumatic rupture of iliac blood vessels
+
+NB90.6Y	Other specified injury of iliac blood vessels
+
+NB90.6Z	Injury of iliac blood vessels, unspecified
+
+NB90.7	Injury of multiple blood vessels at abdomen, lower back or pelvis level
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB90.Y	Injury of other specified blood vessels at abdomen, lower back or pelvis level
+
+NB90.Z	Injury of unspecified blood vessel at abdomen, lower back or pelvis level
+
+  NB91  	Injury of intra-abdominal organs
+Coded Elsewhere:	Adrenal haemorrhage due to birth injury (KA46.2)
+
+NB91.0	Injury of spleen
+Coded Elsewhere:	Birth injury to spleen (KA46.1)
+
+NB91.00	Contusion of spleen, minor
+Inclusions:	contusion of spleen less than 2 cm
+
+NB91.01	Contusion of spleen, major
+Inclusions:	contusion of spleen greater than 2 cm
+
+NB91.02	Laceration of spleen, minor
+Inclusions:	laceration of spleen less than 1 cm
+
+NB91.03	Laceration of spleen, moderate
+Inclusions:	laceration of spleen 1 to 3 cm
+Exclusions:	Multiple moderate lacerations of spleen (NB91.04)
+
+NB91.04	Laceration of spleen, major
+Inclusions:	laceration of spleen greater than 3 cm
+massive laceration of spleen
+multiple moderate lacerations of spleen
+stellate laceration of spleen
+Exclusions:	Avulsion of spleen (NB91.05)
+
+NB91.05	Avulsion of spleen
+
+NB91.0Y	Other specified injury of spleen
+
+NB91.0Z	Injury of spleen, unspecified
+
+NB91.1	Injury of liver
+Damage inflicted on the liver as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Coded Elsewhere:	Birth injury to liver (KA46.0)
+
+NB91.10	Contusion of liver
+
+NB91.11	Laceration of liver, minor
+Inclusions:	laceration of liver involving capsule only, or, without significant involvement of hepatic parenchyma [i.e., less than 1 cm deep]
+
+NB91.12	Laceration of liver, moderate
+Inclusions:	laceration of liver involving parenchyma but without major disruption of parenchyma [i.e., less than 10 cm long and less than 3 cm deep]
+Exclusions:	Multiple moderate lacerations of liver, with or without haematoma (NB91.13)
+
+NB91.13	Laceration of liver, major
+Inclusions:	laceration of liver with significant disruption of hepatic parenchyma [i.e., greater than 10 cm long and 3 cm deep]
+multiple moderate lacerations of liver, with or without haematoma
+stellate laceration of liver
+
+NB91.14	Injury of hepatic duct
+
+NB91.1Y	Other specified injury of liver
+
+NB91.1Z	Injury of liver, unspecified
+
+NB91.2	Injury of gallbladder
+Coded Elsewhere:	Common bile duct trauma (NB91.3)
+
+NB91.3	Injury of bile duct
+
+NB91.4	Injury of pancreas
+
+NB91.40	Contusion of pancreas
+
+NB91.41	Laceration of pancreas, minor
+Inclusions:	laceration of pancreas less than 1 cm
+laceration of pancreas NOS
+superficial capsular laceration of pancreas
+
+NB91.42	Laceration of pancreas, moderate
+Inclusions:	laceration of pancreas 1 to 3 cm
+Exclusions:	Multiple moderate lacerations of pancreas (NB91.43)
+
+NB91.43	Laceration of pancreas, major
+Inclusions:	laceration of pancreas greater than 3 cm
+multiple moderate lacerations of pancreas
+massive laceration of pancreas
+stellate laceration of pancreas
+
+NB91.4Y	Other specified injury of pancreas
+
+NB91.4Z	Injury of pancreas, unspecified
+
+NB91.5	Injury of stomach
+
+NB91.50	Contusion of stomach
+
+NB91.51	Laceration of stomach without perforation
+
+NB91.52	Laceration of stomach with perforation, avulsion or massive damage
+
+NB91.53	Ingestion injury of stomach without perforation
+Exclusions:	Chemical burn or corrosion of stomach (NE02)
+
+NB91.54	Ingestion injury of stomach with perforation
+Exclusions:	Chemical burn or corrosion of stomach (NE02)
+
+NB91.5Y	Other specified injury of stomach
+
+NB91.5Z	Injury of stomach, unspecified
+
+NB91.6	Injury of duodenum
+
+NB91.60	Contusion of duodenum
+
+NB91.61	Laceration of duodenum
+
+NB91.62	Primary blast injury of duodenum
+
+NB91.63	Perforation of duodenum
+Perforation of duodenum is a penetration of the wall of the duodenum, resulting in luminal contents in duodenum flowing into the abdominal cavity or retroperitoneal wall.
+Inclusions:	Perforation of duodenum due to Injury
+
+NB91.6Y	Other specified injury of duodenum
+
+NB91.6Z	Injury of duodenum, unspecified
+
+NB91.7	Injury of small intestine
+Inclusions:	Iatrogenic injury of small intestine
+Exclusions:	Injury of duodenum (NB91.6)
+
+NB91.70	Contusion of small intestine
+An injury to small intestine resulting from a blow in which the subsurface tissue is injured and often internally bled but the skin is not broken.
+Exclusions:	Contusion of duodenum (NB91.60)
+
+NB91.71	Laceration of small intestine
+A tear or wound of small intestine.
+Exclusions:	Laceration of duodenum (NB91.61)
+
+NB91.72	Primary blast injury of small intestine
+An injury to small intestine resulting from direct or indirect exposure to explosion. Primary injuries are caused by high-order explosives or shock waves
+Exclusions:	Primary blast injury of duodenum (NB91.62)
+
+NB91.7Y	Other specified injury of small intestine
+
+NB91.7Z	Injury of small intestine, unspecified
+
+NB91.8	Injury of colon
+
+NB91.80	Contusion of colon
+An injury to large intestine resulting from a blow in which the subsurface tissue is injured and often internally bled but the skin is not broken.
+
+NB91.81	Laceration of colon
+A tear or wound of large intestine.
+
+NB91.82	Primary blast injury of colon
+An injury to large intestine resulting from direct or indirect exposure to explosion. Primary injuries are caused by high-order explosives or shock waves.
+
+NB91.8Y	Other specified injury of colon
+
+NB91.8Z	Injury of colon, unspecified
+
+NB91.9	Injury of rectum
+
+NB91.90	Contusion of rectum
+
+NB91.91	Laceration of rectum
+
+NB91.92	Primary blast injury of rectum
+
+NB91.9Y	Other specified injury of rectum
+
+NB91.9Z	Injury of rectum, unspecified
+
+NB91.A	Injury of mesentery
+
+NB91.B	Injury of multiple intra-abdominal organs
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB91.Y	Injury of other specified intra-abdominal organs
+
+NB91.Z	Injury of intra-abdominal organs, unspecified
+
+  NB92  	Injury of urinary or pelvic organs
+Exclusions:	peritoneum and retroperitoneum (NB91)
+Coded Elsewhere:	Female Genital Mutilation (GC51)
+Birth injury to external genitalia (KA43.1)
+Sequelae of injury of intra-abdominal or pelvic organs (NB91.Y)
+
+NB92.0	Injury of kidney
+
+NB92.00	Contusion of kidney, minor
+Inclusions:	contusion of kidney less than 2 cm
+contusion of kidney NOS
+
+NB92.01	Contusion of kidney, major
+Inclusions:	contusion of kidney greater than 2 cm
+
+NB92.02	Laceration of kidney, minor
+Inclusions:	laceration of kidney less than 1 cm
+laceration of kidney NOS
+
+NB92.03	Laceration of kidney, moderate
+Inclusions:	laceration of kidney 1 to 3 cm
+Exclusions:	Multiple moderate lacerations of kidney (NB92.04)
+
+NB92.04	Laceration of kidney, major
+Inclusions:	avulsion of kidney
+laceration of kidney greater than 3 cm
+massive laceration of kidney
+stellate laceration of kidney
+multiple moderate lacerations of kidney
+
+NB92.0Y	Other specified injury of kidney
+
+NB92.0Z	Injury of kidney, unspecified
+
+NB92.1	Injury of ureter
+
+NB92.10	Contusion of ureter
+
+NB92.11	Laceration of ureter
+
+NB92.1Y	Other specified injury of ureter
+
+NB92.1Z	Injury of ureter, unspecified
+
+NB92.2	Injury of bladder
+Exclusions:	Obstetric injury to bladder (JB0A.6)
+
+NB92.20	Contusion of bladder
+
+NB92.21	Laceration of bladder
+
+NB92.2Y	Other specified injury of bladder
+
+NB92.2Z	Injury of bladder, unspecified
+
+NB92.3	Injury of urethra
+
+NB92.30	Contusion of urethra
+
+NB92.31	Laceration of urethra
+
+NB92.3Y	Other specified injury of urethra
+
+NB92.3Z	Injury of urethra, unspecified
+
+NB92.4	Injury of ovary
+
+NB92.40	Contusion of ovary
+
+NB92.41	Laceration of ovary
+
+NB92.4Y	Other specified injury of ovary
+
+NB92.4Z	Injury of ovary, unspecified
+
+NB92.5	Injury of fallopian tube
+
+NB92.6	Injury of uterus
+
+NB92.7	Injury of urinary tract
+
+NB92.8	Injury of multiple pelvic organs
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NB92.Y	Injury of other specified pelvic organs
+
+NB92.Z	Injury of urinary or pelvic organs, unspecified
+
+  NB93  	Crushing injury or traumatic amputation of part of abdomen, lower back or pelvis
+
+NB93.0	Crushing injury of external genital organs
+
+NB93.00	Crushing injury of penis
+
+NB93.01	Crushing injury of testes or scrotum
+
+NB93.02	Crushing injury of vulva
+
+NB93.0Z	Crushing injury of external genital organs, unspecified
+
+NB93.1	Crushing injury of other or unspecified parts of abdomen, lower back or pelvis
+
+NB93.2	Traumatic amputation of external genital organs
+
+NB93.20	Traumatic amputation of entire penis
+Inclusions:	Traumatic amputation of penis
+
+NB93.21	Traumatic amputation of part of penis
+
+NB93.22	Traumatic amputation of entire testes or scrotum
+
+NB93.23	Traumatic amputation of part of testes or scrotum
+
+NB93.24	Traumatic amputation of entire vulva
+Inclusions:	Traumatic amputation of vulva
+Exclusions:	Female Genital Mutilation (GC51)
+
+NB93.25	Traumatic amputation of part of vulva
+Exclusions:	Female Genital Mutilation (GC51)
+
+NB93.2Z	Traumatic amputation of external genital organs, unspecified
+
+NB93.3	Traumatic amputation of other or unspecified parts of abdomen, lower back or pelvis
+Exclusions:	transection of abdomen (ND35)
+
+  NB94  	Injury of muscle, fascia or tendon of abdomen, lower back or pelvis
+
+NB94.0	Strain or sprain of muscle, fascia or tendon of abdomen
+
+NB94.1	Strain or sprain of muscle, fascia or tendon of lower back
+
+NB94.2	Strain or sprain of muscle, fascia or tendon of pelvis
+
+NB94.3	Laceration of muscle, fascia or tendon of abdomen
+
+NB94.4	Laceration of muscle, fascia or tendon of lower back
+
+NB94.5	Laceration of muscle, fascia or tendon of pelvis
+
+NB94.Y	Other specified injury of muscle, fascia or tendon of abdomen, lower back or pelvis
+
+NB94.Z	Injury of muscle, fascia or tendon of abdomen, lower back or pelvis, unspecified
+
+  NB95  	Injury of intra-abdominal organ with pelvic organ
+Coded Elsewhere:	Sequelae of injury of intra-abdominal or pelvic organs (NB91.Y)
+
+  NB96  	Other multiple injuries of abdomen, lower back or pelvis
+Coding Note:	Assign additional codes for the specific injuries.
+
+  NB97  	Certain specified injuries of abdomen, lower back or pelvis
+
+NB97.0	Retroperitoneal haemorrhage or haematoma
+
+NB97.1	Fractured penis
+
+  NB98  	Injury to female genital organ without further specification
+Exclusions:	Crushing injury of external genital organs (NB93.0)
+
+  NB99  	Injury to male genital organ without further specification
+Exclusions:	Crushing injury of external genital organs (NB93.0)
+
+  NB9Y  	Other specified injuries to the abdomen, lower back, lumbar spine or pelvis
+
+  NB9Z  	Injuries to the abdomen, lower back, lumbar spine or pelvis, unspecified
+
+Injuries to the shoulder or upper arm (BlockL1‑NC1)
+Exclusions:	Burns (BlockL1‑ND9)
+Other injuries of arm, level unspecified (ND53)
+Frostbite (BlockL1‑NE4)
+Insect bite or sting, venomous (NE61)
+Injuries to the elbow or forearm (BlockL1‑NC3)
+  NC10  	Superficial injury of shoulder or upper arm
+
+NC10.0	Abrasion of shoulder or upper arm
+
+NC10.1	Contusion of shoulder or upper arm
+
+NC10.2	Multiple superficial injuries of shoulder or upper arm
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC10.Y	Other specified superficial injury of shoulder or upper arm
+
+NC10.Z	Superficial injury of shoulder or upper arm, unspecified
+
+  NC11  	Open wound of shoulder or upper arm
+Exclusions:	Traumatic amputation of shoulder or upper arm (NC18)
+
+NC11.0	Laceration without foreign body of shoulder or upper arm
+Inclusions:	laceration of skin of shoulder or upper arm
+
+NC11.1	Laceration with foreign body of shoulder or upper arm
+
+NC11.2	Puncture wound without foreign body of shoulder or upper arm
+
+NC11.3	Puncture wound with foreign body of shoulder or upper arm
+
+NC11.4	Open bite of shoulder or upper arm
+
+NC11.5	Multiple open wounds of shoulder or upper arm
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC11.Y	Other specified open wound of shoulder or upper arm
+
+NC11.Z	Open wound of shoulder or upper arm, unspecified
+
+  NC12  	Fracture of shoulder or upper arm
+
+NC12.0	Fracture of clavicle
+A break in one or both of the clavicles.
+Coded Elsewhere:	Fracture of clavicle due to birth injury (KA45.5)
+
+NC12.00	Fracture of sternal end of clavicle
+
+NC12.01	Fracture of shaft of clavicle
+
+NC12.02	Fracture of acromial end of clavicle
+
+NC12.03	Multiple fractures of clavicle, alone
+
+NC12.0Y	Other specified fracture of clavicle
+
+NC12.0Z	Fracture of clavicle, unspecified
+
+NC12.1	Fracture of scapula
+A break in one or both of the scapulae.
+
+NC12.10	Multiple fractures of scapula
+
+NC12.1Y	Other specified fracture of scapula
+
+NC12.1Z	Fracture of scapula, unspecified
+
+NC12.2	Fracture of upper end of humerus
+
+NC12.20	Fracture of upper end of humerus, head
+
+NC12.21	Fracture of surgical neck of humerus
+
+NC12.22	Fracture of anatomical neck of humerus
+
+NC12.23	Fracture of greater tuberosity of humerus
+
+NC12.24	Fracture of lesser tuberosity of humerus
+
+NC12.2Z	Fracture of upper end of humerus, unspecified site
+
+NC12.3	Fracture of shaft of humerus
+
+NC12.4	Fracture of lower end of humerus
+Inclusions:	fracture of articular process of humerus
+Exclusions:	fracture of elbow NOS (NC32.0)
+
+NC12.40	Supracondylar fracture of humerus
+
+NC12.41	Fracture of lateral epicondyle of humerus
+
+NC12.42	Fracture of medial epicondyle of humerus
+
+NC12.43	Fracture of lateral condyle of humerus
+
+NC12.44	Fracture of medial condyle of humerus
+
+NC12.4Y	Other specified fracture of lower end of humerus
+
+NC12.4Z	Fracture of lower end of humerus, unspecified
+
+NC12.5	Multiple fractures of clavicle, scapula or humerus
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC12.6	Fracture of other parts of shoulder or upper arm
+
+NC12.7	Fracture of shoulder girdle, part unspecified
+
+NC12.Z	Fracture of shoulder or upper arm, unspecified
+
+  NC13  	Dislocation or strain or sprain of joints or ligaments of shoulder girdle
+
+NC13.0	Dislocation of shoulder joint
+Displacement of the humerus from the scapula.
+
+NC13.1	Dislocation of acromioclavicular joint
+
+NC13.2	Dislocation of sternoclavicular joint
+
+NC13.3	Dislocation of scapula
+
+NC13.4	Dislocation of other or unspecified parts of shoulder girdle
+
+NC13.5	Strain or sprain of shoulder joint
+A collective term for muscle and ligament injuries of the tissues associated with the shoulder joint without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NC13.6	Strain or sprain of acromioclavicular joint
+
+NC13.7	Strain or sprain of sternoclavicular joint
+Aberrant biomechanical functions of the joints between the clavicle and the sternum, which may be as a result of local disease, systemic disease or trauma.
+
+NC13.8	Strain or sprain of other or unspecified parts of shoulder girdle
+
+NC13.Y	Dislocation or sprain of other specified joints and ligaments of shoulder girdle
+
+NC13.Z	Dislocation or strain or sprain of joints or ligaments of shoulder girdle, unspecified
+
+  NC14  	Injury of nerves at shoulder or upper arm level
+Exclusions:	Injury of brachial plexus (NA41)
+
+NC14.0	Injury of ulnar nerve at upper arm level
+Exclusions:	ulnar nerve NOS (NC34.0)
+
+NC14.1	Injury of median nerve at upper arm level
+Exclusions:	median nerve NOS (NC34.1)
+
+NC14.2	Injury of radial nerve at upper arm level
+Exclusions:	radial nerve NOS (NC34.2)
+
+NC14.3	Injury of axillary nerve
+
+NC14.4	Injury of musculocutaneous nerve
+
+NC14.5	Injury of cutaneous sensory nerve at shoulder or upper arm level
+
+NC14.6	Injury of multiple nerves at shoulder or upper arm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC14.Y	Injury of other specified nerves at shoulder or upper arm level
+
+NC14.Z	Injury of unspecified nerve at shoulder or upper arm level
+
+  NC15  	Injury of blood vessels at shoulder or upper arm level
+Exclusions:	injury of subclavian artery (NB30.1)
+injury of subclavian vein (NB30.3)
+
+NC15.0	Injury of axillary artery
+
+NC15.00	Laceration of axillary artery
+
+NC15.0Y	Other specified injury of axillary artery
+
+NC15.0Z	Injury of axillary artery, unspecified
+
+NC15.1	Injury of brachial artery
+
+NC15.10	Laceration of brachial artery
+
+NC15.1Y	Other specified injury of brachial artery
+
+NC15.1Z	Injury of brachial artery, unspecified
+
+NC15.2	Injury of axillary or brachial vein
+
+NC15.20	Laceration of axillary or brachial vein
+
+NC15.2Y	Other specified injury of axillary or brachial vein
+
+NC15.2Z	Injury of axillary or brachial vein, unspecified
+
+NC15.3	Injury of superficial vein at shoulder or upper arm level
+
+NC15.30	Laceration of superficial vein at shoulder or upper arm level
+
+NC15.3Y	Other specified injury of superficial vein at shoulder or upper arm level
+
+NC15.3Z	Injury of superficial vein at shoulder or upper arm level, unspecified
+
+NC15.4	Injury of multiple blood vessels at shoulder or upper arm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC15.Y	Injury of other specified blood vessels at shoulder or upper arm level
+
+NC15.Z	Injury of unspecified blood vessel at shoulder or upper arm level
+
+  NC16  	Injury of muscle, fascia, tendon or bursa at shoulder or upper arm level
+Exclusions:	injury of muscle and tendon at or below elbow (NC36)
+
+NC16.0	Injury of muscle or tendon of the rotator cuff of shoulder
+
+NC16.00	Strain or sprain of muscle or tendon of the rotator cuff of shoulder
+
+NC16.01	Laceration of muscle or tendon of the rotator cuff of shoulder
+
+NC16.0Y	Other specified injury of muscle or tendon of the rotator cuff of shoulder
+
+NC16.0Z	Injury of muscle or tendon of the rotator cuff of shoulder, unspecified
+
+NC16.1	Injury of muscle, fascia or tendon of long head of biceps
+
+NC16.10	Strain or sprain of muscle, fascia or tendon of long head of biceps
+
+NC16.11	Laceration of muscle, fascia or tendon of long head of biceps
+
+NC16.1Y	Other specified injury of muscle, fascia or tendon of long head of biceps
+
+NC16.1Z	Injury of muscle, fascia or tendon of long head of biceps, unspecified
+
+NC16.2	Injury of muscle, fascia or tendon of other parts of biceps
+
+NC16.20	Strain or sprain of muscle, fascia or tendon of other parts of biceps
+
+NC16.21	Laceration of muscle, fascia or tendon of other parts of biceps
+
+NC16.2Y	Other specified injury of muscle, fascia or tendon of other parts of biceps
+
+NC16.2Z	Injury of muscle, fascia or tendon of other parts of biceps, unspecified
+
+NC16.3	Injury of muscle, fascia or tendon of triceps
+
+NC16.30	Strain or sprain of muscle, fascia or tendon of triceps
+
+NC16.31	Laceration of muscle, fascia or tendon of triceps
+
+NC16.3Y	Other specified injury of muscle, fascia or tendon of triceps
+
+NC16.3Z	Injury of muscle, fascia or tendon of triceps, unspecified
+
+NC16.4	Injury of multiple muscles or tendons at shoulder or upper arm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC16.40	Strain or sprain of multiple muscles or tendons at shoulder or upper arm level
+
+NC16.41	Laceration of multiple muscles or tendons at shoulder or upper arm level
+
+NC16.4Y	Other specified injury of multiple muscles or tendons at shoulder or upper arm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC16.4Z	Injury of multiple muscles or tendons at shoulder or upper arm level, unspecified
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC16.5	Injury of bursa of shoulder
+
+NC16.Y	Injury of other specified muscle, fascia, tendon or bursa at shoulder or upper arm level
+
+NC16.Z	Injury of unspecified muscle, fascia or tendon at shoulder or upper arm level
+
+  NC17  	Crushing injury of shoulder or upper arm
+Exclusions:	Crushing injury of elbow (NC37.0)
+
+  NC18  	Traumatic amputation of shoulder or upper arm
+Exclusions:	traumatic amputation of arm, level unspecified (ND53)
+traumatic amputation at elbow level (NC38)
+
+NC18.0	Traumatic amputation at right shoulder joint
+
+NC18.1	Traumatic amputation at left shoulder joint
+
+NC18.2	Traumatic amputation at shoulder joint, bilateral
+
+NC18.3	Traumatic amputation at level between right shoulder and elbow
+
+NC18.4	Traumatic amputation at level between left shoulder and elbow
+
+NC18.5	Traumatic amputation at level between shoulder and elbow, bilateral
+
+NC18.Z	Traumatic amputation of shoulder or upper arm, unspecified
+
+  NC19  	Multiple injuries of shoulder or upper arm
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NC1Y  	Other specified injuries to the shoulder or upper arm
+
+  NC1Z  	Injuries to the shoulder or upper arm, unspecified
+
+Injuries to the elbow or forearm (BlockL1‑NC3)
+Exclusions:	Injuries to the wrist or hand (BlockL1‑NC5)
+Insect bite or sting, venomous (NE61)
+Burns (BlockL1‑ND9)
+Frostbite (BlockL1‑NE4)
+Other injuries of arm, level unspecified (ND53)
+  NC30  	Superficial injury of forearm
+Exclusions:	Superficial injury of wrist or hand (NC51)
+
+NC30.0	Abrasion of elbow
+
+NC30.1	Contusion of elbow
+
+NC30.2	Abrasion of other or unspecified parts of forearm
+
+NC30.3	Contusion of other or unspecified parts of forearm
+
+NC30.4	Multiple superficial injuries of forearm
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC30.Y	Other specified superficial injury of forearm
+
+NC30.Z	Superficial injury of forearm, unspecified
+
+  NC31  	Open wound of forearm
+Exclusions:	Open wound of wrist or hand (NC52)
+Traumatic amputation of forearm (NC38)
+
+NC31.0	Laceration without foreign body of forearm
+Inclusions:	laceration of skin of forearm
+
+NC31.1	Laceration with foreign body of forearm
+
+NC31.2	Puncture wound without foreign body of forearm
+
+NC31.3	Puncture wound with foreign body of forearm
+
+NC31.4	Open bite of forearm
+
+NC31.5	Multiple open wounds of forearm
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC31.Y	Other specified open wound of forearm
+
+NC31.Z	Open wound of forearm, unspecified
+
+  NC32  	Fracture of forearm
+A break in one or both of the radius and/or ulna.
+Exclusions:	Fracture at wrist or hand level (NC53)
+
+NC32.0	Fracture of upper end of ulna
+Exclusions:	supracondylar elbow fracture (NC12.4)
+
+NC32.1	Fracture of upper end of radius
+
+NC32.2	Fracture of shaft of ulna
+
+NC32.3	Fracture of shaft of radius
+
+NC32.4	Fracture of shafts of both ulna and radius
+
+NC32.5	Fracture of lower end of radius
+
+NC32.50	Fracture of lower end of radius, dorsal tilt
+
+NC32.51	Fracture of lower end of radius, volar tilt
+
+NC32.5Y	Other specified fracture of lower end of radius
+
+NC32.5Z	Fracture of lower end of radius, unspecified
+
+NC32.6	Fracture of lower end of both ulna and radius
+
+NC32.7	Multiple fractures of forearm
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	Fracture of shafts of both ulna and radius (NC32.4)
+Fracture of lower end of both ulna and radius (NC32.6)
+
+NC32.Y	Fracture of other specified parts of forearm
+
+NC32.Z	Fracture of forearm, unspecified
+
+  NC33  	Dislocation or strain or sprain of joints or ligaments of elbow
+A collective term for muscle and ligament injuries of the tissues associated with, or displacement of the bones of, the elbow.
+
+NC33.0	Dislocation of radial head
+Inclusions:	Radiohumeral joint
+Exclusions:	Monteggia fracture-dislocation (NC32.0)
+
+NC33.1	Dislocation of elbow
+
+NC33.2	Traumatic rupture of radial collateral ligament
+
+NC33.3	Traumatic rupture of ulnar collateral ligament
+
+NC33.4	Strain or sprain of elbow
+A collective term for muscle and ligament injuries of the tissues associated with the elbow without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NC33.Y	Dislocation or sprain of other specified joints or ligaments of elbow
+
+NC33.Z	Dislocation or strain or sprain of joints or ligaments of elbow, unspecified
+
+  NC34  	Injury of nerves at forearm level
+Exclusions:	Injury of nerves at wrist or hand level (NC55)
+
+NC34.0	Injury of ulnar nerve at forearm level
+
+NC34.1	Injury of median nerve at forearm level
+
+NC34.2	Injury of radial nerve at forearm level
+
+NC34.3	Injury of cutaneous sensory nerve at forearm level
+
+NC34.4	Injury of multiple nerves at forearm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC34.Y	Injury of other specified nerves at forearm level
+
+NC34.Z	Injury of unspecified nerve at forearm level
+
+  NC35  	Injury of blood vessels at forearm level
+Exclusions:	Injury of blood vessels at wrist or hand level (NC56)
+injury of brachial vessels (NC15.2)
+
+NC35.0	Injury of ulnar artery at forearm level
+
+NC35.00	Laceration of ulnar artery at forearm level
+
+NC35.0Y	Other specified injury of ulnar artery at forearm level
+
+NC35.0Z	Injury of ulnar artery at forearm level, unspecified
+
+NC35.1	Injury of radial artery at forearm level
+
+NC35.10	Laceration of radial artery at forearm level
+
+NC35.1Y	Other specified injury of radial artery at forearm level
+
+NC35.1Z	Injury of radial artery at forearm level, unspecified
+
+NC35.2	Injury of vein at forearm level
+
+NC35.20	Laceration of vein at forearm level
+
+NC35.2Y	Other specified injury of vein at forearm level
+
+NC35.2Z	Injury of vein at forearm level, unspecified
+
+NC35.3	Injury of multiple blood vessels at forearm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC35.Y	Injury of other specified blood vessels at forearm level
+
+NC35.Z	Injury of unspecified blood vessel at forearm level
+
+  NC36  	Injury of muscle, fascia, tendon or bursa at forearm level
+Exclusions:	injury of muscle and tendon at or below wrist (NC57)
+
+NC36.0	Injury of flexor muscle, fascia or tendon of thumb at forearm level
+
+NC36.00	Strain or sprain of flexor muscle, fascia or tendon of thumb at forearm level
+
+NC36.01	Laceration of flexor muscle, fascia or tendon of thumb at forearm level
+
+NC36.02	Injury of long flexor muscle of thumb, forearm level
+
+NC36.0Y	Other specified injury of flexor muscle, fascia or tendon of thumb at forearm level
+
+NC36.0Z	Injury of flexor muscle, fascia or tendon of thumb at forearm level, unspecified
+
+NC36.1	Injury of long flexor muscle, fascia or tendon of other finger at forearm level
+
+NC36.10	Strain or sprain of long flexor muscle, fascia or tendon of other finger at forearm level
+
+NC36.11	Laceration of long flexor muscle, fascia or tendon of other finger at forearm level
+
+NC36.1Y	Other specified injury of long flexor muscle, fascia or tendon of other finger at forearm level
+
+NC36.1Z	Injury of long flexor muscle, fascia or tendon of other finger at forearm level, unspecified
+
+NC36.2	Injury of other flexor muscle, fascia or tendon at forearm level
+
+NC36.20	Strain or sprain of other flexor muscle, fascia or tendon at forearm level
+
+NC36.21	Laceration of other flexor muscle, fascia or tendon at forearm level
+
+NC36.2Y	Other specified injury of other flexor muscle, fascia or tendon at forearm level
+
+NC36.2Z	Injury of other flexor muscle, fascia or tendon at forearm level, unspecified
+
+NC36.3	Injury of extensor or abductor muscles or tendons of thumb at forearm level
+
+NC36.30	Strain or sprain of extensor or abductor muscles or tendons of thumb at forearm level
+
+NC36.31	Laceration of extensor or abductor muscles or tendons of thumb at forearm level
+
+NC36.3Y	Other specified injury of extensor or abductor muscles or tendons of thumb at forearm level
+
+NC36.3Z	Injury of extensor or abductor muscles or tendons of thumb at forearm level, unspecified
+
+NC36.4	Injury of extensor muscle, fascia or tendon of other finger at forearm level
+
+NC36.40	Strain or sprain of extensor muscle, fascia or tendon of other finger at forearm level
+
+NC36.41	Laceration of extensor muscle, fascia or tendon of other finger at forearm level
+
+NC36.4Y	Other specified injury of extensor muscle, fascia or tendon of other finger at forearm level
+
+NC36.4Z	Injury of extensor muscle, fascia or tendon of other finger at forearm level, unspecified
+
+NC36.5	Injury of other extensor muscle, fascia or tendon at forearm level
+
+NC36.50	Strain or sprain of other extensor muscle, fascia or tendon at forearm level
+
+NC36.51	Laceration of other extensor muscle, fascia or tendon at forearm level
+
+NC36.5Y	Other specified injury of other extensor muscle, fascia or tendon at forearm level
+
+NC36.5Z	Injury of other extensor muscle, fascia or tendon at forearm level, unspecified
+
+NC36.6	Injury of multiple muscles or tendons at forearm level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC36.7	Injury of bursa of elbow
+
+NC36.Y	Injury of other specified muscle, fascia, tendon or bursa at forearm level
+
+NC36.Z	Injury of unspecified muscle, fascia, tendon or bursa at forearm level
+
+  NC37  	Crushing injury of forearm
+Exclusions:	Crushing injury of wrist or hand (NC58)
+
+NC37.0	Crushing injury of elbow
+
+NC37.Y	Crushing injury of other specified part of forearm
+
+NC37.Z	Crushing injury of forearm, unspecified
+
+  NC38  	Traumatic amputation of forearm
+Exclusions:	Traumatic amputation of wrist or hand (NC59)
+
+NC38.0	Traumatic amputation at right elbow level
+
+NC38.1	Traumatic amputation at left elbow level
+
+NC38.2	Traumatic amputation at elbow level, bilateral
+
+NC38.3	Traumatic amputation at level between right elbow and wrist
+
+NC38.4	Traumatic amputation at level between left elbow and wrist
+
+NC38.5	Traumatic amputation between elbow and wrist, bilateral
+
+NC38.Z	Traumatic amputation of forearm, unspecified
+
+  NC39  	Multiple injuries of forearm
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NC3Y  	Other specified injuries to the elbow or forearm
+
+  NC3Z  	Injuries to the elbow or forearm, unspecified
+
+Injuries to the wrist or hand (BlockL1‑NC5)
+Exclusions:	Burns (BlockL1‑ND9)
+Frostbite (BlockL1‑NE4)
+Other injuries of arm, level unspecified (ND53)
+Insect bite or sting, venomous (NE61)
+  NC50  	Injury to fingernail
+
+  NC51  	Superficial injury of wrist or hand
+
+NC51.0	Superficial injury of finger or thumb
+
+NC51.00	Abrasion of finger or thumb
+
+NC51.01	Contusion of finger or thumb
+
+NC51.0Y	Other specified superficial injury of finger or thumb
+
+NC51.0Z	Superficial injury of finger or thumb, unspecified
+
+NC51.1	Superficial injury of other parts of wrist or hand
+Exclusions:	Superficial injury of finger or thumb (NC51.0)
+
+NC51.10	Contusion of other parts of wrist or hand
+
+NC51.11	Nonvenomous insect bite of other parts of wrist or hand
+
+NC51.1Y	Other specified superficial injury of other parts of wrist or hand
+
+NC51.1Z	Superficial injury of other parts of wrist or hand, unspecified
+
+NC51.2	Multiple superficial injuries of wrist or hand
+Coding Note:	Assign additional codes for the specific injuries.
+
+  NC52  	Open wound of wrist or hand
+Exclusions:	Traumatic amputation of wrist or hand (NC59)
+
+NC52.0	Open wound of finger or thumb
+Exclusions:	Traumatic amputation of other single finger (NC59.1)
+
+NC52.00	Laceration without foreign body of finger or thumb
+
+NC52.01	Laceration with foreign body of finger or thumb
+
+NC52.02	Puncture wound without foreign body of finger or thumb
+
+NC52.03	Puncture wound with foreign body of finger or thumb
+
+NC52.04	Open bite of finger or thumb
+
+NC52.0Y	Other specified open wound of finger or thumb
+
+NC52.0Z	Open wound of finger or thumb, unspecified
+
+NC52.1	Open wound of other parts of wrist or hand
+
+NC52.10	Laceration without foreign body of other parts of wrist or hand
+Inclusions:	laceration of skin of wrist or hand
+
+NC52.11	Laceration with foreign body of other parts of wrist or hand
+
+NC52.12	Puncture wound with foreign body of other parts of wrist or hand
+
+NC52.13	Puncture wound without foreign body of other parts of wrist or hand
+
+NC52.14	Open bite of other parts of wrist or hand
+
+NC52.1Y	Other specified open wound of other parts of wrist or hand
+
+NC52.1Z	Open wound of other parts of wrist or hand, unspecified
+
+NC52.2	Multiple open wounds of wrist or hand
+Coding Note:	Assign additional codes for the specific injuries.
+
+  NC53  	Fracture at wrist or hand level
+A break in one of the bones of the wrist or hand.
+Exclusions:	fracture of distal parts of ulna and radius (NC32.6)
+
+NC53.0	Fracture of scaphoid bone of hand
+
+NC53.1	Fracture of other carpal bone
+A break in one or more of the carpal bones of the wrist
+
+NC53.2	Fracture of first metacarpal bone
+A break in the first metacarpal bone, that which is part of the thumb.
+
+NC53.3	Fracture of other metacarpal bone
+
+NC53.30	Fracture of shaft of other metacarpal bone
+
+NC53.31	Fracture of neck of other metacarpal bone
+
+NC53.3Y	Fracture of other specified part of other metacarpal bone
+
+NC53.3Z	Fracture of other metacarpal bone, unspecified
+
+NC53.4	Multiple fractures of metacarpal bones
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC53.5	Fracture of thumb bone
+Exclusions:	Fracture of first metacarpal bone (NC53.2)
+
+NC53.6	Fracture of other finger bone
+A break in one or more of the phalanges
+
+NC53.60	Fracture of index finger
+
+NC53.61	Fracture of middle finger
+
+NC53.62	Fracture of ring finger
+
+NC53.63	Fracture of little finger
+
+NC53.6Y	Other specified fracture of other finger bone
+
+NC53.6Z	Fracture of other finger bone, unspecified
+
+NC53.7	Multiple fractures of fingers
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC53.Y	Fracture at other specified part of wrist or hand level
+
+NC53.Z	Fracture at wrist or hand level, unspecified
+
+  NC54  	Dislocation or strain or sprain of joints or ligaments at wrist or hand level
+
+NC54.0	Dislocation of wrist
+Displacement of one or more of the bones of the wrist
+
+NC54.00	Dislocation of distal radioulnar joint
+
+NC54.01	Dislocation of radiocarpal joint
+
+NC54.02	Dislocation of midcarpal joint
+
+NC54.03	Dislocation of carpometacarpal joint of thumb
+
+NC54.04	Dislocation of other carpometacarpal joint
+
+NC54.05	Dislocation of metacarpal bone, proximal end
+
+NC54.0Y	Dislocation of other specified part of wrist
+
+NC54.0Z	Dislocation of wrist, unspecified
+
+NC54.1	Dislocation of thumb
+
+NC54.10	Dislocation of metacarpophalangeal joint of thumb
+
+NC54.11	Dislocation of interphalangeal joint of thumb
+
+NC54.1Y	Dislocation of other specified part of thumb
+
+NC54.1Z	Dislocation of thumb, unspecified
+
+NC54.2	Dislocation of finger
+Displacement of one or more of the phalanges
+Inclusions:	Dislocation of phalanx, hand
+
+NC54.20	Dislocation of metacarpophalangeal joint of finger
+
+NC54.21	Dislocation of interphalangeal joint of finger
+
+NC54.2Y	Dislocation of other specified part of finger
+
+NC54.2Z	Dislocation of finger, unspecified
+
+NC54.3	Multiple dislocations of fingers
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC54.4	Traumatic rupture of ligament of wrist or carpus
+
+NC54.40	Traumatic rupture of scapholunate ligament
+
+NC54.41	Traumatic rupture of radiocarpal ligament
+
+NC54.42	Traumatic rupture of ulnocarpal ligament
+
+NC54.43	Traumatic rupture of lunotriquetral ligament
+
+NC54.4Y	Traumatic rupture of other specified ligament of wrist or carpus
+
+NC54.4Z	Traumatic rupture of ligament of wrist or carpus, unspecified
+
+NC54.5	Traumatic rupture of ligament of finger at metacarpophalangeal or interphalangeal joint
+
+NC54.50	Traumatic rupture of collateral ligament of finger at metacarpophalangeal or interphalangeal joint
+
+NC54.51	Traumatic rupture of palmar ligament of finger at metacarpophalangeal or interphalangeal joint
+
+NC54.52	Traumatic rupture of volar plate of finger at metacarpophalangeal or interphalangeal joint
+
+NC54.53	Traumatic rupture of other ligament of finger at metacarpophalangeal or interphalangeal joint
+
+NC54.5Z	Traumatic rupture of ligament of finger at metacarpophalangeal or interphalangeal joint, unspecified
+
+NC54.6	Strain or sprain of wrist
+A collective term for muscle and ligament injuries of the tissues associated with the wrist without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NC54.60	Strain or sprain of carpal joint
+
+NC54.61	Strain or sprain of radiocarpal joint
+
+NC54.62	Strain or sprain of carpometacarpal joint
+
+NC54.6Y	Sprain of other specified part of wrist
+
+NC54.6Z	Strain or sprain of wrist, unspecified
+
+NC54.7	Strain or sprain of thumb
+
+NC54.70	Strain or sprain of metacarpophalangeal joint of thumb
+
+NC54.71	Strain or sprain of interphalangeal joint of thumb
+
+NC54.7Y	Sprain of other specified part of thumb
+
+NC54.7Z	Strain or sprain of thumb, unspecified
+
+NC54.8	Strain or sprain of finger
+
+NC54.80	Strain or sprain of metacarpophalangeal joint of finger
+
+NC54.81	Strain or sprain of interphalangeal joint of finger
+
+NC54.8Y	Sprain of other specified part of finger
+
+NC54.8Z	Strain or sprain of finger, unspecified
+
+NC54.Y	Dislocation or sprain of other specified joints or ligaments at wrist or hand level
+
+NC54.Z	Dislocation or strain or sprain of joints or ligaments at wrist or hand level, unspecified
+
+  NC55  	Injury of nerves at wrist or hand level
+
+NC55.0	Injury of ulnar nerve at wrist or hand level
+
+NC55.1	Injury of median nerve at wrist or hand level
+
+NC55.2	Injury of radial nerve at wrist or hand level
+
+NC55.3	Injury of multiple nerves at wrist or hand level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC55.Y	Injury of other specified nerves at wrist or hand level
+
+NC55.Z	Injury of unspecified nerve at wrist or hand level
+
+  NC56  	Injury of blood vessels at wrist or hand level
+
+NC56.0	Injury of ulnar artery at wrist or hand level
+
+NC56.00	Laceration of ulnar artery at wrist or hand level
+
+NC56.01	Contusion of ulnar artery at wrist or hand level
+
+NC56.0Y	Other specified injury of ulnar artery at wrist or hand level
+
+NC56.0Z	Injury of ulnar artery at wrist or hand level, unspecified
+
+NC56.1	Injury of radial artery at wrist or hand level
+
+NC56.10	Laceration of radial artery at wrist or hand level
+
+NC56.11	Contusion of radial artery at wrist or hand level
+
+NC56.1Y	Other specified injury of radial artery at wrist or hand level
+
+NC56.1Z	Injury of radial artery at wrist or hand level, unspecified
+
+NC56.2	Injury of superficial palmar arch
+
+NC56.20	Laceration of superficial palmar arch
+
+NC56.21	Contusion of superficial palmar arch
+
+NC56.2Y	Other specified injury of superficial palmar arch
+
+NC56.2Z	Injury of superficial palmar arch, unspecified
+
+NC56.3	Injury of deep palmar arch
+
+NC56.30	Laceration of deep palmar arch
+
+NC56.31	Contusion of deep palmar arch
+
+NC56.3Y	Other specified injury of deep palmar arch
+
+NC56.3Z	Injury of deep palmar arch, unspecified
+
+NC56.4	Injury of blood vessel of thumb
+
+NC56.40	Laceration of blood vessel of thumb
+
+NC56.41	Contusion of blood vessel of thumb
+
+NC56.4Y	Other specified injury of blood vessel of thumb
+
+NC56.4Z	Injury of blood vessel of thumb, unspecified
+
+NC56.5	Injury of blood vessel of other finger
+
+NC56.50	Laceration of blood vessel of other finger
+
+NC56.51	Contusion of blood vessel of other finger
+
+NC56.5Y	Other specified injury of blood vessel of other finger
+
+NC56.5Z	Injury of blood vessel of other finger, unspecified
+
+NC56.6	Injury of multiple blood vessels at wrist or hand level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC56.60	Laceration of multiple blood vessels at wrist or hand level
+
+NC56.61	Contusion of multiple blood vessels at wrist or hand level
+
+NC56.6Y	Other specified injury of multiple blood vessels at wrist or hand level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC56.6Z	Injury of multiple blood vessels at wrist or hand level, unspecified
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC56.Y	Injury of other specified blood vessels at wrist and hand level
+
+NC56.Z	Injury of unspecified blood vessel at wrist or hand level
+
+  NC57  	Injury of muscle, fascia or tendon at wrist or hand level
+
+NC57.0	Injury of long flexor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.00	Strain or sprain of long flexor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.01	Laceration of long flexor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.0Y	Other specified injury of long flexor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.0Z	Injury of long flexor muscle, fascia or tendon of thumb at wrist or hand level, unspecified
+
+NC57.1	Injury of flexor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.10	Strain or sprain of flexor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.11	Laceration of flexor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.1Y	Other specified injury of flexor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.1Z	Injury of flexor muscle, fascia or tendon of other finger at wrist or hand level, unspecified
+
+NC57.2	Injury of extensor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.20	Strain or sprain of extensor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.21	Laceration of extensor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.2Y	Other specified injury of extensor muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.2Z	Injury of extensor muscle, fascia or tendon of thumb at wrist or hand level, unspecified
+
+NC57.3	Injury of extensor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.30	Strain or sprain of extensor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.31	Laceration of extensor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.3Y	Other specified injury of extensor muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.3Z	Injury of extensor muscle, fascia or tendon of other finger at wrist or hand level, unspecified
+
+NC57.4	Injury of intrinsic muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.40	Strain or sprain of intrinsic muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.41	Laceration of intrinsic muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.4Y	Other specified injury of intrinsic muscle, fascia or tendon of thumb at wrist or hand level
+
+NC57.4Z	Injury of intrinsic muscle, fascia or tendon of thumb at wrist or hand level, unspecified
+
+NC57.5	Injury of intrinsic muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.50	Strain or sprain of intrinsic muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.51	Laceration of intrinsic muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.5Y	Other specified injury of intrinsic muscle, fascia or tendon of other finger at wrist or hand level
+
+NC57.5Z	Injury of intrinsic muscle, fascia or tendon of other finger at wrist or hand level, unspecified
+
+NC57.6	Injury of multiple flexor muscles or tendons at wrist or hand level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC57.7	Injury of multiple extensor muscles or tendons at wrist or hand level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC57.Y	Injury of other specified muscle, fascia or tendon at wrist or hand level
+
+NC57.Z	Injury of unspecified muscle, fascia or tendon at wrist or hand level
+
+  NC58  	Crushing injury of wrist or hand
+
+NC58.0	Crushing injury of thumb
+
+NC58.1	Crushing injury of other finger
+
+NC58.2	Crushing injury of hand
+
+NC58.3	Crushing injury of wrist
+
+NC58.Y	Crushing injury of other specified part of wrist or hand
+
+NC58.Z	Crushing injury of wrist or hand, unspecified
+
+  NC59  	Traumatic amputation of wrist or hand
+
+NC59.0	Traumatic amputation of thumb
+Exclusions:	avulsion of fingernail (NC50)
+
+NC59.00	Traumatic amputation at or near base of right thumb
+
+NC59.01	Traumatic amputation at or near base of left thumb
+
+NC59.02	Traumatic amputation at or near base of thumb, bilateral
+
+NC59.0Y	Other specified traumatic amputation of thumb
+
+NC59.0Z	Traumatic amputation of thumb, unspecified
+
+NC59.1	Traumatic amputation of other single finger
+Exclusions:	avulsion of fingernail (NC50)
+
+NC59.2	Traumatic amputation of two or more fingers alone
+Exclusions:	avulsion of fingernail (NC50)
+
+NC59.20	Traumatic amputation of two or more fingers at or near base, right hand
+
+NC59.21	Traumatic amputation of two or more fingers at or near base, left hand
+
+NC59.22	Traumatic amputation of two or more fingers alone at or near base, bilateral
+
+NC59.2Y	Other specified traumatic amputation of two or more fingers alone
+
+NC59.2Z	Traumatic amputation of two or more fingers alone, unspecified
+
+NC59.3	Combined traumatic amputation of finger with other parts of wrist or hand
+
+NC59.4	Traumatic amputation of hand at metacarpal level
+
+NC59.Z	Traumatic amputation of wrist or hand, unspecified
+
+  NC5A  	Multiple injuries of wrist or hand
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC5A.0	Injury of multiple sites of hand
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC5A.1	Injury of multiple sites of wrist
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC5A.Y	Other specified multiple injuries of wrist or hand
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC5A.Z	Multiple injuries of wrist or hand, unspecified
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NC5Y  	Other specified injuries to the wrist or hand
+
+  NC5Z  	Injuries to the wrist or hand, unspecified
+
+Injuries to the hip or thigh (BlockL1‑NC7)
+Exclusions:	Frostbite (BlockL1‑NE4)
+Burns (BlockL1‑ND9)
+Insect bite or sting, venomous (NE61)
+Other injuries of leg, level unspecified (ND55)
+  NC70  	Superficial injury of hip or thigh
+
+NC70.0	Abrasion of hip
+
+NC70.1	Contusion of hip
+
+NC70.2	Abrasion of thigh
+
+NC70.3	Contusion of thigh
+
+NC70.4	Multiple superficial injuries of hip or thigh
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC70.Y	Other specified superficial injury of hip or thigh
+
+NC70.Z	Superficial injury of hip or thigh, unspecified
+
+  NC71  	Open wound of hip or thigh
+Exclusions:	Traumatic amputation of hip or thigh (NC78)
+
+NC71.0	Laceration without foreign body of hip or thigh
+Inclusions:	laceration of skin of hip or thigh
+
+NC71.1	Laceration with foreign body of hip or thigh
+
+NC71.2	Puncture wound without foreign body of hip or thigh
+
+NC71.3	Puncture wound with foreign body of hip or thigh
+
+NC71.4	Open bite of hip or thigh
+
+NC71.5	Multiple open wounds of hip or thigh
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC71.Y	Other specified open wound of hip or thigh
+
+NC71.Z	Open wound of hip or thigh, unspecified
+
+  NC72  	Fracture of femur
+A break in the femur, longest and largest bone of the skeleton, situated between the hip and the knee.
+
+NC72.0	Fracture of head of femur
+
+NC72.1	Fracture of upper epiphysis of femur
+
+NC72.2	Fracture of neck of femur
+
+NC72.20	Fracture of neck of femur, subcapital
+
+NC72.21	Fracture of neck of femur, mid-cervical
+
+NC72.22	Fracture of base of neck of femur
+
+NC72.23	Intracapsular fracture of femur
+
+NC72.2Y	Other specified fracture of neck of femur
+
+NC72.2Z	Fracture of neck of femur, unspecified
+
+NC72.3	Fracture of trochanteric section of femur
+Inclusions:	Trochanteric fracture
+
+NC72.30	Intertrochanteric fracture of femur
+
+NC72.31	Pertrochanteric fracture of femur
+
+NC72.3Y	Fracture of other specified trochanteric section of femur
+
+NC72.3Z	Fracture of unspecified trochanteric section of femur
+
+NC72.4	Subtrochanteric fracture of femur
+
+NC72.5	Fracture of shaft of femur
+
+NC72.6	Fracture of lower end of femur
+
+NC72.60	Fracture of lower end of femur not extending into joint, simple
+
+NC72.61	Fracture of lower end of femur not extending into joint, wedge
+
+NC72.62	Fracture of lower end of femur not extending into joint, complex
+
+NC72.63	Fracture of lower end of femur extending into joint, lateral condyle
+
+NC72.64	Fracture of lower end of femur extending into joint, medial condyle
+
+NC72.65	Fracture of lower end of femur extending into joint, frontal
+
+NC72.66	Fracture of lower end of femur extending into joint, complete articular
+
+NC72.6Y	Other specified fracture of lower end of femur
+
+NC72.6Z	Fracture of lower end of femur, unspecified
+
+NC72.7	Multiple fractures of femur
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC72.8	Fractures of other parts of femur
+
+NC72.Y	Other specified fracture of femur
+
+NC72.Z	Fracture of femur, unspecified
+
+  NC73  	Dislocation or strain or sprain of joint or ligaments of hip
+A collective term for muscle and ligament injuries of the tissues associated with, or displacement of the bones of, the hip.
+
+NC73.0	Dislocation of hip
+
+NC73.00	Posterior dislocation of hip
+
+NC73.01	Obturator dislocation of hip
+
+NC73.02	Other anterior dislocation of hip
+
+NC73.03	Central dislocation of hip
+
+NC73.0Y	Other specified dislocation of hip
+
+NC73.0Z	Dislocation of hip, unspecified
+
+NC73.1	Strain or sprain of hip
+A collective term for muscle and ligament injuries of the tissues associated with the hip without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+
+NC73.10	Iliofemoral ligament strain or sprain of hip
+
+NC73.11	Ischiocapsular ligament strain or sprain of hip
+
+NC73.1Y	Other specified strain or sprain of hip
+
+NC73.1Z	Strain or sprain of hip, unspecified
+
+  NC74  	Injury of nerves at hip or thigh level
+
+NC74.0	Injury of sciatic nerve at hip or thigh level
+
+NC74.1	Injury of femoral nerve at hip or thigh level
+
+NC74.2	Injury of cutaneous sensory nerve at hip or thigh level
+
+NC74.3	Injury of multiple nerves at hip or thigh level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC74.Y	Injury of other specified nerves at hip or thigh level
+
+NC74.Z	Injury of unspecified nerve at hip or thigh level
+
+  NC75  	Injury of blood vessels at hip or thigh level
+Exclusions:	Injury of popliteal artery (NC95.0)
+
+NC75.0	Injury of femoral artery
+
+NC75.00	Laceration of femoral artery, minor
+Inclusions:	incomplete transection of femoral artery
+laceration of femoral artery NOS
+superficial laceration of femoral artery
+
+NC75.01	Laceration of femoral artery, major
+Inclusions:	complete transection of femoral artery
+traumatic rupture of femoral artery
+
+NC75.0Y	Other specified injury of femoral artery
+
+NC75.0Z	Injury of femoral artery, unspecified
+
+NC75.1	Injury of femoral vein at hip or thigh level
+
+NC75.10	Laceration of femoral vein at hip or thigh level, minor
+Inclusions:	incomplete transection of femoral vein at hip or thigh level
+laceration of femoral vein at hip or thigh level NOS
+superficial laceration of femoral vein at hip or thigh level
+
+NC75.11	Laceration of femoral vein at hip or thigh level, major
+Inclusions:	complete transection of femoral vein at hip or thigh level
+traumatic rupture of femoral vein at hip and thigh level
+
+NC75.1Y	Other specified injury of femoral vein at hip or thigh level
+
+NC75.1Z	Injury of femoral vein at hip or thigh level, unspecified
+
+NC75.2	Injury of greater saphenous vein at hip or thigh level
+Exclusions:	Injury of greater saphenous vein at lower leg level (NC95.4)
+
+NC75.20	Laceration of greater saphenous vein at hip or thigh level, minor
+Inclusions:	incomplete transection of greater saphenous vein at hip or thigh level
+laceration of greater saphenous vein at hip or thigh level NOS
+superficial laceration of greater saphenous vein at hip or thigh level
+
+NC75.21	Laceration of greater saphenous vein at hip or thigh level, major
+Inclusions:	complete transection of greater saphenous vein at hip or thigh level
+traumatic rupture of greater saphenous vein at hip or thigh level
+
+NC75.2Y	Other specified injury of greater saphenous vein at hip or thigh level
+
+NC75.2Z	Injury of greater saphenous vein at hip or thigh level, unspecified
+
+NC75.3	Injury of multiple blood vessels at hip or thigh level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC75.Y	Injury of other specified blood vessels at hip and thigh level
+
+NC75.Z	Injury of unspecified blood vessel at hip or thigh level
+
+  NC76  	Injury of muscle, fascia, tendon or bursa at hip or thigh level
+
+NC76.0	Injury of muscle, fascia or tendon of hip
+
+NC76.00	Strain or sprain of muscle, fascia or tendon of hip
+
+NC76.01	Laceration of muscle, fascia or tendon of hip
+
+NC76.0Y	Other specified injury of muscle, fascia or tendon of hip
+
+NC76.0Z	Injury of muscle, fascia or tendon of hip, unspecified
+
+NC76.1	Injury of quadriceps muscle or tendon
+
+NC76.10	Strain or sprain of quadriceps muscle or tendon
+
+NC76.11	Laceration of quadriceps muscle or tendon
+
+NC76.1Y	Other specified injury of quadriceps muscle or tendon
+
+NC76.1Z	Injury of quadriceps muscle or tendon, unspecified
+
+NC76.2	Injury of adductor muscle, fascia or tendon of thigh
+
+NC76.20	Strain or sprain of adductor muscle, fascia or tendon of thigh
+
+NC76.21	Laceration of adductor muscle, fascia or tendon of thigh
+
+NC76.2Y	Other specified injury of adductor muscle, fascia or tendon of thigh
+
+NC76.2Z	Injury of adductor muscle, fascia or tendon of thigh, unspecified
+
+NC76.3	Injury of muscle, fascia or tendon of the posterior muscle group at thigh level
+
+NC76.30	Strain or sprain of muscle, fascia or tendon of the posterior muscle group at thigh level
+
+NC76.31	Laceration of muscle, fascia or tendon of the posterior muscle group at thigh level
+
+NC76.3Y	Other specified injury of muscle, fascia or tendon of the posterior muscle group at thigh level
+
+NC76.3Z	Injury of muscle, fascia or tendon of the posterior muscle group at thigh level, unspecified
+
+NC76.4	Injury of multiple muscles or tendons at hip or thigh level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC76.40	Injury of bursa of hip
+
+NC76.4Y	Other specified injury of multiple muscles or tendons at hip or thigh level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC76.4Z	Injury of multiple muscles or tendons at hip or thigh level, unspecified
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC76.Y	Injury of other specified muscle, fascia, tendon or bursa at hip or thigh level
+
+NC76.Z	Injury of unspecified muscle, fascia, tendon or bursa at hip or thigh level
+
+  NC77  	Crushing injury of hip or thigh
+
+NC77.0	Crushing injury of hip
+
+NC77.1	Crushing injury of thigh
+
+NC77.2	Crushing injury of hip with thigh
+
+NC77.Z	Crushing injury of hip or thigh, unspecified
+
+  NC78  	Traumatic amputation of hip or thigh
+Exclusions:	traumatic amputation of leg, level unspecified (ND55)
+
+NC78.0	Traumatic amputation at right hip joint
+
+NC78.1	Traumatic amputation at left hip joint
+
+NC78.2	Traumatic amputation at hip joint, bilateral
+
+NC78.3	Traumatic amputation at level between right hip and knee
+
+NC78.4	Traumatic amputation at level between left hip and knee
+
+NC78.5	Traumatic amputation at level between hip and knee, bilateral
+
+NC78.Z	Traumatic amputation of hip or thigh, unspecified
+
+  NC79  	Multiple injuries of hip or thigh
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NC7Y  	Other specified injuries to the hip or thigh
+
+  NC7Z  	Injuries to the hip or thigh, unspecified
+
+Injuries to the knee or lower leg (BlockL1‑NC9)
+Exclusions:	Burns (BlockL1‑ND9)
+Frostbite (BlockL1‑NE4)
+Insect bite or sting, venomous (NE61)
+Other injuries of leg, level unspecified (ND55)
+Injuries to the ankle or foot (BlockL1‑ND1)
+  NC90  	Superficial injury of knee or lower leg
+Exclusions:	Superficial injury of ankle or foot (ND11)
+
+NC90.0	Abrasion of knee
+
+NC90.1	Contusion of knee
+
+NC90.2	Abrasion of other or unspecified parts of lower leg
+
+NC90.3	Contusion of other or unspecified parts of lower leg
+
+NC90.4	Multiple superficial injuries of lower leg
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC90.Y	Other specified superficial injury of knee or lower leg
+
+NC90.Z	Superficial injury of knee or lower leg, unspecified
+
+  NC91  	Open wound of knee or lower leg
+Exclusions:	Traumatic amputation of lower leg (NC98)
+Open wound of ankle or foot (ND12)
+
+NC91.0	Laceration without foreign body of lower leg
+Inclusions:	laceration of skin of lower leg
+
+NC91.1	Laceration with foreign body of lower leg
+
+NC91.2	Puncture wound without foreign body of lower leg
+
+NC91.3	Puncture wound with foreign body of lower leg
+
+NC91.4	Open bite of lower leg
+
+NC91.5	Multiple open wounds of lower leg
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC91.Y	Other specified open wound of knee or lower leg
+
+NC91.Z	Open wound of knee or lower leg, unspecified
+
+  NC92  	Fracture of lower leg, including ankle
+Exclusions:	Fracture of foot, except ankle (ND13)
+
+NC92.0	Fracture of patella
+A break in the patellar bone (kneecap)
+
+NC92.1	Fracture of upper end of tibia
+
+NC92.10	Avulsion of cruciate ligament insertion
+
+NC92.11	Avulsion of tibial tuberosity
+
+NC92.12	Metaphyseal fracture of upper end of tibia
+
+NC92.13	Fracture of upper end of tibia, lateral condyle
+
+NC92.14	Fracture of upper end of tibia, medial condyle
+
+NC92.1Y	Other specified fracture of upper end of tibia
+
+NC92.1Z	Fracture of upper end of tibia, unspecified
+
+NC92.2	Fracture of shaft of tibia
+Inclusions:	Fracture of shaft of tibia with or without mention of fracture of fibula
+
+NC92.3	Fracture of lower end of tibia
+Inclusions:	Fracture of lower end of tibia with or without mention of fracture of fibula
+Exclusions:	Fracture of medial malleolus (NC92.5)
+
+NC92.4	Fracture of fibula alone
+Exclusions:	Fracture of lateral malleolus (NC92.6)
+
+NC92.40	Avulsion of fibular head
+
+NC92.4Y	Other specified fracture of fibula alone
+
+NC92.4Z	Fracture of fibula alone, unspecified
+
+NC92.5	Fracture of medial malleolus
+A fracture of the medial malleolus, the bony landmark located on the distal end of the tibia
+
+NC92.6	Fracture of lateral malleolus
+
+NC92.7	Complex fractures of ankle
+
+NC92.70	Fracture, avulsion or collateral ligament rupture of lateral malleolus below syndesmosis with fracture, avulsion or collateral ligament rupture of medial malleolus
+
+NC92.71	Fracture, avulsion or collateral ligament rupture of lateral malleolus below syndesmosis with fracture, avulsion or collateral ligament rupture of medial malleolus and fracture of posterior margin of distal tibia
+
+NC92.72	Fracture of lateral malleolus at syndesmosis with fracture, avulsion or collateral ligament rupture of medial malleolus
+
+NC92.73	Fracture of lateral malleolus at syndesmosis with fracture, avulsion or collateral ligament rupture of medial malleolus and fracture of posterior margin of distal tibia
+
+NC92.74	Fracture, avulsion or collateral ligament rupture of medial malleolus with fracture of fibula above syndesmosis
+
+NC92.75	Fracture, avulsion or collateral ligament rupture of medial malleolus with fracture of fibula above syndesmosis and fracture of posterior margin of distal tibia
+
+NC92.76	Bimalleolar fracture of ankle, not otherwise specified
+
+NC92.77	Trimalleolar fracture of ankle, not otherwise specified
+
+NC92.7Y	Other specified complex fractures of ankle
+
+NC92.7Z	Complex fractures of ankle, unspecified
+
+NC92.8	Multiple fractures of lower leg
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	fractures of both tibia and fibula upper end (NC92.1)
+fractures of both tibia and fibula shafts (NC92.2)
+fractures of both tibia and fibula lower end (NC92.3)
+
+NC92.Y	Fracture of other specified part of lower leg, including ankle
+
+NC92.Z	Fracture of lower leg, including ankle, unspecified
+
+  NC93  	Dislocation or strain or sprain of joints or ligaments of knee
+Exclusions:	dislocation of knee recurrent (FA34.2)
+Internal derangement of knee (FA33)
+derangement of patella (FA32)
+dislocation of knee old (FA34.2)
+
+NC93.0	Acute internal damage of knee
+
+NC93.1	Dislocation of patella
+Displacement of the patella from the femoral groove.
+
+NC93.10	Lateral dislocation of patella
+
+NC93.1Y	Other specified dislocation of patella
+
+NC93.1Z	Dislocation of patella, unspecified
+
+NC93.2	Dislocation of knee
+
+NC93.20	Anterior dislocation of proximal end of tibia
+
+NC93.21	Posterior dislocation of proximal end of tibia
+
+NC93.22	Medial dislocation of proximal end of tibia
+
+NC93.23	Lateral dislocation of proximal end of tibia
+
+NC93.2Y	Other specified dislocation of knee
+
+NC93.2Z	Dislocation of knee, unspecified
+
+NC93.3	Tear of meniscus, current
+Exclusions:	old bucket-handle tear (FA33)
+
+NC93.30	Tear of medial meniscus
+
+NC93.31	Tear of lateral meniscus
+
+NC93.3Y	Other specified tear of meniscus, current
+
+NC93.3Z	Tear of meniscus, current, unspecified
+
+NC93.4	Tear of articular cartilage of knee
+
+NC93.5	Strain or sprain involving fibular or tibial collateral ligament of knee
+
+NC93.50	Strain or sprain of medial collateral ligament of knee, excluding rupture
+
+NC93.51	Strain or sprain of lateral collateral ligament of knee, excluding rupture
+
+NC93.52	Rupture of medial collateral ligament of knee
+
+NC93.53	Rupture of lateral collateral ligament of knee
+
+NC93.5Y	Other specified strain or sprain involving fibular or tibial collateral ligament of knee
+
+NC93.5Z	Strain or sprain involving fibular or tibial collateral ligament of knee, unspecified
+
+NC93.6	Strain or sprain involving anterior or posterior cruciate ligament of knee
+
+NC93.60	Strain or sprain of anterior cruciate ligament of knee, excluding rupture
+
+NC93.61	Strain or sprain of posterior cruciate ligament of knee, excluding rupture
+
+NC93.62	Rupture of anterior cruciate ligament
+
+NC93.63	Rupture of posterior cruciate ligament
+
+NC93.6Y	Other specified strain or sprain involving anterior or posterior cruciate ligament of knee
+
+NC93.6Z	Strain or sprain involving anterior or posterior cruciate ligament of knee, unspecified
+
+NC93.7	Strain or sprain of other or unspecified parts of knee
+A collective term for muscle and ligament injuries of other and unspecified tissues associated with the knee without dislocation or fracture; a joint injury in which some of the fibers of a supporting ligament are ruptured but the continuity of the ligament remains intact. A strain is an overstretching or overexertion of some part of the musculature.
+Exclusions:	sprain of patellar ligament (NC76.1)
+
+NC93.8	Injury to multiple structures of knee
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC93.Y	Other specified dislocation or strain or sprain of joints or ligaments of knee
+
+NC93.Z	Dislocation or strain or sprain of joints or ligaments of knee, unspecified
+
+  NC94  	Injury of nerves at lower leg level
+Exclusions:	Injury of nerves at ankle or foot level (ND15)
+
+NC94.0	Injury of tibial nerve at lower leg level
+
+NC94.1	Injury of peroneal nerve at lower leg level
+
+NC94.2	Injury of cutaneous sensory nerve at lower leg level
+
+NC94.3	Injury of multiple nerves at lower leg level
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC94.Y	Injury of other specified nerves at lower leg level
+
+NC94.Z	Injury of unspecified nerve at lower leg level
+
+  NC95  	Injury of blood vessels at lower leg level
+Exclusions:	Injury of blood vessels at ankle or foot level (ND16)
+
+NC95.0	Injury of popliteal artery
+
+NC95.00	Laceration of popliteal artery
+
+NC95.0Y	Other specified injury of popliteal artery
+
+NC95.0Z	Injury of popliteal artery, unspecified
+
+NC95.1	Injury of anterior tibial artery
+
+NC95.10	Laceration of anterior tibial artery
+
+NC95.1Y	Other specified injury of anterior tibial artery
+
+NC95.1Z	Injury of anterior tibial artery, unspecified
+
+NC95.2	Injury of posterior tibial artery
+
+NC95.20	Laceration of posterior tibial artery
+
+NC95.2Y	Other specified injury of posterior tibial artery
+
+NC95.2Z	Injury of posterior tibial artery, unspecified
+
+NC95.3	Injury of peroneal artery
+
+NC95.30	Laceration of peroneal artery
+
+NC95.3Y	Other specified injury of peroneal artery
+
+NC95.3Z	Injury of peroneal artery, unspecified
+
+NC95.4	Injury of greater saphenous vein at lower leg level
+
+NC95.40	Laceration of greater saphenous vein at lower leg level
+
+NC95.4Y	Other specified injury of greater saphenous vein at lower leg level
+
+NC95.4Z	Injury of greater saphenous vein at lower leg level, unspecified
+
+NC95.5	Injury of lesser saphenous vein at lower leg level
+
+NC95.50	Laceration of lesser saphenous vein at lower leg level
+
+NC95.5Y	Other specified injury of lesser saphenous vein at lower leg level
+
+NC95.5Z	Injury of lesser saphenous vein at lower leg level, unspecified
+
+NC95.6	Injury of popliteal vein
+
+NC95.60	Laceration of popliteal vein
+
+NC95.6Y	Other specified injury of popliteal vein
+
+NC95.6Z	Injury of popliteal vein, unspecified
+
+NC95.7	Injury of multiple blood vessels at lower leg level
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+NC95.Y	Injury of other specified blood vessels at lower leg level
+
+NC95.Z	Injury of unspecified blood vessel at lower leg level
+
+  NC96  	Injury of muscle, fascia, tendon or bursa at lower leg level
+Exclusions:	Injury of muscle, fascia or tendon at ankle or foot level (ND17)
+injury of patellar ligament (tendon) (NC76.1)
+
+NC96.0	Injury of Achilles tendon
+
+NC96.00	Strain or sprain of Achilles tendon
+
+NC96.01	Laceration of Achilles tendon
+
+NC96.02	Rupture of Achilles tendon
+
+NC96.0Y	Other specified injury of Achilles tendon
+
+NC96.0Z	Injury of Achilles tendon, unspecified
+
+NC96.1	Injury of other muscle, fascia or tendon of posterior muscle group at lower leg level
+
+NC96.10	Strain or sprain of other muscle, fascia or tendon of posterior muscle group at lower leg level
+
+NC96.11	Laceration of other muscle, fascia or tendon of posterior muscle group at lower leg level
+
+NC96.1Y	Other specified injury of other muscle, fascia or tendon of posterior muscle group at lower leg level
+
+NC96.1Z	Injury of other muscle, fascia or tendon of posterior muscle group at lower leg level, unspecified
+
+NC96.2	Injury of muscle, fascia or tendon of anterior muscle group at lower leg level
+
+NC96.20	Strain or sprain of muscle, fascia or tendon of anterior muscle group at lower leg level
+
+NC96.21	Laceration of muscle, fascia or tendon of anterior muscle group at lower leg level
+
+NC96.2Y	Other specified injury of muscle, fascia or tendon of anterior muscle group at lower leg level
+
+NC96.2Z	Injury of muscle, fascia or tendon of anterior muscle group at lower leg level, unspecified
+
+NC96.3	Injury of muscle, fascia or tendon of peroneal muscle group at lower leg level
+
+NC96.30	Strain or sprain of muscle, fascia or tendon of peroneal muscle group at lower leg level
+
+NC96.31	Laceration of muscle, fascia or tendon of peroneal muscle group at lower leg level
+
+NC96.3Y	Other specified injury of muscle, fascia or tendon of peroneal muscle group at lower leg level
+
+NC96.3Z	Injury of muscle, fascia or tendon of peroneal muscle group at lower leg level, unspecified
+
+NC96.4	Injury of multiple muscles, fasciae or tendons at lower leg level
+Coding Note:	Assign additional codes for the specific injuries.
+
+NC96.5	Injury of bursa of knee
+
+NC96.Y	Injury of other specified muscle, fascia, tendon or bursa at lower leg level
+
+NC96.Z	Injury of unspecified muscle, fascia, tendon or bursa at lower leg level
+
+  NC97  	Crushing injury of lower leg
+Exclusions:	Crushing injury of ankle or foot (ND18)
+
+NC97.0	Crushing injury of knee
+
+NC97.Y	Crushing injury of other specified part of lower leg
+
+NC97.Z	Crushing injury of lower leg, unspecified
+
+  NC98  	Traumatic amputation of lower leg
+Exclusions:	Traumatic amputation of ankle or foot (ND19)
+traumatic amputation of leg, level unspecified (ND55)
+
+NC98.0	Traumatic amputation of right lower leg at knee level
+
+NC98.1	Traumatic amputation of left lower leg at knee level
+
+NC98.2	Traumatic amputation at knee level, bilateral
+
+NC98.3	Traumatic amputation at level between right knee and ankle
+
+NC98.4	Traumatic amputation at level between left knee and ankle
+
+NC98.5	Traumatic amputation at level between knee and ankle, bilateral
+
+NC98.Y	Other specified traumatic amputation of lower leg
+
+NC98.Z	Traumatic amputation of lower leg, unspecified
+
+  NC99  	Multiple injuries of lower leg
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NC9Y  	Other specified injuries to the knee or lower leg
+
+  NC9Z  	Injuries to the knee or lower leg, unspecified
+
+Injuries to the ankle or foot (BlockL1‑ND1)
+Exclusions:	fracture of ankle and malleolus (NC92.5)
+Other injuries of leg, level unspecified (ND55)
+Frostbite (BlockL1‑NE4)
+Burns (BlockL1‑ND9)
+Insect bite or sting, venomous (NE61)
+  ND10  	Injury to toenail
+
+  ND11  	Superficial injury of ankle or foot
+
+ND11.0	Abrasion of ankle
+
+ND11.1	Contusion of ankle
+
+ND11.2	Nonthermal blister of ankle
+
+ND11.3	Nonvenomous insect bite of ankle
+
+ND11.4	Superficial foreign body in ankle
+
+ND11.40	Splinter in ankle
+
+ND11.4Y	Other specified superficial foreign body in ankle
+
+ND11.4Z	Superficial foreign body in ankle, unspecified
+
+ND11.5	Abrasion of toe
+
+ND11.6	Contusion of toe
+
+ND11.7	Abrasion of other or unspecified parts of foot
+
+ND11.8	Contusion of other or unspecified parts of foot
+
+ND11.9	Nonthermal blister of other or unspecified parts of foot
+
+ND11.A	Nonvenomous insect bite of other or unspecified parts of foot
+
+ND11.B	Superficial foreign body in other or unspecified parts of foot
+
+ND11.B0	Splinter in other or unspecified parts of foot
+
+ND11.BY	Other specified superficial foreign body in other or unspecified parts of foot
+
+ND11.BZ	Superficial foreign body in other or unspecified parts of foot, unspecified
+
+ND11.C	Multiple superficial injuries of ankle or foot
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND11.Y	Other specified superficial injury of ankle or foot
+
+ND11.Z	Superficial injury of ankle or foot, unspecified
+
+  ND12  	Open wound of ankle or foot
+Exclusions:	Traumatic amputation of ankle or foot (ND19)
+
+ND12.0	Laceration without foreign body of ankle or foot
+Inclusions:	laceration of skin of ankle or foot
+
+ND12.1	Laceration with foreign body of ankle or foot
+
+ND12.2	Puncture wound with foreign body of ankle or foot
+
+ND12.3	Puncture wound without foreign body of ankle or foot
+
+ND12.4	Open bite of ankle or foot
+
+ND12.5	Multiple open wounds of ankle or foot
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND12.6	Open wound of toe
+
+ND12.60	Laceration without foreign body of toe
+Exclusions:	Injury to toenail (ND10)
+
+ND12.61	Laceration with foreign body of toe
+
+ND12.62	Puncture wound without foreign body of toe
+
+ND12.63	Puncture wound with foreign body of toe
+
+ND12.64	Open bite of toe
+
+ND12.6Y	Other specified open wound of toe
+
+ND12.6Z	Open wound of toe, unspecified
+
+ND12.Y	Other specified open wound of ankle or foot
+
+ND12.Z	Open wound of ankle or foot, unspecified
+
+  ND13  	Fracture of foot, except ankle
+Exclusions:	Fracture of medial malleolus (NC92.5)
+Fracture of lower leg, including ankle (NC92)
+Fracture of lateral malleolus (NC92.6)
+
+ND13.0	Fracture of calcaneus
+
+ND13.1	Fracture of talus
+Inclusions:	Fracture of astragalus
+
+ND13.2	Fracture of unspecified tarsal bone
+
+ND13.3	Fracture of metatarsal bone
+A break in one or more of the metatarsal bones of the foot
+Exclusions:	march fracture (FB80.A)
+
+ND13.4	Fracture of great toe
+
+ND13.5	Fracture of other toe
+
+ND13.6	Multiple fractures of foot
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND13.7	Fracture of cuboid bone
+
+ND13.8	Fracture of lateral cuneiform
+
+ND13.9	Fracture of intermediate cuneiform
+
+ND13.A	Fracture of medial cuneiform
+
+ND13.B	Fracture of navicular of foot
+
+ND13.Y	Fracture of other specified part of foot, except ankle
+
+ND13.Z	Fracture of foot, except ankle, unspecified
+
+  ND14  	Dislocation or strain or sprain of joints or ligaments at ankle or foot level
+
+ND14.0	Dislocation of ankle joint
+Displacement of one or more bones of the ankle, including the tarsals
+Inclusions:	Dislocation of astragalus
+Dislocation of talus
+
+ND14.1	Dislocation of great toe
+
+ND14.10	Dislocation of metatarsophalangeal joint of great toe
+
+ND14.11	Dislocation of interphalangeal joint of great toe
+
+ND14.1Z	Dislocation of great toe, unspecified
+
+ND14.2	Dislocation of other toe
+
+ND14.20	Dislocation of metatarsophalangeal joint of lesser toe
+
+ND14.21	Dislocation of interphalangeal joints of lesser toe
+
+ND14.2Y	Dislocation of other specified toe
+
+ND14.2Z	Dislocation of other toe, unspecified
+
+ND14.3	Dislocation of tarsal joint
+
+ND14.4	Dislocation of tarsometatarsal joint
+
+ND14.5	Rupture of ligaments at ankle or foot level
+
+ND14.6	Dislocation of other or unspecified parts of foot
+
+ND14.7	Strain or sprain of ankle
+Exclusions:	Injury of Achilles tendon (NC96.0)
+
+ND14.70	Strain or sprain of calcaneofibular ligament
+
+ND14.71	Strain or sprain of deltoid ligament
+
+ND14.72	Strain or sprain of tibiofibular ligament
+
+ND14.73	Strain or sprain of other ligament of ankle
+
+ND14.7Z	Strain or sprain of ankle, unspecified
+
+ND14.8	Strain or sprain of toe
+Exclusions:	Strain or sprain of great toe (ND14.9)
+
+ND14.9	Strain or sprain of great toe
+
+ND14.90	Strain or sprain of metatarsophalangeal joint of great toe
+
+ND14.91	Strain or sprain of interphalangeal joint of great toe
+
+ND14.9Z	Strain or sprain of great toe, unspecified
+
+ND14.A	Strain or sprain of other or unspecified parts of foot
+
+ND14.A0	Strain or sprain of metatarsophalangeal joint of lesser toe
+
+ND14.A1	Strain or sprain of interphalangeal joints of lesser toe
+
+ND14.AY	Sprain of other specified parts of foot
+
+ND14.AZ	Sprain of unspecified parts of foot
+
+ND14.Y	Other specified dislocation or strain or sprain of joints or ligaments at ankle or foot level
+
+ND14.Z	Dislocation or strain or sprain of joints or ligaments at ankle or foot level, unspecified
+
+  ND15  	Injury of nerves at ankle or foot level
+
+ND15.0	Injury of lateral plantar nerve
+
+ND15.1	Injury of medial plantar nerve
+
+ND15.2	Injury of deep peroneal nerve at ankle or foot level
+
+ND15.3	Injury of cutaneous sensory nerve at ankle or foot level
+
+ND15.4	Injury of multiple nerves at ankle or foot level
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND15.Y	Injury of other specified nerves at ankle and foot level
+
+ND15.Z	Injury of unspecified nerve at ankle or foot level
+
+  ND16  	Injury of blood vessels at ankle or foot level
+Exclusions:	Injury of posterior tibial artery (NC95.2)
+
+ND16.0	Injury of dorsal artery of foot
+
+ND16.00	Laceration of dorsal artery of foot
+
+ND16.0Y	Other specified injury of dorsal artery of foot
+
+ND16.0Z	Injury of dorsal artery of foot, unspecified
+
+ND16.1	Injury of plantar artery of foot
+
+ND16.10	Laceration of plantar artery of foot
+
+ND16.1Y	Other specified injury of plantar artery of foot
+
+ND16.1Z	Injury of plantar artery of foot, unspecified
+
+ND16.2	Injury of dorsal vein of foot
+
+ND16.20	Laceration of dorsal vein of foot
+
+ND16.2Y	Other specified injury of dorsal vein of foot
+
+ND16.2Z	Injury of dorsal vein of foot, unspecified
+
+ND16.3	Injury of multiple blood vessels at ankle or foot level
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND16.Y	Injury of other specified blood vessels at ankle and foot level
+
+ND16.Z	Injury of unspecified blood vessel at ankle or foot level
+
+  ND17  	Injury of muscle, fascia or tendon at ankle or foot level
+Damage inflicted on the muscular or tendinous tissues of the ankle or foot as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Exclusions:	Injury of Achilles tendon (NC96.0)
+
+ND17.0	Injury of muscle, fascia or tendon of long flexor muscle of toe at ankle or foot level
+
+ND17.00	Strain or sprain of muscle, fascia or tendon of long flexor muscle of toe at ankle or foot level
+
+ND17.01	Laceration of muscle, fascia or tendon of long flexor muscle of toe at ankle or foot level
+
+ND17.0Y	Other specified injury of muscle, fascia or tendon of long flexor muscle of toe at ankle or foot level
+
+ND17.0Z	Injury of muscle, fascia or tendon of long flexor muscle of toe at ankle or foot level, unspecified
+
+ND17.1	Injury of muscle, fascia or tendon of long extensor muscle of toe at ankle or foot level
+
+ND17.10	Strain or sprain of muscle, fascia or tendon of long extensor muscle of toe at ankle or foot level
+
+ND17.11	Laceration of muscle, fascia or tendon of long extensor muscle of toe at ankle or foot level
+
+ND17.1Y	Other specified injury of muscle, fascia or tendon of long extensor muscle of toe at ankle or foot level
+
+ND17.1Z	Injury of muscle, fascia or tendon of long extensor muscle of toe at ankle or foot level, unspecified
+
+ND17.2	Injury of intrinsic muscle, fascia or tendon at ankle or foot level
+
+ND17.20	Strain or sprain of intrinsic muscle, fascia or tendon at ankle or foot level
+
+ND17.21	Laceration of intrinsic muscle, fascia or tendon at ankle or foot level
+
+ND17.2Y	Other specified injury of intrinsic muscle, fascia or tendon at ankle or foot level
+
+ND17.2Z	Injury of intrinsic muscle, fascia or tendon at ankle or foot level, unspecified
+
+ND17.3	Injury of multiple muscles or tendons at ankle or foot level
+Coding Note:	Assign additional codes for the specific injuries.
+
+ND17.Y	Injury of other specified muscle, fascia or tendon at ankle or foot level
+
+ND17.Z	Injury of unspecified muscle, fascia or tendon at ankle or foot level
+
+  ND18  	Crushing injury of ankle or foot
+
+ND18.0	Crushing injury of ankle
+
+ND18.1	Crushing injury of toe
+
+ND18.2	Crushing injury of other parts of ankle or foot
+
+ND18.Z	Crushing injury of ankle or foot, unspecified
+
+  ND19  	Traumatic amputation of ankle or foot
+
+ND19.0	Traumatic amputation of right foot at ankle level
+
+ND19.1	Traumatic amputation of left foot at ankle level
+
+ND19.2	Traumatic amputation of foot at ankle level, bilateral
+
+ND19.3	Traumatic amputation of right foot at metatarsal level
+
+ND19.4	Traumatic amputation of left foot at metatarsal level
+
+ND19.5	Traumatic amputation of foot at metatarsal level, bilateral
+
+ND19.6	Traumatic amputation of one toe
+Exclusions:	avulsion of toenail (ND10)
+
+ND19.7	Traumatic amputation of two or more toes
+Exclusions:	avulsion of toenail (ND10)
+
+ND19.8	Traumatic amputation of other parts of foot
+Inclusions:	Combined traumatic amputation of toe(s) and other parts of foot
+
+ND19.Z	Traumatic amputation of ankle or foot, unspecified
+
+  ND1A  	Multiple injuries of ankle or foot
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND1Y  	Other specified injuries to the ankle or foot
+
+  ND1Z  	Injuries to the ankle or foot, unspecified
+
+Injuries involving multiple body regions (BlockL1‑ND3)
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	Frostbite (BlockL1‑NE4)
+Sunburn (EJ40)
+Burns (BlockL1‑ND9)
+  ND30  	Superficial injuries involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND31  	Open wounds involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	Traumatic amputations involving multiple body regions (ND35)
+
+  ND32  	Fractures involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Coded Elsewhere:	Fractures involving multiple body regions due to birth injury (KA45.Y)
+
+  ND33  	Dislocations, strains or sprains involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND34  	Crushing injuries involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND35  	Traumatic amputations involving multiple body regions
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Inclusions:	avulsion involving multiple body regions
+Exclusions:	traumatic amputation of leg NOS (ND55)
+traumatic amputation of arm NOS (ND53)
+Open wounds involving multiple body regions (ND31)
+Decapitation (NA63)
+traumatic amputation of: trunk NOS (NB33)
+
+  ND36  	Other injuries involving multiple body regions, not elsewhere classified
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND37  	Unspecified multiple injuries
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	injury NOS (ND56)
+
+Injuries to unspecified part of trunk, limb or body region (BlockL1‑ND5)
+Exclusions:	Injuries involving multiple body regions (BlockL1‑ND3)
+Insect bite or sting, venomous (NE61)
+Burns (BlockL1‑ND9)
+Frostbite (BlockL1‑NE4)
+  ND50  	Fracture of spine, level unspecified
+Exclusions:	multiple fractures of spine, level unspecified (ND32)
+
+  ND51  	Other injuries of spine or trunk, level unspecified
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+Exclusions:	multiple internal injuries of trunk (ND36)
+crushing injury of trunk NOS (ND34)
+transection of trunk (ND35)
+
+ND51.0	Dislocation or strain or sprain of unspecified joint or ligament of trunk
+
+ND51.1	Injury of unspecified nerve, spinal nerve root or plexus of trunk
+
+ND51.2	Injury of spinal cord, level unspecified
+Coded Elsewhere:	Birth injury to spine or spinal cord (KA40.2)
+
+ND51.3	Injury of unspecified muscle, fascia or tendon of trunk
+
+ND51.4	Crushing injury of spine or trunk, level unspecified
+
+ND51.Y	Other specified injuries of spine or trunk, level unspecified
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND51.Z	Unspecified injuries of spine or trunk, level unspecified
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  ND52  	Fracture of arm, level unspecified
+Exclusions:	Fractures involving multiple regions of one arm (ND32)
+
+  ND53  	Other injuries of arm, level unspecified
+Exclusions:	crushing injury of arm NOS (ND34)
+Fracture of arm, level unspecified (ND52)
+Injuries involving multiple body regions (BlockL1‑ND3)
+
+ND53.0	Crushing injury of arm, level unspecified
+
+ND53.Y	Other specified injuries of arm, level unspecified
+
+  ND54  	Fracture of leg, level unspecified
+Exclusions:	Fractures involving multiple regions of one leg (ND32)
+
+  ND55  	Other injuries of leg, level unspecified
+Exclusions:	Fracture of leg, level unspecified (ND54)
+Injuries involving multiple body regions (BlockL1‑ND3)
+
+  ND56  	Injury of unspecified body region
+Damage inflicted on the body in an unspecified area as the direct or indirect result of an external force, with or without disruption of structural continuity.
+Exclusions:	Injuries involving multiple body regions (BlockL1‑ND3)
+multiple injuries NOS (ND37)
+
+ND56.0	Superficial injury of unspecified body region
+Exclusions:	multiple superficial injuries NOS (ND30)
+Coded Elsewhere:	Haematoma of surgical wound of skin (NE81.00)
+Superficial incisional site infection (NE81.20)
+
+ND56.1	Open wound of unspecified body region
+Exclusions:	Traumatic amputations involving multiple body regions (ND35)
+Open wounds involving multiple body regions (ND31)
+traumatic amputation NOS (ND56.8)
+
+ND56.2	Fracture of unspecified body region
+Exclusions:	multiple fractures NOS (ND32)
+
+ND56.3	Dislocation or strain or sprain of unspecified body region
+Exclusions:	multiple dislocations, sprains and strains NOS (ND33)
+
+ND56.4	Injury of nerve of unspecified body region
+Exclusions:	multiple injuries of nerves NOS (ND36)
+
+ND56.5	Injury of blood vessel of unspecified body region
+Exclusions:	multiple injuries of blood vessels NOS (ND36)
+
+ND56.6	Injury of muscles or tendons of unspecified body region
+Exclusions:	multiple injuries of tendons and muscles NOS (ND36)
+
+ND56.7	Crushing injury of unspecified body region
+
+ND56.8	Traumatic amputation of unspecified body region
+Exclusions:	multiple: crushing injuries NOS (ND34)
+multiple traumatic amputations NOS (ND35)
+
+ND56.9	Injury complicating pregnancy
+
+ND56.Y	Other specified injury of unspecified body region
+
+ND56.Z	Unspecified injury to unspecified part of trunk, limb or body region
+
+  ND57  	Secondary effect of trauma
+Inclusions:	deformity NOS
+scarring resulting from previous injury
+old amputation
+Exclusions:	Post traumatic stress disorder (6B40)
+Post traumatic wound infection, not elsewhere classified (NF0A.3)
+
+  ND5Y  	Other specified injuries to unspecified part of trunk, limb or body region
+
+  ND5Z  	Injuries to unspecified part of trunk, limb or body region, unspecified
+
+Effects of foreign body entering through natural orifice (BlockL1‑ND7)
+Exclusions:	foreign body accidentally left in operation wound (PL11.3)
+Residual foreign body in soft tissue (FB56.1)
+  ND70  	Foreign body on external eye
+Exclusions:	Retained foreign body following penetrating wound of orbit (NA06.2)
+Retained foreign body in eyelid (NA06.03)
+
+ND70.0	Foreign body in cornea
+
+ND70.1	Foreign body in conjunctival sac
+
+ND70.2	Foreign body in multiple parts of external eye
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND70.Y	Foreign body in other specified part of external eye
+
+ND70.Z	Foreign body on external eye, unspecified
+
+  ND71  	Foreign body in ear
+Objects that inadvertently enter the ear from the environment.
+
+  ND72  	Foreign body in respiratory tract
+
+ND72.0	Foreign body in nasal sinus
+
+ND72.1	Foreign body in nostril
+
+ND72.2	Foreign body in pharynx
+Objects that inadvertently enter the pharynx from the environment.
+
+ND72.20	Asphyxia on mucous in nasopharynx
+
+ND72.2Y	Other specified foreign body in pharynx
+
+ND72.2Z	Foreign body in pharynx, unspecified
+
+ND72.3	Foreign body in larynx
+
+ND72.4	Foreign body in trachea
+
+ND72.5	Foreign body in bronchus
+
+ND72.6	Foreign body in multiple parts of respiratory tract
+Coding Note:	Each injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+ND72.Y	Foreign body in other parts of respiratory tract
+
+ND72.Z	Foreign body in unspecified part of respiratory tract
+
+  ND73  	Foreign body in alimentary tract
+Inclusions:	foreign body in digestive system NOS
+Exclusions:	Foreign body in pharynx (ND72.2)
+
+ND73.0	Foreign body in mouth
+
+ND73.1	Foreign body in oesophagus
+Mechanical impaction or retention of foreign body in the oesophagus
+
+ND73.2	Foreign body in stomach
+Mechanical impaction or retention of foreign body in the stomach.
+
+ND73.20	Trichobezoar
+A hair ball which is formed from ingested hairs in the stomach which may cause bowel obstruction.
+
+ND73.2Y	Other specified foreign body in stomach
+
+ND73.2Z	Foreign body in stomach, unspecified
+
+ND73.3	Foreign body in small intestine
+Mechanical impaction or retention of foreign body in the small intestine.
+
+ND73.4	Foreign body in colon
+
+ND73.5	Foreign body in anus or rectum
+
+ND73.Y	Foreign body in other specified part of alimentary tract
+
+ND73.Z	Foreign body in alimentary tract, unspecified
+
+  ND74  	Foreign body in genitourinary tract
+Exclusions:	Presence of contraceptive device (QB51.C)
+
+ND74.0	Foreign body in urethra
+
+ND74.1	Foreign body in bladder
+
+ND74.2	Foreign body in vulva or vagina
+
+ND74.3	Foreign body in uterus, any part
+
+ND74.Y	Foreign body in other specified part of genitourinary tract
+
+ND74.Z	Foreign body in genitourinary tract, unspecified
+
+  ND7Z  	Effects of foreign body entering through natural orifice, unspecified
+
+Burns (BlockL1‑ND9)
+A burn is an injury to the tissues caused by a pathological flux of energy which causes cellular destruction and irreversible denaturation of proteins and is primarily caused by thermal or other acute trauma.
+Coding Note:	Code also the size of burn as the percentage of total body surface area burned to any depth, and the percentage with full-thickness or deep full thickness burns.
+Inclusions:	internal chemical burn or corrosion
+external chemical burn or corrosion
+burns from hot objects
+burns from friction
+burns from hot air and hot gases
+burns from lightning
+Exclusions:	Sunburn (EJ40)
+Adverse cutaneous effects of therapeutic ionizing irradiation (BlockL2‑EL6)
+Adverse effects of phototherapy (Chapter 14)
+Photosensitivity due to drug (EH75)
+Phototoxic reactions to skin contact with photoactive agents (BlockL2‑EK2)
+Neonatal phototherapy burn (KC50)
+Burns of external body surface, specified by site (BlockL2‑ND9)
+Coding Note:	Code also the size of burn as the percentage of total body surface area burned to any depth, and the percentage with full-thickness or deep full thickness burns.
+  ND90  	Burn of head or neck except face
+Injury to the tissues of the head and neck caused by contact with, for example, heat, steam, chemicals, or electricity.
+Exclusions:	Burn of eye or ocular adnexa (NE00)
+Burn of mouth or pharynx (NE02)
+
+ND90.0	Burn of head or neck except face, epidermal burn
+
+ND90.1	Burn of head or neck except face, superficial partial thickness burn
+
+ND90.2	Burn of head or neck except face, deep partial thickness burn
+
+ND90.3	Burn of head and neck except face, full thickness burn
+
+ND90.4	Burn of head or neck except face, deep full thickness or complex burn
+
+ND90.Z	Burn of head and neck except face, depth of burn unspecified
+
+  ND91  	Burn of face except eye or ocular adnexa
+
+ND91.0	Burn of face except eye or ocular adnexa, epidermal burn
+
+ND91.1	Burn of face except eye or ocular adnexa, superficial partial thickness burn
+
+ND91.2	Burn of face except eye or ocular adnexa, deep partial thickness burn
+
+ND91.3	Burn of face except eye or ocular adnexa, full thickness burn
+
+ND91.4	Burn of face except eye or ocular adnexa, deep full thickness or complex burn
+
+ND91.Z	Burn of face except eye, depth of burn unspecified
+
+  ND92  	Burn of trunk except perineum or genitalia
+Injury to the tissues of the trunk caused by contact with, for example, heat, steam, chemicals, or electricity.
+Exclusions:	burn and corrosion of scapular region (ND94)
+burn and corrosion of axilla (ND94)
+
+ND92.0	Burn of trunk except perineum or genitalia, epidermal burn
+
+ND92.00	Burn of breast, epidermal burn
+
+ND92.01	Burn of chest wall, epidermal burn
+
+ND92.02	Burn of abdominal wall, epidermal burn
+
+ND92.03	Burn of back, any part, epidermal burn
+
+ND92.0Y	Other specified burn of trunk except perineum or genitalia, epidermal burn
+
+ND92.0Z	Burn of trunk except perineum or genitalia, epidermal burn, unspecified
+
+ND92.1	Burn of trunk except perineum or genitalia, superficial partial thickness burn
+
+ND92.2	Burn of trunk except perineum or genitalia, deep partial thickness burn
+
+ND92.3	Burn of trunk except perineum or genitalia, full thickness burn
+
+ND92.4	Burn of trunk except perineum or genitalia, deep full thickness or complex burn
+
+ND92.Z	Burn of trunk except perineum and genitalia, depth of burn unspecified
+
+  ND93  	Burn of perineum or genitalia
+
+ND93.0	Burn of perineum or genitalia, epidermal burn
+
+ND93.1	Burn of perineum or genitalia, superficial partial thickness burn
+
+ND93.2	Burn of perineum or genitalia, deep partial thickness burn
+
+ND93.3	Burn of perineum or genitalia, full thickness burn
+
+ND93.4	Burn of perineum or genitalia, deep full thickness or complex burn
+
+ND93.Z	Burn of perineum and genitalia, depth of burn unspecified
+
+  ND94  	Burn of shoulder or arm, except wrist or hand
+Injury to the tissues of the shoulder and arm (except wrist and hand) caused by contact with, for example, heat, steam, chemicals, or electricity.
+Exclusions:	burn and corrosion of interscapular region (ND92)
+Burn of wrist or hand (ND95)
+
+ND94.0	Burn of shoulder or arm, except wrist or hand, epidermal burn
+
+ND94.1	Burn of shoulder or arm, except wrist or hand, superficial partial thickness burn
+
+ND94.10	Burn of forearm and elbow, superficial partial thickness burn
+
+ND94.1Y	Other specified burn of shoulder or arm, except wrist or hand, superficial partial thickness burn
+
+ND94.1Z	Burn of shoulder or arm, except wrist or hand, superficial partial thickness burn, unspecified
+
+ND94.2	Burn of shoulder or arm, except wrist or hand, deep partial thickness burn
+
+ND94.20	Burn of forearm or elbow, deep partial thickness burn
+
+ND94.2Y	Other specified burn of shoulder or arm, except wrist or hand, deep partial thickness burn
+
+ND94.2Z	Burn of shoulder or arm, except wrist or hand, deep partial thickness burn, unspecified
+
+ND94.3	Burn of shoulder or arm, except wrist or hand, full thickness burn
+
+ND94.4	Burn of shoulder or arm, except wrist or hand, deep full thickness or complex burn
+
+ND94.Z	Burn of shoulder and arm except wrist and hand, depth of burn unspecified
+
+  ND95  	Burn of wrist or hand
+Injury to the tissues of the wrist and hand caused by contact with, for example, heat, steam, chemicals, or electricity.
+
+ND95.0	Burn of wrist or hand, epidermal burn
+
+ND95.1	Burn of wrist or hand, superficial partial thickness burn
+
+ND95.2	Burn of wrist or hand, deep partial thickness burn
+
+ND95.3	Burn of wrist or hand, full thickness burn
+
+ND95.4	Burn of wrist or hand, deep full thickness or complex burn
+
+ND95.Z	Burn of wrist and hand, depth of burn unspecified
+
+  ND96  	Burn of hip or leg, except ankle or foot
+Injury to the tissues of the hip and leg (except ankle and foot) caused by contact with, for example, heat, steam, chemicals, or electricity.
+Exclusions:	Burn of ankle or foot (ND97)
+
+ND96.0	Burn of hip or leg, except ankle or foot, epidermal burn
+
+ND96.1	Burn of hip or leg, except ankle or foot, superficial partial thickness burn
+
+ND96.2	Burn of hip or leg, except ankle or foot, deep partial thickness burn
+
+ND96.3	Burn of hip or leg, except ankle or foot, full thickness burn
+
+ND96.4	Burn of hip or leg, except ankle or foot, deep full thickness or complex burn
+
+ND96.Z	Burn of hip and leg except ankle and foot, depth of burn unspecified
+
+  ND97  	Burn of ankle or foot
+Injury to the tissues of the ankle and foot caused by contact with, for example, heat, steam, chemicals, or electricity.
+
+ND97.0	Burn of ankle or foot, epidermal burn
+
+ND97.1	Burn of ankle or foot, superficial partial thickness burn
+
+ND97.2	Burn of ankle or foot, deep partial thickness burn
+
+ND97.3	Burn of ankle or foot, full thickness burn
+
+ND97.4	Burn of ankle or foot, deep full thickness or complex burn
+
+ND97.Z	Burn of ankle and foot, depth of burn unspecified
+
+  ND99  	Acute skin injury due to skin contact with corrosive substance
+
+ND99.1	Chemical burn due to skin contact with corrosive substance
+A chemical skin burn is an acute, severe irritant reaction to skin contact with corrosive or caustic substances sufficient to cause cell necrosis. The corrosive potential of substances depends on their chemical properties, concentration and pH, and on the duration and type of skin contact. Occlusion has an additive effect.
+
+  ND9Y  	Burns of external body surface, other specified site
+Coding Note:	Code also the size of burn as the percentage of total body surface area burned to any depth, and the percentage with full-thickness or deep full thickness burns.
+
+  ND9Z  	Burns of external body surface, unspecified site
+Coding Note:	Code also the size of burn as the percentage of total body surface area burned to any depth, and the percentage with full-thickness or deep full thickness burns.
+
+Burns of eye or internal organs (BlockL2‑NE0)
+Injury confined to the tissues of the eye and internal organs caused by contact with, for example, heat, steam, chemicals, or electricity.
+  NE00  	Burn of eye or ocular adnexa
+Injury confined to the tissues of the eye and adnexa caused by contact with, for example, heat, steam, chemicals, or electricity.
+
+  NE01  	Burn of respiratory tract
+Injury to the tissues of the respiratory tract caused by contact with, for example, heat, steam, chemicals, or electricity.
+
+  NE02  	Burn of other internal organs
+Injury to other internal organs caused by contact with, for example, heat, steam, chemicals, or electricity.
+
+  NE0Z  	Burns of unspecified internal organ
+
+Burns of multiple or unspecified body regions (BlockL2‑NE1)
+Injury to the tissues of the multiple and unspecified body regions caused by contact with, for example, heat, steam, chemicals, or electricity.
+Coding Note:	Each burn should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+  NE10  	Burns of multiple body regions
+Coding Note:	Each burn should be coded separately. This code should be used only when the detail of the specific burn is unknown, or it is not possible to code each burn.
+
+  NE11  	Burn of unspecified body region
+
+
+  NE2Z  	Burns, unspecified
+Coding Note:	Code also the size of burn as the percentage of total body surface area burned to any depth, and the percentage with full-thickness or deep full thickness burns.
+
+Frostbite (BlockL1‑NE4)
+Frostbite is injury from ice formation within tissues resulting from contact with cold air, liquids or metals. It is most commonly due to excessive exposure of skin to sub-zero environmental temperatures. The risk of injury is exacerbated by wind. The most commonly affected sites are fingers, toes, ears, nose, cheeks and chin with injury limited to skin and soft tissues. Full thickness skin necrosis and injury to deeper structures including muscles and bone may occur with prolonged exposure to cold.
+Exclusions:	Hypothermia (NF02)
+  NE40  	Superficial frostbite
+Frostbite in which injury is confined to the skin, where there may be epidermal blistering and sloughing but no significant tissue necrosis.
+Inclusions:	frostbite with partial-thickness skin loss
+Exclusions:	Superficial frostbite involving multiple body regions (NE42)
+
+  NE41  	Frostbite with tissue necrosis
+Frostbite with localised tissue necrosis of skin and deeper tissues
+Exclusions:	Frostbite with tissue necrosis involving multiple body regions (NE42)
+
+  NE42  	Frostbite involving multiple body regions
+Frostbite is damage to tissues as the result of exposure to low environmental temperatures.
+Coding Note:	Each frostbite injury should be coded separately. This code should be used only when the detail of the specific injuries is unknown, or it is not possible to code each injury.
+
+  NE4Z  	Frostbite, unspecified
+
+Harmful effects of substances (BlockL1‑NE6)
+Coding Note:	When a specified harmful effect of a substance or substances is known, code to the specific condition.
+  NE60  	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified
+Coding Note:	When a specified harmful effect of a substance or substances is known, code to the specific condition.
+Exclusions:	Alcohol intoxication (6C40.3)
+drug reaction and poisoning affecting the fetus and newborn (Chapter 19)
+pathological drug intoxication (BlockL1‑6C4)
+hypersensitivity reaction to correctly administered drug (BlockL1‑4A8)
+
+  NE61  	Harmful effects of or exposure to noxious substances, chiefly nonmedicinal as to source, not elsewhere classified
+Coding Note:	When a specified harmful effect of a substance or substances is known, code to the specific condition.
+Exclusions:	corrosions (BlockL1‑ND9)
+Bacterial foodborne intoxications (BlockL2‑1A1)
+
+  NE6Z  	Harmful effects of unspecified substance
+Coding Note:	When a specified harmful effect of a substance or substances is known, code to the specific condition.
+
+Injury or harm arising from surgical or medical care, not elsewhere classified (BlockL1‑NE8)
+Exclusions:	Attention to artificial openings (QB62)
+adverse effects of drugs and medicaments (NE60)
+Fitting or adjustment of external prosthetic device (QB31.0)
+burns and corrosions from local applications and irradiation (BlockL1‑ND9)
+poisoning and toxic effects of drugs and chemicals (NE60)
+Colostomy malfunction (DE12.0)
+Disorders of fluid, electrolyte or acid-base balance (BlockL2‑5C7)
+Other functional disturbances following cardiac surgery (BE11)
+Dumping syndrome (DE11)
+Postmastectomy lymphoedema syndrome (BE1B.0)
+Postsurgical blind-loop syndrome (DA96.0)
+Coded Elsewhere:	Complications of intrauterine procedures, not elsewhere classified (KD39)
+Complications of anaesthesia during pregnancy (JA67)
+Complications of anaesthesia during labour or delivery (JB0C)
+Complications of anaesthesia during the puerperium (JB43)
+  NE80  	Injury or harm arising following infusion, transfusion or therapeutic injection, not elsewhere classified
+Exclusions:	bone-marrow transplant rejection (NE84)
+toxic endophthalmitis (9C21)
+
+NE80.0	Air embolism following infusion, transfusion or therapeutic injection
+
+NE80.1	ABO incompatibility reaction
+Inclusions:	Reaction to blood-group incompatibility in infusion or transfusion
+
+NE80.2	Rh incompatibility reaction
+Inclusions:	Reaction due to Rh factor in infusion or transfusion
+
+NE80.3	Other serum reactions
+Exclusions:	serum hepatitis (1E50.1)
+Coded Elsewhere:	Serum sickness vasculitis (4A44.Y)
+Anaphylactic shock due to serum (4A84.Y)
+
+NE80.Y	Other specified injury or harm arising following infusion, transfusion or therapeutic injection, not elsewhere classified
+
+NE80.Z	Injury or harm arising following infusion, transfusion or therapeutic injection, not elsewhere classified, unspecified
+
+  NE81  	Injury or harm arising from a procedure, not elsewhere classified
+Any complication attributable to a medical, surgical or other clinical procedure which cannot be more precisely coded elsewhere in the classification.
+Exclusions:	Harmful effects of drugs, medicaments or biological substances, not elsewhere classified (NE60)
+Failure or rejection of transplanted organs or tissues (NE84)
+Injury or harm arising following infusion, transfusion or therapeutic injection, not elsewhere classified (NE80)
+
+NE81.0	Haemorrhage or haematoma complicating a procedure, not elsewhere classified
+Inclusions:	Haemorrhage at any site resulting from a procedure
+Coded Elsewhere:	Haematoma of obstetric wound (JB44.2)
+
+NE81.00	Haematoma of surgical wound of skin
+Collection of blood within skin and soft tissues following surgical wound of skin usually resulting from defective haemostasis
+
+NE81.01	Haemorrhage and haematoma of eye or ocular adnexa complicating a procedure
+
+NE81.0Z	Haemorrhage or haematoma of other or unspecified site complicating a procedure, not elsewhere classified
+
+NE81.1	Disruption of operation wound, not elsewhere classified
+Inclusions:	Dehiscence of operation wound
+Rupture of operation wound
+Exclusions:	Postsurgical anastomosis leak (NE81.3)
+Coded Elsewhere:	Disruption of caesarean section wound (JB44.0)
+Disruption of perineal obstetric wound (JB44.1)
+
+NE81.2	Surgical site infection
+Coded Elsewhere:	Infection of obstetric surgical wound (JB40.1)
+
+NE81.20	Superficial incisional site infection
+A surgical site infection involving only skin and subcutaneous tissue of the incision.
+Exclusions:	Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+NE81.21	Deep incisional site infection
+A surgical site infection involving deep soft tissues of the incision (e.g. fascia and muscle layers).
+
+NE81.22	Organ or organ space surgical site infection
+A surgical site infection that involves any part of the body deeper than the fascial or muscle layers, that is opened or manipulated during the operative procedure.
+
+NE81.2Y	Other specified surgical site infection
+
+NE81.2Z	Surgical site infection, unspecified
+
+NE81.3	Postsurgical leak
+Exclusions:	Malfunction or complication of external stoma of digestive organs (DE12)
+Tracheostomy malfunction (CB60)
+
+NE81.Y	Other specified injury or harm arising from a procedure, not elsewhere classified
+
+NE81.Z	Injury or harm arising from a procedure, not elsewhere classified, unspecified
+
+  NE82  	Dysfunction or complication of pacemaker, pacemaker lead or implantable cardioverter defibrillator, not elsewhere classified
+Coded Elsewhere:	Pacemaker or implantable cardioverter defibrillator battery at end of battery life (BC91)
+
+NE82.0	Pacemaker or implantable cardioverter defibrillator complication
+An event or occurrence related to a pacemaker or an implantable cardioverter defibrillator (ICD) or one of its components that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+NE82.00	Pacemaker or implantable cardioverter defibrillator pocket erosion
+Any breakdown of the implant site or skin overlying pacemaker or an implantable cardioverter defibrillator (ICD) pocket.
+
+NE82.01	Pacemaker or implantable cardioverter defibrillator pocket muscle stimulation
+Inappropriate muscular stimulation in or near a pacemaker or implantable cardioverter defibrillator (ICD) generator pocket that cannot be managed with device reprograming and results in patient discomfort or need for reoperation.
+
+NE82.02	Pacemaker or implantable cardioverter defibrillator phrenic nerve stimulation
+
+NE82.03	Pacemaker-induced cardiomyopathy
+This is a pacemaker-induced, measurable deterioration of the function of the myocardium (the heart muscle) for any reason, usually leading to heart failure; common symptoms are dyspnoea (breathlessness) and peripheral oedema (swelling of the legs).
+
+NE82.0Y	Other specified pacemaker or implantable cardioverter defibrillator complication
+
+NE82.0Z	Pacemaker or implantable cardioverter defibrillator complication, unspecified
+
+NE82.1	Pacemaker or implantable cardioverter defibrillator dysfunction
+Any abnormality of pacemaker or implantable cardioverter defibrillator (ICD) device function.
+
+NE82.10	Inappropriate implantable cardioverter defibrillator shock
+One or more implantable cardioverter defibrillator (ICD) high energy discharges delivered in response to an event other than an appropriately sensed ventricular arrhythmia meeting criteria for therapy. Examples of such events include artefactual sensing (e.g., T-wave oversensing or noise) or a supraventricular arrhythmias (e.g., atrial fibrillation or flutter, supraventricular tachycardia (SVT)) and sinus tachycardia.
+
+NE82.11	Pacemaker syndrome
+Cardiovascular signs or symptoms following pacemaker implantation due to suboptimal atrioventricular synchrony, regardless of the pacing mode
+
+NE82.12	Pacemaker generator dysfunction
+Pacemaker pulse generator malfunction for any reason except routine battery exhaustion.
+
+NE82.1Y	Other specified pacemaker or implantable cardioverter defibrillator dysfunction
+
+NE82.1Z	Pacemaker or implantable cardioverter defibrillator dysfunction, unspecified
+
+NE82.2	Pacemaker or implantable cardioverter defibrillator lead complication
+
+NE82.20	Pacemaker or implantable cardioverter defibrillator lead fracture
+
+NE82.21	Pacemaker or implantable cardioverter defibrillator lead dislodgement
+
+NE82.22	Pacemaker or implantable cardioverter defibrillator lead insulation break
+
+NE82.2Y	Other specified pacemaker or implantable cardioverter defibrillator lead complication
+
+NE82.2Z	Pacemaker or implantable cardioverter defibrillator lead complication, unspecified
+
+NE82.3	Pacemaker or implantable cardioverter defibrillator lead dysfunction
+
+NE82.Y	Other specified dysfunction or complication of pacemaker, pacemaker lead or implantable cardioverter defibrillator, not elsewhere classified
+
+NE82.Z	Dysfunction or complication of pacemaker, pacemaker lead or implantable cardioverter defibrillator, not elsewhere classified, unspecified
+
+  NE83  	Injury or harm arising from other device, implant or graft, not elsewhere classified
+Coded Elsewhere:	Wear of articular bearing surface of joint prosthesis (FA35)
+Postsurgical osteolysis (FC01.8)
+Cardiac conduit failure (BE14.B)
+Systemic-to-pulmonary arterial shunt obstruction (BE14.B)
+Systemic-to-pulmonary arterial shunt failure (BE14.B)
+
+NE83.0	Destruction or cartilage wear of joint with hemiarthroplasty
+
+NE83.1	Infection arising from device, implant or graft, not elsewhere classified
+Coding Note:	This code should not be used if the type of infection is specified
+Coded Elsewhere:	Infection due to pacemaker or implantable cardioverter defibrillator (NE82.0Y)
+
+NE83.Y	Other specified injury or harm arising from other device, implant or graft, not elsewhere classified
+
+  NE84  	Failure or rejection of transplanted organs or tissues
+
+  NE85  	Complications peculiar to reattachment or amputation
+
+NE85.0	Complications of reattached upper extremity
+
+NE85.1	Complications of reattached lower extremity
+
+NE85.2	Complications of other reattached body part
+
+NE85.3	Neuroma of amputation stump
+
+NE85.4	Infection of amputation stump
+
+NE85.5	Necrosis of amputation stump
+
+NE85.6	Other or unspecified complications of amputation stump
+Exclusions:	Phantom limb syndrome (8E43.00)
+
+  NE86  	Malignant hyperthermia due to anaesthesia
+A condition caused by hypermetabolism in response to certain anaesthetic drugs. This condition is characterised by hyperthermia, tachycardia, tachypnoea, increased carbon dioxide production, increased oxygen consumption, acidosis, muscle rigidity, and rhabdomyolysis. This condition may be associated with genetic mutation.
+
+  NE87  	Failed or difficult intubation
+Intubation complicated by patient anatomy or physiology which complicates, prolongs or prevents intubation.
+Complication is defined as saturations falling more than 20% below baseline, significant damage to lips, teeth or tongue, or regurgitation and aspiration of gastric contents. Prolongation is defined as either intubation using special techniques (fibreoptic intubation) or three or more attempts at intubation using direct laryngoscopy or videolaryngoscopy when performed by a fully trained and expert anesthetist. Failure is defined as the abandonment of the attempt at intubation.
+Exclusions:	Failed or difficult intubation during pregnancy (JA67.5)
+Failed or difficult intubation during labour or delivery (JB0C.7)
+Failed or difficult intubation during the puerperium (JB43.5)
+
+  NE88  	Drug toxicity associated with harm in surgical or medical care, not elsewhere classified
+
+  NE89  	Awareness under general anaesthesia
+The experience by patients whose expectation was oblivion under general anaesthesia of awareness of their surroundings. This may include some or all of the following sensations: visual, auditory, tactile (including presence of a tracheal tube or airway device, manipulation), motion, pain and paralysis.
+Exclusions:	Awareness of heartbeat (MC81.2)
+
+  NE8Y  	Other specified injury or harm arising from surgical or medical care, not elsewhere classified
+
+  NE8Z  	Injury or harm arising from surgical or medical care, not elsewhere classified, unspecified
+
+Other or unspecified effects of external causes (BlockL1‑NF0)
+Coded Elsewhere:	Anaphylaxis (4A84)
+  NF00  	Effects of radiation, not elsewhere classified
+Exclusions:	Sunburn (EJ40)
+Burns (BlockL1‑ND9)
+specified adverse effects of radiation, such as leukaemia (BlockL1‑2A2)
+Radiation gastritis (DA42.81)
+Acute pulmonary manifestations due to radiation (CA82.0)
+Radiation duodenitis (DA51.53)
+Radiation oesophagitis (DA24.22)
+Radiation-induced colitis (DB33.41)
+
+  NF01  	Effects of heat
+Adverse effects resulting from a failure to maintain normal body core temperature on exposure to excessive heat. Vigorous exercise, insulation by clothing (e.g. protective clothing) or an inability to sweat normally (e.g. genetic hypohidrosis or autonomic neuropathy) may be contributory factors.
+Inclusions:	heat prostration NOS
+Exclusions:	Sunburn (EJ40)
+Burns (BlockL1‑ND9)
+Malignant hyperthermia due to anaesthesia (NE86)
+Dermatoses provoked by heat or electricity (BlockL2‑EJ1)
+
+NF01.0	Heat stroke
+Elevation of core body temperature above 40.6 degrees centigrade due to environmental heat exposure and a failure of thermoregulation. This is a potentially fatal disorder, particularly in infants and children.
+Coded Elsewhere:	Environmental hyperthermia of newborn (KD10)
+
+NF01.1	Heat syncope
+Fainting attributable to exposure to heat
+Inclusions:	Heat collapse
+
+NF01.2	Heat exhaustion due to fluid depletion
+A failure of thermoregulatory sweating on exposure to heat as a result of water deprivation and/or inadequate replacement of fluids lost through sweating or by other means (e.g. severe diarrhoea). If untreated this may progress to heat stroke.
+Inclusions:	Heat prostration due to water depletion
+
+NF01.3	Heat fatigue, transient
+
+NF01.Y	Other specified effects of heat
+
+NF01.Z	Effects of heat, unspecified
+
+  NF02  	Hypothermia
+Inclusions:	Accidental hypothermia
+Exclusions:	Hypothermia, not associated with low environmental temperature (MG28)
+Frostbite (BlockL1‑NE4)
+Coded Elsewhere:	Hypothermia of newborn (KD12)
+
+  NF03  	Other effects of reduced temperature
+Exclusions:	Frostbite (BlockL1‑NE4)
+Hypothermia (NF02)
+
+NF03.0	Chilblains
+Chilblains are the result of cold-induced damage principally to the microvasculature of acral skin in susceptible individuals. They are commonest in the winter months in cold, damp climates. They present as itchy or painful red-purple macules, papules or plaques, most commonly affecting the fingers and toes, though other body extremities including the heels, nose and ears can be involved. Because of insulation from core body temperature, other areas, especially the lateral thighs, may be involved in areas where there is a thick layer of subcutaneous fat.
+
+NF03.1	Immersion hand or foot
+Injury to the skin and soft tissues of the feet and, less commonly, the hands due to prolonged exposure to non-freezing cold and wet conditions. Originally reported in soldiers as trench foot during World War I, it is now more commonly seen in the homeless either because of vagrancy or as the result of conflict. Affected extremities are initially cold, numb, swollen and pulseless; this is followed by a period of intense hyperaemia and pain which then gives way to increased sweating and cold sensitivity.
+
+NF03.Y	Other specified effects of reduced temperature
+
+NF03.Z	Unspecified effects of reduced temperature
+
+  NF04  	Effects of air pressure or water pressure
+
+NF04.0	Otitic barotrauma
+Inclusions:	Aero-otitis media
+
+NF04.1	Sinus barotrauma
+Inclusions:	Aerosinusitis
+Effects of change in ambient atmospheric pressure on sinuses
+
+NF04.2	Caisson disease
+Inclusions:	Compressed-air disease
+Exclusions:	Osteonecrosis due to trauma (FB81.3)
+
+NF04.3	Effects of high-pressure fluids
+
+NF04.Y	Other specified effects of air pressure or water pressure
+
+NF04.Z	Effects of air pressure or water pressure, unspecified
+
+  NF05  	Asphyxiation
+Exclusions:	Respiratory distress of newborn (KB23)
+Adult acute respiratory distress syndrome (CB00)
+asphyxia from carbon monoxide (NE61)
+asphyxia from inhalation of food or foreign body (ND72)
+
+  NF06  	Effects of strenuous physical exercise
+
+NF06.0	Exertional heat stroke
+
+NF06.1	Post exercise postural hypotension
+
+NF06.2	Post exertional dehydration
+
+NF06.3	Exercise muscle cramp
+
+NF06.Y	Other specified effects of strenuous physical exercise
+
+NF06.Z	Effects of strenuous physical exercise, unspecified
+
+  NF07  	Effects of other deprivation
+
+NF07.0	Effects of hunger
+Inclusions:	Deprivation of food
+Starvation
+
+NF07.1	Effects of thirst
+Inclusions:	Deprivation of water
+
+NF07.2	Exhaustion due to exposure
+
+NF07.Y	Other specified effects of deprivation
+
+NF07.Z	Effects of other deprivation, unspecified
+
+  NF08  	Effects of certain specified external causes
+Exclusions:	electric burns (BlockL1‑ND9)
+Adverse effects, not elsewhere classified (NF09)
+
+NF08.0	Effects of lightning
+
+NF08.1	Drowning or nonfatal submersion
+Inclusions:	Immersion
+
+NF08.2	Effects of vibration
+Coded Elsewhere:	Vibratory angioedema (EB01.Y)
+
+NF08.20	Hand and arm vibration syndrome
+Hand Transmitted Vibration is mechanical vibration arising from powered processes or tools which enters the body at the fingers or the palm of the hands. As a consequence of this exposure some people develop a secondary Raynaud’s phenomenon and / or peripheral sensory neuropathy affecting the hands.
+Exclusions:	Carpal tunnel syndrome (8C10.0)
+
+NF08.2Y	Other specified effects of vibration
+
+NF08.2Z	Effects of vibration, unspecified
+
+NF08.3	Motion sickness
+
+NF08.4	Effects of electric current
+
+  NF09  	Adverse effects, not elsewhere classified
+Adverse effects which cannot be attributed to any more specific cause and thus excluding but not limited to injury, allergy, hypersensitivity, toxic effects and complications of surgical and medical care.
+Exclusions:	Injury or harm arising from surgical or medical care, not elsewhere classified (BlockL1‑NE8)
+Anaphylaxis (4A84)
+anaphylactic shock due to serum (NE80.3)
+Allergic or hypersensitivity disorders involving skin or mucous membranes (4A82)
+Allergic or hypersensitivity disorders involving the gastrointestinal tract (4A83)
+Allergic or hypersensitivity disorders involving the respiratory tract (4A80)
+anaphylactic shock due to adverse food reaction (4A84.0)
+Harmful effects of substances (BlockL1‑NE6)
+
+  NF0A  	Certain early complications of trauma, not elsewhere classified
+Exclusions:	Injury or harm arising from surgical or medical care, not elsewhere classified (BlockL1‑NE8)
+Respiratory distress of newborn (KB23)
+Adult acute respiratory distress syndrome (CB00)
+
+NF0A.0	Air embolism, traumatic, not elsewhere classified
+Exclusions:	air embolism complicating abortion or ectopic or molar pregnancy (JA05.2)
+air embolism complicating pregnancy, childbirth and the puerperium (JB42.0)
+
+NF0A.1	Fat embolism, traumatic, not elsewhere classified
+Exclusions:	fat embolism complicating abortion or ectopic or molar pregnancy (JA05.2)
+fat embolism complicating: pregnancy, childbirth and the puerperium (JB42)
+
+NF0A.2	Traumatic secondary or recurrent haemorrhage, not elsewhere classified
+
+NF0A.3	Post traumatic wound infection, not elsewhere classified
+Infection of skin and soft tissue secondary to trauma
+
+NF0A.4	Traumatic shock, not elsewhere classified
+Exclusions:	obstetric shock (JB0D.1)
+nontraumatic shock NEC (MG40)
+Shock following abortion, ectopic or molar pregnancy (JA05.3)
+lightening shock (NF08.0)
+electric shock (NF08.4)
+anaphylactic shock NOS (4A84)
+shock anaphylactic: due to: correct medicinal substance properly administered (4A84.1)
+shock: anaphylactic: due to adverse food reaction (4A84.0)
+anaphylactic due to serum (NE80.3)
+
+NF0A.5	Traumatic anuria, not elsewhere classified
+Inclusions:	Crush syndrome
+Renal failure following crushing
+
+NF0A.6	Traumatic ischaemia of muscle, not elsewhere classified
+Inclusions:	Traumatic compartment syndrome
+Exclusions:	anterior tibial syndrome (FB54)
+
+NF0A.7	Traumatic subcutaneous emphysema, not elsewhere classified
+Exclusions:	emphysema (subcutaneous) resulting from a procedure (NE81)
+
+NF0A.Y	Other early complication of trauma, not elsewhere classified
+
+  NF0Y  	Other specified effects of external causes
+
+  NF0Z  	Unspecified effects of external causes
+
+
+  NF2Y  	Other specified injury, poisoning or certain other consequences of external causes
+
+  NF2Z  	Unspecified injury, poisoning or certain other consequences of external causes
+

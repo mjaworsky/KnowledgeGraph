@@ -1,0 +1,1091 @@
+CHAPTER 26
+Supplementary Chapter Traditional Medicine Conditions - Module I
+This chapter has 470 four-character categories.
+Code range starts with SA00
+This chapter contains the following top level blocks:
+•	Traditional medicine disorders (TM1)
+•	Traditional medicine patterns (TM1)
+
+Traditional medicine disorders (TM1) (BlockL1‑SA0)
+Organ system disorders (TM1) (BlockL2‑SA0)
+Liver system disorders (TM1) (BlockL3‑SA0)
+  SA00  	Hypochondrium pain disorder (TM1)
+
+  SA01  	Jaundice disorder (TM1)
+Inclusions:	Acute jaundice
+Yang jaundice
+Yin jaundice
+
+  SA02  	Liver distension disorder (TM1)
+
+  SA03  	Tympanites disorder (TM1)
+
+  SA04  	Liver abscess disorder (TM1)
+
+  SA05  	Gallbladder distension disorder (TM1)
+
+  SA0Y  	Other specified liver system disorders (TM1)
+
+  SA0Z  	Liver system disorders (TM1), unspecified
+
+Heart system disorders (TM1) (BlockL3‑SA1)
+Palpitation disorders (TM1) (BlockL4‑SA1)
+  SA10  	Inducible palpitation disorder (TM1)
+Inclusions:	Fright palpitation disorder (TM1)
+
+  SA11  	Spontaneous palpitation disorder (TM1)
+Inclusions:	Fearful throbbing disorder (TM1)
+
+  SA1Y  	Other specified palpitation disorders (TM1)
+
+  SA1Z  	Palpitation disorders (TM1), unspecified
+
+Chest impediment disorders (TM1) (BlockL4‑SA2)
+Inclusions:	Heart pain disorder (TM1)
+Chest impediment disorder (TM1)
+  SA20  	True heart pain disorder (TM1)
+
+  SA2Y  	Other specified chest impediment disorders (TM1)
+
+  SA2Z  	Chest impediment disorders (TM1), unspecified
+
+
+  SA4Y  	Other specified heart system disorders (TM1)
+
+  SA4Z  	Heart system disorders (TM1), unspecified
+
+Spleen system disorders (TM1) (BlockL3‑SA5)
+  SA50  	Dysphagia disorder (TM1)
+Inclusions:	Choke disorder (TM1)
+
+  SA51  	Stomach ache disorder (TM1)
+
+  SA52  	Epigastric distension disorder (TM1)
+
+  SA53  	Epigastric upset disorder (TM1)
+
+  SA54  	Food retention disorder (TM1)
+
+  SA55  	Diarrhea disorder (TM1)
+
+  SA56  	Dysentery disorder (TM1)
+
+  SA57  	Constipation disorder (TM1)
+
+  SA58  	Abdominal pain disorder (TM1)
+Exclusions:	Lower abdominal colic disorder (TM1)
+
+  SA59  	Intestinal abscess disorder (TM1)
+
+  SA5Y  	Other specified spleen system disorders (TM1)
+
+  SA5Z  	Spleen system disorders (TM1), unspecified
+
+Lung system disorders (TM1) (BlockL3‑SA6)
+  SA60  	Common cold disorder (TM1)
+Exclusions:	Seasonal cold disorder (TM1)
+
+Cough disorders (TM1) (BlockL4‑SA7)
+  SA70  	Cough with dyspnea disorder (TM1)
+Exclusions:	Panting disorder (TM1)
+Dyspnea disorder (TM1)
+
+  SA7Y  	Other specified cough disorders (TM1)
+
+  SA7Z  	Cough disorders (TM1), unspecified
+
+  SA80  	Dyspnea disorder (TM1)
+Exclusions:	Cough with dyspnea disorder (TM1)
+
+  SA81  	Wheezing disorder (TM1)
+
+  SA82  	Lung distension disorder (TM1)
+
+  SA83  	Pleural fluid retention disorder (TM1)
+
+  SA84  	Lung heat disorder (TM1)
+
+  SA85  	Lung withering disorder (TM1)
+
+  SA86  	Chest bind disorder (TM1)
+
+  SA8Y  	Other specified lung system disorders (TM1)
+
+  SA8Z  	Lung system disorders (TM1), unspecified
+
+Kidney system disorders (TM1) (BlockL3‑SA9)
+Strangury disorders (TM1) (BlockL4‑SA9)
+  SA90  	Stony stranguria disorder (TM1)
+
+  SA91  	Heat stranguria disorder (TM1)
+
+  SA9Y  	Other specified strangury disorders (TM1)
+
+  SA9Z  	Strangury disorders (TM1), unspecified
+
+  SB00  	Kidney stagnation disorder (TM1)
+
+  SB01  	Flooding urine disorder (TM1)
+
+  SB02  	Enuresis disorder (TM1)
+
+  SB03  	Turbid urine disorder (TM1)
+
+  SB04  	Dribbling urinary block disorder (TM1)
+
+  SB05  	Block and repulsion disorder (TM1)
+
+  SB06  	Edema disorders (TM1)
+
+SB06.0	Kidney edema disorder (TM1)
+
+SB06.1	Wind edema disorder (TM1)
+
+SB06.Y	Other specified edema disorders (TM1)
+
+SB06.Z	Edema disorders (TM1), unspecified
+
+  SB07  	Lower abdominal colic disorder (TM1)
+Inclusions:	Hernia (TM1)
+Exclusions:	Abdominal pain disorder (TM1)
+
+  SB08  	Premature ejaculation disorder (TM1)
+
+  SB09  	Involuntary ejaculation disorder (TM1)
+
+  SB0A  	Persistent erection disorder (TM1)
+
+  SB0B  	Impotence disorder (TM1)
+
+  SB0C  	Male Infertility disorder (TM1)
+
+  SB0Y  	Other specified kidney system disorders (TM1)
+
+  SB0Z  	Kidney system disorders (TM1), unspecified
+
+
+  SB2Y  	Other specified organ system disorders (TM1)
+
+  SB2Z  	Organ system disorders (TM1), unspecified
+
+Other body system disorders (TM1) (BlockL2‑SB3)
+Skin and mucosa system disorders (TM1) (BlockL3‑SB3)
+  SB30  	Dampness sore disorder (TM1)
+
+  SB31  	Impetigo disorder (TM1)
+
+Furuncle disorders (TM1) (BlockL4‑SB4)
+  SB40  	Septicemic furunculosis disorder (TM1)
+
+  SB4Y  	Other specified furuncle disorders (TM1)
+
+  SB4Z  	Furuncle disorders (TM1), unspecified
+
+  SB50  	Bed sore disorder (TM1)
+
+Abscess disorders (TM1) (BlockL4‑SB6)
+  SB60  	Deep multiple abscess disorder (TM1)
+
+  SB61  	Anal abscess disorder (TM1)
+
+  SB6Y  	Other specified abscess disorders (TM1)
+
+  SB6Z  	Abscess disorders (TM1), unspecified
+
+  SB70  	Headed carbuncle disorder (TM1)
+
+  SB71  	Foot dampness itch disorder (TM1)
+
+  SB72  	Tinea circinate disorder (TM1)
+
+  SB73  	Dry skin disorder (TM1)
+
+  SB74  	Gangrene disorder (TM1)
+
+  SB75  	Wart disorder (TM1)
+
+  SB76  	Hand dampness itch disorder (TM1)
+
+  SB77  	Erysipelas disorder (TM1)
+
+  SB78  	Cellulitis disorder (TM1)
+
+  SB79  	Thrush disorder (TM1)
+
+  SB7A  	Herpes zoster disorder (TM1)
+
+  SB7B  	Interior haemorroid disorder (TM1)
+
+  SB7C  	Fissured anus disorder (TM1)
+
+  SB7Y  	Other specified skin and mucosa system disorders (TM1)
+
+  SB7Z  	Skin and mucosa system disorders (TM1), unspecified
+
+Female reproductive system disorders (TM1) (including childbirth) (BlockL3‑SB8)
+Menstruation associated disorders (TM1) (BlockL4‑SB8)
+Menstruation cycle disorders (TM1) (BlockL5‑SB8)
+  SB80  	Advanced menstruation disorder (TM1)
+
+  SB81  	Delayed menstruation disorder (TM1)
+
+  SB82  	Irregular menstruation disorders (TM1)
+
+  SB8Y  	Other specified menstruation cycle disorders (TM1)
+
+  SB8Z  	Menstruation cycle disorders (TM1), unspecified
+
+  SB90  	Menorrhagia disorder (TM1)
+
+  SB91  	Decreased menstruation disorder (TM1)
+
+  SB92  	Prolonged menstruation disorder (TM1)
+
+  SB93  	Metrorrhagia disorder (TM1)
+
+  SB94  	Amenorrhea disorder (TM1)
+
+  SB95  	Menopausal disorder (TM1)
+
+  SB96  	Dysmenorrhea disorder (TM1)
+
+  SB9Y  	Other specified menstruation associated disorders (TM1)
+
+  SB9Z  	Menstruation associated disorders (TM1), unspecified
+
+Pregnancy associated disorders (TM1) (BlockL4‑SC0)
+  SC00  	Morning sickness disorder (TM1)
+
+  SC01  	Unstable fetus disorder (TM1)
+
+  SC02  	Bladder pressure disorder (TM1)
+Inclusions:	Shifted colic disorder (TM1)
+Shifted bladder disorder (TM1)
+Bladder colic disorder (TM1)
+
+  SC03  	Eclampsia disorder (TM1)
+
+  SC04  	Floating sensation pregnancy disorder (TM1)
+
+  SC0Y  	Other specified pregnancy associated disorders (TM1)
+
+  SC0Z  	Pregnancy associated disorders (TM1), unspecified
+
+Puerperium associated disorders (TM1) (BlockL4‑SC1)
+  SC10  	Puerperal abdominal pain disorder (TM1)
+
+  SC11  	Puerperal wind disorder (TM1)
+
+  SC12  	Hypogalactia disorder (TM1)
+
+  SC13  	Postpartum lochiorrhea disorder (TM1)
+
+  SC1Y  	Other specified puerperium associated disorders (TM1)
+
+  SC1Z  	Puerperium associated disorders (TM1), unspecified
+
+Other female reproductive system associated disorders (TM1) (BlockL4‑SC2)
+  SC20  	Leukorrhea disorder (TM1)
+
+  SC21  	Vaginal flatus disorder (TM1)
+
+  SC22  	Infertility disorder (TM1)
+Inclusions:	Female sterility disorder (TM1)
+Exclusions:	Male Infertility disorder (TM1)
+
+  SC23  	Uterine mass disorder (TM1)
+
+  SC24  	Breast lump disorder (TM1)
+
+  SC2Y  	Other specified other female reproductive system associated disorders (TM1)
+
+  SC2Z  	Other female reproductive system associated disorders (TM1), unspecified
+
+
+  SC4Y  	Other specified female reproductive system disorders (TM1) (including childbirth)
+
+  SC4Z  	Female reproductive system disorders (TM1) (including childbirth), unspecified
+
+Bone, joint and muscle system disorders (TM1) (BlockL3‑SC5)
+Joint impediment disorders (TM1) (BlockL4‑SC5)
+  SC50  	Cold impediment disorder (TM1)
+
+  SC51  	Wind impediment disorder (TM1)
+
+  SC52  	Dampness impediment disorder (TM1)
+
+  SC5Y  	Other specified joint impediment disorders (TM1)
+
+  SC5Z  	Joint impediment disorders (TM1), unspecified
+
+  SC60  	Muscle spasm disorder (TM1)
+
+  SC61  	Lumbago disorder (TM1)
+
+  SC62  	Numbness disorder (TM1)
+
+  SC63  	Wilting disorder (TM1)
+
+  SC6Y  	Other specified bone, joint and muscle system disorders (TM1)
+
+  SC6Z  	Bone, joint and muscle system disorders (TM1), unspecified
+
+Eye, ear, nose and throat system disorders (TM1) (BlockL3‑SC7)
+  SC70  	Night blindness disorder (TM1)
+
+  SC71  	Wind glaucoma disorder (TM1)
+
+  SC72  	Inflammatory eyelid disorder (TM1)
+
+  SC73  	Non-inflammatory eyelid disorder (TM1)
+
+  SC74  	Corneal opacity disorder (TM1)
+
+  SC75  	Tinnitus disorder (TM1)
+Exclusions:	Cerebral tinnitus disorder (TM1)
+
+Deafness disorders (TM1) (BlockL4‑SC8)
+  SC80  	Sudden deafness disorder (TM1)
+
+  SC81  	Gradual deafness disorder (TM1)
+
+  SC8Y  	Other specified deafness disorders (TM1)
+
+  SC8Z  	Deafness disorders (TM1), unspecified
+
+  SC90  	Allergic rhinitis disorder (TM1)
+
+  SC91  	Nasal sinusitis disorder (TM1)
+
+  SC92  	Hoarseness disorder (TM1)
+
+  SC93  	Tonsillitis disorder (TM1)
+
+  SC9Y  	Other specified eye, ear, nose and throat system disorders (TM1)
+
+  SC9Z  	Eye, ear, nose and throat system disorders (TM1), unspecified
+
+Brain system disorders (TM1) (BlockL3‑SD0)
+  SD00  	Facial paralysis disorder (TM1)
+
+Headache disorders (TM1) (BlockL4‑SD1)
+  SD10  	Migraine disorder (TM1)
+
+  SD11  	Head wind disorder (TM1)
+
+  SD1Y  	Other specified headache disorders (TM1)
+
+  SD1Z  	Headache disorders (TM1), unspecified
+
+  SD20  	Convulsion disorder (TM1)
+Inclusions:	Postpartum convulsion disorder (TM1)
+
+  SD21  	Cerebral tinnitus disorder (TM1)
+Exclusions:	Tinnitus disorder (TM1)
+
+  SD22  	Vertigo disorder (TM1)
+
+  SD23  	Forgetfulness disorder (TM1)
+
+  SD24  	Frequent protrusion of tongue disorder (TM1)
+
+Wind stroke disorders (TM1) (BlockL4‑SD3)
+  SD30  	Prodrome of wind stroke disorder (TM1)
+Inclusions:	Onset of wind stroke (TM1)
+Exclusions:	Sequela of wind stroke disorder (TM1)
+
+  SD31  	Sequela of wind stroke disorder (TM1)
+Exclusions:	Prodrome of wind stroke disorder (TM1)
+
+  SD3Y  	Other specified wind stroke disorders (TM1)
+
+  SD3Z  	Wind stroke disorders (TM1), unspecified
+
+  SD40  	Syncope disorder (TM1)
+Inclusions:	Qi syncope disorder (TM1)
+Blood syncope disorder (TM1)
+Phlegm syncope disorder (TM1)
+Hunger syncope disorder (TM1)
+Cold syncope disorder (TM1)
+Exclusions:	wasting thirst related syncope disorder (TM1)
+
+  SD4Y  	Other specified brain system disorders (TM1)
+
+  SD4Z  	Brain system disorders (TM1), unspecified
+
+
+  SD6Y  	Other specified other body system disorders (TM1)
+
+  SD6Z  	Other body system disorders (TM1), unspecified
+
+Qi, blood and fluid disorders (TM1) (BlockL2‑SD7)
+  SD70  	Qi goiter disorder (TM1)
+
+  SD71  	Wasting thirst disorder (TM1)
+
+  SD72  	Consumptive disorder (TM1)
+
+  SD7Y  	Other specified qi, blood and fluid disorders (TM1)
+
+  SD7Z  	Qi, blood and fluid disorders (TM1), unspecified
+
+Mental and emotional disorders (TM1) (BlockL2‑SD8)
+  SD80  	Lily disorder (TM1)
+Exclusions:	Hysteria disorder (TM1)
+Insomnia disorders (TM1)
+
+  SD81  	Manic disorder (TM1)
+
+  SD82  	Depression disorder (TM1)
+Inclusions:	Postpartum depression disorder (TM1)
+Pregnancy depression disorder (TM1)
+
+  SD83  	Uneasiness disorder (TM1)
+Exclusions:	Depression disorder(TM1)
+Lily disorder(TM1)
+
+  SD84  	Insomnia disorder (TM1)
+
+  SD85  	Somnolence disorder (TM1)
+
+  SD86  	Dementia disorder (TM1)
+Inclusions:	Aged dementia disorders (TM1)
+Exclusions:	Amnesia disorder (TM1)
+
+  SD87  	Repressed fire disorder (TM1)
+
+  SD8Y  	Other specified mental and emotional disorders (TM1)
+
+  SD8Z  	Mental and emotional disorders (TM1), unspecified
+
+External contraction disorders (TM1) (BlockL2‑SD9)
+  SD90  	Seasonal cold disorder (TM1)
+Exclusions:	Common cold disorder (TM1)
+
+  SD91  	Fatigue consumption disorder (TM1)
+Exclusions:	Flowing phlegm disorder (TM1)
+
+  SD92  	Severe vomiting and diarrhoea disorder (TM1)
+Exclusions:	Diarrhea disorder (TM1)
+Cholera
+
+  SD93  	Alternating fever and chills disorder (TM1)
+Exclusions:	Malaria
+
+  SD94  	Parasitic disorder (TM1)
+
+  SD95  	Flowing phlegm disorder (TM1)
+Inclusions:	Bone and joint tuberculosis disorder (TM1)
+
+Warmth disorders (TM1) (BlockL3‑SE0)
+  SE00  	Summer-heat disorder (TM1)
+
+  SE01  	Spring warmth disorder (TM1)
+
+  SE02  	Dampness and warmth disorder (TM1)
+
+  SE0Y  	Other specified warmth disorders (TM1)
+
+  SE0Z  	Warmth disorders (TM1), unspecified
+
+  SE2Y  	Other specified external contraction disorders (TM1)
+
+  SE2Z  	External contraction disorders (TM1), unspecified
+
+Childhood and adolescence associated disorders (TM1) (BlockL2‑SE3)
+  SE30  	Developmental delay disorder (TM1)
+
+  SE31  	Growth fever disorder (TM1)
+
+  SE32  	Growth pain disorder (TM1)
+
+  SE33  	Acute convulsion disorder (TM1)
+
+  SE34  	Recurrent convulsion disorder (TM1)
+
+  SE35  	Fright seizure disorder (TM1)
+
+  SE36  	Night crying disorder (TM1)
+
+  SE37  	Infantile malnutrition disorder (TM1)
+
+  SE38  	Dribbling disorder (TM1)
+
+  SE39  	Diaper dermatitis disorder (TM1)
+
+  SE3A  	Infant stiffness disorder (TM1)
+
+  SE3B  	Infant limpness disorder (TM1)
+
+  SE3Y  	Other specified childhood and adolescence associated disorders (TM1)
+
+  SE3Z  	Childhood and adolescence associated disorders (TM1), unspecified
+
+
+  SE5Y  	Other specified traditional medicine disorders (TM1)
+
+  SE5Z  	Traditional medicine disorders (TM1), unspecified
+
+Traditional medicine patterns (TM1) (BlockL1‑SE7)
+Principle-based patterns (TM1) (BlockL2‑SE7)
+  SE70  	Yang pattern (TM1)
+
+  SE71  	Yin pattern (TM1)
+
+  SE72  	Heat pattern (TM1)
+
+  SE73  	Cold pattern (TM1)
+
+  SE74  	Excess pattern (TM1)
+
+  SE75  	Deficiency pattern (TM1)
+
+  SE76  	Exterior pattern (TM1)
+
+  SE77  	Interior pattern (TM1)
+
+  SE78  	Moderate (Heat/Cold) pattern (TM1)
+
+  SE79  	Medium (Excess/Deficiency) pattern (TM1)
+
+  SE7A  	Tangled cold and heat pattern (TM1)
+
+  SE7Y  	Other specified principle-based patterns (TM1)
+
+  SE7Z  	Principle-based patterns (TM1), unspecified
+
+Environmental factor patterns (TM1) (BlockL2‑SE8)
+  SE80  	Wind factor pattern (TM1)
+
+  SE81  	Cold factor pattern (TM1)
+
+  SE82  	Dampness factor pattern (TM1)
+
+  SE83  	Dryness factor pattern (TM1)
+
+  SE84  	Fire-heat factor pattern (TM1)
+
+  SE85  	Summer-heat factor pattern (TM1)
+
+  SE86  	Pestilent factor pattern (TM1)
+
+  SE8Y  	Other specified environmental factor patterns (TM1)
+
+  SE8Z  	Environmental factor patterns (TM1), unspecified
+
+Body constituents patterns (TM1) (BlockL2‑SE9)
+Qi patterns (TM1) (BlockL3‑SE9)
+Exclusions:	Qi phase patterns (TM1)
+  SE90  	Qi deficiency pattern (TM1)
+Inclusions:	Qi decrease pattern (TM1)
+
+  SE91  	Qi stagnation pattern (TM1)
+
+  SE92  	Qi uprising pattern (TM1)
+
+  SE93  	Qi sinking pattern (TM1)
+
+  SE94  	Qi collapse pattern (TM1)
+
+  SE9Y  	Other specified qi patterns (TM1)
+
+  SE9Z  	Qi patterns (TM1), unspecified
+
+Blood patterns (TM1) (BlockL3‑SF0)
+Exclusions:	Blood phase patterns (TM1)
+  SF00  	Blood deficiency pattern (TM1)
+Inclusions:	Blood decrease patterns (TM1)
+
+  SF01  	Blood stasis pattern (TM1)
+
+  SF02  	Blood heat pattern (TM1)
+Exclusions:	Blood cold pattern (TM)
+
+  SF03  	Blood cold pattern (TM1)
+Exclusions:	Qi patterns (TM1)
+Blood heat pattern (TM1)
+
+  SF04  	Blood dryness pattern (TM1)
+Exclusions:	Qi patterns (TM1)
+Blood heat pattern (TM1)
+
+  SF0Y  	Other specified blood patterns (TM1)
+
+  SF0Z  	Blood patterns (TM1), unspecified
+
+Fluid patterns (TM1) (BlockL3‑SF1)
+  SF10  	Fluid deficiency pattern (TM1)
+Exclusions:	Essence deficiency pattern (TM1)
+
+  SF11  	Fluid disturbance pattern (TM1)
+Inclusions:	Fluid retention pattern (TM1)
+
+  SF12  	Dry-phlegm pattern (TM1)
+
+  SF13  	Damp phlegm pattern (TM1)
+
+  SF14  	Phlegm-fire harassing the heart system pattern (TM1)
+
+  SF15  	Wind-phlegm pattern (TM1)
+
+  SF1Y  	Other specified fluid patterns (TM1)
+
+  SF1Z  	Fluid patterns (TM1), unspecified
+
+Essence patterns (TM1) (BlockL3‑SF2)
+  SF20  	Essence deficiency pattern (TM1)
+
+  SF2Y  	Other specified essence patterns (TM1)
+
+  SF2Z  	Essence patterns (TM1), unspecified
+
+
+  SF4Y  	Other specified body constituents patterns (TM1)
+
+  SF4Z  	Body constituents patterns (TM1), unspecified
+
+Organ system patterns (TM1) (BlockL2‑SF5)
+Liver system patterns (TM1) (BlockL3‑SF5)
+  SF50  	Liver yin deficiency pattern (TM1)
+
+  SF51  	Liver yang deficiency pattern (TM1)
+
+  SF52  	Liver yang ascendant hyperactivity pattern (TM1)
+
+  SF53  	Liver qi deficiency pattern (TM1)
+
+  SF54  	Liver blood deficiency pattern (TM1)
+
+  SF55  	Liver depression and blood stasis pattern (TM1)
+
+  SF56  	Liver wind stirring the interior pattern (TM1)
+
+  SF57  	Liver qi stagnation pattern (TM1)
+
+  SF58  	Liver fire flaming upward pattern (TM1)
+
+  SF59  	Liver heat stirring wind pattern (TM1)
+
+  SF5A  	Liver-gallbladder dampness-heat pattern (TM1)
+
+  SF5B  	Liver meridian dampness-heat pattern (TM1)
+
+  SF5C  	Liver meridian cold stagnation pattern (TM1)
+
+  SF5D  	Gallbladder qi deficiency pattern (TM1)
+
+  SF5E  	Gallbladder depression with phlegm harassment pattern (TM1)
+
+  SF5F  	Gallbladder heat pattern (TM1)
+
+  SF5G  	Gallbladder cold pattern (TM1)
+
+  SF5H  	Liver and kidney yin deficiency pattern (TM1)
+
+  SF5J  	Disharmony of liver and spleen systems pattern (TM1)
+
+  SF5K  	Disharmony of liver and stomach systems pattern (TM1)
+
+  SF5L  	Liver fire invading the stomach system pattern (TM1)
+
+  SF5M  	Liver fire invading the lung system pattern (TM1)
+
+  SF5Y  	Other specified liver system patterns (TM1)
+
+  SF5Z  	Liver system patterns (TM1), unspecified
+
+Heart system patterns (TM1) (BlockL3‑SF6)
+  SF60  	Heart qi deficiency pattern (TM1)
+
+  SF61  	Heart blood deficiency pattern (TM1)
+
+  SF62  	Dual deficiency of heart qi and blood pattern (TM1)
+
+  SF63  	Heart meridian obstruction pattern (TM1)
+
+  SF64  	Heart yin deficiency pattern (TM1)
+
+  SF65  	Deficiency of heart qi and yin pattern (TM1)
+
+  SF66  	Heart yang deficiency pattern (TM1)
+
+  SF67  	Heart yang collapse pattern (TM1)
+
+  SF68  	Heart fire flaming upward pattern (TM1)
+
+  SF69  	Fire harassing heart spirit pattern (TM1)
+
+  SF6A  	Water qi intimidating the heart system pattern (TM1)
+
+  SF6B  	Heart spirit restlessness pattern (TM1)
+
+  SF6C  	Anxiety damaging the spirit pattern (TM1)
+
+  SF6D  	Small intestine qi stagnation pattern (TM1)
+
+  SF6E  	Small intestine excess heat pattern (TM1)
+
+  SF6F  	Small intestine deficiency cold pattern (TM1)
+
+  SF6G  	Heart and liver blood deficiency pattern (TM1)
+
+  SF6H  	Heart and gallbladder qi deficiency pattern (TM1)
+
+  SF6J  	Heart and spleen systems deficiency pattern (TM1)
+
+  SF6K  	Heart and lung qi deficiency pattern (TM1)
+
+  SF6L  	Heart and kidney systems disharmony pattern (TM1)
+
+  SF6M  	Heart and kidney yang deficiency pattern (TM1)
+
+  SF6Y  	Other specified heart system patterns (TM1)
+
+  SF6Z  	Heart system patterns (TM1), unspecified
+
+Spleen system patterns (TM1) (BlockL3‑SF7)
+  SF70  	Spleen qi deficiency pattern (TM1)
+
+  SF71  	Spleen qi sinking pattern (TM1)
+
+  SF72  	Spleen deficiency with qi stagnation pattern (TM1)
+
+  SF73  	Spleen deficiency with food retention pattern (TM1)
+
+  SF74  	Spleen failing to control the blood pattern (TM1)
+
+  SF75  	Spleen deficiency and blood depletion pattern (TM1)
+
+  SF76  	Spleen yin deficiency pattern (TM1)
+
+  SF77  	Spleen yang deficiency pattern (TM1)
+
+  SF78  	Dampness-heat encumbering the spleen system pattern (TM1)
+
+  SF79  	Spleen deficiency with dampness accumulation pattern (TM1)
+
+  SF7A  	Spleen deficiency with water flooding pattern (TM1)
+
+  SF7B  	Cold-dampness encumbering the spleen system pattern (TM1)
+
+  SF7C  	Stomach qi deficiency pattern (TM1)
+
+  SF7D  	Stomach qi uprising pattern (TM1)
+
+  SF7E  	Stomach yin deficiency pattern (TM1)
+Inclusions:	Stomach deficiency and heat pattern (TM1)
+
+  SF7F  	Stomach heat pattern (TM1)
+
+  SF7G  	Dampness in the intestines pattern (TM1)
+
+  SF7H  	Cold invading the stomach system pattern (TM1)
+
+  SF7J  	Intestine cold stagnation pattern (TM1)
+
+  SF7K  	Anxiety damaging the spleen system pattern (TM1)
+
+  SF7L  	Lung and spleen deficiency pattern (TM1)
+
+  SF7M  	Spleen and kidney yang deficiency pattern (TM1)
+
+  SF7Y  	Other specified spleen system patterns (TM1)
+
+  SF7Z  	Spleen system patterns (TM1), unspecified
+
+Lung system patterns (TM1) (BlockL3‑SF8)
+  SF80  	Lung qi deficiency pattern (TM1)
+
+  SF81  	Lung yin deficiency pattern (TM1)
+
+  SF82  	Lung and kidney yin deficiency pattern (TM1)
+
+  SF83  	Lung qi and yin deficiency pattern (TM1)
+
+  SF84  	Lung yang deficiency pattern (TM1)
+
+  SF85  	Cold phlegm obstructing the lung pattern (TM1)
+
+  SF86  	Turbid phlegm accumulation in the lung pattern (TM1)
+
+  SF87  	Exterior cold with lung heat pattern (TM1)
+
+  SF88  	Intense congestion of lung heat pattern (TM1)
+
+  SF89  	Phlegm heat obstructing the lung pattern (TM1)
+
+  SF8A  	Wind-heat invading the lung pattern (TM1)
+
+  SF8B  	Lung heat transmitting into the intestine pattern (TM1)
+
+  SF8C  	Wind-cold fettering the lung pattern (TM1)
+
+  SF8D  	Dryness invading the lung pattern (TM1)
+
+  SF8E  	Lung dryness with intestinal obstruction pattern (TM1)
+
+  SF8F  	Large intestine excess heat pattern (TM1)
+
+  SF8G  	Large intestine dampness heat pattern (TM1)
+
+  SF8H  	Large intestine fluid deficiency pattern (TM1)
+
+  SF8J  	Large intestine deficiency cold pattern (TM1)
+
+  SF8Y  	Other specified lung system patterns (TM1)
+
+  SF8Z  	Lung system patterns (TM1), unspecified
+
+Kidney system patterns (TM1) (BlockL3‑SF9)
+  SF90  	Kidney qi deficiency pattern (TM1)
+Inclusions:	Kidney qi depletion pattern (TM1)
+
+  SF91  	Kidney failing to receive qi pattern (TM1)
+
+  SF92  	Kidney qi deficiency with water retention pattern (TM1)
+
+  SF93  	Kidney yin deficiency pattern (TM1)
+
+  SF94  	Kidney yin and yang deficiency pattern (TM1)
+
+  SF95  	Kidney deficiency with marrow depletion pattern (TM1)
+
+  SF96  	Kidney essence deficiency pattern (TM1)
+
+  SF97  	Kidney yang deficiency pattern (TM1)
+Inclusions:	Life-gate fire depletion pattern (TM1)
+Primordial yang deficiency pattern (TM1)
+
+  SF98  	Fear damaging the kidney system pattern (TM1)
+
+  SF99  	Blood and heat accumulation in the uterus pattern (TM1)
+
+  SF9A  	Phlegm obstructing the uterus pattern (TM1)
+
+  SF9B  	Dampness-heat in the uterus pattern (TM1)
+
+  SF9C  	Cold stagnation in the uterus pattern (TM1)
+
+  SF9D  	Uterine deficiency cold pattern (TM1)
+
+  SF9E  	Blood accumulation in the bladder pattern (TM1)
+
+  SF9F  	Bladder heat accumulation pattern (TM1)
+
+  SF9G  	Bladder dampness-heat pattern (TM1)
+
+  SF9H  	Bladder water accumulation pattern (TM1)
+
+  SF9J  	Bladder deficiency cold pattern (TM1)
+
+  SF9Y  	Other specified kidney system patterns (TM1)
+
+  SF9Z  	Kidney system patterns (TM1), unspecified
+
+
+  SG1Y  	Other specified organ system patterns (TM1)
+
+  SG1Z  	Organ system patterns (TM1), unspecified
+
+Meridian and collateral patterns (TM1) (BlockL2‑SG2)
+Main Meridian Patterns (TM1) (BlockL3‑SG2)
+  SG20  	Lung meridian pattern (TM1)
+
+  SG21  	Large intestine meridian pattern (TM1)
+
+  SG22  	Stomach meridian pattern (TM1)
+
+  SG23  	Spleen meridian pattern (TM1)
+
+  SG24  	Heart meridian pattern (TM1)
+
+  SG25  	Small intestine meridian pattern (TM1)
+
+  SG26  	Bladder meridian pattern (TM1)
+
+  SG27  	Kidney meridian pattern (TM1)
+
+  SG28  	Pericardium meridian pattern (TM1)
+
+  SG29  	Triple energizer meridian pattern (TM1)
+
+  SG2A  	Gallbladder meridian pattern (TM1)
+
+  SG2B  	Liver meridian pattern (TM1)
+
+  SG2Y  	Other specified main Meridian Patterns (TM1)
+
+  SG2Z  	Main Meridian Patterns (TM1), unspecified
+
+Extra Meridian Patterns (TM1) (BlockL3‑SG3)
+  SG30  	Governor vessel pattern (TM1)
+
+  SG31  	Conception vessel pattern (TM1)
+
+  SG32  	Yin heel vessel pattern (TM1)
+
+  SG33  	Yang heel vessel pattern (TM1)
+
+  SG34  	Yin link vessel pattern (TM1)
+
+  SG35  	Yang link vessel pattern (TM1)
+
+  SG36  	Thoroughfare vessel pattern (TM1)
+
+  SG37  	Belt vessel pattern (TM1)
+
+  SG3Y  	Other specified extra Meridian Patterns (TM1)
+
+  SG3Z  	Extra Meridian Patterns (TM1), unspecified
+
+
+  SG5Y  	Other specified meridian and collateral patterns (TM1)
+
+  SG5Z  	Meridian and collateral patterns (TM1), unspecified
+
+Six stage patterns (TM1) (BlockL2‑SG6)
+  SG60  	Early yang stage pattern (TM1)
+
+  SG61  	Middle yang stage pattern (TM1)
+
+  SG62  	Late yang stage pattern (TM1)
+
+  SG63  	Early yin stage pattern (TM1)
+
+  SG64  	Middle yin stage Pattern (TM), Middle yin stage pattern (TM1)
+
+  SG65  	Late Yin stage Patterns (TM1)
+
+  SG6Y  	Other specified six stage patterns (TM1)
+
+  SG6Z  	Six stage patterns (TM1), unspecified
+
+Triple energizer stage patterns (TM1) (BlockL2‑SG7)
+  SG70  	Upper energizer stage patterns (TM1)
+
+  SG71  	Middle energizer stage patterns (TM1)
+
+  SG72  	Lower energizer stage patterns (TM1)
+
+  SG7Y  	Other specified triple energizer stage patterns (TM1)
+
+  SG7Z  	Triple energizer stage patterns (TM1), unspecified
+
+Four phase patterns (TM1) (BlockL2‑SG8)
+Defense phase patterns (TM1) (BlockL3‑SG8)
+  SG80  	Dampness obstructing the defense yang pattern (TM1)
+
+  SG81  	Heat attacking the lung defense pattern (TM1)
+
+  SG8Y  	Other specified defense phase patterns (TM1)
+
+  SG8Z  	Defense phase patterns (TM1), unspecified
+
+Qi phase patterns (TM1) (BlockL3‑SG9)
+  SG90  	Heat entering the qi phase pattern (TM1)
+
+  SG91  	Qi phase dampness and heat pattern (TM1)
+
+  SG92  	Dampness obstructing the qi phase pattern (TM1)
+
+  SG9Y  	Other specified qi phase patterns (TM1)
+
+  SG9Z  	Qi phase patterns (TM1), unspecified
+
+Nutrient phase patterns (TM1) (BlockL3‑SH0)
+  SH00  	Nutrient qi and defense qi disharmony pattern (TM1)
+
+  SH01  	Heat in the nutrient phase pattern(TM1)
+
+  SH02  	Heat entering the nutrient and blood phase pattern (TM1)
+
+  SH0Y  	Other specified nutrient phase patterns (TM1)
+
+  SH0Z  	Nutrient phase patterns (TM1), unspecified
+
+Blood phase patterns (TM1) (BlockL3‑SH1)
+  SH10  	Blood phase pattern (TM1)
+
+  SH11  	Heat entering the blood phase pattern(TM1)
+
+  SH1Y  	Other specified blood phase patterns (TM1)
+
+  SH1Z  	Blood phase patterns (TM1), unspecified
+
+
+  SH3Y  	Other specified four phase patterns (TM1)
+
+  SH3Z  	Four phase patterns (TM1), unspecified
+
+Four constitution medicine patterns (TM1) (BlockL2‑SH4)
+Large yang type patterns (TM1) (BlockL3‑SH4)
+  SH40  	Large yang type exterior origin lower back pattern (TM1)
+
+  SH41  	Large yang type interior origin small intestine pattern (TM1)
+
+  SH42  	Large yang type exterior interior combined pattern (TM1)
+
+  SH4Y  	Other specified large yang type patterns (TM1)
+
+  SH4Z  	Large yang type patterns (TM1), unspecified
+
+Small yang type patterns (TM1) (BlockL3‑SH5)
+  SH50  	Small yang type lesser yang wind damage pattern (TM1)
+
+  SH51  	Small yang type yin depletion pattern (TM1)
+
+  SH52  	Small yang type chest heat congested pattern (TM1)
+
+  SH53  	Small yang type yin deficit pattern (TM1)
+
+  SH54  	Small yang type exterior interior combined pattern (TM1)
+
+  SH5Y  	Other specified small yang type patterns (TM1)
+
+  SH5Z  	Small yang type patterns (TM1), unspecified
+
+Large yin type patterns (TM1) (BlockL3‑SH6)
+  SH60  	Large yin type supraspinal exterior pattern (TM1)
+
+  SH61  	Large yin type esophagus cold pattern (TM1)
+
+  SH62  	Large yin type liver heat pattern (TM1)
+
+  SH63  	Large yin type dryness heat pattern (TM1)
+
+  SH64  	Large yin type exterior Interior combined pattern (TM1)
+
+  SH6Y  	Other specified large yin type patterns (TM1)
+
+  SH6Z  	Large yin type patterns (TM1), unspecified
+
+Small yin type patterns(TM1) (BlockL3‑SH7)
+  SH70  	Small yin type congestive hyperpsychotic pattern (TM1)
+
+  SH71  	Small yin type yang depletion pattern (TM1)
+
+  SH72  	Small yin type greater yin pattern (TM1)
+
+  SH73  	Small yin type lesser yin pattern (TM1)
+
+  SH74  	Small yin type exterior interior combined pattern (TM1)
+
+  SH7Y  	Other specified small yin type patterns(TM1)
+
+  SH7Z  	Small yin type patterns(TM1), unspecified
+
+
+  SH9Y  	Other specified four constitution medicine patterns (TM1)
+
+  SH9Z  	Four constitution medicine patterns (TM1), unspecified
+
+
+  SJ1Y  	Other specified traditional medicine patterns (TM1)
+
+  SJ1Z  	Traditional medicine patterns (TM1), unspecified
+
+
+  SJ3Y  	Other specified supplementary Chapter Traditional Medicine Conditions - Module I
+
+  SJ3Z  	Supplementary Chapter Traditional Medicine Conditions - Module I, unspecified
+

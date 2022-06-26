@@ -1,0 +1,280 @@
+Column A,Column Name,Section,Section No,SectionName,VariableType
+1,X_STATE   ,Core Section,0,RecordIdentification,Nonlinear
+2,FMONTH    ,Core Section,0,RecordIdentification,Nonlinear
+3,IDATE     ,Core Section,0,RecordIdentification,Nonlinear
+4,IMONTH    ,Core Section,0,RecordIdentification,Nonlinear
+5,IDAY      ,Core Section,0,RecordIdentification,Nonlinear
+6,IYEAR     ,Core Section,0,RecordIdentification,Nonlinear
+7,DISPCODE  ,Core Section,0,RecordIdentification,Nonlinear
+8,SEQNO     ,Core Section,0,RecordIdentification,Nonlinear
+9,X_PSU     ,Core Section,0,RecordIdentification,Nonlinear
+10,CTELENM1  ,Core Section,0,LandLineIntroduction,Nonlinear
+11,PVTRESD1  ,Core Section,0,LandLineIntroduction,Nonlinear
+12,COLGHOUS  ,Core Section,0,LandLineIntroduction,Nonlinear
+13,STATERE1  ,Core Section,0,LandLineIntroduction,Nonlinear
+14,CELPHONE  ,Core Section,0,LandLineIntroduction,Nonlinear
+15,LADULT1   ,Core Section,0,LandLineIntroduction,Nonlinear
+16,COLGSEX   ,Core Section,0,LandLineIntroduction,Nonlinear
+17,NUMADULT ,Core Section,0,LandLineIntroduction,Linear
+18,LANDSEX   ,Core Section,0,LandLineIntroduction,Nonlinear
+19,NUMMEN    ,Core Section,0,LandLineIntroduction,Linear
+20,NUMWOMEN  ,Core Section,0,LandLineIntroduction,Linear
+21,RESPSLCT  ,Core Section,0,LandLineIntroduction,Nonlinear
+22,SAFETIME  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+23,CTELNUM1  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+24,CELLFON5  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+25,CADULT1   ,Core Section,0,CellPhoneIntroduction,Nonlinear
+26,CELLSEX   ,Core Section,0,CellPhoneIntroduction,Nonlinear
+27,PVTRESD3  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+28,CCLGHOUS  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+29,CSTATE1   ,Core Section,0,CellPhoneIntroduction,Nonlinear
+30,LANDLINE  ,Core Section,0,CellPhoneIntroduction,Nonlinear
+31,HHADULT   ,Core Section,0,CellPhoneIntroduction,Linear
+32,SEXVAR    ,Core Section,0,RespondentSex,Nonlinear
+33,GENHLTH   ,Core Section,1,HealthStatus,Nonlinear
+34,PHYSHLTH ,Core Section,2,HealthyDays,Linear
+35,MENTHLTH  ,Core Section,2,HealthyDays,Linear
+36,POORHLTH  ,Core Section,2,HealthyDays,Linear
+37,HLTHPLN1  ,Core Section,3,HealthCareAccess,Nonlinear
+38,PERSDOC2  ,Core Section,3,HealthCareAccess,Nonlinear
+39,MEDCOST   ,Core Section,3,HealthCareAccess,Nonlinear
+40,CHECKUP1  ,Core Section,3,HealthCareAccess,Nonlinear
+41,EXERANY2  ,Core Section,4,Exercise,Nonlinear
+42,SLEPTIM1  ,Core Section,5,InadequateSleep,Linear
+43,CVDINFR4  ,Core Section,6,ChronicHealthConditions,Nonlinear
+44,CVDCRHD4  ,Core Section,6,ChronicHealthConditions,Nonlinear
+45,CVDSTRK3  ,Core Section,6,ChronicHealthConditions,Nonlinear
+46,ASTHMA3   ,Core Section,6,ChronicHealthConditions,Nonlinear
+47,ASTHNOW   ,Core Section,6,ChronicHealthConditions,Nonlinear
+48,CHCSCNCR  ,Core Section,6,ChronicHealthConditions,Nonlinear
+49,CHCOCNCR  ,Core Section,6,ChronicHealthConditions,Nonlinear
+50,CHCCOPD2  ,Core Section,6,ChronicHealthConditions,Nonlinear
+51,HAVARTH4 ,Core Section,6,ChronicHealthConditions,Nonlinear
+52,ADDEPEV3  ,Core Section,6,ChronicHealthConditions,Nonlinear
+53,CHCKDNY2  ,Core Section,6,ChronicHealthConditions,Nonlinear
+54,DIABETE4  ,Core Section,6,ChronicHealthConditions,Nonlinear
+55,DIABAGE3  ,Core Section,6,ChronicHealthConditions,Linear
+56,LASTDEN4  ,Core Section,7,OralHealth,Nonlinear
+57,RMVTETH4  ,Core Section,7,OralHealth,Nonlinear
+58,MARITAL   ,Core Section,8,Demographics,Nonlinear
+59,EDUCA     ,Core Section,8,Demographics,Nonlinear
+60,RENTHOM1  ,Core Section,8,Demographics,Nonlinear
+61,NUMHHOL3  ,Core Section,8,Demographics,Nonlinear
+62,NUMPHON3  ,Core Section,8,Demographics,Nonlinear
+63,CPDEMO1B  ,Core Section,8,Demographics,Nonlinear
+64,VETERAN3  ,Core Section,8,Demographics,Nonlinear
+65,EMPLOY1   ,Core Section,8,Demographics,Nonlinear
+66,CHILDREN  ,Core Section,8,Demographics,Linear
+67,INCOME2   ,Core Section,8,Demographics,Nonlinear
+68,PREGNANT ,Core Section,8,Demographics,Nonlinear
+69,WEIGHT2   ,Core Section,8,Demographics,Linear
+70,HEIGHT3   ,Core Section,8,Demographics,Linear
+71,DEAF      ,Core Section,9,Disability,Nonlinear
+72,BLIND     ,Core Section,9,Disability,Nonlinear
+73,DECIDE    ,Core Section,9,Disability,Nonlinear
+74,DIFFWALK  ,Core Section,9,Disability,Nonlinear
+75,DIFFDRES  ,Core Section,9,Disability,Nonlinear
+76,DIFFALON  ,Core Section,9,Disability,Nonlinear
+77,SMOKE100  ,Core Section,10,TobaccoUse,Nonlinear
+78,SMOKDAY2  ,Core Section,10,TobaccoUse,Nonlinear
+79,STOPSMK2  ,Core Section,10,TobaccoUse,Nonlinear
+80,LASTSMK2  ,Core Section,10,TobaccoUse,Nonlinear
+81,USENOW3   ,Core Section,10,TobaccoUse,Nonlinear
+82,ALCDAY5   ,Core Section,11,AlcoholConsumption,Linear
+83,AVEDRNK3  ,Core Section,11,AlcoholConsumption,Linear
+84,DRNK3GE5  ,Core Section,11,AlcoholConsumption,Linear
+85,MAXDRNKS ,Core Section,11,AlcoholConsumption,Linear
+86,FLUSHOT7  ,Core Section,12,Immunization,Nonlinear
+87,FLSHTMY3  ,Core Section,12,Immunization,Nonlinear
+88,SHINGLE2  ,Core Section,12,Immunization,Nonlinear
+89,PNEUVAC4  ,Core Section,12,Immunization,Nonlinear
+90,FALL12MN  ,Core Section,13,Falls,Linear
+91,FALLINJ4  ,Core Section,13,Falls,Linear
+92,SEATBELT  ,Core Section,14,SeatbeltUseandDrinkingandDriving,Nonlinear
+93,DRNKDRI2  ,Core Section,14,SeatbeltUseandDrinkingandDriving,Linear
+94,HADMAM    ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+95,HOWLONG   ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+96,HADPAP2   ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+97,LASTPAP2  ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+98,HPVTEST   ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+99,HPLSTTST  ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+100,HADHYST2  ,Core Section,15,BreastandCervicalCancerScreening,Nonlinear
+101,PCPSAAD3  ,Core Section,16,ProstateCancerScreening,Nonlinear
+102,PCPSADI1 ,Core Section,16,ProstateCancerScreening,Nonlinear
+103,PCPSARE1  ,Core Section,16,ProstateCancerScreening,Nonlinear
+104,PSATEST1  ,Core Section,16,ProstateCancerScreening,Nonlinear
+105,PSATIME   ,Core Section,16,ProstateCancerScreening,Nonlinear
+106,PCPSARS1  ,Core Section,16,ProstateCancerScreening,Nonlinear
+107,COLNSCPY  ,Core Section,17,ColorectalCancerScreening,Nonlinear
+108,COLNTEST  ,Core Section,17,ColorectalCancerScreening,Nonlinear
+109,SIGMSCPY  ,Core Section,17,ColorectalCancerScreening,Nonlinear
+110,SIGMTEST  ,Module,17,ColorectalCancerScreening,Nonlinear
+111,BLDSTOL1  ,Module,17,ColorectalCancerScreening,Nonlinear
+112,LSTBLDS4  ,Module,17,ColorectalCancerScreening,Nonlinear
+113,STOOLDNA  ,Module,17,ColorectalCancerScreening,Nonlinear
+114,SDNATEST  ,Module,17,ColorectalCancerScreening,Nonlinear
+115,VIRCOLON  ,Module,17,ColorectalCancerScreening,Nonlinear
+116,VCLNTEST  ,Module,17,ColorectalCancerScreening,Nonlinear
+117,HIVTST7   ,Module,18,HIV/AIDS,Nonlinear
+118,HIVTSTD3  ,Module,18,HIV/AIDS,Nonlinear
+119,HIVRISK5 ,Module,18,HIV/AIDS,Nonlinear
+120,PDIABTST  ,Module,1,Pre-Diabetes,Nonlinear
+121,PREDIAB1  ,Module,1,Pre-Diabetes,Nonlinear
+122,INSULIN1  ,Module,2,Diabetes,Nonlinear
+123,BLDSUGAR  ,Module,2,Diabetes,Linear
+124,FEETCHK3  ,Module,2,Diabetes,Linear
+125,DOCTDIAB  ,Module,2,Diabetes,Linear
+126,CHKHEMO3  ,Module,2,Diabetes,Linear
+127,FEETCHK   ,Module,2,Diabetes,Linear
+128,EYEEXAM1  ,Module,2,Diabetes,Nonlinear
+129,DIABEYE   ,Module,2,Diabetes,Nonlinear
+130,DIABEDU   ,Module,2,Diabetes,Nonlinear
+131,TOLDCFS   ,Module,3,ME/CFS,Nonlinear
+132,HAVECFS   ,Module,3,ME/CFS,Nonlinear
+133,WORKCFS   ,Module,3,ME/CFS,Nonlinear
+134,TOLDHEPC  ,Module,4,HepatitisTreatment,Nonlinear
+135,TRETHEPC  ,Module,4,HepatitisTreatment,Nonlinear
+136,PRIRHEPC ,Module,4,HepatitisTreatment,Nonlinear
+137,HAVEHEPC  ,Module,4,HepatitisTreatment,Nonlinear
+138,HAVEHEPB  ,Module,4,HepatitisTreatment,Nonlinear
+139,MEDSHEPB  ,Module,4,HepatitisTreatment,Nonlinear
+140,HLTHCVR1  ,Module,5,HealthCareAccess,Nonlinear
+141,CIMEMLOS  ,Module,6,CognitiveDecline,Nonlinear
+142,CDHOUSE   ,Module,6,CognitiveDecline,Nonlinear
+143,CDASSIST  ,Module,6,CognitiveDecline,Nonlinear
+144,CDHELP    ,Module,6,CognitiveDecline,Nonlinear
+145,CDSOCIAL  ,Module,6,CognitiveDecline,Nonlinear
+146,CDDISCUS  ,Module,6,CognitiveDecline,Nonlinear
+147,CAREGIV1  ,Module,7,Caregiver,Nonlinear
+148,CRGVREL4  ,Module,7,Caregiver,Nonlinear
+149,CRGVLNG1  ,Module,7,Caregiver,Nonlinear
+150,CRGVHRS1  ,Module,7,Caregiver,Nonlinear
+151,CRGVPRB3  ,Module,7,Caregiver,Nonlinear
+152,CRGVALZD  ,Module,7,Caregiver,Nonlinear
+153,CRGVPER1 ,Module,7,Caregiver,Nonlinear
+154,CRGVHOU1  ,Module,7,Caregiver,Nonlinear
+155,CRGVEXPT  ,Module,7,Caregiver,Nonlinear
+156,ECIGARET  ,Module,8,E-Cigarettes,Nonlinear
+157,ECIGNOW   ,Module,8,E-Cigarettes,Nonlinear
+158,MARIJAN1  ,Module,9,MarijuanaUse,Linear
+159,USEMRJN2  ,Module,9,MarijuanaUse,Nonlinear
+160,RSNMRJN1  ,Module,9,MarijuanaUse,Nonlinear
+161,LCSFIRST  ,Module,10,LungCancerScreening,Linear
+162,LCSLAST   ,Module,10,LungCancerScreening,Linear
+163,LCSNUMCG  ,Module,10,LungCancerScreening,Linear
+164,LCSCTSCN  ,Module,10,LungCancerScreening,Nonlinear
+165,CNCRDIFF  ,Module,11,CancerSurvivorship:TypeofCancer,Nonlinear
+166,CNCRAGE   ,Module,11,CancerSurvivorship:TypeofCancer,Linear
+167,CNCRTYP1  ,Module,11,CancerSurvivorship:TypeofCancer,Nonlinear
+168,CSRVTRT3  ,Module,11,CancerSurvivorship:CourseofTreatment,Nonlinear
+169,CSRVDOC1  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+170,CSRVSUM  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+171,CSRVRTRN  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+172,CSRVINST  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+173,CSRVINSR  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+174,CSRVDEIN  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+175,CSRVCLIN  ,Module,12,CancerSurvivorship:CourseofTreatment,Nonlinear
+176,CSRVPAIN  ,Module,12,CancerSurvivorship:PainManagement,Nonlinear
+177,CSRVCTL2  ,Module,12,CancerSurvivorship:PainManagement,Nonlinear
+178,PCPSADE1  ,Module,13,ProstateCancerScreeningDecisionMaking,Nonlinear
+179,PCDMDEC1  ,Module,13,ProstateCancerScreeningDecisionMaking,Nonlinear
+180,HPVADVC4  ,Module,14,HPVVaccination,Nonlinear
+181,HPVADSHT  ,Module,14,HPVVaccination,Nonlinear
+182,TETANUS1  ,Module,15,TetanusDiphtheria(Tdap)(Adults),Nonlinear
+183,IMFVPLA1  ,Module,15,PlaceofFluVaccination,Nonlinear
+184,BIRTHSEX  ,Module,16,SexatBirth,Nonlinear
+185,SOMALE   ,Module,17,SexualOrientationandGenderIdentity(SOGI),Nonlinear
+186,SOFEMALE  ,Module,19,SexualOrientationandGenderIdentity(SOGI),Nonlinear
+187,TRNSGNDR ,Module,20,SexualOrientationandGenderIdentity(SOGI),Nonlinear
+188,ACEDEPRS  ,Module,20,AdverseChildhoodExperience,Nonlinear
+189,ACEDRINK  ,Module,20,AdverseChildhoodExperience,Nonlinear
+190,ACEDRUGS  ,Module,21,AdverseChildhoodExperience,Nonlinear
+191,ACEPRISN  ,Module,21,AdverseChildhoodExperience,Nonlinear
+192,ACEDIVRC  ,Module,21,AdverseChildhoodExperience,Nonlinear
+193,ACEPUNCH  ,Module,21,AdverseChildhoodExperience,Nonlinear
+194,ACEHURT1  ,Module,21,AdverseChildhoodExperience,Nonlinear
+195,ACESWEAR  ,Module,21,AdverseChildhoodExperience,Nonlinear
+196,ACETOUCH  ,Module,21,AdverseChildhoodExperience,Nonlinear
+197,ACETTHEM  ,Module,21,AdverseChildhoodExperience,Nonlinear
+198,ACEHVSEX  ,Module,21,AdverseChildhoodExperience,Nonlinear
+199,RCSGENDR  ,Module,21,RandomChildSelection,Nonlinear
+200,RCSRLTN2  ,Module,21,RandomChildSelection,Nonlinear
+201,CASTHDX2  ,Module,23,ChildhoodAsthmaPrevalence,Nonlinear
+202,CASTHNO2  ,Module,23,ChildhoodAsthmaPrevalence,Nonlinear
+203,QSTVER    ,Module,23,QuestionnaireVersion,Nonlinear
+204,QSTLANG  ,Module,23,QuestionnaireLanguage,Nonlinear
+205,X_METSTAT ,Module,1,UrbanRural,Nonlinear
+206,X_URBSTAT ,Module,1,UrbanRural,Nonlinear
+207,MSCODE    ,Module,1,WeightingVariables,Nonlinear
+208,X_STSTR   ,Module,1,WeightingVariables,Nonlinear
+209,X_STRWT   ,Module,1,WeightingVariables,Nonlinear
+210,X_RAWRAKE ,Module,1,WeightingVariables,Nonlinear
+211,X_WT2RAKE ,Module,1,WeightingVariables,Nonlinear
+212,X_IMPRACE ,Module,1,WeightingVariables,Nonlinear
+213,X_CHISPNC ,Module,1,ChildDemographicVariables,Nonlinear
+214,X_CRACE1  ,Module,1,ChildDemographicVariables,Nonlinear
+215,X_CPRACE  ,Module,1,ChildDemographicVariables,Nonlinear
+216,X_CLLCPWT ,Module,1,ChildWeightingVariables,Nonlinear
+217,X_DUALUSE ,Module,1,WeightingVariables,Nonlinear
+218,X_DUALCOR ,Module,1,WeightingVariables,Nonlinear
+219,X_LLCPWT2 ,Module,1,WeightingVariables,Nonlinear
+220,X_LLCPWT  ,Module,1,WeightingVariables,Nonlinear
+221,X_RFHLTH ,Module,1,CalculatedVariables,Nonlinear
+222,X_PHYS14D ,Module,2,CalculatedVariables,Nonlinear
+223,X_MENT14D ,Module,2,CalculatedVariables,Nonlinear
+224,X_HCVU651 ,Module,3,CalculatedVariables,Nonlinear
+225,X_TOTINDA ,Module,4,CalculatedVariables,Nonlinear
+226,X_MICHD   ,Module,6,CalculatedVariables,Nonlinear
+227,X_LTASTH1 ,Module,6,CalculatedVariables,Nonlinear
+228,X_CASTHM1 ,Module,6,CalculatedVariables,Nonlinear
+229,X_ASTHMS1 ,Module,6,CalculatedVariables,Nonlinear
+230,X_DRDXAR2 ,Module,6,CalculatedVariables,Nonlinear
+231,X_EXTETH3 ,Module,7,CalculatedVariables,Nonlinear
+232,X_ALTETH3 ,Module,7,CalculatedVariables,Nonlinear
+233,X_DENVST3 ,Module,7,CalculatedVariables,Nonlinear
+234,X_PRACE1  ,Module,8,CalculatedRaceVariables,Nonlinear
+235,X_MRACE1  ,Module,8,CalculatedRaceVariables,Nonlinear
+236,X_HISPANC ,Module,8,CalculatedRaceVariables,Nonlinear
+237,X_RACE    ,Module,8,CalculatedRaceVariables,Nonlinear
+238,X_RACEG21,Module,8,CalculatedRaceVariables,Nonlinear
+239,X_RACEGR3 ,Module,8,CalculatedRaceVariables,Nonlinear
+240,X_RACEPRV ,Module,8,CalculatedRaceVariables,Nonlinear
+241,X_SEX     ,Module,8,CalculatedVariables,Nonlinear
+242,X_AGEG5YR ,Module,8,CalculatedVariables,Linear
+243,X_AGE65YR ,Module,8,CalculatedVariables,Linear
+244,X_AGE80   ,Module,8,CalculatedVariables,Linear
+245,X_AGE_G   ,Module,8,CalculatedVariables,Linear
+246,HTIN4     ,Module,8,CalculatedVariables,Linear
+247,HTM4      ,Module,8,CalculatedVariables,Linear
+248,WTKG3     ,Module,8,CalculatedVariables,Linear
+249,X_BMI5    ,Module,8,CalculatedVariables,Linear
+250,X_BMI5CAT ,Module,8,CalculatedVariables,Nonlinear
+251,X_RFBMI5  ,Module,8,CalculatedVariables,Nonlinear
+252,X_CHLDCNT ,Module,8,CalculatedVariables,Nonlinear
+253,X_EDUCAG  ,Module,8,CalculatedVariables,Nonlinear
+254,X_INCOMG  ,Module,8,CalculatedVariables,Nonlinear
+255,X_SMOKER3,Module,10,CalculatedVariables,Nonlinear
+256,X_RFSMOK3 ,Module,10,CalculatedVariables,Nonlinear
+257,DRNKANY5  ,Module,11,CalculatedVariables,Nonlinear
+258,DROCDY3_  ,Module,11,CalculatedVariables,Linear
+259,X_RFBING5 ,Module,11,CalculatedVariables,Nonlinear
+260,X_DRNKWK1 ,Module,11,CalculatedVariables,Linear
+261,X_RFDRHV7 ,Module,11,CalculatedVariables,Nonlinear
+262,X_FLSHOT7 ,Module,12,CalculatedVariables,Nonlinear
+263,X_PNEUMO3 ,Module,12,CalculatedVariables,Nonlinear
+264,X_RFSEAT2 ,Module,14,CalculatedVariables,Nonlinear
+265,X_RFSEAT3 ,Module,14,CalculatedVariables,Nonlinear
+266,X_DRNKDRV ,Module,14,CalculatedVariables,Nonlinear
+267,X_RFMAM22 ,Module,15,CalculatedVariables,Nonlinear
+268,X_MAM5023 ,Module,15,CalculatedVariables,Nonlinear
+269,X_RFPAP35 ,Module,15,CalculatedVariables,Nonlinear
+270,X_RFPSA23 ,Module,16,CalculatedVariables,Nonlinear
+271,X_CLNSCPY ,Module,17,CalculatedVariables,Nonlinear
+272,X_SGMSCPY,Module,17,CalculatedVariables,Nonlinear
+273,X_SGMS10Y ,Module,17,CalculatedVariables,Nonlinear
+274,X_RFBLDS4 ,Module,17,CalculatedVariables,Nonlinear
+275,X_STOLDNA ,Module,17,CalculatedVariables,Nonlinear
+276,X_VIRCOLN ,Module,17,CalculatedVariables,Nonlinear
+277,X_SBONTIM ,Module,17,CalculatedVariables,Nonlinear
+278,X_CRCREC1 ,Module,17,CalculatedVariables,Nonlinear
+279,X_AIDTST4,Module,18,CalculatedVariables,Nonlinear

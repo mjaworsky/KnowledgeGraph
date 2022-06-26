@@ -1,0 +1,1473 @@
+CHAPTER 18
+Pregnancy, childbirth or the puerperium
+This chapter has 83 four-character categories.
+Code range starts with JA00
+A group of conditions characterised as occurring during the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+Coding Note:	The codes included in this chapter are to be used for conditions related to or aggravated by the pregnancy, childbirth or by the puerperium (maternal causes or obstetric causes)
+Exclusions:	Postpartum necrosis of pituitary gland (5A61.0)
+Obstetrical tetanus (1C14)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Coded Elsewhere:	Gestational trophoblastic diseases
+Contact with health services for reasons associated with reproduction (QA20-QA4Z)
+This chapter contains the following top level blocks:
+•	Abortive outcome of pregnancy
+•	Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium
+•	Obstetric haemorrhage
+•	Certain specified maternal disorders predominantly related to pregnancy
+•	Maternal care related to the fetus, amniotic cavity or possible delivery problems
+•	Complications of labour or delivery
+•	Delivery
+•	Complications predominantly related to the puerperium
+•	Certain obstetric conditions, not elsewhere classified
+•	Gestational trophoblastic diseases
+
+Abortive outcome of pregnancy (BlockL1‑JA0)
+A group of conditions characterised by pregnancy which does not result in live offspring.
+Exclusions:	Continuing pregnancy after abortion of one fetus or more (JA81.1)
+  JA00  	Abortion
+
+JA00.0	Spontaneous abortion
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence. This condition is characterised by non-induced embryonic or fetal death or passage of products of conception prior to 22 weeks gestation or weighing less than 500 grams.
+
+JA00.00	Spontaneous abortion, incomplete, complicated by genital tract or pelvic infection
+
+JA00.01	Spontaneous abortion, incomplete, complicated by delayed or excessive haemorrhage
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence and complicated by delayed or excessive bleeding. This condition is characterised by passage of products of conception prior to 22 weeks gestation or weighing less than 500 grams.
+
+JA00.02	Spontaneous abortion, incomplete, complicated by embolism
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence and complicated by embolism. This condition is characterised by passage of products of conception prior to 22 weeks gestation or weighing less than 500 grams.
+
+JA00.03	Spontaneous abortion, incomplete, with other or unspecified complications
+
+JA00.04	Spontaneous abortion, incomplete, without complication
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence without any associated complications. This condition is characterised by passage of products of conception prior to 22 weeks gestation or weighing less than 500 grams.
+
+JA00.05	Spontaneous abortion, complete or unspecified, complicated by genital tract or pelvic infection
+
+JA00.06	Spontaneous abortion, complete or unspecified, complicated by delayed or excessive haemorrhage
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence, and complicated by delayed or excessive bleeding. This condition is characterised by non-induced embryonic or fetal death or passage of products of conception prior to 22 weeks' gestation or weighing less than 500 grams.
+
+JA00.07	Spontaneous abortion, complete or unspecified, complicated by embolism
+A condition caused by immunological factors, abnormal ovum or uterine body, maternal disease or infection, or cervical incompetence, and complicated by embolism. This condition is characterised by non-induced embryonic or fetal death or passage of products of conception prior to 22 weeks gestation or weighing less than 500 grams.
+
+JA00.08	Spontaneous abortion, complete or unspecified, with other or unspecified complications
+
+JA00.09	Spontaneous abortion, complete or unspecified, without complication
+
+JA00.1	Induced abortion
+Intentional loss of an intrauterine pregnancy due to medical or surgical means.
+Inclusions:	therapeutic abortion
+
+JA00.10	Induced abortion, incomplete, complicated by genital tract or pelvic infection
+
+JA00.11	Induced abortion, incomplete, complicated by delayed or excessive haemorrhage
+
+JA00.12	Induced abortion, incomplete, complicated by embolism
+
+JA00.13	Induced abortion, incomplete, with other or unspecified complications
+
+JA00.14	Induced abortion, incomplete, without complication
+
+JA00.15	Induced abortion, complete or unspecified, complicated by genital tract or pelvic infection
+
+JA00.16	Induced abortion, complete or unspecified, complicated by delayed or excessive haemorrhage
+A condition caused by surgical, pharmacological, mechanical, artificial, or other unspecified interventions and complicated by delayed or excessive bleeding. This condition is characterised by termination of pregnancy and intentional embryonic or fetal death with complete or unspecified expulsion of products of conception from the uterus before the fetus is viable.
+
+JA00.17	Induced abortion, complete or unspecified, complicated by embolism
+A condition caused by surgical, pharmacological, mechanical, artificial, or other unspecified interventions and complicated by embolism. This condition is characterised by termination of pregnancy and intentional embryonic or fetal death with complete or unspecified expulsion of products of conception from the uterus before the fetus is viable.
+
+JA00.18	Induced abortion, complete or unspecified, with other complication
+
+JA00.19	Induced abortion, complete or unspecified, without complication
+
+JA00.2	Unspecified abortion
+
+JA00.20	Unspecified abortion, incomplete, complicated by genital tract or pelvic infection
+
+JA00.21	Unspecified abortion, incomplete, complicated by delayed or excessive haemorrhage
+
+JA00.22	Unspecified abortion, incomplete, complicated by embolism
+
+JA00.23	Unspecified abortion, incomplete, with other or unspecified complications
+
+JA00.24	Unspecified abortion, incomplete, without complication
+
+JA00.25	Unspecified abortion, complete or unspecified, complicated by genital tract or pelvic infection
+
+JA00.26	Unspecified abortion, complete or unspecified, complicated by delayed or excessive haemorrhage
+
+JA00.27	Unspecified abortion, complete or unspecified, complicated by embolism
+
+JA00.28	Unspecified abortion, complete or unspecified, with other or unspecified complications
+
+JA00.29	Unspecified abortion, complete or unspecified, without complication
+
+JA00.3	Failed attempted abortion
+Ongoing pregnancy after medical or surgical interventions which fail to terminate the pregnancy.
+Inclusions:	failure of attempted induction of abortion
+Exclusions:	incomplete abortion (JA00.1)
+
+JA00.30	Failed medical abortion, complicated by genital tract or pelvic infection
+Medical interventions which fail to terminate the pregnancy and complicated by genital tract and pelvic infection
+
+JA00.31	Failed medical abortion, complicated by delayed or excessive haemorrhage
+Medical interventions which fail to terminate the pregnancy and complicated by delayed or excessive haemorrhage
+
+JA00.32	Failed medical abortion, complicated by embolism
+Medical interventions which fail to terminate the pregnancy and complicated by delayed or excessive haemorrhage
+
+JA00.33	Failed medical abortion, with other or unspecified complications
+Medical interventions which fail to terminate the pregnancy and associated with other and unspecified complications.
+
+JA00.34	Failed medical abortion, without complication
+Medical interventions which fail to terminate the pregnancy without any associated complications.
+
+JA00.35	Other or unspecified failed attempted abortion, complicated by genital tract or pelvic infection
+
+JA00.36	Other or unspecified failed attempted abortion, complicated by delayed or excessive haemorrhage
+
+JA00.37	Other or unspecified failed attempted abortion, complicated by embolism
+
+JA00.38	Other or unspecified failed attempted abortion, with other or unspecified complications
+
+JA00.39	Other or unspecified failed attempted abortion, without complication
+
+  JA01  	Ectopic pregnancy
+Any condition characterised by implantation of the embryo outside the endometrium and endometrial cavity during pregnancy.
+Inclusions:	ruptured ectopic pregnancy
+
+JA01.0	Abdominal pregnancy
+A condition characterised by implantation of the embryo within the peritoneal cavity during pregnancy.
+Exclusions:	Maternal care for viable fetus in abdominal pregnancy (JA86.6)
+Delivery of viable fetus in abdominal pregnancy (JB23.3)
+
+JA01.1	Tubal pregnancy
+A condition characterised by implantation of the embryo within the fallopian tube (ampullary, isthmus, interstitium) during pregnancy.
+Inclusions:	Fallopian pregnancy
+Tubal abortion
+
+JA01.2	Ovarian pregnancy
+A condition characterised by implantation of the embryo within the ovary during pregnancy.
+
+JA01.Y	Other specified ectopic pregnancy
+
+JA01.Z	Ectopic pregnancy, unspecified
+
+  JA02  	Molar pregnancy
+A condition caused by the over-production of cells arising into the placenta during pregnancy. This condition is characterised by a pregnancy with abnormal placental growth in which the chorionic villi become hydropic, trophoblast proliferation and invasion of the uterine tissue within 10-16 weeks after conception, and a placental mass.
+Exclusions:	malignant hydatidiform mole (2C75.0)
+
+JA02.0	Complete hydatidiform mole
+A condition caused by the over-production of cells arising into the placenta during pregnancy. This condition is characterised by a pregnancy with abnormal placental growth in which the chorionic villi become hydropic, slight to severe trophoblast proliferation and invasion of the uterine tissue within 10-16 weeks after conception, a placental mass, 25-30% theca lutein cysts, 15-20% persistent trophoblastic disease, 50% uterine size for dates, and vaginal bleeding, nausea, or vomiting. This condition leads to an absent fetus.
+Inclusions:	classical hydatidiform mole
+
+JA02.1	Incomplete or partial hydatidiform mole
+A condition caused by the over-production of cells arising into the placenta during pregnancy. This condition is characterised by a pregnancy with abnormal placental growth in which the chorionic villi become hydropic, slight to moderate trophoblast proliferation and invasion of the uterine tissue within 10-16 weeks after conception, a placental mass, theca lutein cysts, 1-5% persistent trophoblastic disease, small uterine size for dates, and vaginal bleeding, nausea, or vomiting. This condition leads to some fetal development and a missed abortion.
+
+JA02.Y	Other specified molar pregnancy
+
+JA02.Z	Molar pregnancy, unspecified
+
+  JA03  	Missed abortion
+A condition caused by genetic abnormality, abnormal cell division, or poor quality ovum or sperm. This condition is characterised by a failed pregnancy, immature fetal or embryonic death that is not expelled from the uterus for at least 8 weeks, and diminished uterine size. This condition may also present with maternal infection, blood clotting, fetal calcification, and resorption of conception products. Confirmation is by imaging.
+Inclusions:	Early fetal death with retention of dead fetus
+Exclusions:	Blighted ovum or nonhydatidiform mole (JA04)
+Molar pregnancy (JA02)
+
+  JA04  	Blighted ovum or nonhydatidiform mole
+A condition caused by genetic abnormality, abnormal cell division, or poor quality ovum or sperm. This condition is characterised by a failed pregnancy, implantation of a fertilized egg without development into an embryo, haemorrhage into the decidua, and adjacent tissue necrosis.
+Inclusions:	Pathological ovum
+
+  JA05  	Complications following abortion, ectopic or molar pregnancy
+Any complication affecting pregnant females, caused by or subsequent to abortion, ectopic, and molar pregnancy.
+
+JA05.0	Genital tract or pelvic infection following abortion, ectopic or molar pregnancy
+Exclusions:	septic or septicopyaemic embolism (JA05.2)
+Urinary tract infection, site not specified (GC08)
+
+JA05.1	Delayed or excessive haemorrhage following abortion, ectopic or molar pregnancy
+
+JA05.2	Embolism following abortion, ectopic or molar pregnancy
+
+JA05.3	Shock following abortion, ectopic or molar pregnancy
+Exclusions:	septic shock (JA05.0)
+
+JA05.4	Renal failure following abortion, ectopic or molar pregnancy
+
+JA05.5	Metabolic disorders following abortion, ectopic or molar pregnancy
+
+JA05.6	Damage to pelvic organs and tissues following abortion, ectopic or molar pregnancy
+
+JA05.7	Other venous complications following abortion, ectopic or molar pregnancy
+
+JA05.Y	Other specified complications following abortion, ectopic or molar pregnancy
+
+JA05.Z	Complications following abortion, ectopic or molar pregnancy, unspecified
+
+  JA0Z  	Abortive outcome of pregnancy, unspecified
+
+Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium (BlockL1‑JA2)
+Any disorder affecting pregnant females, characterised by excessive systemic fluid build-up, excess serum proteins in the urine, and abnormally elevated blood pressure during pregnancy, childbirth, or the puerperium.
+  JA20  	Pre-existing hypertension complicating pregnancy, childbirth or the puerperium
+A condition affecting pregnant females, caused by previously diagnosed maternal hypertension. This condition is characterised by any complication during pregnancy, childbirth, and the puerperium as a result of a blood pressure reading above 140/90 mmHg prior to the 20th week of pregnancy, or persisting longer than 12 weeks postpartum. Confirmation is by sphygmomanometer.
+Exclusions:	Pre-eclampsia superimposed on chronic hypertension (JA21)
+
+JA20.0	Pre-existing essential hypertension complicating pregnancy, childbirth or the puerperium
+A condition affecting pregnant females, caused by previously diagnosed, or diagnosed within the first 20 weeks, hypertension. This condition is characterised by blood pressure of 140/90 mmHg or greater, leading to a complication during pregnancy, childbirth, and the puerperium. Confirmation is by sphygmomanometer.
+
+JA20.1	Pre-existing hypertensive heart disease complicating pregnancy, childbirth or the puerperium
+A condition affecting pregnant females, caused by previously diagnosed, or diagnosed within the first 20 weeks, hypertension and associated heart disease. This condition is characterised by blood pressure of 140/90 mmHg or greater, leading to a complication during pregnancy, childbirth, and the puerperium. Confirmation is by sphygmomanometer.
+Inclusions:	Hypertensive heart disease specified as a reason for obstetric care during pregnancy, childbirth or the puerperium
+
+JA20.2	Pre-existing hypertensive renal disease complicating pregnancy, childbirth or the puerperium
+A condition affecting pregnant females, caused by previously diagnosed, or diagnosed within the first 20 weeks, hypertension and associated renal disease. This condition is characterised by blood pressure of 140/90 mmHg or greater, leading to a complication during pregnancy, childbirth, and the puerperium. Confirmation is by sphygmomanometer.
+
+JA20.3	Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth or the puerperium
+Blood pressure of 140 mm Hg or greater systolic and/or 90 mm Hg or greater diastolic diagnosed preconception or in the first 20 weeks of pregnancy with associated heart and renal disease
+Inclusions:	Hypertensive heart and renal disease specified as a reason for obstetric care during pregnancy, childbirth or the puerperium
+
+JA20.4	Pre-existing secondary hypertension complicating pregnancy, childbirth or the puerperium
+A condition affecting pregnant females, caused by renal disease, endocrine disorders, or tumours. This condition is characterised by blood pressure greater than 140/90 mmHg prior to the 20th week of pregnancy, or persisting longer than 12 weeks postpartum, leading to a complication during pregnancy, childbirth, and the puerperium. Confirmation is by sphygmomanometer.
+Inclusions:	Secondary hypertension specified as a reason for obstetric care during pregnancy, childbirth or the puerperium
+
+JA20.Y	Other specified pre-existing hypertension complicating pregnancy, childbirth or the puerperium
+
+JA20.Z	Pre-existing hypertension complicating pregnancy, childbirth or the puerperium, unspecified
+
+  JA21  	Pre-eclampsia superimposed on chronic hypertension
+A condition affecting pregnant females over 20 weeks gestation. This condition is characterised by systolic blood pressure greater than 140mmHg and diastolic greater or equal to 90mmHg on two occasions 4 hours apart in the presence of either proteinuria or other new onset maternal organ dysfunction characterised by one thrombocytopenia, elevated serum creatinine or liver transaminases, or neurological conditions or fetal growth restriction in a female diagnosed with pre-existing hypertension.
+Inclusions:	Superimposed pre-eclampsia
+
+  JA22  	Gestational oedema or proteinuria without hypertension
+A condition affecting pregnant females, characterised by excessive systemic fluid build-up and serum proteins in the urine, without an abnormally elevated blood pressure induced by pregnancy.
+Inclusions:	Pregnancy-induced oedema and proteinuria without hypertension
+
+JA22.0	Gestational proteinuria without hypertension
+
+JA22.1	Gestational oedema without hypertension
+
+JA22.2	Gestational oedema with proteinuria without hypertension
+The accumulation of fluid and proteinuria due to the physiological alterations of pregnancy in the absence of hypertension
+
+  JA23  	Gestational hypertension
+A condition affecting pregnant females, characterised by systolic blood pressure greater than 140mmHg and/or a diastolic blood pressure greater or equal to 90mmHg on two occasions, 4 hours or more apart. Can be newly diagnosed after 20 weeks gestation or before 1 week postpartum. Confirmation is by measurement of blood pressure, liver and kidney functions test, and urine test.
+
+  JA24  	Pre-eclampsia
+This condition is characterised by systolic blood pressure greater than 140mmHg and or diastolic greater or equal to 90mmHg on two occasions 4 hours or more apart in the presence of either proteinuria or other new onset maternal organ dysfunction characterised by one thrombocytopenia, elevated serum creatinine or liver transaminases, or neurological conditions or fetal growth restriction.
+Exclusions:	Pre-eclampsia superimposed on chronic hypertension (JA21)
+
+JA24.0	Mild to moderate pre-eclampsia
+This condition is characterised by systolic blood pressure greater than 140mmHg and or diastolic greater or equal to 90mmHg on two occasions 4 hours or more apart in the presence of either proteinuria or other new onset maternal organ dysfunction characterised by one thrombocytopenia, elevated serum creatinine or liver transaminases, or neurological conditions or fetal growth restriction.
+
+JA24.1	Severe pre-eclampsia
+This condition is characterised by systolic blood pressure greater than 160mmHg and or diastolic greater or equal to 110mmHg on two occasions 4 hours or more apart in the presence of either proteinuria or other new onset maternal organ dysfunction characterised by one thrombocytopenia, elevated serum creatinine or liver transaminases, or neurological conditions or fetal growth restriction.
+
+JA24.2	HELLP syndrome
+severe preeclampsia associated with haemolysis, elevated liver enzymes, or low platelets
+
+JA24.Z	Pre-eclampsia, unspecified
+
+  JA25  	Eclampsia
+Any condition affecting pregnant females, characterised by seizure or convulsions newly arising in pregnancy. The condition is often associated with pregnancy-induced hypertension, convulsions, seizure, anxiety, epigastric pain, severe headache, blurred vision, proteinuria, and oedema that may occur during pregnancy, labour, or the puerperium.
+
+JA25.0	Eclampsia in pregnancy
+This condition is characterised by seizure or convulsions newly arising in pregnancy. The condition is often associated with pregnancy-induced hypertension, convulsions, seizure, anxiety, epigastric pain, severe headache, blurred vision, proteinuria, and oedema that occurs during pregnancy.
+
+JA25.1	Eclampsia in labour
+This condition is characterised by seizure or convulsions newly arising in pregnancy. The condition is often associated with pregnancy-induced hypertension, convulsions, seizure, anxiety, epigastric pain, severe headache, blurred vision, proteinuria, and oedema that occurs during labour.
+
+JA25.2	Eclampsia in the puerperium
+This condition is characterised by seizure or convulsions newly arising in pregnancy. The condition is often associated with pregnancy-induced hypertension, convulsions, seizure, anxiety, epigastric pain, severe headache, blurred vision, proteinuria, and oedema that occurs during the puerperium.
+
+JA25.3	Eclampsia, time period unspecified
+Onset of convulsions in a women with preeclampsia not attributable to other causes without a specific onset time
+
+  JA2Z  	Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium, unspecified
+
+Obstetric haemorrhage (BlockL1‑JA4)
+  JA40  	Haemorrhage in early pregnancy
+Exclusions:	Abortive outcome of pregnancy (BlockL1‑JA0)
+
+JA40.0	Threatened abortion
+A bloody vaginal discharge of bleeding appears through a closed cervical os during the first half of pregnancy.
+Inclusions:	Haemorrhage specified as due to threatened abortion
+
+JA40.Y	Other specified haemorrhage in early pregnancy
+
+JA40.Z	Haemorrhage in early pregnancy, unspecified
+
+  JA41  	Antepartum haemorrhage
+Exclusions:	Haemorrhage in early pregnancy (JA40)
+
+JA41.0	Antepartum haemorrhage with coagulation defect
+
+JA41.Y	Other specified antepartum haemorrhage
+
+JA41.Z	Antepartum haemorrhage, unspecified
+
+  JA42  	Intrapartum haemorrhage
+Exclusions:	Postpartum haemorrhage (JA43)
+Maternal care related to premature separation of placenta (JA8C)
+Antepartum haemorrhage (JA41)
+Maternal care related to placenta praevia or low lying placenta (JA8B)
+
+JA42.0	Intrapartum haemorrhage with coagulation defect
+A condition affecting pregnant females, excluding those caused by abruptio placentae and placenta praevia. This condition is characterised by excessive loss of blood with difficulties in blood clotting factors, after 20 weeks gestation until labour and delivery.
+
+JA42.1	Intrapartum haemorrhage resulting from obstructed labour with uterine rupture
+Coding Note:	Code aslo the causing condition
+
+JA42.2	Intrapartum haemorrhage resulting from obstructed labour without mention of uterine rupture
+Labour and delivery complicated by intrapartum haemorrhage from obstructed labour due to not otherwise specified causes or without mention of uterine rupture
+Coding Note:	Code aslo the causing condition
+
+JA42.Y	Other specified intrapartum haemorrhage
+
+JA42.Z	Intrapartum haemorrhage, unspecified
+
+  JA43  	Postpartum haemorrhage
+Coding Note:	Code aslo the causing condition
+Inclusions:	haemorrhage after delivery of fetus or infant
+
+JA43.0	Third-stage haemorrhage
+A condition characterised by excessive loss of blood during the third stage of labour for a vaginal delivery. This condition is caused by uterine atony, trauma, retained placenta, or coagulopathy.
+Coding Note:	Code aslo the causing condition
+Inclusions:	third-stage postpartum haemorrhage
+
+JA43.1	Other immediate postpartum haemorrhage
+A condition characterised by excessive loss of blood within the first 24 hours after the completion of the third stage of labour for a vaginal delivery (more than 500 millilitres), or after a caesarean section (more than 1000 millilitres). This condition is caused by uterine atony, trauma, retained placenta, or coagulopathy.
+Coding Note:	Code aslo the causing condition
+
+JA43.2	Delayed or secondary postpartum haemorrhage
+A condition characterised by excessive loss of blood between 24 hours and 12 weeks after delivery. This condition is caused by uterine atony, trauma, retained placenta, or coagulopathy.
+Coding Note:	Code aslo the causing condition
+
+JA43.3	Postpartum coagulation defects
+A condition characterised by excessive loss of blood following a vaginal or caesarean section delivery. This condition is caused by coagulation defects during the postpartum period.
+Coding Note:	Code aslo the causing condition
+
+JA43.4	Postpartum haemorrhage following obstructed labour with uterine rupture
+Coding Note:	Code aslo the causing condition
+
+JA43.5	Postpartum haemorrhage following obstructed labour without mention of uterine rupture
+Coding Note:	Code aslo the causing condition
+
+JA43.Y	Other specified postpartum haemorrhage
+Coding Note:	Code aslo the causing condition
+
+JA43.Z	Postpartum haemorrhage, unspecified
+Coding Note:	Code aslo the causing condition
+
+  JA4Z  	Obstetric haemorrhage, unspecified
+
+Certain specified maternal disorders predominantly related to pregnancy (BlockL1‑JA6)
+A group of conditions of the mother which occur during the period of time from conception to delivery (pregnancy).
+Exclusions:	Maternal infectious diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium (JB63)
+Maternal care related to the fetus, amniotic cavity or possible delivery problems (BlockL1‑JA8)
+Certain maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium (JB64)
+Coded Elsewhere:	Pregnancy symptom or complaint (MF34)
+  JA60  	Excessive vomiting in pregnancy
+
+JA60.0	Mild hyperemesis gravidarum
+Vomiting occurring during pregnancy responsive to dietary modification and antiemetic treatment
+Inclusions:	Hyperemesis gravidarum, mild or unspecified, starting before the end of the 22nd week of gestation
+Exclusions:	Hyperemesis gravidarum with metabolic disturbance (JA60.1)
+
+JA60.1	Hyperemesis gravidarum with metabolic disturbance
+Vomiting in pregnancy, not responsive to dietary modification and antiemetic treatment and associated with electrolyte disturbances and acid-base imbalance
+
+JA60.2	Late vomiting of pregnancy
+Vomiting occurring after 16 weeks gestation
+Inclusions:	Excessive vomiting starting after 22 completed weeks of gestation
+
+JA60.Y	Other specified excessive vomiting in pregnancy
+
+JA60.Z	Excessive vomiting in pregnancy, unspecified
+
+  JA61  	Venous complications in pregnancy
+Exclusions:	Complications following abortion, ectopic or molar pregnancy (JA05)
+obstetric pulmonary embolism (JB42.2)
+Venous complications in the puerperium (JB41)
+
+JA61.0	Varicose veins of lower extremity in pregnancy
+
+JA61.1	Genital varices in pregnancy
+
+JA61.2	Superficial thrombophlebitis in pregnancy
+Inclusions:	Thrombophlebitis of legs in pregnancy
+
+JA61.3	Deep phlebothrombosis in pregnancy
+
+JA61.4	Haemorrhoids in pregnancy
+A condition affecting females during pregnancy, caused by an increase in intra-abdominal pressure and hormonal changes during pregnancy. This condition is characterised by enlarged and varicosed haemorrhoidal veins in the anus and lower rectum. This condition may also present with itching, burning, painful swellings at the anus, dyschezia or rectal bleeding with bowel movements. Confirmation is by digital or visual examination with an anoscope, proctoscope, or sigmoidoscope of the anal canal and rectum to determine the presence of haemorrhoids.
+
+JA61.5	Cerebral venous thrombosis in pregnancy
+Inclusions:	Cerebrovenous sinus thrombosis in pregnancy
+
+JA61.Y	Other specified venous complications in pregnancy
+
+JA61.Z	Venous complications in pregnancy, unspecified
+
+  JA62  	Infections of genitourinary tract in pregnancy
+
+JA62.0	Infections of kidney in pregnancy
+Kidney infections occurring during pregnancy
+
+JA62.1	Infections of bladder in pregnancy
+Bladder infections occurring during pregnancy
+
+JA62.2	Infections of urethra in pregnancy
+Urethra infections occurring during pregnancy
+
+JA62.3	Infections of other parts of urinary tract in pregnancy
+Infections of urinary tract other than kidney, bladder and urethra occurring during pregnancy
+
+JA62.4	Infections of the genital tract in pregnancy
+
+JA62.Y	Infections of genitourinary tract in pregnancy, other specified site
+
+JA62.Z	Infection of genitourinary tract in pregnancy, site unspecified
+
+  JA63  	Diabetes mellitus in pregnancy
+A condition caused by dysfunctional maternal insulin receptors. This condition is characterised by glucose intolerance with onset or first recognition during pregnancy, with at least one of the following criteria met: fasting plasma glucose greater than or equal to 7.0 millimoles per litre (126 mg/ dL); 2-hour plasma glucose greater than or equal to 11.1 millimoles per litre (200 mg/dL) following a 75 gram oral glucose load; random plasma glucose greater than or equal to 11.1 millimoles per litre (200 mg/ dL). Confirmation is by an oral glucose tolerance test.
+
+JA63.0	Pre-existing type 1 diabetes mellitus in pregnancy
+
+JA63.1	Pre-existing type 2 diabetes mellitus in pregnancy
+
+JA63.2	Diabetes mellitus arising in pregnancy
+Diabetes mellitus arising or diagnosed in pregnancy (per WHO criteria or other national criteria)-Gestational diabetes. Gestational diabetes mellitus is defined as any degree of glucose intolerance with onset or first recognition during pregnancy. The definition applies regardless of whether insulin or only diet modification is used for treatment or whether the condition persists after pregnancy.
+
+JA63.Y	Other specified diabetes mellitus in pregnancy
+
+JA63.Z	Diabetes mellitus in pregnancy, unspecified
+
+  JA64  	Malnutrition in pregnancy
+A condition caused by ingestion of a diet in which the nutrients are lacking or are in excess.
+
+  JA65  	Maternal care for other conditions predominantly related to pregnancy
+Any reason for encounter to assess (or care for) a mother for other conditions predominantly related to pregnancy.
+
+JA65.0	Liver disorders in pregnancy, childbirth or the puerperium
+Any disorder affecting females, characterised by pathological changes to the liver that occur during pregnancy, childbirth, and the puerperium.
+Exclusions:	Hepatorenal syndrome following labour or delivery (JB44.4)
+Viral hepatitis (BlockL1‑1E5)
+Coded Elsewhere:	HELLP syndrome (JA24.2)
+
+JA65.1	Pregnancy dermatoses
+A group of skin disorders which are specific to pregnancy.
+Coded Elsewhere:	Generalised pustular psoriasis of pregnancy (EA90.40)
+
+JA65.10	Gestational pemphigoid
+Gestational pemphigoid (pemphigoid gestationis) is an autoimmune skin disease characterised by pruritic plaques and blister formation on the skin in association with pregnancy or the trophoblastic tumours, hydatiform mole and choriocarcinoma. The exact causes of the disease are unknown but the disease is mediated by auto-antibodies to the hemidesmosome component BP180/BPAg2/collagen XVII. The maternal antibodies may cause short lived disease in the neonate, neonatal pemphigoid gestationis. 
+This disease is not an infection with herpes virus despite its old name, herpes gestationis.
+Exclusions:	impetigo herpetiformis (EA90.40)
+
+JA65.11	Pruritus of pregnancy
+Pruritus in pregnancy can usually be attributed to a specific cause such as cholestasis, a pregnancy-specific dermatosis such as pruritic urticarial papules and plaques of pregnancy, or to exacerbation of a preexisting inflammatory dermatosis such as atopic eczema. Not uncommonly, however, a specific cause cannot be identified.
+Coded Elsewhere:	Intrahepatic cholestasis of pregnancy (JA65.0)
+
+JA65.12	Polymorphic eruption of pregnancy
+Polymorphic eruption of pregnancy is a dermatosis which occurs almost exclusively in primigravidae or women with multiple pregnancy. It is associated with above average weight gain in pregnancy and it is thought that distension of abdominal skin is important in the pathogenesis: the precise mechanism is not understood. The eruption characteristically first appears in the third trimester of pregnancy as intensely itchy erythematous urticarial papules and plaques in and around the abdominal striae distensae. In some women it may then become more generalised. Onset is sometimes delayed until the immediate postpartum period. It does not usually recur in subsequent pregnancies.
+
+JA65.1Y	Other specified pregnancy dermatoses
+
+JA65.2	Excessive weight gain in pregnancy
+Any reason for encounter to assess (or care for) a mother for excessive weight gain during pregnancy.
+Exclusions:	Gestational oedema without hypertension (JA22.1)
+
+JA65.3	Low weight gain in pregnancy
+Any reason for encounter to assess (or care for) a mother for low weight gain during pregnancy.
+
+JA65.4	Pregnancy care of habitual aborter
+Any reason for encounter to assess (or care for) a mother who has a history of habitual aborting.
+Exclusions:	habitual aborter with current abortion (BlockL1‑JA0)
+habitual aborter without current pregnancy (GA33)
+
+JA65.5	Retained intrauterine contraceptive device in pregnancy
+Any reason for encounter to assess (or care for) a mother with a retained intrauterine contraceptive device during pregnancy.
+Exclusions:	Retained intrauterine device without injury or harm in non-pregnant uterus (QA21.60)
+
+JA65.6	Maternal hypotension syndrome
+Any reason for encounter to assess a mother for low blood pressure during pregnancy.
+Inclusions:	Supine hypotensive syndrome
+
+JA65.7	Subluxation of symphysis pubis in pregnancy, childbirth or the puerperium
+Any reason for encounter to assess (or care for) a mother for subluxation of pubis symphysis during pregnancy.
+Exclusions:	traumatic separation of symphysis (pubis) during childbirth (JB0A.7)
+
+JA65.Y	Maternal care for other specified conditions predominantly related to pregnancy
+
+JA65.Z	Maternal care for unspecified conditions predominantly related to pregnancy
+
+  JA66  	Clinical findings on antenatal screening of mother
+Any sign characterised by an abnormality detected during an antenatal screening of the mother.
+Exclusions:	Maternal care related to the fetus, amniotic cavity or possible delivery problems (BlockL1‑JA8)
+
+JA66.0	Abnormal haematological finding on antenatal screening of mother
+A sign characterised by an abnormality detected by haematology during an antenatal screening of the mother.
+
+JA66.1	Abnormal biochemical finding on antenatal screening of mother
+A sign characterised by an abnormality detected by biochemistry during an antenatal screening of the mother.
+
+JA66.2	Abnormal cytological finding on antenatal screening of mother
+A sign characterised by an abnormality detected by cytology during an antenatal screening of the mother.
+
+JA66.3	Abnormal ultrasonic finding on antenatal screening of mother
+A sign characterised by an abnormality detected by ultrasound during an antenatal screening of the mother.
+
+JA66.4	Abnormal radiological finding on antenatal screening of mother
+A sign characterised by an abnormality detected by radiology during an antenatal screening of the mother.
+
+JA66.5	Abnormal chromosomal or genetic finding on antenatal screening of mother
+A sign characterised by a chromosomal or genetic abnormality detected during an antenatal screening of the mother.
+
+JA66.Y	Other specified clinical findings on antenatal screening of mother
+
+JA66.Z	Clinical findings on antenatal screening of mother, unspecified
+
+  JA67  	Complications of anaesthesia during pregnancy
+Exclusions:	Complications of anaesthesia during the puerperium (JB43)
+Complications of anaesthesia during labour or delivery (JB0C)
+complications of anaesthesia during: abortion or ectopic or molar pregnancy (BlockL1‑JA0)
+
+JA67.0	Pulmonary complications of anaesthesia during pregnancy
+
+JA67.1	Cardiac complications of anaesthesia during pregnancy
+
+JA67.2	Central nervous system complications of anaesthesia during pregnancy
+
+JA67.3	Toxic reaction to local anaesthesia during pregnancy
+A condition affecting females during pregnancy, caused by the properties or the concentration of the anaesthetic agent, or patient factors. This condition is characterised by a local or systemic toxic reaction leading to malfunctioning or failure of the neurovascular, central nervous, respiratory or cardiovascular systems with onset between 30 seconds and 60 minutes after administration of an anaesthetic.
+
+JA67.4	Spinal or epidural anaesthesia-induced headache during pregnancy
+A condition affecting females during pregnancy, caused by the administration of spinal and epidural anaesthesia. This condition is characterised by cephalgia during pregnancy.
+
+JA67.5	Failed or difficult intubation during pregnancy
+A condition affecting females during pregnancy, caused by physiological, pathophysiological, or psychological factors that aggravate the tissues necessary to secure the tube. This condition is characterised by a difficulty or inability to insert a tube into an external or internal orifice of the body during pregnancy.
+
+JA67.6	Awareness under general anaesthesia during pregnancy
+
+JA67.Y	Other specified complications of anaesthesia during pregnancy
+
+JA67.Z	Complications of anaesthesia during pregnancy, unspecified
+
+  JA6Z  	Maternal disorders predominantly related to pregnancy, unspecified
+
+Maternal care related to the fetus, amniotic cavity or possible delivery problems (BlockL1‑JA8)
+A group of conditions characterised by the provision of health interventions to the mother due to conditions associated with the fetus, the amniotic cavity, or to issues associated with labour and delivery.
+  JA80  	Maternal care related to multiple gestation
+Exclusions:	Maternal care related to complications specific to multiple gestation (JA81)
+
+JA80.0	Twin pregnancy
+
+JA80.1	Triplet pregnancy
+
+JA80.2	Quadruplet pregnancy
+
+JA80.Y	Maternal care related to other specified multiple gestation
+
+JA80.Z	Maternal care related to unspecified multiple gestation
+
+  JA81  	Maternal care related to complications specific to multiple gestation
+Exclusions:	Delayed delivery of successive neonates (JB03.2)
+conjoined twins causing disproportion (JA83)
+Obstructed labour due to malposition or malpresentation of fetus (JB04)
+Maternal care for multiple gestation with malpresentation of one fetus or more (JA82.5)
+Obstructed labour due to maternal pelvic abnormality (JB05)
+Obstructed labour due to other causes (JB06)
+
+JA81.0	Papyraceous fetus
+Inclusions:	Fetus compressus
+
+JA81.1	Continuing pregnancy after abortion of one fetus or more
+
+JA81.2	Continuing pregnancy after intrauterine death of one fetus or more
+
+JA81.3	Loss of pregnancy after abortion or intrauterine death of one fetus or more
+
+JA81.Y	Other specified maternal care related to complications specific to multiple gestation
+
+JA81.Z	Maternal care related to complications specific to multiple gestation, unspecified
+
+  JA82  	Maternal care for known or suspected malpresentation of fetus
+Care provided for the pregnant female for incorrect position or orientation of the fetus at near term or during labour, determined by its relation to the spine of the mother and the birth canal.
+Exclusions:	Obstructed labour due to malposition or malpresentation of fetus (JB04)
+
+JA82.0	Maternal care for unstable lie
+
+JA82.1	Maternal care for breech presentation
+
+JA82.2	Maternal care for transverse or oblique lie
+
+JA82.3	Maternal care for face, brow or chin presentation
+
+JA82.4	Maternal care for high head at term
+Inclusions:	Failure of head to enter pelvic brim
+
+JA82.5	Maternal care for multiple gestation with malpresentation of one fetus or more
+
+JA82.6	Maternal care for compound presentation
+
+JA82.Y	Maternal care for known or suspected other specified malpresentation of fetus
+
+JA82.Z	Maternal care for known or suspected malpresentation of fetus, unspecified
+
+  JA83  	Maternal care for known or suspected disproportion
+A condition characterised by the provision of health interventions to the mother due to the situation in which a the head or body of the fetus is too large to fit through the pelvis of the mother.
+Exclusions:	Obstructed labour due to maternal pelvic abnormality (JB05)
+Obstructed labour due to other causes (JB06)
+
+JA83.0	Maternal care for disproportion due to deformity of maternal pelvic bones
+
+JA83.1	Maternal care for disproportion due to generally contracted pelvis
+
+JA83.2	Maternal care for disproportion due to inlet contraction of pelvis
+
+JA83.3	Maternal care for disproportion due to outlet contraction of pelvis
+
+JA83.4	Maternal care for disproportion of mixed maternal and fetal origin
+
+JA83.5	Maternal care for disproportion due to unusually large fetus
+
+JA83.6	Maternal care for disproportion due to hydrocephalic fetus
+
+JA83.Y	Maternal care for known or suspected other specified disproportion
+
+JA83.Z	Maternal care for known or suspected disproportion, unspecified
+
+  JA84  	Maternal care for known or suspected abnormality of pelvic organs
+A condition characterised by the provision of health interventions to the mother due to some abnormality that is either suspected or known to be present in of one or more of her pelvic organs.
+Exclusions:	Obstructed labour due to maternal pelvic abnormality (JB05)
+
+JA84.0	Maternal care for congenital malformation of uterus
+Care provided for the pregnant female necessary due to malformation of the pregnant female's uterus present at or before the time of birth.
+
+JA84.1	Maternal care for tumour of corpus uteri
+Care provided for the pregnant female necessary due to the presence of a uterine tumour at the time of pregnancy.
+Exclusions:	maternal care for tumour of cervix (JA84)
+
+JA84.2	Maternal care due to uterine scar from previous surgery
+Inclusions:	Maternal care for scar from prior uterine surgery
+Exclusions:	Vaginal delivery following previous caesarean section (JB0D.6)
+
+JA84.3	Maternal care for cervical incompetence
+
+JA84.4	Maternal care for abnormality of vagina
+Care provided for the pregnant female necessary due to some abnormality of the vagina.
+Exclusions:	maternal care for vaginal varices in pregnancy (JA61.1)
+
+JA84.5	Maternal care for abnormality of vulva or perineum
+Exclusions:	maternal care for perineal and vulval varices in pregnancy (JA61.1)
+
+JA84.Y	Maternal care for known or suspected other specified abnormality of pelvic organs
+
+JA84.Z	Maternal care for known or suspected abnormality of pelvic organs, unspecified
+
+  JA85  	Maternal care for known or suspected fetal abnormality or damage
+A condition characterised by the provision of health interventions to the mother due to some abnormality or damage that is either suspected or known to be present in the fetus.
+Exclusions:	Maternal care for known or suspected disproportion (JA83)
+
+JA85.0	Maternal care for known or suspected central nervous system malformation in fetus
+Exclusions:	Maternal care for known or suspected chromosomal abnormality in fetus (JA85.1)
+
+JA85.1	Maternal care for known or suspected chromosomal abnormality in fetus
+
+JA85.2	Maternal care for known or suspected hereditary disease in fetus
+Exclusions:	Maternal care for known or suspected chromosomal abnormality in fetus (JA85.1)
+
+JA85.3	Maternal care for known or suspected damage to fetus from viral disease in mother
+
+JA85.Y	Maternal care for known or suspected other specified fetal abnormality or damage
+
+JA85.Z	Maternal care for known or suspected fetal abnormality or damage, unspecified
+
+  JA86  	Maternal care for other known or suspected fetal problems
+A condition characterised by the provision of health interventions to the mother due to any other issue that is either suspected or known to be present in the fetus.
+Exclusions:	Labour or delivery complicated by fetal distress (JB07)
+Placental transfusion syndromes (JA8A.0)
+
+JA86.0	Maternal care for red cell antibodies
+Maternal care for rhesus or other isoimmunization
+
+JA86.1	Maternal care for hydrops fetalis
+
+JA86.2	Maternal care for signs of fetal hypoxia
+
+JA86.3	Maternal care for intrauterine death
+Exclusions:	Missed abortion (JA03)
+
+JA86.4	Maternal care for fetal growth restriction
+
+JA86.5	Maternal care for suspected macrosomia
+Inclusions:	Maternal care for known or suspected large-for-dates
+
+JA86.6	Maternal care for viable fetus in abdominal pregnancy
+
+JA86.Y	Maternal care for other specified fetal problems
+
+JA86.Z	Maternal care for other known or suspected fetal problems, unspecified
+
+  JA87  	Maternal care related to polyhydramnios
+Excessive amniotic fluid normally diagnosed on ultrasound either subjectively using either single deepest vertical pocket of greater or equal to 8cm and /or amniotic fluid index greater or equal to 24cm
+Inclusions:	Hydramnios
+
+  JA88  	Maternal care related to certain specified disorders of amniotic fluid or membranes
+Exclusions:	Maternal care related to premature rupture of membranes (JA89)
+
+JA88.0	Oligohydramnios
+
+JA88.1	Infection of amniotic sac or membranes
+
+JA88.Y	Other specified disorders of amniotic fluid and membranes
+
+JA88.Z	Disorders of amniotic fluid and membranes, unspecified
+
+  JA89  	Maternal care related to premature rupture of membranes
+Spontaneous rupture of fetal membranes before the onset of labour.
+
+JA89.0	Premature rupture of membranes, onset of labour within 24 hours
+
+JA89.1	Premature rupture of membranes, onset of labour after 24 hours
+Exclusions:	Premature rupture of membranes, labour delayed by therapy (JA89.2)
+
+JA89.2	Premature rupture of membranes, labour delayed by therapy
+
+JA89.3	Preterm premature rupture of membranes
+
+JA89.Y	Other specified maternal care related to premature rupture of membranes
+
+JA89.Z	Maternal care related to premature rupture of membranes, unspecified
+
+  JA8A  	Maternal care related to placental disorders
+Exclusions:	Maternal care related to premature separation of placenta (JA8C)
+Maternal care related to placenta praevia or low lying placenta (JA8B)
+maternal care for poor fetal growth due to placental insufficiency (JA86.4)
+
+JA8A.0	Placental transfusion syndromes
+
+JA8A.1	Malformation of placenta
+
+JA8A.2	Morbidly adherent placenta
+
+JA8A.Y	Other specified maternal care related to placental disorders
+
+JA8A.Z	Maternal care related to placental disorders, unspecified
+
+  JA8B  	Maternal care related to placenta praevia or low lying placenta
+A placenta that is implanted over or very near the internal cervical os--total, partial, marginal, low-lying placenta
+
+JA8B.0	Placenta praevia specified as without haemorrhage
+Inclusions:	Low implantation of placenta specified as without haemorrhage
+
+JA8B.1	Placenta praevia with haemorrhage
+Exclusions:	labour and delivery complicated by haemorrhage from vasa praevia (JB08.3)
+
+JA8B.Z	Maternal care related to placenta praevia or low lying placenta, unspecified
+
+  JA8C  	Maternal care related to premature separation of placenta
+
+JA8C.0	Premature separation of placenta with coagulation defect
+
+JA8C.Y	Other specified maternal care related to premature separation of placenta
+
+JA8C.Z	Maternal care related to premature separation of placenta, unspecified
+
+  JA8D  	Maternal care related to false labour
+Contractions suggestive of labour but which do not lead to cervical dilatation.
+
+JA8D.0	False labour before 37 completed weeks of gestation
+
+JA8D.1	False labour at or after 37 completed weeks of gestation
+
+JA8D.Z	Maternal care related to false labour, unspecified
+
+  JA8E  	Maternal care related to prolonged pregnancy
+Pregnancy that has exceeded a duration of 42 weeks from the last menstrual period.
+Inclusions:	Post-term
+
+  JA8Y  	Maternal care related to other specified fetus, amniotic cavity or possible delivery problems
+
+  JA8Z  	Maternal care related to unspecified fetus, amniotic cavity or possible delivery problems
+
+Complications of labour or delivery (BlockL1‑JB0)
+Any complication characterised by the adverse evolution of a condition that arises during any one of the three stages of labour and delivery.
+  JB00  	Preterm labour or delivery
+A condition characterised by the onset of labour and delivery before 37 completed weeks.
+Assign an additional extension code, if desired, for Duration of pregnancy.
+
+JB00.0	Preterm labour without delivery
+A condition characterised by the onset of labour before 37 completed weeks, without delivery.
+
+JB00.1	Preterm spontaneous labour with preterm delivery
+A condition characterised by the spontaneous onset of labour and delivery before 37 completed weeks.
+
+JB00.2	Preterm labour with term delivery
+A condition characterised by the spontaneous onset of labour before 37 completed weeks followed by a delivery after 39 weeks.
+
+JB00.3	Preterm delivery following iatrogenic induction of labour or caesarean section
+
+JB00.Y	Other specified preterm labour or delivery
+
+JB00.Z	Preterm labour or delivery, unspecified
+
+  JB01  	Failed induction of labour
+A condition characterised by a failed attempt to stimulate contractions before the spontaneous onset of labour. This condition may occur with or without ruptured membranes.
+
+JB01.0	Failed medical induction of labour
+A condition characterised by a failed attempt to stimulate contractions pharmacologically before the spontaneous onset of labour. This condition may occur with or without ruptured membranes.
+
+JB01.1	Failed instrumental induction of labour
+A condition characterised by a failed attempt to instrumentally stimulate contractions before the spontaneous onset of labour. This condition may occur with or without ruptured membranes.
+
+JB01.Z	Failed induction of labour, unspecified
+
+  JB02  	Abnormalities of forces of labour
+Any condition affecting pregnant females, characterised by an anomaly or dysfunction to the tissues or processes associated with the natural progression of labour. These conditions may lead to further complications during labour and childbirth.
+
+JB02.0	Primary uterine inertia
+A condition affecting pregnant females characterised by insufficiently strong or inappropriately coordinated rhythmic activity of the myometrium during labour to efface and dilate the cervix.
+Inclusions:	Primary hypotonic uterine dysfunction
+Uterine inertia during latent phase of labour
+Primary inadequate contractions
+
+JB02.1	Secondary uterine inertia
+A condition affecting pregnant females that is idiopathic. This condition is characterised by vigorous contractions that decrease in vigour due to exhaustion or dehydration of the individual. This condition leads to lack of labour progress.
+Inclusions:	Secondary hypotonic uterine dysfunction
+Arrested active phase of labour
+
+JB02.2	Other uterine inertia
+A condition affecting pregnant females that is idiopathic. This condition is characterised by the absence of effective uterine contractions during labour and abnormal relaxation of the uterus during labour. This condition leads to lack of labour progress or uterine haemorrhage.
+Inclusions:	Atony of uterus, during labour
+Exclusions:	atony of uterus, postpartum (JA43.1)
+
+JB02.3	Precipitate labour
+A condition affecting pregnant females that is idiopathic. This condition is characterised by rapid labour and the lack of time for standard obstetric preparations or procedures leading to the delivery of the newborn. This condition leads to vaginal bleeding, frequent strong contractions, feelings of defecation, crowning of the fetus head at the vaginal introitus, or bulging of the amniotic sac.
+
+JB02.4	Hypertonic, incoordinate, or prolonged uterine contractions
+A condition affecting pregnant females that is idiopathic. This condition is characterised by uterine dysfunction leading to hypertonic, uncoordinated, and prolonged rhythmic activity of the myometrium during labour.
+Exclusions:	dystocia (fetal)(maternal) NOS (JB06)
+
+JB02.Y	Other specified abnormalities of forces of labour
+
+JB02.Z	Abnormalities of forces of labour, unspecified
+
+  JB03  	Long labour
+Any condition characterised by a longer than average parturition between the initiation of regular, rhythmic, and painful contractions and cervical dilation, to the delivery of the placenta.
+
+JB03.0	Prolonged first stage of labour
+The first stage of labour where cervical dilatation progresses less than 1 centimetre per hour for a minimum of 4 hours. Protracted descent is less than 1 centimetre per hour for nulliparas and less than 2 centimetre per hour for multiparas.
+
+JB03.1	Prolonged second stage of labour
+The fetus has not been delivered after the cervix has become fully dilated within 2 hours for a primipara, or 1 hour for a multipara. Presence of regional anaesthesia will add 1 hour.
+
+JB03.2	Delayed delivery of successive neonates
+A condition affecting pregnant females, characterised by the delayed spontaneous or caesarean section delivery of the successive neonates in a multiple delivery.
+
+JB03.Z	Long labour, unspecified
+
+  JB04  	Obstructed labour due to malposition or malpresentation of fetus
+A condition affecting pregnant females, caused by the abnormal position of fetal head or the abnormal presentation of the fetus away from the fetal head in vertex.
+
+JB04.0	Obstructed labour due to incomplete rotation of fetal head
+
+JB04.1	Obstructed labour due to breech presentation
+
+JB04.2	Obstructed labour due to face presentation
+
+JB04.3	Obstructed labour due to brow presentation
+
+JB04.4	Obstructed labour due to shoulder presentation
+Inclusions:	Prolapsed arm
+Exclusions:	Obstructed labour due to shoulder dystocia (JB06.0)
+impacted shoulders (JB06.0)
+
+JB04.5	Obstructed labour due to compound presentation
+
+JB04.Y	Obstructed labour due to other malposition and malpresentation of fetus
+
+JB04.Z	Obstructed labour due to malposition or malpresentation of fetus, unspecified
+
+  JB05  	Obstructed labour due to maternal pelvic abnormality
+Obstructed labour means that, in spite of strong contractions of the uterus, the fetus cannot descend through the pelvis because there is an insurmountable barrier preventing its descent. Obstruction usually occurs at the pelvic brim, but occasionally it may occur in the cavity or at the outlet of the pelvis. Complications resulting from obstructed labour can be avoided if a woman in obstructed labour is identified early and appropriate action is taken.
+
+JB05.0	Obstructed labour due to deformed pelvis
+
+JB05.1	Obstructed labour due to generally contracted pelvis
+
+JB05.2	Obstructed labour due to pelvic inlet contraction
+
+JB05.3	Obstructed labour due to pelvic outlet or mid-cavity contraction
+
+JB05.4	Obstructed labour due to foetopelvic disproportion, unspecified
+Exclusions:	dystocia due to abnormality of fetus (JB06)
+
+JB05.5	Obstructed labour due to abnormality of maternal pelvic organs
+Inclusions:	Obstructed labour due to maternal care for known or suspected abnormality of pelvic organs
+
+JB05.Y	Obstructed labour due to other maternal pelvic abnormalities
+
+JB05.Z	Obstructed labour due to maternal pelvic abnormality, unspecified
+
+  JB06  	Obstructed labour due to other causes
+Any other condition characterised by the inability of the presenting part of the fetus to progress into the birth canal for any reason.
+
+JB06.0	Obstructed labour due to shoulder dystocia
+Inclusions:	Impacted shoulders
+
+JB06.1	Obstructed labour due to locked twins
+
+JB06.2	Obstructed labour due to unusually large fetus
+
+JB06.3	Obstructed labour due to other abnormalities of fetus
+
+JB06.Y	Obstructed labour due to other specified causes
+
+JB06.Z	Obstructed labour due to unspecified causes
+
+  JB07  	Labour or delivery complicated by fetal distress
+
+JB07.0	Labour or delivery complicated by fetal heart rate anomaly
+A condition characterised by an abnormal fetal heart rate. This condition leads to further difficulties and complications during labour and delivery. Confirmation is by Doppler ultrasound.
+Exclusions:	Labour or delivery complicated by fetal heart rate anomaly with meconium in amniotic fluid (JB07)
+
+JB07.1	Labour or delivery complicated by meconium in amniotic fluid
+A condition characterised by complications during labour and delivery that is caused by meconium in amniotic fluid.
+Exclusions:	Labour or delivery complicated by fetal heart rate anomaly with meconium in amniotic fluid (JB07)
+
+JB07.2	Labour or delivery complicated by biochemical evidence of fetal stress
+A condition characterised by complications during labour and delivery that is caused by biochemical evidence of fetal distress. Confirmation is by a fetal blood sample from a scalp prick through the open cervix during labour.
+
+JB07.Y	Other specified labour or delivery complicated by fetal distress
+
+JB07.Z	Labour or delivery complicated by fetal distress, unspecified
+
+  JB08  	Labour or delivery complicated by umbilical cord complications
+
+JB08.0	Labour or delivery complicated by prolapse of cord
+A condition characterised by complications during labour and delivery that is caused by umbilical cord prolapse.
+
+JB08.1	Labour or delivery complicated by cord around neck, with compression
+A condition characterised by complications during labour and delivery that is caused by wrapping of the umbilical cord around the neck of the fetus, with compression.
+
+JB08.2	Labour or delivery complicated by short cord
+A condition characterised by complications during labour and delivery that is caused by a short umbilical cord.
+
+JB08.3	Labour or delivery complicated by vasa praevia
+A condition characterised by complications during labour and delivery that is caused when the umbilical vessels traverse the membranes of the internal cervical os.
+Inclusions:	Haemorrhage from vasa praevia
+
+JB08.4	Labour or delivery complicated by vascular lesion of cord
+A condition characterised by complications during labour and delivery that is caused by vascular lesion of the umbilical cord.
+
+JB08.5	Labour or delivery complicated by other cord entanglement, with compression
+
+JB08.Y	Labour and delivery complicated by other specified umbilical cord complications
+
+JB08.Z	Labour or delivery complicated by umbilical cord complications, unspecified
+
+  JB09  	Perineal laceration during delivery
+An injury characterised by a laceration to the maternal perineum during delivery.
+Inclusions:	episiotomy extended by laceration
+
+JB09.0	First degree perineal laceration during delivery
+Perineal lacerations involving the fourchette, perineal skin, and vaginal mucous membrane but not the underlying fascia and muscle.
+
+JB09.1	Second degree perineal laceration during delivery
+Perineal lacerations involve, in addition, the fascia and muscles of the perineal body but not the anal sphincter.
+Exclusions:	that involving anal sphincter (JB09.2)
+
+JB09.2	Third degree perineal laceration during delivery
+Perineal lacerations extending farther to involve the anal sphincter.
+Exclusions:	that involving anal or rectal mucosa (JB09.3)
+
+JB09.3	Fourth degree perineal laceration during delivery
+Perineal lacerations extending through the rectum's mucosa to expose its lumen.
+
+JB09.Z	Perineal laceration during delivery, unspecified
+
+  JB0A  	Certain specified obstetric trauma
+Any injury characterised by maternal trauma. These injuries are caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery.
+Coded Elsewhere:	Vesicovaginal fistula (GC04.10)
+Urethrovaginal fistula (GC04.14)
+Combined urethrovesicovaginal fistula (GC04.15)
+Vesicouterine fistula with severe scar or extensive tissue loss (GC04.17)
+Other combined urinary fistula with severe scar or extensive tissue loss (GC04.18)
+Rectovaginal fistula (GC04.16)
+Combined urinary and rectal fistula including cloaca with severe scar or extensive tissue loss (GC04.19)
+Vaginal stenosis or gynatresia related to obstetric fistula (GC04.1A)
+Obstetric Fistula (GC04.1Y)
+
+JB0A.0	Rupture of uterus before onset of labour
+An injury characterised by rupture of the myometrial wall of the uterus before the onset of labour. This injury is caused by pregnancy. This injury presents with abdominal pain, haemorrhage, or hypovolemic shock in the mother, or late decelerations, reduced variability, tachycardia, or bradycardia in the fetus.
+
+JB0A.1	Rupture of uterus during labour
+An injury characterised by rupture of the myometrial wall of the uterus during labour. This injury is caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery. This injury presents with abdominal pain, haemorrhage, or hypovolemic shock in the mother, or late decelerations, reduced variability, tachycardia, or bradycardia in the fetus.
+Inclusions:	Rupture of uterus not stated as occurring before onset of labour
+
+JB0A.2	Postpartum inversion of uterus
+An injury characterised by uterine inversion and prolapse through the dilated cervix that occurs after the delivery of a neonate. This condition is caused by or subsequent to labour and delivery, commonly as a result of excessive fundal pressure or cord traction. This condition presents with postpartum haemorrhage.
+
+JB0A.3	Obstetric laceration of cervix
+An injury characterised by a laceration to the cervix. This injury is caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery.
+
+JB0A.4	Obstetric high vaginal laceration
+An injury characterised by a laceration in the upper third area of the vagina. This injury is caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery.
+Inclusions:	Laceration of vaginal wall without mention of perineal laceration
+high vaginal obstetrical instrument injury
+
+JB0A.5	Obstetric uterine laceration or tear
+
+JB0A.6	Other obstetric injury to pelvic organs
+Any injury characterised by damage to the maternal pelvic organs. These injuries are caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery.
+
+JB0A.7	Obstetric damage to pelvic joints or ligaments
+An injury characterised by damage to the pelvic joints and ligaments. This injury is caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery.
+
+JB0A.8	Obstetric haematoma of pelvis
+An injury characterised by a collection of extravasated blood trapped in the pelvic tissues. This injury is caused by or subsequent to the process of (or any intervention related to) pregnancy, or labour and delivery. This condition may also present with bruising or blood clots in the pelvic area.
+
+JB0A.Y	Other specified obstetric trauma
+
+JB0A.Z	Obstetric trauma, unspecified
+
+  JB0B  	Retained placenta or membranes, without haemorrhage
+A condition characterised by a placenta or membranes that have not been expelled from the uterus during the third stage of labour and up to 30 minutes following delivery, and without haemorrhage. This condition is caused by uterine atony, a trapped placenta, or a placenta accreta. This condition may lead to primary postpartum haemorrhage or infection.
+
+JB0B.0	Retained placenta without haemorrhage
+A condition characterised by a placenta that has not been expelled from the uterus during the third stage of labour and up to 30 minutes following delivery, and without haemorrhage. This condition is caused by uterine atony, a trapped placenta, or a placenta accreta. This condition may lead to primary postpartum haemorrhage or infection.
+Coding Note:	Code aslo the causing condition
+
+JB0B.1	Retained portions of placenta or membranes, without haemorrhage
+A condition characterised by portions of a placenta and membranes that have not been expelled from the uterus during the third stage of labour and up to 30 minutes following delivery, and without haemorrhage. This condition is caused by uterine atony, a trapped placenta, or a placenta accreta. This condition may lead to primary postpartum haemorrhage or infection.
+Coding Note:	Code aslo the causing condition
+
+  JB0C  	Complications of anaesthesia during labour or delivery
+Any complication caused by or subsequent to any anaesthetic intervention used during labour and delivery.
+Inclusions:	maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during labour and delivery
+Exclusions:	Complications of anaesthesia during pregnancy (JA67)
+Complications of anaesthesia during the puerperium (JB43)
+
+JB0C.0	Aspiration pneumonitis due to anaesthesia during labour or delivery
+Massive gastric inhalation causing pulmonary insufficiency from aspiration pneumonitis due to anaesthesia during labour and delivery
+Inclusions:	Mendelson syndrome due to anaesthesia during labour and delivery
+
+JB0C.1	Other pulmonary complications of anaesthesia during labour or delivery
+
+JB0C.2	Cardiac complications of anaesthesia during labour or delivery
+
+JB0C.3	Central nervous system complications of anaesthesia during labour or delivery
+
+JB0C.4	Toxic reaction to local anaesthesia during labour or delivery
+
+JB0C.5	Spinal or epidural anaesthesia-induced headache during labour or delivery
+
+JB0C.6	Other complications of spinal or epidural anaesthesia during labour or delivery
+
+JB0C.7	Failed or difficult intubation during labour or delivery
+
+JB0C.8	Awareness under general anaesthesia during labour or delivery
+
+JB0C.Y	Other specified complications of anaesthesia during labour or delivery
+
+JB0C.Z	Complications of anaesthesia during labour or delivery, unspecified
+
+  JB0D  	Certain specified complications of labour or delivery, not elsewhere classified
+Exclusions:	Infections in the puerperium (JB40)
+Puerperal sepsis (JB40.0)
+
+JB0D.0	Maternal distress during labour or delivery
+A condition characterised by maternal anxiety, depression, or stress during labour and delivery.
+
+JB0D.1	Shock during or following labour or delivery
+A syndrome characterised by systemic cellular hypoxia and organ dysfunction as a result of hypoperfusion following labour and delivery. This syndrome is caused by haemorrhage, vomiting, diarrhoea, inadequate fluid intake, or a systemic inflammatory response to bacteria, endotoxins, or exotoxins.
+Inclusions:	Obstetric shock
+
+JB0D.2	Pyrexia during labour, not elsewhere classified
+A complication characterised by maternal fever during labour, and not elsewhere classified.
+
+JB0D.3	Other complications of obstetric surgery or procedures
+Any complication caused by or subsequent to obstetric surgery and procedures, and not elsewhere classified.
+Exclusions:	Infection of obstetric surgical wound (JB40.1)
+Haematoma of obstetric wound (JB44.2)
+Complications of anaesthesia during labour or delivery (JB0C)
+Disruption of perineal obstetric wound (JB44.1)
+
+JB0D.4	Delayed delivery after artificial rupture of membranes
+A complication characterised by a delayed neonatal delivery after the artificial rupture of the membranes.
+
+JB0D.5	Delayed delivery after spontaneous or unspecified rupture of membranes
+A complication characterised by a delayed neonatal delivery after the spontaneous or unspecified rupture of the membranes.
+Exclusions:	spontaneous premature rupture of membranes (JA89)
+
+JB0D.6	Vaginal delivery following previous caesarean section
+
+JB0D.7	Failed application of vacuum extractor or forceps, unspecified
+Inclusions:	Failed application of ventouse or forceps, with subsequent delivery by forceps or caesarean section respectively
+
+JB0D.8	Failed trial of labour, unspecified
+
+JB0D.Y	Other specified complications of labour or delivery, not elsewhere classified
+
+  JB0Y  	Other specified complications of labour or delivery
+
+  JB0Z  	Complications of labour or delivery, unspecified
+
+Delivery (BlockL1‑JB2)
+Birth of one or more neonates from the uterus either spontaneously, assisted, or by caesarean section.
+Exclusions:	Disorders of newborn related to length of gestation or fetal growth (BlockL1‑KA2)
+  JB20  	Single spontaneous delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by spontaneous parturition of a neonate from the uterus.
+Inclusions:	delivery in a completely normal case
+
+JB20.0	Spontaneous vertex delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by spontaneous parturition of a neonate in vertex position from the uterus.
+
+JB20.1	Spontaneous breech delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by spontaneous parturition of a neonate in breech position from the uterus.
+
+JB20.Y	Single spontaneous delivery with other specified presentation
+
+JB20.Z	Single spontaneous delivery, unspecified
+
+  JB21  	Single delivery by forceps or vacuum extractor
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate from the uterus using forceps and vacuum extractor to assist the delivery.
+Exclusions:	Failed application of vacuum extractor or forceps, unspecified (JB0D.7)
+
+  JB22  	Single delivery by caesarean section
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a single neonate from the uterus by caesarean section.
+
+JB22.0	Delivery by elective caesarean section
+
+JB22.1	Delivery by emergency caesarean section
+
+JB22.2	Single delivery by caesarean hysterectomy
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate from the uterus by caesarean section followed by removal of the uterus.
+
+JB22.Z	Single delivery by caesarean section, unspecified
+
+  JB23  	Other assisted single delivery
+
+JB23.0	Breech extraction
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate in breech position from the uterus using breech extraction interventions or techniques to assist the delivery.
+
+JB23.1	Other assisted breech delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate in breech position from the uterus using other interventions or techniques to assist the delivery.
+
+JB23.2	Other manipulation-assisted delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate from the uterus using other manipulation-assisted interventions or techniques to assist the delivery.
+
+JB23.3	Delivery of viable fetus in abdominal pregnancy
+A condition caused by the development of a viable fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a viable neonate from the abdominal cavity, at the culmination of an abdominal pregnancy.
+
+JB23.4	Destructive operation for delivery
+A condition caused by the development of a fetus to the culmination of the pregnancy period. This condition is characterised by parturition of a neonate using destructive operation interventions or techniques to assist the delivery.
+
+JB23.Z	Other assisted single delivery, unspecified
+
+  JB24  	Multiple delivery
+A condition caused by the development of more than one fetus to the culmination of the pregnancy period. This condition is characterised by parturition of more than one neonate from the uterus either spontaneously, assisted, or by caesarean section.
+
+JB24.0	Multiple delivery, all spontaneous
+A condition caused by the development of more than one fetus to the culmination of the pregnancy period. This condition is characterised by parturition of more than one neonate spontaneously from the uterus.
+
+JB24.1	Multiple delivery, all by forceps or vacuum extractor
+A condition caused by the development of more than one fetus to the culmination of the pregnancy period. This condition is characterised by parturition of more than one neonate from the uterus using forceps and vacuum extractor.
+
+JB24.2	Multiple delivery, all by caesarean section
+A condition caused by the development of more than one fetus to the culmination of the pregnancy period. This condition is characterised by parturition of more than one neonate from the uterus by caesarean section.
+
+JB24.3	Multiple delivery by combination of methods with caesarean
+
+JB24.Y	Other specified multiple delivery
+
+JB24.Z	Multiple delivery, unspecified
+
+  JB2Z  	Delivery, unspecified
+
+Complications predominantly related to the puerperium (BlockL1‑JB4)
+A group of conditions characterised as any adverse evolution (complication) which may arise during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+Exclusions:	Obstetrical tetanus (1C14)
+Coded Elsewhere:	Postpartum symptom or complaint (MF35)
+  JB40  	Infections in the puerperium
+Exclusions:	infection during labour (JB0D)
+
+JB40.0	Puerperal sepsis
+Coding Note:	Any type of infection - bacterial, viral, fungal or protozoal, can cause sepsis and must be coded first. When the site of infection is unknown, select a code for Infection of unspecified site by organism followed by the appropriate code for sepsis.
+Exclusions:	Obstetric pyaemic or septic embolism (JB42.3)
+sepsis during labour (JB0D)
+
+JB40.1	Infection of obstetric surgical wound
+
+JB40.2	Other infection of genital tract following delivery
+
+JB40.3	Urinary tract infection following delivery
+
+JB40.4	Pyrexia of unknown origin following delivery
+Exclusions:	puerperal fever (JB40.0)
+Pyrexia during labour, not elsewhere classified (JB0D.2)
+
+JB40.Y	Other specified infections in the puerperium
+
+JB40.Z	Infections in the puerperium, unspecified
+
+  JB41  	Venous complications in the puerperium
+Exclusions:	Venous complications in pregnancy (JA61)
+Obstetric embolism (JB42)
+
+JB41.0	Superficial thrombophlebitis in the puerperium
+
+JB41.1	Deep phlebothrombosis in the puerperium
+
+JB41.2	Haemorrhoids in the puerperium
+
+JB41.3	Cerebral venous thrombosis in the puerperium
+
+JB41.Y	Other specified venous complications in the puerperium
+
+JB41.Z	Venous complications in the puerperium, unspecified
+
+  JB42  	Obstetric embolism
+A condition characterised by the lodging of a blood clot, a fat globule or a gas bubble (embolus) in the bloodstream, which can cause a blockage associated with the physiological and other changes that occur during the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+Exclusions:	Embolism following abortion, ectopic or molar pregnancy (JA05.2)
+
+JB42.0	Obstetric air embolism
+A condition characterised by the lodging of a gas bubble (air embolus) in the bloodstream, which can cause a blockage associated with the physiological and other changes that occur during the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+
+JB42.1	Amniotic fluid embolism
+Amniotic fluid embolism is a rare obstetric emergency in which it is postulated that amniotic fluid, fetal cells, hair, or other debris enter the maternal circulation, causing cardiorespiratory collapse.
+Inclusions:	Anaphylactoid syndrome of pregnancy
+
+JB42.2	Obstetric blood-clot embolism
+A condition characterised by the lodging of a blood clot (a specific type of embolus known as a thrombus) in the bloodstream, which can cause a blockage associated with the physiological and other changes that occur during the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+
+JB42.3	Obstetric pyaemic or septic embolism
+
+JB42.Y	Other specified obstetric embolism
+
+JB42.Z	Obstetric embolism, unspecified
+
+  JB43  	Complications of anaesthesia during the puerperium
+Coding Note:	Maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during the puerperium
+Exclusions:	Complications of anaesthesia during pregnancy (JA67)
+Complications of anaesthesia during labour or delivery (JB0C)
+
+JB43.0	Pulmonary complications of anaesthesia during the puerperium
+
+JB43.1	Cardiac complications of anaesthesia during the puerperium
+
+JB43.2	Central nervous system complications of anaesthesia during the puerperium
+
+JB43.3	Spinal or epidural anaesthesia-induced headache during the puerperium
+
+JB43.4	Other complications of spinal or epidural anaesthesia during the puerperium
+
+JB43.5	Failed or difficult intubation during the puerperium
+
+JB43.6	Awareness under general anaesthesia during the puerperium
+
+JB43.Y	Other specified complications of anaesthesia during the puerperium
+Coding Note:	Maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during the puerperium
+
+JB43.Z	Complications of anaesthesia during the puerperium, unspecified
+Coding Note:	Maternal complications arising from the administration of a general or local anaesthetic, analgesic or other sedation during the puerperium
+
+  JB44  	Certain specified complications of the puerperium
+A group of conditions characterised as any adverse evolution (complication) which may arise during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium) which are not classified elsewhere.
+
+JB44.0	Disruption of caesarean section wound
+
+JB44.1	Disruption of perineal obstetric wound
+Inclusions:	Secondary perineal tear
+
+JB44.2	Haematoma of obstetric wound
+
+JB44.3	Cardiomyopathy in the puerperium
+A group of diseases in which the dominant feature is the involvement of the cardiac muscle itself occurring in puerperium, the period of 6-8 weeks after giving birth. Cardiomyopathies are classified according to their predominant pathophysiological features or their etiological/pathological factors.
+
+JB44.4	Postpartum acute renal failure
+
+JB44.5	Postpartum thyroiditis
+Postpartum thyroiditis (PPT) is the occurrence, in the postpartum period, of transient hyperthyroidism and/or transient hypothyroidism, with most women returning to the euthyroid state by 1 year postpartum.
+
+JB44.6	Puerperal osteomalacia
+Coding Note:	Code aslo the causing condition
+
+JB44.Y	Other specified complications of the puerperium
+
+JB44.Z	Complications of the puerperium, unspecified
+
+  JB45  	Infections of breast associated with childbirth
+
+JB45.0	Abscess of breast associated with childbirth
+
+JB45.1	Nonpurulent mastitis associated with childbirth
+
+JB45.Y	Other specified infections of breast associated with childbirth
+
+JB45.Z	Infections of breast associated with childbirth, unspecified
+
+  JB46  	Certain specified disorders of breast or lactation associated with childbirth
+Coded Elsewhere:	Breast or lactation symptom or complaint (MF31)
+
+JB46.0	Retracted nipple associated with childbirth
+A condition characterised as the abnormal inversion of a nipple that does not return to normal position even when stimulated that has occurred in association with childbirth.
+
+JB46.1	Cracked nipple associated with childbirth
+
+JB46.2	Other or unspecified disorders of breast associated with childbirth
+
+JB46.3	Agalactia
+Inclusions:	Failure of lactation
+Primary agalactia
+
+JB46.4	Hypogalactia
+Inclusions:	Insufficient milk supply
+Delayed milk supply
+
+JB46.5	Suppressed lactation
+
+JB46.6	Galactorrhoea
+Excessive or inappropriate lactation in females or males, and not necessarily related to pregnancy. Galactorrhoea can occur either unilaterally or bilaterally, and be profuse or sparse. Its most common cause is hyperprolactinemia.
+Inclusions:	Oversupply of milk
+Exclusions:	Galactorrhoea not associated with childbirth (GB23.4)
+
+JB46.7	Other or unspecified disorders of lactation
+
+  JB4Z  	Complications predominantly related to the puerperium, unspecified
+
+Certain obstetric conditions, not elsewhere classified (BlockL1‑JB6)
+Any condition characterised by an obstetric complication, condition, disease, or death during pregnancy, labour and delivery, or the puerperium that is not elsewhere classified.
+  JB60  	Obstetric death of unspecified cause
+A condition characterised by maternal death during pregnancy or within 42 days following delivery. This death may be associated with physiological, obstetrical, or other changes or is provoked by interventions used during pregnancy, childbirth, or puerperium, but has no specified cause.
+
+  JB61  	Death from any obstetric cause occurring more than 42 days but less than one year after delivery
+A condition characterised by maternal death between 43 days and one year following delivery. This death is caused by any physiological, obstetrical, or other changes or is provoked by interventions used during pregnancy, childbirth, or puerperium.
+Coding Note:	This category is to be used to indicate death from any obstetric cause (conditions in categories JA00-JB0Z; JB40-JB4Z and JB63-JB6Z), and occurring more than 42 days but less than one year after delivery.
+
+  JB62  	Death from sequelae of obstetric causes
+A secondary condition of pregnant females, caused by and subsequent to any complications during pregnancy, childbirth, or puerperium. This condition is characterised by maternal death.
+Inclusions:	Death from any direct obstetric cause occurring one year or more after delivery
+
+JB62.0	Death from sequelae of direct obstetric cause
+Any condition directly resulting in death due to a pathological condition resulting from any adverse evolution (complication) which may arise associated with the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+
+JB62.1	Death from sequelae of indirect obstetric cause
+Any condition resulting in death via an intermediate cause due to a pathological condition resulting from any adverse evolution (complication) which may arise associated with the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the approximately six weeks after delivery during which the uterus returns to the original size (puerperium).
+
+JB62.Z	Death from sequelae of obstetric causes, unspecified
+
+  JB63  	Maternal infectious diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium
+Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium
+Exclusions:	Obstetrical tetanus (1C14)
+Laboratory evidence of human immunodeficiency virus (MA14.0)
+Asymptomatic human immunodeficiency virus infection (1C62.0)
+puerperal infection (JB40)
+Puerperal sepsis (JB40.0)
+when the reason for maternal care is that the disease is known or suspected to have affected the fetus (BlockL1‑JA8)
+
+JB63.0	Tuberculosis complicating pregnancy, childbirth or the puerperium
+
+JB63.00	Tuberculous placenta
+
+JB63.0Y	Other specified tuberculosis complicating pregnancy, childbirth or the puerperium
+
+JB63.0Z	Tuberculosis complicating pregnancy, childbirth or the puerperium, unspecified
+
+JB63.1	Syphilis complicating pregnancy, childbirth or the puerperium
+Syphilis complicating pregnancy, childbirth or the puerperium
+
+JB63.2	Gonorrhoea complicating pregnancy, childbirth or the puerperium
+
+JB63.3	Other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth or the puerperium
+
+JB63.4	Viral hepatitis complicating pregnancy, childbirth or the puerperium
+
+JB63.5	Other viral diseases complicating pregnancy, childbirth or the puerperium
+
+JB63.6	Protozoal diseases complicating pregnancy, childbirth or the puerperium
+
+JB63.60	Malaria complicating pregnancy, childbirth, or the puerperium
+
+JB63.6Y	Other specified protozoal diseases complicating pregnancy, childbirth or the puerperium
+
+JB63.6Z	Protozoal diseases complicating pregnancy, childbirth or the puerperium, unspecified
+
+JB63.7	Human immunodeficiency disease complicating pregnancy, childbirth or the puerperium
+
+JB63.Y	Other specified maternal infectious diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium
+
+JB63.Z	Maternal infectious diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium, unspecified
+
+  JB64  	Certain maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	when the reason for maternal care is that the condition is known or suspected to have affected the fetus (JA85)
+infectious and parasitic diseases (JB63)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Coded Elsewhere:	Mental or behavioural disorders associated with pregnancy, childbirth or the puerperium (6E20-6E2Z)
+Injury complicating pregnancy (ND56.9)
+
+JB64.0	Anaemia complicating pregnancy, childbirth or the puerperium
+A condition of the circulatory system affecting pregnant females, characterised by a haemoglobin level below 11 grams per decilitre that complicates pregnancy, childbirth, or the puerperium.
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+
+JB64.1	Other diseases of the blood or blood-forming organs or certain disorders involving the immune mechanism complicating pregnancy, childbirth or the puerperium
+Any disease affecting pregnant females, characterised by pathological changes to the blood and blood-forming organs and pathological changes involving the immune mechanism that complicate pregnancy, childbirth, or the puerperium not classified elsewhere.
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Antepartum haemorrhage with coagulation defect (JA41.0)
+Intrapartum haemorrhage with coagulation defect (JA42.0)
+
+JB64.2	Endocrine, nutritional or metabolic diseases complicating pregnancy, childbirth or the puerperium
+Any disease affecting pregnant females, characterised by endocrine, nutrition, or metabolic manifestations that complicate pregnancy, childbirth, or the puerperium.
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Malnutrition in pregnancy (JA64)
+Diabetes mellitus in pregnancy (JA63)
+Postpartum thyroiditis (JB44.5)
+
+JB64.3	Diseases of the nervous system complicating pregnancy, childbirth or the puerperium
+Any disorder or disease of the nervous system affecting pregnant females leading to complications during pregnancy, childbirth, or puerperium.
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Mental or behavioural disorders associated with pregnancy, childbirth or the puerperium (BlockL1‑6E2)
+
+JB64.4	Diseases of the circulatory system complicating pregnancy, childbirth or the puerperium
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Obstetric embolism (JB42)
+venous complications and cerebrovenous sinus thrombosis in pregnancy (JA61)
+Venous complications in the puerperium (JB41)
+Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium (BlockL1‑JA2)
+Cardiomyopathy in the puerperium (JB44.3)
+Other venous complications following abortion, ectopic or molar pregnancy (JA05.7)
+
+JB64.5	Diseases of the respiratory system complicating pregnancy, childbirth or the puerperium
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+
+JB64.6	Diseases of the digestive system complicating pregnancy, childbirth or the puerperium
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Liver disorders in pregnancy, childbirth or the puerperium (JA65.0)
+
+JB64.7	Diseases of the skin complicating pregnancy, childbirth or the puerperium
+Diseases of the skin or subcutaneous tissue not specifically related to pregnancy but which contribute to increased morbidity during pregnancy, childbirth or the puerperium, for example genetic blistering disorders or lichen sclerosus.
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+Exclusions:	Herpes gestationis (JA65.10)
+Gestational pemphigoid (JA65.10)
+Polymorphic eruption of pregnancy (JA65.12)
+Pregnancy dermatoses (JA65.1)
+Pruritus of pregnancy (JA65.11)
+
+JB64.8	Congenital anomaly complicating pregnancy
+
+JB64.Y	Other specified maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+
+JB64.Z	Maternal diseases classifiable elsewhere but complicating pregnancy, childbirth or the puerperium, unspecified
+Coding Note:	This category includes conditions which complicate the pregnant state, are aggravated by the pregnancy or are a main reason for obstetric care but no specific category exists in this chapter.
+
+  JB65  	Sequelae of complication of pregnancy, childbirth or the puerperium
+A secondary condition that develops during the period of time from conception to delivery (pregnancy), during labour and delivery (childbirth) or during the six weeks following delivery (puerperium).
+Exclusions:	Death from any obstetric cause occurring more than 42 days but less than one year after delivery (JB61)
+Death from sequelae of obstetric causes (JB62)
+
+  JB6Y  	Other specified obstetric conditions, not elsewhere classified
+
+  JB6Z  	Unspecified obstetric condition
+

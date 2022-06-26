@@ -1,0 +1,2626 @@
+CHAPTER 08
+Diseases of the nervous system
+This chapter has 205 four-character categories.
+Code range starts with 8A00
+This is a group of conditions characterised as being in or associated with the nervous system.
+Exclusions:	Endocrine, nutritional or metabolic diseases (Chapter 05)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Certain conditions originating in the perinatal period (Chapter 19)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Coded Elsewhere:	Injuries of the nervous system
+Neoplasms of the nervous system
+Structural developmental anomalies of the nervous system (LA00-LA0Z)
+Syndromes with central nervous system anomalies as a major feature (LD20)
+Non-viral and unspecified infections of the central nervous system (1D00-1D0Z)
+Symptoms, signs or clinical findings of the nervous system (MB40-MB9Y)
+Paralytic symptoms (MB50-MB5Z)
+Dissociative neurological symptom disorder (6B60)
+Diseases of the nervous system complicating pregnancy, childbirth or the puerperium (JB64.3)
+This chapter contains the following top level blocks:
+•	Movement disorders
+•	Disorders with neurocognitive impairment as a major feature
+•	Multiple sclerosis or other white matter disorders
+•	Epilepsy or seizures
+•	Headache disorders
+•	Cerebrovascular diseases
+•	Spinal cord disorders excluding trauma
+•	Motor neuron diseases or related disorders
+•	Disorders of nerve root, plexus or peripheral nerves
+•	Diseases of neuromuscular junction or muscle
+•	Cerebral palsy
+•	Nutritional or toxic disorders of the nervous system
+•	Disorders of cerebrospinal fluid pressure or flow
+•	Disorders of autonomic nervous system
+•	Human prion diseases
+•	Disorders of consciousness
+•	Other disorders of the nervous system
+•	Postprocedural disorders of the nervous system
+•	Injuries of the nervous system
+•	Neoplasms of the nervous system
+
+Movement disorders (BlockL1‑8A0)
+This is a group of involuntary movement disorders.
+Coded Elsewhere:	Restless legs syndrome (7A80)
+Periodic limb movement disorder (7A81)
+Hemifacial spasm (8B88.2)
+  8A00  	Parkinsonism
+Parkinsonism is a clinical syndrome characterised by four cardinal features: rest tremor, muscular rigidity, akinesia or bradykinesia, and postural disturbances which include shuffling gait and flexed posture and loss of postural reflexes. Bradykinesia and one other clinical feature is required to make a diagnosis of Parkinsonism. Parkinsonism may result from a variety of conditions including progressive neurodegenerative disorders such as Parkinson Disease or Atypical Parkinsonism where the progressive degeneration of nigral and other neurons leads to dopamine deficiency. Parkinsonism may also be a result of structural lesions such as strokes or tumours or blockage of dopamine receptors in the striatum by drugs such as neuroleptics.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Arthropathies (BlockL1‑FA0)
+
+8A00.0	Parkinson disease
+Parkinson Disease is a gradual onset progressive degenerative disease whose cardinal manifestations include bradykinesia plus one of the following-tremor, rigidity or postural instability. Nonmotor manifestations include autonomic dysfunction and neuropsychiatric features.
+
+8A00.00	Sporadic Parkinson disease
+This is defined as Parkinson Disease occurring sporadically with no apparent mode of inheritance.
+
+8A00.01	Familial Parkinson disease
+
+8A00.0Y	Other specified Parkinson disease
+
+8A00.0Z	Parkinson disease, unspecified
+
+8A00.1	Atypical parkinsonism
+Atypical parkinsonism is a term used to describe several neurodegenerative conditions where the degeneration extends beyond the substantia nigra and is more extensive than seen in conditions like Parkinson disease. The clinical picture is often more complex than PD and patients may have apraxia, supranuclear ophthalmoplegia or autonomic failure.
+Coded Elsewhere:	Multiple system atrophy, Parkinsonism (8D87.01)
+Lewy body disease (8A22)
+
+8A00.10	Progressive supranuclear palsy
+Progressive supranuclear palsy (PSP) is a late-onset neurodegenerative disease characterised by supranuclear gaze palsy, postural instability, progressive rigidity, and mild dementia. Five clinical variants have been described with clinicopathological correlations: Classical PSP (Richardson's syndrome), and four atypical variants of PSP including PSP-Parkinsonism (PSP-P), PSP-Pure akinesia with gait freezing (PSP-PAGF), PSP-corticobasal syndrome (PSP-CBS), and PSP-progressive non fluent aphasia (PSP-PNFA).
+
+8A00.1Y	Other specified atypical parkinsonism
+
+8A00.1Z	Atypical parkinsonism, unspecified
+
+8A00.2	Secondary parkinsonism
+Secondary parkinsonism is a term used to describe Parkinsonism due to a known agent such as drugs, infections, toxins or structural lesions.
+Coding Note:	Code aslo the causing condition
+
+8A00.20	Parkinsonism due to heredodegenerative disorders
+Parkinsonism may occur as a result of more widespread heredodegenerative disorders. It is accompanied by other neurological findings such as dystonia, ataxia and dementia. Other family members may be affected.
+Coding Note:	Code aslo the causing condition
+
+8A00.21	Hemiparkinsonism hemiatrophy syndrome
+Hemiparkinsonism may follow hemiatrophy of the body due to an intrauterine or early neonatal cerebral damage.
+
+8A00.22	Infectious or postinfectious parkinsonism
+A syndrome caused by an infection with a bacterial, viral, fungal, or parasitic source, which occurs during or after the acute phase of the infection. This condition is characterised by tremors, slow movement, or stiffness of the arms and legs, similar to symptoms seen in Parkinson disease.
+
+8A00.23	Vascular parkinsonism
+Multiple lacunar infarcts or diffuse vascular disease of the brain can result in Parkinsonism-Imaging often shows multiple lacunar infarcts or diffuse white matter change. The dopamine transporter scan may be normal or abnormal depending upon the site of the infarcts.
+
+8A00.24	Drug-induced parkinsonism
+Parkinsonism due to prescription medications.
+
+8A00.25	Post traumatic Parkinsonism
+Parkinsonism may be a result of a major head trauma where it occurs in combination with other neurological findings such as weakness and pyramidal signs. It may also occur as a result of multiple blows to the head and may be associated with dementia. It is also called chronic traumatic encephalopathy.
+
+8A00.26	Parkinsonism due to structural lesions
+Parkinsonism occurring in the setting of a demonstrable structural lesion such as subdural hematoma and brain tumours. Neuroimaging such as Magnetic Resonance Imaging is very helpful. It has to be emphasized that small brain tumours such as meningioma may be an incidental finding in cases of otherwise typical PD.
+
+8A00.2Y	Other specified secondary parkinsonism
+Coding Note:	Code aslo the causing condition
+
+8A00.2Z	Secondary parkinsonism, unspecified
+Coding Note:	Code aslo the causing condition
+
+8A00.3	Functional parkinsonism
+Functional movement disorder with mixed features of functional tremor but also slowness and stiffness which can be demonstrated to be variable and internally inconsistent. No cause has been identified after investigation.
+Inclusions:	Psychogenic parkinsonism
+
+8A00.Y	Other specified parkinsonism
+
+8A00.Z	Parkinsonism, unspecified
+
+  8A01  	Choreiform disorders
+Chorea consists of irregular, non-repetitive, brief, jerky, flowing movements that move randomly from one part of the body to another.
+
+8A01.0	Benign hereditary chorea
+Benign hereditary chorea should be considered in people with a relatively stable, nonprogressive chorea, in whom childhood onset and an autosomal dominant family history are present. Benign hereditary chorea can be associated with short stature and developmental delay. Larger deletions of causative gene, TITF-1, can cause a multisystem disorder with congenital hypothyroidism, hypotonia, and pulmonary problems.
+
+8A01.1	Secondary Chorea
+Chorea consists of irregular, non-repetitive, brief, jerky, flowing movements that move randomly from one part of the body to another. Chorea can be seen in a variety of metabolic, immunological and other disorders and is termed secondary chorea.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Benign hereditary chorea (8A01.0)
+
+8A01.10	Huntington disease
+Huntington disease (HD) is a rare neurodegenerative disorder of the central nervous system. HD is an autosomal dominant disorder due to a mutation resulting in an increased number of triplicate cytosine-adenine-guanine repeats on chromosome 4. The manifestations include chorea, dementia and personality changes. In the Westphal variant dystonia and parkinsonism are prominent. Neuroimaging revels caudate atrophy. A genetic test is available and may facilitate presymptomatic detection.
+Inclusions:	Huntington chorea
+
+8A01.11	Chorea due to Huntington disease-like conditions
+The clinical picture of Huntington Disease (HD) is closely mimicked by disorders with an autosomal dominant inheritance. The gene test for HDS is negative prompting the consideration of other disorders. These are called HD like (HDL diseases).
+
+8A01.12	Chorea due to Dentatorubral pallidoluysian atrophy
+Dentatorubropallidoluysian atrophy patients may have chorea as a major manifestation.
+
+8A01.13	Chorea due to Wilson disease
+Coding Note:	Code aslo the causing condition
+
+8A01.14	Chorea due to infectious or para-infectious causes
+
+8A01.15	Chorea due to systemic lupus erythematosus
+Chorea may be a presenting manifestation of systemic lupus erythematosus (SLE) or may occur in established disease. It is associated with the presence of antiphospholipid antibodies.
+
+8A01.16	Drug-induced chorea
+Chorea may be due to prescribed and illicit drugs.
+
+8A01.1Y	Other specified secondary chorea
+Coding Note:	Code aslo the causing condition
+
+8A01.1Z	Secondary chorea, unspecified
+Coding Note:	Code aslo the causing condition
+
+8A01.2	Hemichorea or hemiballismus
+Ballism, meaning to throw in Greek, refers to violent, irregular flinging movements of the limbs primarily due to contractions of the proximal muscles. Hemiballism refers to movements involving upper and lower extremities on the same side with or without involvement of the face.
+Hemichorea refers to hemibody chorea with brief non repetitive jerks affecting arm and leg on one side with or without involvement of the face.
+
+8A01.20	Hemichorea
+Hemichorea refers to hemibody chorea with brief non repetitive jerks affecting arm and leg on one side with or without involvement of the face.
+
+8A01.21	Ballism
+Ballism, "meaning to throw” in Greek, refers to violent, irregular flinging movements of the limbs primarily due to contractions of the proximal muscles.
+
+8A01.22	Hemiballism
+Hemiballism refers to movements involving upper and lower extremities on the same side with or without involvement of the face.
+
+8A01.2Y	Other specified hemichorea or hemiballismus
+
+8A01.2Z	Hemichorea or hemiballismus, unspecified
+
+8A01.Y	Other specified choreiform disorders
+
+8A01.Z	Choreiform disorders, unspecified
+
+  8A02  	Dystonic disorders
+Exclusions:	athetoid cerebral palsy (8D21)
+
+8A02.0	Primary dystonia
+Primary Dystonia (Primary Torsion dystonia) are disorders where dystonia is the sole neurological manifestation. These disorders are slowly progressive and are of which may be familial-genetic or sporadic.
+
+8A02.00	Benign essential blepharospasm
+This is a neurological condition characterised by forcible closure of the eyelids due to involuntary and sustained contraction of the muscles around the eyes.
+
+8A02.0Y	Other specified primary dystonia
+
+8A02.0Z	Primary dystonia, unspecified
+
+8A02.1	Secondary dystonia
+This is dystonia – a disorder of involuntary muscle contractions – of an acquired nature. Causes include substance toxicity, injury, hypoxia and tumours.
+Coding Note:	Code aslo the causing condition
+
+8A02.10	Drug-induced dystonia
+This is dystonia due to medications either as an idiosyncratic side effect or due to overdose of medications.
+
+8A02.11	Dystonia-plus
+This is a group of heterogenous syndromes present with dystonia – a disorder of involuntary muscle contractions – along with other clinical features, but not in tandem with a neurodegenerative disease. Examples include myoclonus dustonia and dopa responsive dystonia.
+
+8A02.12	Dystonia associated with heredodegenerative disorders
+Dystonia occurring as a part of a more complex heredodegenerative disorder. It is not a pure dystonia and other neurological findings such as ataxia, pyramidal signs and cognitive issues may be seen.
+
+8A02.1Y	Other specified secondary dystonia
+Coding Note:	Code aslo the causing condition
+
+8A02.1Z	Secondary dystonia, unspecified
+Coding Note:	Code aslo the causing condition
+
+8A02.2	Paroxysmal dystonia
+Paroxysmal dyskinesias are a group of rare movement disorders characterised by their recurrent and episodic nature, arising from a background of normal motor activity and behaviour. These abnormal movements can manifest in the form of ballism, dystonia, chorea and athetosis or a combination of these.
+
+8A02.3	Functional dystonia or spasms
+Functional movement disorder presenting predominantly with mobile or fixed dystonic posturing which is incongruous with other causes of dystonia and may be responsive to placebo therapy or psychotherapy. Typically a clenched fist, inverted ankle or orbicularis oculis/platysma contraction with onset as a teenager or adult.
+Functional dystonia or spasms where no cause has been identified after investigation.
+
+8A02.Y	Other specified dystonic disorders
+
+8A02.Z	Dystonic disorders, unspecified
+
+  8A03  	Ataxic disorders
+Disorders associated with ataxia. The word "ataxia", comes from the Greek word, " a taxis" meaning "without order or incoordination". The word ataxia means without coordination. People with ataxia have problems with coordination because parts of the nervous system that control movement and balance are affected. Ataxia may affect the fingers, hands, arms, legs, body, speech, and eye movements.
+
+8A03.0	Congenital ataxia
+Congenital Ataxia is defined as a lack of coordination due to congenital abnormalities in the cerebellum. It is usually nonprogressive.
+
+8A03.1	Hereditary ataxia
+A group of genetic disorders characterised by slowly progressive incoordination of gait and often associated with poor coordination of hands, speech, and eye movements
+Exclusions:	Metabolic disorders (BlockL1‑5C5)
+Cerebral palsy (BlockL1‑8D2)
+
+8A03.10	Friedreich ataxia
+Friedreich ataxia is an autosomal recessive ataxia characterised by difficulties to coordinate movements, associated with neurological signs (dysarthria, loss of reflexes, decrease of deep sensation, pes cavus and scoliosis), cardiomyopathy and sometimes diabetes mellitus. It is due to a mutation in the fratxin gene.
+Coded Elsewhere:	Hereditary optic neuropathy associated with hereditary ataxias (8A03.15)
+
+8A03.11	Ataxia due to Cerebrotendinous xanthomatosis
+
+8A03.12	Ataxia due to Refsum disease
+
+8A03.13	Ataxia due to abetalipoproteinemia
+
+8A03.14	Hereditary episodic ataxia
+
+8A03.15	Ataxia due to mitochondrial mutations
+
+8A03.16	Spinocerebellar ataxia
+
+8A03.1Y	Other specified hereditary ataxia
+
+8A03.1Z	Hereditary ataxia, unspecified
+
+8A03.2	Non-hereditary degenerative ataxia
+
+8A03.20	Late onset cerebellar cortical atrophy
+This is a sporadic late onset cerebellar cortical atrophy with progressive ataxia. Neuropathologically it is characterised by diffuse cerebellar cortical lesions and absence of neuronal loss in the dorsomedial part of the inferior olives.
+Exclusions:	Hereditary ataxia (8A03.1)
+
+8A03.2Y	Other specified non-hereditary degenerative ataxia
+
+8A03.2Z	Non-hereditary degenerative ataxia, unspecified
+
+8A03.3	Acquired ataxia
+
+8A03.30	Ataxia due to alcoholic cerebellar degeneration
+This is the most common form of acquired ataxia and occurs among people suffering from degeneration of the cerebellum as a result of chronic alcohol use.
+
+8A03.3Y	Other specified acquired ataxia
+
+8A03.3Z	Acquired ataxia, unspecified
+
+8A03.Y	Other specified ataxic disorders
+
+8A03.Z	Ataxic disorders, unspecified
+
+  8A04  	Disorders associated with tremor
+Tremor is an involuntary oscillation of a body part and is commonly classified according to the behavioural circumstances in which it occurs (1) Tremor may occur during attempted relaxation (rest tremor), during a voluntarily held posture (postural tremor), or during a voluntary movement (kinetic tremor).
+
+8A04.0	Enhanced physiological tremor
+This is a high frequency, low amplitude tremor present with posture or action. It represents an exacerbation of a physiologic tremor which may have been worsened by drugs, stress, anxiety, etc.
+
+8A04.1	Essential tremor or related tremors
+Essential tremor is the most common form of tremor of moderate frequency ranging from 7-12 Hz and presents as a postural and kinetic tremor of the hands. It may also be present in the head/neck, and voice.
+Exclusions:	tremor NOS (8A04)
+
+8A04.2	Rest tremor
+Resting tremors happen while the patient is sitting or lying down and relaxed. People who have a resting tremor can usually stop the tremor by deliberately moving the affected body part. It usually occurs in the setting of Parkinsonism.
+
+8A04.3	Secondary tremor
+Coding Note:	Code aslo the causing condition
+
+8A04.30	Tremor due to metabolic disorders
+Involuntary oscillation of a body part due to metabolic disorders.
+Coding Note:	Code aslo the causing condition
+
+8A04.31	Tremor due to chronic or acute substance use
+Drug use can cause tremor or exacerbate an existing tremor.
+Coding Note:	Code aslo the causing condition
+
+8A04.32	Tremor due to drug withdrawal
+Coding Note:	Code aslo the causing condition
+
+8A04.33	Tremor due to certain specified central nervous system diseases
+Coding Note:	Code aslo the causing condition
+
+8A04.3Y	Other specified secondary tremor
+Coding Note:	Code aslo the causing condition
+
+8A04.3Z	Secondary tremor, unspecified
+Coding Note:	Code aslo the causing condition
+
+8A04.4	Functional tremor
+Functional movement disorder presenting predominantly with tremor. The tremor might be variable in frequency and distractible on testing, either entraining or ceasing in response to contralateral externally cued rhythmical movements provided by the examiner.
+Functional tremor is that in which no cause has been identified after investigation.
+
+8A04.Y	Other specified disorders associated with tremor
+
+8A04.Z	Disorders associated with tremor, unspecified
+
+  8A05  	Tic disorders
+
+8A05.0	Primary tics or tic disorders
+Primary tics or tic disorders are characterised by the presence of chronic motor and/or vocal (phonic) tics. Motor and vocal tics are defined as sudden, rapid, non-rhythmic, and recurrent movements or vocalizations, respectively. In order to be diagnosed, tics must have been present for at least one year, although they may not manifest consistently.
+
+8A05.00	Tourette syndrome
+Tourette syndrome is a chronic tic disorder characterised by the presence of both chronic motor tics and vocal (phonic) tics, with onset during the developmental period. Motor and vocal tics are defined as sudden, rapid, non-rhythmic, and recurrent movements or vocalizations, respectively. In order to be diagnosed as Tourette syndrome, both motor and vocal tics must have been present for at least one year, although they may not manifest concurrently or consistently throughout the symptomatic course.
+Inclusions:	Combined vocal and multiple motor tic disorder
+
+8A05.01	Chronic motor tic disorder
+Chronic motor tic disorder is characterised by the presence of motor tics over a period of at least one year, although they may not manifest consistently. Motor tics are defined as sudden, rapid, non-rhythmic, and recurrent movements.
+Exclusions:	Tourette syndrome (8A05.00)
+
+8A05.02	Chronic phonic tic disorder
+Chronic phonic tic disorder is characterised by the presence of phonic (vocal) tics over a period of at least one year, although they may not manifest consistently. Phonic tics are defined as sudden, rapid, non-rhythmic, and recurrent vocalizations.
+Exclusions:	Tourette syndrome (8A05.00)
+
+8A05.03	Transient motor tics
+Tics are sudden, non-rhythmic stereotyped movements such as blinking, sniffing, tapping, etc. They should have been present for less than 1 year.
+
+8A05.0Y	Other specified primary tics or tic disorders
+
+8A05.0Z	Primary tics or tic disorders, unspecified
+
+8A05.1	Secondary tics
+A tic disorder as a direct physiologic consequence of an antecedent infection, drugs or illness.
+Coding Note:	Code aslo the causing condition
+
+8A05.10	Infectious or postinfectious tics
+A tic disorder as a direct physiologic consequence of an antecedent infection.
+
+8A05.11	Tics associated with developmental disorders
+A tic disorder as a direct consequence of a developmental disorder.
+
+8A05.1Y	Other specified secondary tics
+Coding Note:	Code aslo the causing condition
+
+8A05.1Z	Secondary tics, unspecified
+Coding Note:	Code aslo the causing condition
+
+8A05.Y	Other specified tic disorders
+
+8A05.Z	Tic disorders, unspecified
+
+  8A06  	Myoclonic disorders
+Exclusions:	myoclonic epilepsy (BlockL1‑8A6)
+Facial myokymia (8B88.1)
+Dystonia-plus (8A02.11)
+
+8A06.0	Essential myoclonus
+This is a hereditary form of myoclonus, which is not usually associated with epilepsy or any other medical condition. Essential myoclonus tends to be stable without increasing in severity over time. More recently, it is believed that essential myoclonus may be the same as myoclonus-dystonia caused by a mutation in the sarcoglycan gene.
+
+8A06.1	Segmental myoclonus
+Rhythmic or semi-rhythmic involuntary contractions of muscle groups supplied by one or more contiguous segments of the brainstem and/or spinal cord.
+
+8A06.2	Focal myoclonus
+Sudden, involuntary twitching or jerking of a muscle or group of muscles which effects a localised area of the body.
+
+8A06.20	Palatal myoclonus
+Palatal myoclonus is usually a rhythmic, continuous movement of the muscles of the middle ear or palate, but can also include muscle of the eye, tongue, neck and diaphragm. The movement may be present in sleep or with distraction with a frequency of 1.5 to 3 Hz. Essential palatal myoclonus is more likely to have an associated rhythmic clicking noise compared to symptomatic palatal myoclonus.
+
+8A06.21	Chronic hiccups
+Chronic hiccup is a rare disorder causing repeated inspiratory spasms over periods of 48 hours or more.
+
+8A06.2Y	Other specified focal myoclonus
+
+8A06.2Z	Focal myoclonus, unspecified
+
+8A06.Y	Other specified myoclonic disorders
+
+8A06.Z	Myoclonic disorders, unspecified
+
+  8A07  	Certain specified movement disorder
+Coded Elsewhere:	Sleep-related movement disorders (7A80-7A8Z)
+Hereditary spastic paraplegia (8B44.0)
+
+8A07.0	Stereotypies
+Stereotypy refers to simple or complex movements that repeat themselves continually and identically. These are usually not preceded by an uncomfortable feeling.
+Coded Elsewhere:	Autism spectrum disorder (6A02)
+Rett syndrome (LD90.4)
+
+8A07.00	Primary stereotypy
+A stereotypy that occurs in typically developing child.
+
+8A07.01	Secondary stereotypy
+Coding Note:	Code aslo the causing condition
+
+8A07.0Y	Other specified stereotypies
+
+8A07.0Z	Stereotypies, unspecified
+
+8A07.1	Akathisia
+
+8A07.2	Excessive startle reflex
+
+  8A0Y  	Other specified movement disorders
+
+  8A0Z  	Movement disorders, unspecified
+
+Disorders with neurocognitive impairment as a major feature (BlockL1‑8A2)
+  8A20  	Alzheimer disease
+
+  8A21  	Progressive focal atrophies
+Progressive cortical atrophies are neurodegenerative diseases with progressive impairment in a single cognitive domain secondary to circumscribed cerebral atrophy.
+
+8A21.0	Posterior cortical atrophy
+Benson's syndrome or Posterior Cortical Atrophy (PCA) refers to a clinical syndrome in which higher order visual processing is disrupted owing to a neurodegenerative disorder. The patients present with progressive and severe visual agnosia (inability to recognize and identify familiar objects or persons) and apraxia (loss in the ability to execute or perform skilled familiar movements).
+
+8A21.Y	Other specified progressive focal atrophies
+
+8A21.Z	Progressive focal atrophies, unspecified
+
+  8A22  	Lewy body disease
+Lewy body disease is a neurodegenerative disorder and the second most common form of dementia in the elderly after Alzheimer disease. Lewy bodies are histologically defined as intracytoplasmic eosinophilic neuronal inclusions in the cortex or brainstem.
+
+  8A23  	Frontotemporal lobar degeneration
+
+  8A2Y  	Other specified disorders with neurocognitive impairment as a major feature
+
+  8A2Z  	Disorders with neurocognitive impairment as a major feature, unspecified
+
+Multiple sclerosis or other white matter disorders (BlockL1‑8A4)
+  8A40  	Multiple sclerosis
+Multiple Sclerosis is a chronic, inflammatory demyelinating disease of the central nervous system. Three categories of multiple sclerosis have been outlined: Relapsing/remitting, secondary progressive and primary progressive multiple sclerosis
+Coded Elsewhere:	Retrobulbar neuritis in multiple sclerosis (9C40.1Y)
+
+8A40.0	Relapsing-remitting multiple sclerosis
+Clearly defined disease relapses with full recovery or with sequelae and residual deficit upon recovery. The periods between disease relapses are characterised by a lack of disease progression.
+
+8A40.1	Primary progressive multiple sclerosis
+Disease progression from onset, with occasional plateaus and temporary minor improvements allowed.
+Coding Note:	This category is to be used to indicate Primary progressive multiple sclerosis which is progressive from onset but includes progressive - relapsing, or is progressive from onset with a single relapse
+
+8A40.2	Secondary progressive multiple sclerosis
+Coding Note:	This category is to be used to indicate Secondary progressive multiple sclerosis, after an initially relapsing/remitting course (includes remitting relapsing progressive, may have superimposed relapses)
+
+8A40.Y	Other specified multiple sclerosis
+
+8A40.Z	Multiple sclerosis, unspecified
+
+  8A41  	Isolated demyelinating syndromes of the central nervous system
+Clinically isolated syndrome (CIS) is the first clinical inflammatory demyelinating event of the central nervous system, lasting greater than 24 hours CIS is now recognised as the first clinical presentation of a disease that shows characteristics of inflammatory demyelination that could be MS, but has yet to fulfill criteria of dissemination in time.
+Coded Elsewhere:	Optic neuritis (9C40.1)
+Idiopathic inflammatory optic neuropathy (9C40.1Y)
+
+8A41.0	Transverse myelitis
+Focal inflammatory and demyelinating disorder of the spinal cord, resulting in motor, sensory and autonomic dysfunction. Symptoms include Lhermitte's, numbness of the limbs, progressive spastic paraplegia, urinary urgency, incontinence and sexual dysfunction.
+Coding Note:	Code aslo the causing condition
+
+8A41.1	Neuromyelitis optica myelin oligodendrocyte glycoprotein antibody-positive
+MOG antibody associated spectrum disorders are inflammatory demyelinating diseases of the central nervous system with a predilection for optic nerve that include a subgroup of patients with bilateral optic neuritis (ON), longitudinally extensive (> 3 vertebral segments) myelitis (often recurrent) and rarely patients with an NMO like presentation. The clinical and immunopathological phenotype is under active investigation
+
+8A41.Y	Other specified isolated demyelinating syndromes of the central nervous system
+
+8A41.Z	Isolated demyelinating syndromes of the central nervous system, unspecified
+
+  8A42  	Acute disseminated encephalomyelitis
+Acute disseminated encephalomyelitis is a demyelinating disorder of the central nervous system. It usually develops after acute viral or bacterial infection or vaccination, with a sudden onset of irritability and lethargy after a prodromal period of 1-4 weeks. Major symptoms include fever, headache, drowsiness, changes in mental status, seizures and coma. Weakness, vomiting, weight loss, stiff neck, ataxia, bilateral optic neuritis and delirium are common. Peripheral nervous system involvement (paralysis of a single limb or hemiplegia) may occur.
+
+8A42.0	Acute haemorrhagic leukoencephalitis
+Rare, severe, rapidly progressive inflammatory and haemorrhagic demyelinating disorder of the central nervous system, considered a variant of ADEM.
+
+8A42.Y	Other specified acute disseminated encephalomyelitis
+
+8A42.Z	Acute disseminated encephalomyelitis, unspecified
+
+  8A43  	Neuromyelitis optica
+Coded Elsewhere:	Neuromyelitis optica myelin oligodendrocyte glycoprotein antibody-positive (8A41.1)
+
+8A43.0	Neuromyelitis optica aquaporin-4 antibody positive
+Neuromyelitis optica (NMO) is an inflammatory demyelinating disease of the central nervous system characterised mainly by attacks of uni- or bilateral optic neuritis (ON) and acute longitudinally extensive (> 3 vertebral segments) myelitis. This form is seropositive for aquaporin-4 antibodies.
+
+8A43.1	Neuromyelitis optica aquaporin-4 antibody negative
+Neuromyelitis optica (NMO) is an inflammatory demyelinating disease of the central nervous system characterised mainly by attacks of uni- or bilateral optic neuritis (ON) and acute longitudinally extensive (> 3 vertebral segments) myelitis. This form is seronegative for aquaporin-4 antibodies.
+Some patients may be myelin oligodendrocyte glycoprotein (MOG) antibody positive.
+
+8A43.2	Single transverse myelitis aquaporin-4 antibody positive
+A single episode of transverse myelitis which is typically longitudinally extensive (>3 vertebral segments) associated with seropositivity for aquaporin-4 antibodies but without sufficient features to fulfill the 2006 NMO diagnostic criteria.
+
+8A43.3	Recurrent transverse myelitis aquaporin-4 antibody positive
+Two or more episodes of transverse myelitis which is typically longitudinally extensive (>3 vertebral segments) associated with seropositivity for aquaporin-4 antibodies but without sufficient features to fulfill the 2006 NMO diagnostic criteria.
+
+8A43.4	Single optic neuritis aquaporin-4 antibody positive
+A single episode of optic neuritis associated with seropositivity for aquaporin-4 antibodies but without sufficient features to fulfill the 2006 NMO diagnostic criteria.
+
+8A43.5	Recurrent optic neuritis aquaporin-4 antibody positive
+Two or more episodes of optic neuritis associated with seropositivity for aquaporin-4 antibodies but without sufficient features to fulfill the 2006 NMO diagnostic criteria.
+
+8A43.Y	Other specified neuromyelitis optica
+
+8A43.Z	Neuromyelitis optica, unspecified
+
+  8A44  	Leukodystrophies
+Coded Elsewhere:	Metachromatic leukodystrophy (5C56.02)
+Canavan disease (5C50.E1)
+Leukoencephalopathy with brainstem - spinal cord involvement - lactate elevation (5C53.23)
+
+8A44.0	Pelizaeus-Merzbacher disease
+Pelizaeus-Merzbacher disease (PMD) is an X-linked leukodystrophy characterised by developmental delay, nystagmus, hypotonia, spasticity, and variable intellectual deficit. It is classified into three sub-forms based on the age of onset and severity: connatal, transitional, and classic PMD.
+Coded Elsewhere:	Pelizaeus-Merzbacher-like disease (LD90.2)
+
+8A44.1	Adrenoleukodystrophy
+Coded Elsewhere:	Zellweger syndrome (5C57.0)
+Neonatal adrenoleukodystrophy (5A74.Y)
+X-linked adrenoleukodystrophy (5C57.1)
+
+8A44.2	Alexander disease
+Alexander's disease is a neurodegenerative disorder encompassing different clinical forms: the infantile form (birth to 2 years), the most common, is characterised by its early onset and severe evolution with progressive megalencephaly (sometimes hydrocephaly), retarded psychomotor development or mental deterioration, pyramidal signs, ataxia and convulsive seizures. The juvenile forms start in school-aged children and associate spastic paraplegia and progressive bulbar signs. Adult forms are heterogeneous and difficult to diagnose.
+
+8A44.3	Certain specified leukodystrophies
+Coded Elsewhere:	Phenylketonuria (5C50.0)
+Refsum disease (5C57.1)
+Cerebrotendinous xanthomatosis (5C52.11)
+Leber hereditary optic neuropathy (8C73.Y)
+Cystic leukoencephalopathy without megalencephaly (5C55.2)
+Gaucher disease (5C56.0Y)
+Niemann-Pick disease (5C56.0Y)
+Tay-Sachs disease (5C56.00)
+Oculo-dento-digital dysplasia (LD27.0Y)
+
+8A44.4	Krabbe disease
+Krabbe disease, also called globoid cell leukodystrophy, is a sphingolipidosis resulting from galactosylceramidase (or galactocerebrosidase) deficiency, a lysosomal enzyme that catabolizes a major lipid component of myelin. The disease leads to demyelination of the central and peripheral nervous system which is rapidly progressive from the first year of life, but juvenile, adolescent or adult onset forms have also been reported, with a more variable rate of progression.
+
+8A44.Z	Leukodystrophies, unspecified
+
+  8A45  	Secondary white matter disorders
+Coding Note:	Code aslo the causing condition
+
+8A45.0	White matter disorders due to infections
+Coded Elsewhere:	Tabes dorsalis (1A62.01)
+
+8A45.00	Human T-cell lymphotropic virus-associated myelopathy
+Human T-cell lymphotropic virus (HTLV) is a retrovirus and causes immune mediated diseases of the nervous system. Human T-cell lymphotropic virus type 1 (HTLV-1) and Human T-cell lymphotropic virus type 2 (HTLV-2) are closely related retroviruses with similar biological properties and common modes of transport.
+Coded Elsewhere:	Myelitis due to Human T-lymphotropic virus type 1 (1D02.1)
+
+8A45.01	Subacute sclerosing panencephalitis
+Inclusions:	Dawson inclusion body encephalitis
+Van Bogaert sclerosing leukoencephalopathy
+
+8A45.02	Progressive multifocal leukoencephalopathy
+
+8A45.0Y	Other specified white matter disorders due to infections
+
+8A45.0Z	White matter disorders due to infections, unspecified
+
+8A45.1	White matter disorders due to toxicity
+Coded Elsewhere:	Myelopathy due to radiation injury (8B42)
+
+8A45.2	White matter disorders due to vascular abnormality or ischemia
+
+8A45.20	White matter disorder due to CADASIL
+
+8A45.21	Subacute necrotising myelitis
+Foix-Alajouanine syndrome, also called subacute ascending necrotising myelitis, results from chronic congestion of the extrinsic pial veins of the spinal cord and of the intrinsic subpial network. It is characterised by progressive ascending deficit over a period of several months or years.
+
+8A45.2Y	Other specified white matter disorders due to vascular abnormality or ischemia
+
+8A45.2Z	White matter disorders due to vascular abnormality or ischemia, unspecified
+
+8A45.3	White matter disorders due to nutritional deficiency
+Damage to the white matter due to nutritional deficiency.
+
+8A45.30	White matter disorder due to vitamin B12 deficiency
+Neurological features occur in 40% of patients with B12 deficiency. Subacute combined degeneration is a potentially reversible neurological complication of a vitamin B12 deficiency. Symptoms develop insidiously and neuropathic manifestations include progressive paraesthesia distally, numbness, gait ataxia and diminished proprioception in the lower limbs, while the myelopathic component leads to variable motor impairment due to pyramidal tract dysfunction. Incontinence of bowel and bladder with impotence and postural hypotension occur as part of the myelopathy. Central manifestations include confusion, depression, progressive hallucination and mental slowing. There may also be optic neuropathy present.
+
+8A45.31	Central pontine myelinolysis
+
+8A45.3Y	Other specified white matter disorders due to nutritional deficiency
+
+8A45.3Z	White matter disorders due to nutritional deficiency, unspecified
+
+8A45.4	White matter disorders due to certain specified systemic disease
+
+8A45.40	Demyelination due to sarcoidosis
+Sarcoidosis can affect any part of the nervous system. It is estimated that about 5-15% of cases develop evidence of central nervous system involvement. Neurosarcoidosis may manifest in many different ways, diagnosis may be difficult. Neurosarcoidosis can appear in an acute explosive fashion or as a slow, chronic illness. Any part of the central nervous system can be attacked by sarcoidosis but chronic neurosarcodosis can cause multiple cranial nerve palsies, parenchymatous cerebral involvement, hydrocephalus and encephalopathy or peripheral nervous system manifestations.
+
+8A45.41	Demyelination due to systemic lupus erythematosus
+Among the 12 systemic lupus erythematosus (SLE)-related central nervous system (CNS) syndromes defined by the American College of Rheumatology (ACR), demyelinating syndrome and myelopathy are two of the less prevalent and more poorly understood ones. One important issue concerning demyelinating disease in SLE is that it can be easily misdiagnosed with other central nervous system demyelinating disorders such as multiple sclerosis (MS).
+
+8A45.42	Demyelination due to Sjögren disease
+
+8A45.43	Demyelination due to Behcet disease
+
+8A45.44	Demyelination due to systemic vasculitis
+The CNS vasculature can be targeted by systemic vasculitis and include the following conditions; 
+Small-Medium Vessel Vasculitis - Wegener’s granulomatosis, microscopic polyangiitis, Churg-Strauss syndrome, Cryoglobulinemic vasculitis and Behçet’s disease.
+Medium Vessel Vasculitis - Polyarteritis nodosa 
+Large Vessel Vasculitis - Giant-cell arteritis, Takayasu’s arteritis (Neurologic complications are mainly due to involvement of extracranial vessels). 
+Usually CNS involvement coexists with other clearly apparent systemic manifestations but some patients may present primarily with prominent symptoms of CNS dysfunction
+
+8A45.45	Demyelination due to mitochondrial disease
+Mitochondrial disorders can cause multifocal and relapsing central nervous system syndromes. Mitochondrial disorders which can cause such syndromes include Mitochondrial Encephalopathy with Lactic Acidosis and Stroke (MELAS), and Leigh's disease. MELAS is a progressive neurodegenerative disorder associated with headache, treatment resistant partial seizures, short stature, muscle weakness, exercise intolerance, deafness, diabetes, and slow progressive dementia. Leigh syndrome or subacute necrotizing encephalomyelopathy is the prototype mitochondrial disease, with hallmark neuroimaging findings.
+
+8A45.4Z	White matter disorders due to certain specified systemic disease, unspecified
+
+8A45.Y	Other specified secondary white matter disorders
+Coding Note:	Code aslo the causing condition
+
+8A45.Z	Secondary white matter disorders, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8A46  	Central demyelination of corpus callosum
+This is demyelination, damage to the myelin sheath of neurons, in the corpus callosum.
+
+  8A4Y  	Other specified multiple sclerosis or other white matter disorders
+
+  8A4Z  	Multiple sclerosis or other white matter disorders, unspecified
+
+Epilepsy or seizures (BlockL1‑8A6)
+At least 2 unprovoked (or reflex) seizures occurring more than 24 hours apart.
+Coding Note:	Use additional code, if desired, to identify the type of seizure.
+Exclusions:	Syncope (MG45)
+Coded Elsewhere:	Sudden unexpected death in epilepsy (MH15)
+Neonatal seizures (KB06)
+  8A60  	Epilepsy due to structural or metabolic conditions or diseases
+Epilepsy occurring in relation to a distinct other structural or metabolic condition or disease that has been demonstrated to be associated with a substantially increased risk of developing epilepsy.
+
+8A60.0	Epilepsy due to prenatal or perinatal brain insults
+Epilepsy occurring in relation to a distinct structural or metabolic condition or disease that has been demonstrated to be associated with a substantially increased risk of developing epilepsy, with the insult occurring before birth [prenatal] or between 22 weeks of gestation and 7 days after birth. Onset of epilepsy may be in infancy, childhood, or adulthood.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Neonatal seizures (KB06)
+
+8A60.00	Epilepsy due to prenatal or perinatal vascular insults
+Epilepsy occurring in relation to an ischemic stroke or haemorrhagic stroke, with the stroke occurring or presumed to occur before birth [prenatal] or between 22 weeks of gestation and 7 days after birth [perinatal]. No other conditions associated with a substantially increased risk of developing epilepsy are present. Onset of epilepsy may be in infancy, childhood, or adulthood. Perinatal
+Coding Note:	Code aslo the causing condition
+
+8A60.01	Epilepsy due to neonatal hypoxic ischemic encephalopathy
+
+8A60.0Y	Epilepsy due to other prenatal or perinatal brain insults
+Coding Note:	Code aslo the causing condition
+
+8A60.0Z	Epilepsy due to unspecified prenatal or perinatal brain insults
+Coding Note:	Code aslo the causing condition
+
+8A60.1	Epilepsy due to cerebrovascular disorders
+Epilepsy occurring in relation to a stroke, with onset at least one week following an ischemic or haemorrhagic stroke.
+Coding Note:	Code aslo the causing condition
+
+8A60.2	Epilepsy due to degenerative brain disorders
+Epilepsy in relation to a degenerative brain disorder known to be associated with seizures, such as certain neuronal storage disorders (e.g. adult neuronal ceroid lipofuscinosis), and certain mitochondrial disorders.
+Coding Note:	Code aslo the causing condition
+
+8A60.3	Epilepsy due to dementias
+Epilepsy with onset in a patient with established diagnosis of dementia. Seizures may occur at any time after the disease onset. Focal onset seizures are the prevailing type in Alzheimer’s disease while seizures with bilateral convulsive activity predominate in other dementing disorders. Myoclonus is another common finding in patients with Alzheimer’s disease.
+Coding Note:	Code aslo the causing condition
+
+8A60.4	Epilepsy due to central nervous system infections or infestations
+Epilepsy with onset in a patient with a documented CNS infection or infestation after the acute phase of the disease.
+Coding Note:	Code aslo the causing condition
+
+8A60.5	Epilepsy due to injuries to the head
+Epilepsy occurring in relation to a traumatic brain injury. Onset is more than 1 week following the trauma, with risk increasing with the severity of brain injury.
+Coding Note:	Code aslo the causing condition
+
+8A60.6	Epilepsy due to tumours of the nervous system
+Epilepsy occurring in relation to intracranial tumours. The epilepsy may be the presenting symptom of the tumour, which is located within or affects the cerebral cortex. The tumour may be a primary intracranial tumour or a metastatic tumour.
+Coding Note:	Code aslo the causing condition
+
+8A60.7	Epilepsy with mesial temporal sclerosis
+Epilepsy associated with imaging and/or pathologic findings of mesial temporal sclerosis. Onset of epilepsy may be in childhood or adulthood. A history of prolonged febrile seizures is common.
+
+8A60.8	Epilepsy due to immune disorders
+Epilepsy in relation to immunological or autoimmune disorders, such as systemic lupus erythematosus [1], inflammatory bowel disease [2], and antibody associated encephalitis (e.g. NMDA receptors ) [3]. Antibody associated encephalitis is often a limbic encephalitis, and is sometimes paraneoplastic. Excludes multiple sclerosis and other demyelinating disorders.
+Coding Note:	Code aslo the causing condition
+
+8A60.9	Epilepsy due to abnormalities of brain development
+Epilepsy due to disorders of cortical development encompassing a wide range of etiologies, with effects that depend on the stage of brain development. Seizure types usually reflect the topology of the malformation.
+Coding Note:	Code aslo the causing condition
+
+8A60.A	Epilepsy due to genetic syndromes with widespread or progressive effects
+Epilepsy due to genetically determined conditions in which, as we currently understand it, there is a separate disorder interposed between the genetic defect and the epilepsy, for example, as in tuberous sclerosis. Includes epilepsy due to documented autosomal, X-linked, mitochondrial or chromosomal abnormalities.
+
+8A60.B	Epilepsy due to multiple sclerosis or other demyelinating disorders
+Epilepsy with onset in a patient with established diagnosis of multiple sclerosis (MS) or other demyelinating disorder. Seizures must occur during the disease course, but not in close temporal relationship with an acute phase. The duration of MS symptoms prior to first seizure is generally several years.
+Coding Note:	Code aslo the causing condition
+
+8A60.Y	Epilepsy due to other structural or metabolic condition or disease
+
+8A60.Z	Epilepsy due to unspecified structural or metabolic condition or disease
+
+  8A61  	Genetic or presumed genetic syndromes primarily expressed as epilepsy
+The epilepsy is, as best as understood, the direct result of a known or presumed genetic defects(s) in which seizures are the core symptom of the disorder.
+
+8A61.0	Genetic epileptic syndromes with neonatal onset
+Epilepsy with onset in the first 30 days of life resulting from known or presumed genetic defects(s) in which seizures are the core symptom of the disorder.
+Exclusions:	Neonatal seizures (KB06)
+Epilepsy due to prenatal or perinatal brain insults (8A60.0)
+
+8A61.00	Pyridoxal dependent epilepsy
+Pyridoxal 5-phosphate dependent epilepsy usually presents with neonatal intractable seizures and is diagnosed by cerebrospinal fluid (CSF) analysis, gene testing, and clinical response. The majority of patients have pyridoxamine 5'-phosphate oxidase (PNPO) gene disease causing mutations. Early diagnosis and effective treatment can lead to a relatively favourable neurodevelopmental outcome. Electroencephalographic and seizure manifestations of pyridoxal 5?-phosphate-dependent epilepsy
+
+8A61.0Y	Other specified genetic epileptic syndromes with neonatal onset
+
+8A61.0Z	Genetic epileptic syndromes with neonatal onset, unspecified
+
+8A61.1	Genetic epileptic syndromes with onset in infancy
+Include a vast spectrum of phenotypes having in common a genetic background and the onset in infancy. They range from benign self-remitting to severe drug resistant syndromes. Family history of epilepsy is common in some syndromic entities and exceptional in others.
+
+8A61.10	Benign familial infantile epilepsy
+Epilepsy characterised by the occurrence of repeated seizures in healthy infants with no prior medical history during the first year of life. The seizures manifest with motor arrest, impairment of consciousness, staring, eye and head deviation, and mild unilateral clonic convulsions. A family history of the same epilepsy is a constant finding. The pattern of inheritance is most probably autosomal dominant.
+
+8A61.11	Dravet syndrome
+A refractory epileptic encephalopathy occurring in otherwise healthy infants during the first year of life with clonic/tonic-clonic, generalised and unilateral seizures, hemiclonic or generalised status epilepticus. The interictal EEG may initially be normal but with time background activity deteriorates and bilateral asymmetric, focal or multifocal paroxysms of polyspike and slow-waves appear. Mutations in the voltage-gated sodium channel gene SCN1A are commonly found.
+
+8A61.12	Epilepsy of infancy with migrating focal seizures
+Epilepsy syndrome with onset between the first week of life and seven months of intractable, polymorphous focal seizures. Psychomotor development progressively deteriorates. A mutation of SCN1A may be found. The EEG shows multifocal, varying sites of seizure onset, and diffuse slowing.
+
+8A61.1Y	Other specified genetic epileptic syndromes with onset in infancy
+
+8A61.1Z	Genetic epileptic syndromes with onset in infancy, unspecified
+
+8A61.2	Genetic epileptic syndromes with childhood onset
+
+8A61.20	Benign childhood epilepsy with centro-temporal spikes
+Epilepsy characterised by focal seizures, mainly during sleep, often with involvement of the mouth and face. Convulsive seizures may occur. A history of febrile seizures is common. Onset is maximal between 7 and 10 years of age. The electroencephalogram typically shows focal epileptiform discharges over one or both centrotemporal areas. Remission occurs before age 16 years.
+
+8A61.21	Childhood absence epilepsy
+Epilepsy with onset in an otherwise normal child of 2 to 12 years of age, often with multiple daily brief staring episodes lasting an average of 10 seconds. Absence seizures are usually provoked by hyperventilation. The electroencephalogram shows ictal and interictal diffuse 2.5-3 cycles per second spike and wave discharges. The genetic pattern is probably polygenetic.
+
+8A61.22	Epilepsy with myoclonic-astatic seizures
+Epilepsy beginning between the second and fifth year of life in a previously normal child with family history of seizures, that initially manifests as tonic-clonic seizures with myoclonic-astatic seizures beginning several weeks later. These seizures are characterised by a sudden loss of muscular tonus associated with forward or backward propulsion that may result in injury to the face and head if the patient falls.
+
+8A61.23	Myoclonic absences or absences with myoclonias
+Childhood epileptic syndrome characterised by absence seizures associated with severe rhythmic bilateral myoclonic jerks. The EEG pattern shows rhythmic, bilateral, synchronous, symmetric 3-Hz spike and slow-waves discharges associated with EMG myoclonic bursts at 3 Hz, superimposed to a progressively increasing tonic contraction.
+
+8A61.2Y	Other specified genetic epileptic syndromes with childhood onset
+
+8A61.2Z	Genetic epileptic syndromes with childhood onset, unspecified
+
+8A61.3	Genetic epileptic syndrome with adolescent or adult onset
+Includes a wide array of epilepsy syndromes having a (presumed) genetic origin, with onset in adolescence or in adult life. The developmental background is usually normal. Family history of epilepsy is frequently present. Focal and generalised seizures may be present most frequently in isolation to mark the diagnostic category, and rarely in combination. The interictal and ictal EEG may show typical, sometimes pathognomonic, patterns. Neuroimaging is normal although focal abnormalities are occasionally reported.
+
+8A61.30	Juvenile myoclonic epilepsy
+Epilepsy with onset between the ages of 6 and 25 years with myoclonic jerks without loss of consciousness predominantly occurring early in the morning. Intelligence is not affected. Jerks may be facilitated by sleep deprivation, stress, or certain visual stimuli. Convulsive seizures may occur and may be preceded by myoclonic jerks.
+
+8A61.31	Juvenile absence epilepsy
+Juvenile absence epilepsy is one of the age-related idiopathic generalised epilepsies (IGE) with an age at onset between 10 and 17 years of age, and is characterised by sporadic (non-pyknoleptic) occurrence of absence seizures frequently associated with generalised tonic-clonic seizures (GTCS) predominantly on awakening. Interictal and ictal EEG shows generalised spike and wave discharges with normal background activity.
+
+8A61.32	Benign adult familial myoclonus epilepsy
+Benign adult familial myoclonic epilepsy (BAFME) is an inherited epileptic syndrome characterised by cortical hand tremors, myoclonic jerks and occasional generalised or focal seizures with a non-progressive or very slowly progressive disease course, and no signs of early dementia or cerebellar ataxia.
+
+8A61.3Y	Other specified genetic epileptic syndrome with adolescent or adult onset
+
+8A61.3Z	Genetic epileptic syndrome with adolescent or adult onset, unspecified
+
+8A61.4	Genetic epileptic syndromes with variable age of onset
+Epilepsies occurring in an otherwise normal child or adult. Seizures may occur spontaneously or may be provoked by external stimuli. Family history of seizures is not uncommon and is frequently reported in selected epilepsy syndromes.
+Genetic aspects may follow differing features ranging from complex hereditary patterns to classic Mendelian features or to focused defects.
+
+8A61.40	Reflex epilepsies
+Reflex epilepsies are rare epileptic syndromes with seizures induced by specific triggering factors (either by visual, auditory, somato-sensitive or somato-motor stimulation, or by higher cortical function activities). Photosensitive epilepsies are the most frequent form. Spontaneous seizures may also occur. 'Reflex seizures'' can be classified into a simple 'pure'' reflex epilepsy and a complex group. The former comprises seizure triggered by simple sensory stimuli or by movements (photosensitive epilepsies). The latter are triggered by complex mental and emotional processes (verbal and non-verbal epilepsies).
+
+8A61.41	Progressive myoclonic epilepsy
+
+8A61.4Y	Other specified genetic epileptic syndromes with variable age of onset
+
+8A61.4Z	Genetic epileptic syndromes with variable age of onset, unspecified
+
+8A61.Y	Other specified genetic or presumed genetic syndromes primarily expressed as epilepsy
+
+8A61.Z	Genetic or presumed genetic syndromes primarily expressed as epilepsy, unspecified
+
+  8A62  	Epileptic encephalopathies
+Epilepsies for which no clear etiology can be detected or occurring at the presence of two or more static structural or metabolic conditions increasing the risk for epileptic seizures. The epileptic activity itself may contribute to severe cognitive and behavioural impairments above and beyond what might be expected from the underlying pathology alone.
+
+8A62.0	Infantile spasms
+Syndrome characterised by the subacute onset of brief, repeated seizures with axial or limb flexion, occurring in clusters. EEG shows hypsarrhythmia, i.e., chaotic, high voltage slowing multifocal spikes, with ictal abrupt decremental pattern. Various structural brain pathologies may be present, or no cause may be found. Two-thirds of children have subsequent cognitive deficits.
+
+8A62.1	Lennox-Gastaut syndrome
+Syndrome defined as a cryptogenic or symptomatic generalised epilepsy, which is characterised by the following symptomatic triad: several epileptic seizures (atypical absences, axial tonic seizures and sudden atonic or myoclonic falls); diffuse slow interictal spike waves in the waking EEG (< 3 Hz) and fast rhythmic bursts (10 Hz) during sleep; slow mental development associated with personality disturbances.
+
+8A62.2	Acquired epileptic aphasia
+Epilepsy with onset in a previously normal child characterised by acquired aphasia, variable seizure types, focal bitemporal EEG epileptiform abnormalities (1.5-5Hz spike and slow-waves), frequently activated by sleep, with or without seizures. behavioural disorders such as hyperactivity and attention deficit are common. There is no documented brain pathology.
+
+8A62.Y	Other specified epileptic encephalopathies
+
+8A62.Z	Epileptic encephalopathies, unspecified
+
+  8A63  	Seizure due to acute causes
+A clinical seizure occurring at the time of a systemic insult or in close temporal association with a documented brain insult.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Migraine aura-triggered seizures (8A80.3)
+
+8A63.0	Febrile seizures
+Seizures associated with a rise of the body temperature in the absence of intracranial infection, metabolic disturbance, or history of afebrile seizures. They most commonly occur in children between the ages of 6 months and 5 years.
+
+8A63.00	Simple febrile seizures
+Febrile seizures lasting less than 15 minutes, with no focal features and no occurrence in series.
+
+8A63.01	Complex febrile seizures
+Febrile seizures lasting longer than 15 minutes and/or multiple episodes occurring within 24 hours and/or seizures with focal features.
+
+8A63.0Y	Other specified febrile seizures
+
+8A63.Y	Seizure due to other acute cause
+Coding Note:	Code aslo the causing condition
+
+8A63.Z	Seizure due to unspecified acute cause
+Coding Note:	Code aslo the causing condition
+
+  8A64  	Single seizure due to remote causes
+An unprovoked seizure occurring in a patient with no history of antecedent seizures but with abnormalities of brain development or a potentially responsible clinical condition (metabolic, structural, toxic). The temporal relationship with the CNS insult is beyond the interval estimated for the occurrence of acute symptomatic seizures. The CNS insult may be static or progressive.
+Coding Note:	Code aslo the causing condition
+
+  8A65  	Single unprovoked seizure
+A seizure occurring in the absence of a potentially responsible structural or metabolic condition or beyond the interval estimated for the occurrence of an acute symptomatic seizure.
+
+  8A66  	Status epilepticus
+Status epilepticus is defined as 5 min or more of (i) continuous clinical and/or electrographic seizure activity or (ii) recurrent seizure activity without recovery (returning to baseline) between seizures.
+
+8A66.0	Convulsive status epilepticus
+Convulsive status epilepticus is defined as 5 min or more of (i) continuous clinical convulsive seizure activity or (ii) recurrent seizure activity without recovery (returning to baseline) between seizures.
+
+8A66.1	Non-convulsive status epilepticus
+Non- convulsive status epilepticus is defined as 5 min or more of (i) continuous clinical and/or electrographic seizure activity or (ii) recurrent seizure activity without recovery (returning to baseline) between seizures.
+
+8A66.10	Absence status epilepticus
+An absence seizure (see absence seizures, typical and atypical) lasting >10 min (on average 10-15 min).
+
+8A66.1Y	Other specified non-convulsive status epilepticus
+
+8A66.1Z	Non-convulsive status epilepticus, unspecified
+
+8A66.Y	Other specified status epilepticus
+
+8A66.Z	Status epilepticus, unspecified
+
+  8A67  	Acute repetitive seizures
+Acute repetitive seizures are multiple seizures, with a distinct time of onset, with recovery between each seizure, occurring within 24 hours in adults, or 12 hours in children.
+
+  8A68  	Types of seizures
+Coding Note:	Code aslo the causing condition
+Exclusions:	Dissociative neurological symptom disorder, with non-epileptic seizures (6B60.4)
+Neonatal seizures (KB06)
+
+8A68.0	Focal unaware seizure
+Previously termed “complex partial seizures”, define seizures originating within networks limited to one hemisphere and accompanied by loss of awareness (i.e., knowledge of self or environment).
+
+8A68.1	Absence seizures, atypical
+Absence seizures with changes in tone more pronounced than in typical absences or with non-abrupt onset and/or cessation, often associated with slow, irregular, generalised spike-wave activity.
+
+8A68.2	Absence seizures, typical
+Seizures characterised by sudden onset, interruption of ongoing activities, blank stare, possibly brief upward gaze deviation, unresponsiveness, duration from few seconds to half a minute, and rapid recovery. An EEG would show generalised epileptiform discharges during the event.
+
+8A68.3	Focal aware seizure
+Focal aware seizures define seizures originating within networks limited to one hemisphere and accompanied by awareness (i.e., knowledge of self or environment).
+
+8A68.4	Generalised tonic-clonic seizure
+
+8A68.5	Generalised myoclonic seizure
+
+8A68.6	Generalised tonic seizure
+A seizure characterised by sustained increase in muscle contraction lasting a few seconds to minutes.
+
+8A68.7	Generalised atonic seizure
+Seizure characterised by sudden loss or diminution of muscle tone without apparent preceding myoclonic or tonic event lasting 1-2 sec, involving head, trunk, jaw, or limb muscles.
+
+8A68.Y	Other specified type of seizure
+Coding Note:	Code aslo the causing condition
+
+8A68.Z	Type of seizure, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8A6Y  	Other specified epilepsy or seizures
+Coding Note:	Use additional code, if desired, to identify the type of seizure.
+
+  8A6Z  	Epilepsy or seizures, unspecified
+Coding Note:	Use additional code, if desired, to identify the type of seizure.
+
+Headache disorders (BlockL1‑8A8)
+Coded Elsewhere:	Headache, not elsewhere classified (MB6Y)
+  8A80  	Migraine
+A primary headache disorder, in most cases episodic. Disabling attacks lasting 4-72 hours are characterised by moderate or severe headache, usually accompanied by nausea, vomiting and/or photophobia and phonophobia, and sometimes preceded by a short-lasting aura of unilateral fully-reversible visual, sensory or other central nervous system symptoms. In a small minority of cases headache, but not necessarily the associated symptoms, becomes very frequent, with loss of episodicity.
+Exclusions:	Headache, not elsewhere classified (BlockL2‑MB4)
+
+8A80.0	Migraine without aura
+Recurrent headache disorder manifesting in attacks lasting 4-72 hours. The duration of attacks may be shorter in children. Typical characteristics of the headache are unilateral location, pulsating quality, moderate or severe intensity, aggravation by routine physical activity and association with nausea and/or photophobia and phonophobia.
+
+8A80.1	Migraine with aura
+Recurrent attacks, lasting minutes, of unilateral fully-reversible visual, sensory or other central nervous system symptoms that usually develop gradually and are usually followed by headache and associated migraine symptoms.
+
+8A80.10	Hemiplegic migraine
+Migraine with aura including motor weakness.
+
+8A80.1Y	Other specified migraine with aura
+
+8A80.1Z	Migraine with aura, unspecified
+
+8A80.2	Chronic migraine
+Headache occurring on 15 or more days per month for more than three months, which, on at least 8 days per month, has the features of migraine headache and is not associated with medication overuse.
+
+8A80.3	Complications related to migraine
+
+8A80.30	Status migrainosus
+A debilitating migraine attack lasting for more than 72 hours
+
+8A80.3Y	Other specified complications related to migraine
+
+8A80.4	Cyclic vomiting syndrome
+Recurrent episodic attacks, usually stereotypical in the individual patient, of vomiting and intense nausea. Attacks are associated with pallor and lethargy. There is complete resolution of symptoms between attacks.
+
+8A80.Y	Other specified migraine
+
+8A80.Z	Migraine, unspecified
+
+  8A81  	Tension-type headache
+A primary and highly prevalent headache disorder, in most cases episodic. Attacks of highly variable frequency and duration are characterised by mild-to-moderate headache without associated symptoms, although pericranial tenderness may be present. In a minority of cases the disorder evolves, with increasingly frequent headache and sometimes loss of episodicity.
+Exclusions:	New daily-persistent headache (8A83)
+
+8A81.0	Infrequent episodic tension-type headache
+Infrequent episodes of headache, typically bilateral, pressing or tightening in quality and of mild to moderate intensity, lasting minutes to days. The pain does not worsen with routine physical activity and is not associated with nausea, but photophobia or phonophobia may be present.
+
+8A81.1	Frequent episodic tension-type headache
+Frequent episodes of headache, typically bilateral, pressing or tightening in quality and of mild to moderate intensity, lasting minutes to days. The pain does not worsen with routine physical activity and is not associated with nausea, but photophobia or phonophobia may be present.
+
+8A81.2	Chronic tension-type headache
+A disorder evolving from frequent episodic tension-type headache, with daily or very frequent episodes of headache, typically bilateral, pressing or tightening in quality and of mild to moderate intensity, lasting hours to days, or unremitting. The pain does not worsen with routine physical activity, but may be associated with mild nausea, photophobia or phonophobia.
+
+8A81.Y	Other specified tension-type headache
+
+8A81.Z	Tension-type headache, unspecified
+
+  8A82  	Trigeminal autonomic cephalalgias
+A group of related primary headache disorders essentially characterised by unilateral headache and trigeminal autonomic activation. In most but not all of these disorders, the headache is short-lasting and very frequently recurring, but sometimes remitting for long periods.
+
+  8A83  	Other primary headache disorder
+A group of clinically heterogeneous headache disorders, believed to be primary. Although largely unrelated, they fall into four categories: headaches associated with physical exertion; headaches attributed to direct physical but innocuous stimuli; epicranial headaches; and other miscellaneous primary headache disorders.
+
+  8A84  	Secondary headache
+Coding Note:	Code aslo the causing condition
+
+8A84.0	Acute headache associated with traumatic injury to the head
+Headache of less than three months’ duration associated with traumatic injury to the head.
+
+8A84.1	Persistent headache associated with traumatic injury to the head
+Headache of greater than three months’ duration caused by traumatic injury to the head.
+
+8A84.Y	Other specified secondary headache
+Coding Note:	Code aslo the causing condition
+
+8A84.Z	Secondary headache, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8A85  	Painful cranial neuropathies or other facial pains
+A group of disorders characterised by head and/or facial pain, presenting variably as a neuralgia or as pain of neuropathic or central origin.
+Coded Elsewhere:	Trigeminal neuralgia (8B82.0)
+Burning mouth syndrome (DA0F.0)
+
+  8A8Y  	Other specified headache disorders
+
+  8A8Z  	Headache disorders, unspecified
+
+Cerebrovascular diseases (BlockL1‑8B0)
+This is a group of brain dysfunctions related to disease of the blood vessels supplying the brain. This includes “stroke”, which includes the following entities - . Intracerebral haemorrhage; Subarachnoid haemorrhage; cerebral ischemic stroke, and Stroke not known if ischaemic or haemorrhagic.
+Inclusions:	Cerebrovascular disease with mention of hypertension
+Exclusions:	Intracranial injury (NA07)
+Coded Elsewhere:	Asymptomatic stenosis of intracranial or extracranial artery (BD55)
+Asymptomatic occlusion of intracranial or extracranial artery (BD56)
+Intracranial haemorrhage (BlockL2‑8B0)
+Coded Elsewhere:	Intracranial nontraumatic haemorrhage of fetus or newborn (KA82)
+  8B00  	Intracerebral haemorrhage
+Acute neurological dysfunction caused by haemorrhage within the brain parenchyma or in the ventricular system.
+Coding Note:	Code aslo the causing condition
+Exclusions:	sequelae of intracerebral haemorrhage (8B25.1)
+Traumatic intracerebral haemorrhage (NA07.1)
+
+8B00.0	Deep hemispheric haemorrhage
+Acute neurological dysfunction caused by haemorrhage localised to the subcortex, basal ganglia, and the diencephalon (thalamus).
+Coding Note:	Code aslo the causing condition
+Inclusions:	Deep intracerebral haemorrhage
+
+8B00.1	Lobar haemorrhage
+Acute neurological dysfunction caused by haemorrhage within the lobes of the brain and outside the subcortex, basal ganglia, and the diencephalon (thalamus).
+Coding Note:	Code aslo the causing condition
+Inclusions:	Cerebral lobe haemorrhage
+Superficial intracerebral haemorrhage
+
+8B00.2	Brainstem haemorrhage
+Coding Note:	Code aslo the causing condition
+
+8B00.3	Cerebellar haemorrhage
+Coding Note:	Code aslo the causing condition
+
+8B00.4	Intraventricular haemorrhage without parenchymal haemorrhage
+Acute neurological dysfunction caused by haemorrhage within the ventricular system, without a component of parenchymal haemorrhage.
+Coding Note:	Code aslo the causing condition
+
+8B00.5	Haemorrhage of multiple sites
+Acute neurological dysfunction caused by haemorrhage of multiple sites, within the brain parenchyma, or in the ventricular system combined with haemorrhage in the brain parenchyma.
+Coding Note:	Code aslo the causing condition
+
+8B00.Z	Intracerebral haemorrhage, site unspecified
+Coding Note:	Code aslo the causing condition
+
+  8B01  	Subarachnoid haemorrhage
+Acute neurological dysfunction caused by subarachnoid haemorrhage.
+Exclusions:	sequelae of subarachnoid haemorrhage (8B25.2)
+Traumatic subarachnoid haemorrhage (NA07.7)
+
+8B01.0	Aneurysmal subarachnoid haemorrhage
+Inclusions:	ruptured cerebral aneurysm NOS
+
+8B01.1	Non-aneurysmal subarachnoid haemorrhage
+
+8B01.2	Subarachnoid haemorrhage not known if aneurysmal or non-aneurysmal
+
+  8B02  	Nontraumatic subdural haemorrhage
+Coding Note:	This entity is not part of the definition of stroke.
+Exclusions:	Traumatic subdural haemorrhage (NA07.6)
+
+  8B03  	Nontraumatic epidural haemorrhage
+Coding Note:	This entity is not part of the definition of stroke.
+
+  8B0Z  	Intracranial haemorrhage, unspecified
+
+Cerebral ischaemia (BlockL2‑8B1)
+Coded Elsewhere:	Neonatal cerebral ischaemia (KB00)
+  8B10  	Transient ischaemic attack
+Transient episode of focal neurological dysfunction caused by focal brain ischemia without acute infarction in the clinically relevant area of the brain or transient monocular visual loss due to retinal ischemia. Symptoms should resolve completely within 24 hours.
+Exclusions:	Neonatal cerebral ischaemia (KB00)
+Transient global amnesia (MB21.12)
+
+8B10.0	Amaurosis fugax
+A transient episode of acute visual dysfunction caused by retinal ischaemia. Symptoms should resolve completely within 24 hours.
+Coding Note:	Code aslo the causing condition
+
+8B10.Y	Other specified transient ischaemic attack
+
+8B10.Z	Transient ischaemic attack, unspecified
+
+  8B11  	Cerebral ischaemic stroke
+Acute focal neurological dysfunction caused by focal infarction at single or multiple sites of the brain. Evidence of acute infarction may come either from a) symptom duration lasting more than 24 hours, or b) neuroimaging or other technique in the clinically relevant area of the brain. The term does not include infarction of the retina.
+Coding Note:	When the cause of ischaemic stroke is known, code to the cause. When the cause of ischaemic stroke is not known, code to 8B11.5-. When the cause of stroke is not known, code to 8B20 Stroke not known if ischaemic or haemorrhagic.
+Exclusions:	sequelae of cerebral infarction (8B25.0)
+Silent cerebral infarct (8B21.0)
+
+8B11.0	Cerebral ischaemic stroke due to extracranial large artery atherosclerosis
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.1	Cerebral ischaemic stroke due to intracranial large artery atherosclerosis
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.2	Cerebral ischaemic stroke due to embolic occlusion
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.20	Cerebral ischaemic stroke due to cardiac embolism
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.21	Cerebral ischaemic stroke due to aortic arch embolism
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.22	Cerebral ischaemic stroke due to paradoxical embolism
+This is a sudden loss of brain function due to a lack of adequate blood flow. It is the result of a thromboembolism – a blood clot that detached and travelled through the blood vessels – that originated in the venous system. Because of a heart defect, it passes through to the systemic circulation system, instead of becoming lodged in the lungs.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.2Y	Cerebral ischaemic stroke due to other specified embolic occlusion
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.2Z	Cerebral ischaemic stroke due to embolic occlusion, unspecified
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.3	Cerebral ischaemic stroke due to small artery occlusion
+This is a sudden loss of brain function due to a lack of adequate blood flow of the small arteries.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.4	Cerebral ischaemic stroke due to other known cause
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.40	Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct
+This is a sudden loss of brain function due to a lack of adequate blood flow. It occurs in association with a low state of blood flow to the brain. The "watershed" regions of the brain, regions that are supplied by the branching ends of two large arteries, are particularly sensitive to low oxygen supply when arteries do not maintain the appropriate tension.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.41	Cerebral ischaemic stroke due to other non-atherosclerotic arteriopathy
+This is a sudden loss of brain function due to a lack of adequate blood flow. It is due to a disorder of the arteries, but it is neither associated with atherosclerosis nor classified elsewhere.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.42	Cerebral ischaemic stroke due to hypercoagulable state
+This is a sudden loss of brain function due to a lack of adequate blood flow. It is associated with a blood clot and a risk factor that increases blood clotting.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.43	Cerebral ischaemic stroke in association with subarachnoid haemorrhage
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.44	Cerebral ischemic stroke from dissection
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+8B11.5	Cerebral ischaemic stroke of unknown cause
+This is a sudden loss of brain function due to a lack of adequate blood flow. It is of an uncertain nature, and approximately 30% of examined events fall into this category.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+Inclusions:	cryptogenic stroke
+
+8B11.50	Cerebral ischaemic stroke due to unspecified occlusion or stenosis of extracranial large artery
+This is a sudden loss of brain function due to a lack of adequate blood flow of the large extracranial intracranial arteries.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+Exclusions:	Cerebral ischaemic stroke due to embolic occlusion (8B11.2)
+Cerebral ischaemic stroke due to other known cause (8B11.4)
+Cerebral ischaemic stroke due to extracranial large artery atherosclerosis (8B11.0)
+
+8B11.51	Cerebral ischaemic stroke due to unspecified occlusion or stenosis of intracranial large artery
+This is a sudden loss of brain function due to a lack of adequate blood flow of the large intracranial arteries.
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+Exclusions:	Cerebral ischaemic stroke due to intracranial large artery atherosclerosis (8B11.1)
+Cerebral ischaemic stroke due to embolic occlusion (8B11.2)
+Cerebral ischaemic stroke due to other known cause (8B11.4)
+
+8B11.5Z	Cerebral ischaemic stroke, unspecified
+Coding Note:	If an additional code is used for anatomy, the artery affected by the stroke should be selected.
+
+  8B1Y  	Other specified cerebral ischaemia
+
+  8B1Z  	Cerebral ischaemia, unspecified
+
+  8B20  	Stroke not known if ischaemic or haemorrhagic
+Fulfills criteria for stroke in that acute symptoms of focal brain injury that have lasted 24 hours or more (or led to death before 24 hours), but subtype of stroke (ischemic or haemorrhagic) has not been determined by neuroimaging or other techniques.
+Exclusions:	sequelae of stroke (8B25.4)
+
+  8B21  	Cerebrovascular disease with no acute cerebral symptom
+Silent” cerebral infarct is defined as an infarct demonstrated on neuroimaging or at autopsy that has not caused acute dysfunction of the brain (I e does not qualify for diagnoses of TIA or cerebral ischemic stroke). The term “silent” denotes lack of acute symptoms.
+Exclusions:	Transient ischaemic attack (8B10)
+Cerebral ischaemic stroke (8B11)
+Intracerebral haemorrhage (8B00)
+Subarachnoid haemorrhage (8B01)
+Stroke not known if ischaemic or haemorrhagic (8B20)
+
+8B21.0	Silent cerebral infarct
+Cerebral infarct that has not caused acute focal dysfunction of the brain.
+
+8B21.1	Silent cerebral microbleed
+Small bleeding in the brain parenchyma that has not caused acute focal dysfunction of the brain.
+
+8B21.Y	Other specified cerebrovascular disease with no acute cerebral symptom
+
+8B21.Z	Cerebrovascular disease with no acute cerebral symptom, unspecified
+
+  8B22  	Certain specified cerebrovascular diseases
+Specified other abnormalities of intracranial or extracranial arteries or veins. Entities in this section may be used in combination with other diagnostic codes in this block. Several of the entities may each cause different types of cerebrovascular disease such as TIA, cerebral ischemic stroke or intracerebral haemorrhage; may be associated with other clinical syndromes; or may be asymptomatic (not having caused acute focal dysfunction of the brain).
+Section on Intracranial vascular malformations have been much revised compared to ICD-10 based on major scientific progress in this field.
+Cerebral vasoconstriction syndromes and Posterior reversible encephalopathy are considered to be separate entities (as vasoconstriction is not always present in the latter).
+”Progressive vascular leukoencephalopathy (Binswanger’s disease)” has been removed as a separate entity.
+Exclusions:	Late effects of cerebrovascular disease (8B25)
+
+8B22.0	Dissection of cerebral arteries
+Exclusions:	ruptured cerebral arteries (8B01)
+
+8B22.1	Cerebral venous thrombosis
+Exclusions:	Cerebral ischaemic stroke (8B11)
+Cerebral venous thrombosis in the puerperium (JB41.3)
+Coded Elsewhere:	Cerebral venous thrombosis in pregnancy (JA61.5)
+
+8B22.2	Cerebral vasoconstriction syndromes
+Cerebral vasoconstriction syndrome is characterised by severe headaches, with or without other acute neurological symptoms, and diffuse segmental constriction of cerebral arteries
+
+8B22.3	Isolated cerebral amyloid angiopathy
+Cerebral amyloid angiopathy is characterised by the progressive accumulation of amyloid protein in the walls of small-to-medium-sized arteries and arterioles predominantly located in the leptomeningeal space, the cortex, and, to a lesser extent, also in the capillaries and veins.
+
+8B22.4	Intracranial vascular malformation
+
+8B22.40	Arteriovenous malformation of cerebral vessels
+
+8B22.41	Cerebral cavernous malformation
+Cerebral cavernomas, still called cavernous angiomas, angioma cavernosum or cavernous hemangiomas, are vascular malformations in the brain that are asymptomatic or lead to seizures and/or cerebral haemorrhages. These are often found in an inheritable disorder with autosomal dominant inheritance.
+
+8B22.42	Dural arteriovenous fistula
+Dural arteriovenous fistulas are formed by an abnormal connection between arteries within the dura mater and veins that normally drain the brain.
+
+8B22.43	Carotid cavernous fistula
+A carotid-cavernous fistula results from an abnormal communication between the arterial and venous systems within the cavernous sinus in the skull.
+
+8B22.4Y	Other specified intracranial vascular malformation
+
+8B22.4Z	Intracranial vascular malformation, unspecified
+
+8B22.5	Cerebral aneurysm, nonruptured
+Exclusions:	Congenital cerebral nonruptured aneurysm (LA90.42)
+ruptured cerebral aneurysm (8B01.0)
+
+8B22.6	Familial cerebral saccular aneurysm
+These are pouch-like expansions of arteries inside the skull that are familial.
+
+8B22.7	Cerebral arteritis, not elsewhere classified
+
+8B22.70	Primary cerebral arteritis
+Primary cerebral arteritis (or "angiitis") results from inflammation and destruction of central nervous system (CNS) vessels without evidence of vasculitis outside the CNS
+
+8B22.7Y	Other specified cerebral arteritis, not elsewhere classified
+
+8B22.7Z	Cerebral arteritis, not elsewhere classified, unspecified
+
+8B22.8	Hypertensive encephalopathy
+
+8B22.9	Migraine-induced stroke
+
+8B22.A	Subclavian steal syndrome
+
+8B22.B	Moyamoya syndrome
+
+8B22.C	Hereditary cerebrovascular diseases
+Hereditary cerebrovascular disease does not include effects from abnormalities due other vascular diseases which are independent of the nervous system.
+
+8B22.C0	CADASIL - [cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy] syndrome
+CADASIL is the acronym for Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy. CADASIL is a genetic disease transmitted in an autosomal dominant pattern. It is associated with ischemic stroke, migraine, dementia, psychological disturbances.
+
+8B22.C1	CARASIL - [cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy] syndrome
+CARASIL is the acronym for cerebral autosomal recessive arteriopathy with subcortical ischaemic strokes and leukoencephalopathy.
+
+8B22.CY	Other specified hereditary cerebrovascular diseases
+
+8B22.CZ	Hereditary cerebrovascular diseases, unspecified
+
+8B22.Y	Other specified cerebrovascular disease
+
+  8B23  	Cerebrovascular abnormalities
+Cerebrovascular abnormalities in diseases that also involve other parts of the vascular system than intracranial and extracranial arteries, or other body systems than the nervous system.
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Vein of Galen aneurysm (LA90.20)
+Cerebral arteritis in infectious or parasitic diseases (8B22.7Y)
+
+  8B24  	Hypoxic-ischaemic encephalopathy
+Brain damage due to hypoxia-ischemia: Previous term Anoxic brain damage has been changed. The new term is now widely accepted, and better describes the pathophysiology, i.e., the combination of complete and incomplete transitory global cerebral ischemia together with a combination of anoxia and hypoxia. In a surviving patient, pure anoxic encephalopathy is very uncommon.
+Exclusions:	complicating: surgical and medical care (BlockL1‑NE8)
+neonatal anoxia (KB21)
+Central nervous system complications of anaesthesia during pregnancy (JA67.2)
+complicating: abortion or ectopic or molar pregnancy (BlockL1‑JA0)
+Central nervous system complications of anaesthesia during labour or delivery (JB0C.3)
+Central nervous system complications of anaesthesia during the puerperium (JB43.2)
+Coded Elsewhere:	Hypoxic ischaemic encephalopathy of newborn (KB04)
+
+  8B25  	Late effects of cerebrovascular disease
+Effects of cerebrovascular disease 1 month or later after the onset of the disease. Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.0	Late effects of cerebral ischemic stroke
+Late effects of cerebral ischaemic stroke 1 month or later after the onset of the disease. Codes for the acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.1	Late effects of intracerebral haemorrhage
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.2	Late effects of subarachnoid haemorrhage
+Late effects of non-traumatic subarachnoid haemorrhage 1 month or later after the onset of the disease. Codes for acute haemorrhage should be exclusively used for the acute haemorrhage and immediately related hospitalisation episodes.
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. 
+Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.3	Late effects of other nontraumatic intracranial haemorrhage
+Late effects of other non-traumatic intracranial haemorrhage 1 month or later after the onset of the disease. Codes for acute episode should be exclusively used for the acute haemorrhage and immediately related hospitalisation episodes.
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added.
+Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.4	Late effects of stroke not known if ischaemic or haemorrhagic
+Late effects occurring 1 month or later after the onset of the disease. Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. 
+Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.Y	Late effects of other specified cerebrovascular disease
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+8B25.Z	Late effects of cerebrovascular disease, unspecified
+Coding Note:	Use of the code ”Late effects of cerebrovascular disease” requires that there are residual (still persisting) symptoms or signs after a previous cerebrovascular event. Codes for neurological symptoms may be added. Code first, the specific residual condition(s) resulting from a previous cerebrovascular event. 
+Codes for acute stroke should be exclusively used for the acute stroke and immediately related hospitalisation episodes.
+
+  8B26  	Vascular syndromes of brain in cerebrovascular diseases
+Coding Note:	Code aslo the causing condition
+
+8B26.0	Brainstem stroke syndrome
+Coding Note:	Code aslo the causing condition
+
+8B26.1	Cerebellar stroke syndrome
+Coding Note:	Code aslo the causing condition
+
+8B26.2	Middle cerebral artery syndrome
+Coding Note:	Code aslo the causing condition
+
+8B26.3	Anterior cerebral artery syndrome
+Coding Note:	Code aslo the causing condition
+
+8B26.4	Posterior cerebral artery syndrome
+Coding Note:	Code aslo the causing condition
+
+8B26.5	Lacunar syndromes
+Coding Note:	Code aslo the causing condition
+
+8B26.50	Pure motor lacunar syndrome
+
+8B26.51	Pure sensory lacunar syndrome
+
+8B26.5Y	Other specified lacunar syndromes
+Coding Note:	Code aslo the causing condition
+
+8B26.5Z	Lacunar syndromes, unspecified
+Coding Note:	Code aslo the causing condition
+
+8B26.Y	Other specified vascular syndromes of brain in cerebrovascular diseases
+Coding Note:	Code aslo the causing condition
+
+8B26.Z	Vascular syndromes of brain in cerebrovascular diseases, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8B2Z  	Cerebrovascular diseases, unspecified
+
+Spinal cord disorders excluding trauma (BlockL1‑8B4)
+Coded Elsewhere:	Dural arteriovenous fistula (8B22.42)
+Intervertebral disc degeneration (FA80)
+  8B40  	Cauda equina syndrome
+
+  8B41  	Myelitis
+Coding Note:	Code aslo the causing condition
+
+  8B42  	Myelopathy
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Myelopathy due to nutritional deficiency (8D40.Y)
+
+  8B43  	Non-compressive vascular myelopathies
+Non-compressive spinal cord syndromes due to arterial or venous circulation anomalies.
+
+8B43.0	Acute arterial infarction of the spinal cord
+Acute arterial infarction of the spinal cord is due to occlusion of the anterior or posterior spinal arteries or their branches. Classical anterior spinal artery occlusion in the watershed zone in the lower cervical cord causes a specific cord syndrome with sparing of the posterior segment of the cord. Associated aortic atherosclerotic disease as well as dissection should not be overlooked.
+
+8B43.1	Acute venous infarction of the spinal cord
+
+8B43.2	Chronic venous infarction of the spinal cord
+
+8B43.Y	Other specified non-compressive vascular myelopathies
+
+8B43.Z	Non-compressive vascular myelopathies, unspecified
+
+  8B44  	Degenerative myelopathic disorders
+Coded Elsewhere:	Friedreich ataxia (8A03.10)
+Primary lateral sclerosis (8B60.4)
+
+8B44.0	Hereditary spastic paraplegia
+Hereditary spastic paraplegias (HSP) comprise a genetically and clinically heterogeneous group of neurodegenerative disorders characterised by varying degrees of lower limb spasticity, pyramidal weakness, hyperreflexia and hypertonic bladder involvement. Clinically, HSPs can be divided into two main groups: uncomplicated (pure) and complicated (complex) forms depending on the presence of other neurological features including ataxia, peripheral neuropathy, cognitive impairment, epilepsy, amyotrophy, retinopathy, deafness, ichthyosis and extrapyramidal involvement, in addition to spastic paraparesis. Pure HSPs are characterised by slowly progressive lower extremity spasticity and weakness, often associated with hypertonic urinary disturbances, mild reduction of lower extremity vibration sense and, occasionally, of joint position sensation. Complex HSP forms are characterised by the presence of additional neurological or non-neurological features. A positive family history particularly in autosomal dominant cases is often but not always present. The diagnosis may be aided by neuroimaging and genetic testing.
+Coded Elsewhere:	Spastic paraplegia - nephritis - deafness (LD2H.Y)
+
+8B44.00	Autosomal dominant hereditary spastic paraplegia
+
+8B44.01	Autosomal recessive hereditary spastic paraplegia
+
+8B44.02	X-linked hereditary spastic paraplegia
+
+8B44.0Y	Other specified hereditary spastic paraplegia
+
+8B44.0Z	Hereditary spastic paraplegia, unspecified
+
+8B44.Y	Other specified degenerative myelopathic disorders
+
+8B44.Z	Degenerative myelopathic disorders, unspecified
+
+  8B4Y  	Other specified spinal cord disorders excluding trauma
+
+  8B4Z  	Spinal cord disorders excluding trauma, unspecified
+
+Motor neuron diseases or related disorders (BlockL1‑8B6)
+A group of genetic disorders characterised by progressive weakness secondary to degeneration of the lower motor neurons
+  8B60  	Motor neuron disease
+Motor neuron disease is a neurodegenerative disorder of undetermined etiology, characterised by degeneration of upper motor neurons (cortical Betz cells and corticospinal tract) or lower motor neurons (ventral horns of spinal cord and cranial nerve motor nuclei) or both. Features of involvement of lower motor neurons (LMN) are atrophy, weakness, fasciculations, hypotonia, decreased or absent deep tendon reflexes. Features of involvement of upper motor neurons (UMN) are spasticity, exaggerated deep tendon reflexes, and extensor plantar responses. Depending on the site of onset and the presence of UMN or LMN features or both, MND has varying patterns and distributions of signs and symptoms.
+Coded Elsewhere:	Brown-Vialetto-van Laere syndrome (LD2H.Y)
+
+8B60.0	Amyotrophic lateral sclerosis
+Amyotrophic lateral sclerosis (ALS) is a progressive, fatal disorder in which progressive signs of LMN and UMN degeneration are seen within one or more of the four regions: bulbar, cervical, thoracic and lumbosacral. Electrophysiological studies may be required to confirm lower motor neuron degeneration and to exclude alternative causes. Neuroimaging may be performed to exclude other causes, which might explain the clinical and electrophysiological features. Familial ALS (FALS) of autosomal dominant inheritance, constitutes 5 to 10% of ALS. The clinical profile of FALS and sporadic ALS is similar. Mutations in the C9ORF72 and Cu/Zn superoxide dismutase (SOD1) genes constitute 50-60% of FALS.
+
+8B60.1	Progressive bulbar palsy
+Progressive bulbar palsy (PBP) is a variant of amyotrophic lateral sclerosis that initially presents with symptoms of bulbar weakness such as dysarthria and dysphagia. Symptoms may remain relatively confined to the bulbar region. PBP more commonly affects females than males. Patients typically progress to develop limb weakness and features consistent with more typical ALS at a later stage of disease.
+
+8B60.2	Progressive pseudobulbar palsy
+Spastic speech, difficulty in swallowing, emotional lability, brisk jaw jerk, release reflexes such as palmomental reflex due to involvement of craniobulbar tracts are the common features of progressive pseudobulbar palsy. Usually mild lower motor neuron signs observed in progressive bulbar palsy may also co-exist or may develop during the progression of the disorder.
+
+8B60.3	Progressive muscular atrophy
+In progressive muscular atrophy, lower motor neuron signs in limb and trunk muscles are present without upper motor neuron involvement. Over time, some patients may progress to develop upper motor neuron signs, of which pathological evidence is common even in patients who never displayed clinical upper motor neuron signs, suggesting that progressive muscular atrophy is a form of ALS.
+Exclusions:	Fazio-Londe syndrome (8B60)
+Amyotrophic lateral sclerosis (8B60.0)
+
+8B60.4	Primary lateral sclerosis
+Primary lateral sclerosis (PLS) is a rare motor neuron disease variant which presents with slowly progressive UMN signs, such as spastic gait, brisk deep tendon jerks, and extensor plantar responses. Onset is most commonly with spastic paraparesis, but patients typically progress to develop upper limb and bulbar involvement. The characteristic feature of PLS is the complete absence of involvement of lower motor neuron involvement. When LMN signs develop during the course of the disease, the diagnosis will change to ALS, and they are considered a spectrum of the same disorder.
+
+8B60.5	Amyotrophic lateral sclerosis-Plus
+This category represents a group of disorders with motor symptoms of ALS and superimposed features of dysfunction of other neurological systems, such as extrapyramidal, cerebellar or cognitive dysfunction.
+
+8B60.6	Monomelic amyotrophy
+Atrophy and weakness restricted to one upper or lower limb, onset in the second or third decade, male predominance, and sporadic occurrence are characteristic features of MMA. Other typical features include: insidious onset of lower motor neuron signs due to anterior horn cell involvement, absence of upper motor neuron signs, slow progression followed by stabilization within a few years,, and a benign symptomatic disease course. MMA is particularly prevalent in Asia although is encountered worldwide.
+
+8B60.7	Madras type motor neuron disease
+
+8B60.Y	Other specified motor neuron disease
+
+8B60.Z	Motor neuron disease, unspecified
+
+  8B61  	Spinal muscular atrophy
+Spinal muscular atrophy (SMA) is a progressive disorder with loss of anterior horn cells leading to muscle weakness and wasting. The weakness is typically symmetrical. Typically, upper motor neuron signs are absent and there is no sensory deficit. Feeding and swallowing can be affected, and involvement of respiratory muscles may occur. SMA is an autosomal recessive disorder linked to chromosome 5q13 and the disorder is caused by deletion or mutation of SMN 1 (spinal motor neuron 1) gene. The four types of SMA I, II, III and IV are categorised based on the age of onset of the disease and the ability to achieve motor milestones.
+
+8B61.0	Infantile spinal muscular atrophy, Type I
+In SMA type 1, onset of weakness may be prenatal (decreased fetal movements toward the end of pregnancy) or within the first six months of life. Infants demonstrate a characteristic frog position with the thighs externally rotated and abducted and knees the flexed (floppy infant). Bulbar weakness causes feeding difficulty. Children are never able to sit without support, and the average survival is 9 months; survival beyond 2 years is rare.
+
+8B61.1	Late infantile spinal muscular atrophy, Type II
+In SMA type 2, muscle weakness is seen between the ages of 6 to 18 months. The child can sit unsupported, but cannot stand or walk independently. Death usually occurs between 2 years of age and young adulthood.
+
+8B61.2	Juvenile form spinal muscular dystrophy, Type III
+In SMA type 3, weakness of muscles is seen after 18 months of age. The child is able to sit and stand independently. There is a limb girdle-type of distribution of weakness causing waddling gait, falls, and difficulty with running. The ability to walk may be lost, requiring a wheelchair as the disease progresses. The life expectancy may be normal.
+
+8B61.3	Adult onset spinal muscular atrophy, Type IV
+In SMA type 4 weakness, most commonly develops after 35 years of age (less commonly between 18 to 35 years old). Weakness of proximal muscles is more prominent in the legs than in the arms. Insidious onset and very slow progression are the characteristic features, and life span is normal.
+
+8B61.4	Localised spinal muscular atrophy
+This category comprises a group of disorders with a varied pattern of weakness and autosomal dominant or X-linked recessive inheritance with specific genetic profiles.
+
+8B61.Y	Other specified spinal muscular atrophy
+
+8B61.Z	Spinal muscular atrophy, unspecified
+
+  8B62  	Post polio progressive muscular atrophy
+The diagnostic criteria for Post-polio progressive muscular atrophy (PPMA) are: a credible history of poliomyelitis with partial recovery of function, a minimum 10-year period of stabilization, and the subsequent development of progressive muscle weakness. Symptoms of weakness, atrophy, and fatigue of previously affected muscles may be seen. These symptoms may also be newly noted in muscles that were apparently unaffected by the poliomyelitis episode. Muscle cramps and fasciculations may accompany the new weakness.
+Inclusions:	Post polio myelitic syndrome
+
+  8B6Y  	Other specified motor neuron diseases or related disorders
+
+  8B6Z  	Motor neuron diseases or related disorders, unspecified
+
+Disorders of nerve root, plexus or peripheral nerves (BlockL1‑8B8)
+Exclusions:	neuritis NOS (FB56)
+Injury of cranial nerves (NA04)
+Injury of nerves or spinal cord at neck level (BlockL2‑NA3)
+Injury of nerves or lumbar spinal cord at abdomen, lower back or pelvis level (BlockL2‑NB6)
+Injury of nerves at shoulder or upper arm level (NC14)
+Injury of nerves at forearm level (NC34)
+Injury of nerves at wrist or hand level (NC55)
+Injury of nerves at hip or thigh level (NC74)
+Injury of nerves at lower leg level (NC94)
+Injury of nerves at ankle or foot level (ND15)
+Coded Elsewhere:	Neuromyotonia (8C71.4)
+Disorder of the optic nerve (9C40)
+Ocular motor nerve palsies (9C81)
+Infections of the peripheral nerves (1D0Y)
+Disorders of cranial nerves (BlockL2‑8B8)
+Exclusions:	Disorders of acoustic nerve (AB72)
+Disorder of the optic nerve (9C40)
+Coded Elsewhere:	Acute neuropathy of cranial nerve due to zoster (1E91.4)
+Ocular motor nerve palsies (9C81)
+  8B80  	Disorders of olfactory nerve
+Inclusions:	Disorder of 1st cranial nerve
+Exclusions:	Idiopathic anosmia (MB41.0)
+Idiopathic parosmia (MB41.1)
+Coded Elsewhere:	Injury of olfactory nerve (NA04.0)
+
+  8B81  	Disorders of vestibulocochlear nerve
+Coded Elsewhere:	Vestibular neuritis (AB30.0)
+Meniere disease (AB31.0)
+Acquired hearing impairment (AB51)
+Acute vestibular syndrome (AB30)
+Episodic vestibular syndrome (AB31)
+Chronic vestibular syndrome (AB32)
+
+8B81.0	Brainstem lesion
+
+8B81.Y	Other specified disorders of vestibulocochlear nerve
+
+8B81.Z	Disorders of vestibulocochlear nerve, unspecified
+
+  8B82  	Disorders of trigeminal nerve
+The trigeminal nerve is a mixed nerve with three divisions, ophthalmic, maxillary and mandibular divisions, that provides sensory innervation to the face and mucous membrane of the oral and nasal cavities and motor innervations to the muscle of mastication, tensor tympani, tensor veli palatine, mylohyoid and anterior belly of the digastric muscle. The trigeminal nuclear complex extends throughout the brainstem, hence it is susceptible to many pathologic processes including demyelination, ischemia, haemorrhage, infectious and non-infectious inflammation and neoplasm leading to symptoms of trigeminal nerve involvement. Compression of the sensory nerve root outside the brain stem by a vascular loop leads to trigeminal neuralgia. Symptoms and signs depend on the site of the lesion. In general, a trigeminal nerve disorder is associated with hemisensory facial loss, deviation of the jaw to paralysed side on opening of the mouth, and loss of the corneal reflex.
+
+8B82.0	Trigeminal neuralgia
+Trigeminal neuralgia is a manifestation of orofacial neuropathic pain restricted to one or more divisions of the trigeminal nerve. The pain is recurrent, abrupt in onset and termination, triggered by innocuous stimuli and typically compared to an electric shock or described as shooting or stabbing. Some patients experience continuous pain between these painful paroxysms.
+
+8B82.1	Atypical facial pain
+This is a chronic pain of the face, which does not meet other diagnostic criteria.
+
+8B82.Z	Disorders of trigeminal nerve, unspecified
+
+  8B83  	Disorders of spinal accessory nerve
+Coded Elsewhere:	Injury of accessory nerve (NA04.A)
+Lesion in jugular foramen (8B87)
+
+  8B84  	Disorders of hypoglossal nerve
+
+  8B85  	Disorders of multiple cranial nerves
+This is a group of disorders of multiple cranial nerves, the twelve nerves that emerge from the brain and brainstem.
+Inclusions:	Cranial polyneuritis
+
+  8B86  	Disorders of vagus nerve
+Exclusions:	Paralysis of vocal cords or larynx (CA0H.0)
+Coded Elsewhere:	Lesion in jugular foramen (8B87)
+
+  8B87  	Disorders of glossopharyngeal nerve
+Inclusions:	Disorders of 9th cranial nerve
+
+  8B88  	Disorders of facial nerve
+
+8B88.0	Bell palsy
+
+8B88.1	Facial myokymia
+
+8B88.2	Hemifacial spasm
+Hemifacial spasm (HFS) is a movement disorder most commonly caused by vascular compression of the VII cranial nerve at its root exit zone from the brainstem. It manifests as involuntary contractions and twitching on ipsilateral side of the face.
+
+8B88.3	Facial neuritis
+
+8B88.Y	Other specified disorders of facial nerve
+
+8B88.Z	Disorders of facial nerve, unspecified
+
+  8B8Y  	Other specified disorders of cranial nerves
+
+  8B8Z  	Disorders of cranial nerves, unspecified
+
+Nerve root or plexus disorders (BlockL2‑8B9)
+Exclusions:	intervertebral disc disorders (BlockL2‑FA8)
+Spondylolysis (FA81)
+  8B90  	Nerve root and plexus compressions
+Coding Note:	Code aslo the causing condition
+
+  8B91  	Brachial plexus disorders
+
+8B91.0	Neuralgic shoulder amyotrophy
+Parsonage-Turner syndrome is a rare condition of unknown etiology that presents with a characteristic pattern of sudden and acute pain across the top of the shoulder, lasting a few hours to a fortnight, followed by flaccid paralysis of some muscles of the shoulder girdle.
+
+8B91.1	Thoracic outlet syndrome due to cervical rib
+
+8B91.Y	Other specified brachial plexus disorders
+
+8B91.Z	Brachial plexus disorders, unspecified
+
+  8B92  	Lumbosacral plexus disorders
+
+8B92.0	Post radiation lumbosacral plexopathy
+
+8B92.1	Vasculitic lumbosacral plexopathy
+
+8B92.2	Diabetic lumbosacral plexopathy
+Coding Note:	Always assign an additional code for diabetes mellitus
+
+8B92.3	Lumbosacral radiculoplexopathy
+
+8B92.Y	Other specified lumbosacral plexus disorders
+
+8B92.Z	Lumbosacral plexus disorders, unspecified
+
+  8B93  	Radiculopathy
+Exclusions:	Neuritis (FB56)
+Intervertebral disc degeneration (FA80)
+
+8B93.0	Radiculopathy due to compression
+
+8B93.1	Radiculopathy due to metabolic disorders
+
+8B93.2	Radiculopathy due to electric shock or lightning
+
+8B93.3	Radiculopathy due to radiation injury
+
+8B93.4	Radiculopathy due to nutritional deficiencies
+
+8B93.5	Radiculopathy due to toxicity
+
+8B93.6	Radiculopathy due to intervertebral disc disorders
+
+8B93.7	Radiculopathy due to neoplastic disease
+
+8B93.8	Radiculopathy due to spondylosis
+
+8B93.Y	Other specified radiculopathy
+
+8B93.Z	Radiculopathy, unspecified
+
+  8B94  	Diabetic radiculoplexoneuropathy
+Diabetic radiculoplexoneuropathy is a rare, but established complication of a focal neuropathy occurring in patients with diabetes type 2. Etiologically inflammatory changes of microvasculitis are assumed. It is independent on the stage of diabetes and often occurs usually in association of weight loss, not before the 4th or 5th decade. It presents with acute severe pain, and predominant motor involvement of the lumbar plexus often asymmetric and usually unilateral. Muscle atrophy occurs early. It is self limiting, but disability may persist.
+Always assign an additional code for the type of diabetes mellitus.
+Coding Note:	Code aslo the causing condition
+
+  8B9Y  	Other specified nerve root or plexus disorders
+
+  8B9Z  	Nerve root or plexus disorders, unspecified
+
+Polyneuropathy (BlockL2‑8C0)
+  8C00  	Idiopathic progressive neuropathy
+
+  8C01  	Inflammatory polyneuropathy
+Acquired inflammatory peripheral neuropathies are of a presumed immune etiology and are classified on the basis of their clinical course: acute inflammatory demyelinating polyneuropathy (AIDP or Guillain-Barré syndrome) with the motor deficit reaching a maximal level by 28 days, and chronic inflammatory demyelinating polyneuropathy (CIDP) which has a slowly progressive course of two or more months or a relapsing remitting course. There are many variants of AIDP and CIDP.
+
+8C01.0	Acute inflammatory demyelinating polyneuropathy
+Progressive weakness of the limbs over a few days to 28 days, symmetrical deficit, areflexia, absent or mild sensory disturbance, elevated cerebrospinal fluid protein, and slowing of nerve conduction velocities are the cardinal features. The disorder may be preceded by upper respiratory or gastrointestinal infection or immunization 1 to 4 weeks prior to onset of the illness. Bifacial palsy may be present.
+Inclusions:	Acute Inflammatory Demyelinating Polyradiculoneuropathy
+
+8C01.1	Post vaccinal neuropathy
+
+8C01.2	Subacute inflammatory demyelinating polyneuropathy
+Subacute inflammatory demyelinating polyneuropathy (SIDP) is a subacute progressive symmetric sensorial and/or motor disorder characterised by muscular weakness with impaired sensation, absent or diminished tendon reflexes and elevated cerebrospinal fluid (CSF) proteins. SIDP is an intermediate form between Guillain-Barr syndrome (GBS) and chronic inflammatory demyelinating polyneuropathy (CIDP).
+
+8C01.3	Chronic inflammatory demyelinating polyneuropathy
+Chronic inflammatory demyelinating polyneuropathy is a chronic monophasic, progressive or relapsing symmetric sensorimotor disorder characterised by progressive muscular weakness with impaired sensation, absent or diminished tendon reflexes and elevated cerebrospinal fluid proteins.
+
+8C01.Y	Other specified inflammatory polyneuropathy
+
+8C01.Z	Inflammatory polyneuropathy, unspecified
+
+  8C03  	Other secondary polyneuropathy
+Coding Note:	Code aslo the causing condition
+
+8C03.0	Diabetic polyneuropathy
+Coding Note:	Always assign an additional code for diabetes mellitus.
+Coded Elsewhere:	Diabetic foot ulcer (BD54)
+
+8C03.1	Polyneuropathy due to infectious diseases
+Coding Note:	Code aslo the causing condition
+
+8C03.2	Polyneuropathy in neoplastic disease
+Coding Note:	Code aslo the causing condition
+
+8C03.3	Polyneuropathy in nutritional deficiency
+Coding Note:	Code aslo the causing condition
+
+8C03.4	Polyneuropathy in systemic connective tissue disorders
+Coding Note:	Code aslo the causing condition
+
+8C03.Y	Other specified secondary polyneuropathy
+Coding Note:	Code aslo the causing condition
+
+8C03.Z	Other secondary polyneuropathy, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8C0Y  	Other specified polyneuropathy
+
+  8C0Z  	Polyneuropathy, unspecified
+
+Mononeuropathy (BlockL2‑8C1)
+  8C10  	Mononeuropathies of upper limb
+Damage to a single nerve or nerve group of the upper limb (not including central nervous structures such as the brain, brainstem or spinal cord), resulting in a loss of movement, sensation and/or autonomic function)
+Coding Note:	Code aslo the causing condition
+Exclusions:	current traumatic nerve disorder - see nerve injury by body region (Chapter 22)
+
+8C10.0	Carpal tunnel syndrome
+A compression neuropathy due to entrapment of the median nerve within the carpal tunnel at the wrist.
+Coding Note:	Code aslo the causing condition
+
+8C10.1	Lesion of ulnar nerve
+Coding Note:	Code aslo the causing condition
+Inclusions:	Tardy ulnar nerve palsy
+Exclusions:	Injury of ulnar nerve at upper arm level (NC14.0)
+Injury of ulnar nerve at forearm level (NC34.0)
+Injury of ulnar nerve at wrist or hand level (NC55.0)
+
+8C10.2	Lesion of radial nerve
+Coding Note:	Code aslo the causing condition
+Exclusions:	Injury of radial nerve at upper arm level (NC14.2)
+Injury of radial nerve at forearm level (NC34.2)
+Injury of radial nerve at wrist or hand level (NC55.2)
+
+8C10.Y	Other specified mononeuropathies of upper limb
+Coding Note:	Code aslo the causing condition
+
+8C10.Z	Mononeuropathies of upper limb, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8C11  	Mononeuropathies of lower limb
+Damage to a single nerve or nerve group of the lower limb (not including central nervous structures such as the brain, brainstem or spinal cord), resulting in a loss of movement, sensation and/or autonomic function)
+Coding Note:	Code aslo the causing condition
+Inclusions:	Mononeuritis of lower limb
+Exclusions:	current traumatic nerve disorder - see nerve injury by body region (Chapter 22)
+
+8C11.0	Lesion of sciatic nerve
+Disease or damage involving the SCIATIC NERVE, which divides into the PERONEAL NERVE and TIBIAL NERVE (see also PERONEAL NEUROPATHIES and TIBIAL NEUROPATHY). Clinical manifestations may include SCIATICA or pain localised to the hip, PARESIS or PARALYSIS of posterior thigh muscles and muscles innervated by the peroneal and tibial nerves, and sensory loss involving the lateral and posterior thigh, posterior and lateral leg, and sole of the foot. The sciatic nerve may be affected by trauma; ISCHEMIA; COLLAGEN DISEASES; and other conditions.
+Coding Note:	Code aslo the causing condition
+Exclusions:	sciatica attributed to intervertebral disc disorder (FA80)
+sciatica NOS (ME84.3)
+Injury of sciatic nerve at hip or thigh level (NC74.0)
+
+8C11.00	Sciatic nerve piriformis syndrome
+
+8C11.0Y	Other specified lesion of sciatic nerve
+Coding Note:	Code aslo the causing condition
+
+8C11.0Z	Lesion of sciatic nerve, unspecified
+Coding Note:	Code aslo the causing condition
+
+8C11.1	Meralgia paraesthetica
+Coding Note:	Code aslo the causing condition
+
+8C11.2	Lesion of femoral nerve
+Coding Note:	Code aslo the causing condition
+Exclusions:	Injury of femoral nerve at hip or thigh level (NC74.1)
+
+8C11.3	Lesion of common peroneal nerve
+Coding Note:	Code aslo the causing condition
+Exclusions:	Injury of peroneal nerve at lower leg level (NC94.1)
+
+8C11.4	Lesion of tibial nerve
+Coding Note:	Code aslo the causing condition
+Exclusions:	Injury of tibial nerve at lower leg level (NC94.0)
+
+8C11.5	Tarsal tunnel syndrome
+Coding Note:	Code aslo the causing condition
+
+8C11.6	Lesion of plantar nerve
+Disease or damage to the medial and/or lateral plantar nerves, branches of the tibial nerve below the level of the tarsal tunnel secondary to insult.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Tarsal tunnel syndrome (8C11.5)
+Injury of lateral plantar nerve (ND15.0)
+Injury of medial plantar nerve (ND15.1)
+
+8C11.Y	Other specified mononeuropathies of lower limb
+Coding Note:	Code aslo the causing condition
+
+8C11.Z	Mononeuropathies of lower limb, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8C12  	Certain specified mononeuropathies
+
+8C12.0	Intercostal neuropathy
+Peripheral neuropathy of the intercostal nerves
+
+8C12.1	Mononeuritis multiplex
+
+8C12.2	Lesion of suprascapular nerve
+
+8C12.3	Lesion of axillary nerve
+
+8C12.4	Lesion of long thoracic nerve
+
+8C12.5	Traumatic neuroma, not otherwise specified
+Exclusions:	Neuroma of amputation stump (NE85.3)
+
+8C12.Y	Mononeuropathy of other specified nerve
+
+  8C1Y  	Mononeuropathy of other specified site
+
+  8C1Z  	Mononeuropathy of unspecified site
+
+Hereditary neuropathy (BlockL2‑8C2)
+  8C20  	Hereditary motor and sensory neuropathy
+Inclusions:	Hereditary motor and sensory neuropathy, types I-IV
+
+8C20.0	Charcot-Marie-Tooth disease 1 demyelinating
+
+8C20.1	Charcot-Marie-Tooth disease 2 axonal
+
+8C20.2	Intermediate Charcot-Marie-Tooth disease
+
+8C20.Y	Other specified hereditary motor and sensory neuropathy
+
+8C20.Z	Hereditary motor and sensory neuropathy, unspecified
+
+  8C21  	Hereditary sensory or autonomic neuropathy
+Coded Elsewhere:	Primary erythromelalgia (EG00)
+
+8C21.0	Hereditary sensory and autonomic neuropathy type I
+Hereditary sensory autonomic type I neuropathies are autosomal dominant sensory-autonomic sensory polyneuropathies
+
+8C21.1	Hereditary sensory and autonomic neuropathy type III
+Hereditary sensory and autonomic neuropathy, type 3 (HSAN3) is an autosomal recessive disorder seen primarily in Ashkenazi Jewish children caused by a mutation in the I-kappa B kinase associated protein. 
+It is characterised by sensory dysfunction and severe impairment of the autonomic nervous system activity, resulting in multisystem dysfunction. 
+Symptoms can include insensitivity to pain and temperature, intact visceral pain, alacrima, hypoactive corneal and tendon reflexes and absence of lingual fungiform papillae.
+
+8C21.2	Hereditary sensory and autonomic neuropathy type IV
+Hereditary sensory and autonomic neuropathy, type 4 (HSAN4) is an inherited disorder characterised by anhidrosis, insensitivity to pain, self-mutilating behaviour and episodes of fever.
+
+8C21.3	Hereditary sensory and autonomic neuropathy type V
+Hereditary sensory and autonomic neuropathy, type 5 (HSAN5) is characterised by loss of pain perception and impaired temperature sensitivity, in the absence of any other major neurological anomalies.
+
+8C21.Y	Other specified hereditary sensory or autonomic neuropathy
+
+8C21.Z	Hereditary sensory or autonomic neuropathy, unspecified
+
+  8C2Y  	Other specified hereditary neuropathy
+
+  8C2Z  	Hereditary neuropathy, unspecified
+
+
+  8C4Y  	Other specified disorders of nerve root, plexus or peripheral nerves
+
+  8C4Z  	Disorders of nerve root, plexus or peripheral nerves, unspecified
+
+Diseases of neuromuscular junction or muscle (BlockL1‑8C6)
+Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Myasthenia gravis is the most common autoimmune disease affecting the neuromuscular junction and is characterised by painless fatigable muscle weakness. It is caused by autoantibodies against neuromuscular junction proteins, either the nicotinic acetylcholine receptor (AChR) or the muscle specific tyrosine kinase (MuSK). Mutations in neuromuscular junction proteins cause congenital myasthenic syndromes. Other antibodies mediated conditions affecting the neuromuscular junction, including Lambert Eaton myasthenic syndrome and neuromyotonia.
+Coded Elsewhere:	Botulism (1A11)
+Neuromuscular junction disorders due to toxicity (NE61)
+  8C60  	Myasthenia gravis
+Myasthenia gravis is the most common acquired auto-antibody mediated neuromuscular transmission disorder. Prevalence is 1–2 per 10,000 persons. Fluctuating weakness increasing with repeated activity and improving after a period of rest is the hallmark. Myasthenia Gravis with antibodies directed against postsynaptic proteins, usually the nicotinic acetylcholine receptor are the most prevalent. Other types are Myasthenia Gravis associated with muscle-specific kinase antibodies and MG with unknown autoantibodies (seronegative) Myasthenia Gravis. 
+There are three groups: 1. Purely ocular Myasthenia Gravis 
+2. Early-onset (<40-50 years) generalised Myasthenia Gravis 
+3. Late-onset generalised MG. 
+In about 15%, the disease can be classified as paraneoplastic, usually associated with a thymoma.
+Coded Elsewhere:	Transient neonatal myasthenia gravis (KB08.0)
+
+8C60.0	Drug-induced myasthenia gravis
+Some drugs can have clear effects on Myasthenia Gravis, including Neuromuscular junction blockers, antibiotics, prednisone, chloroquine, D-penicillamine, interferons, and others. In rapid-onset drug-induced Myasthenia Gravis, myasthenic signs develop within days which rapidly disappear after drug withdrawal. Anti-Acetylcholinesterase antibodies are absent. This disorder may unmask a pre-existing neuromuscular transmission disorder or may exacerbate pre-existing Myasthenia Gravis, i.e. subclinical Myasthenia Gravis becomes manifest after drug treatment, or known MG becomes more severe. Certain drugs are linked with aggravation of Myasthenia Gravis, including pain management medications, tricyclic antidepressants and some antiepileptic medications, and should be used with caution.
+
+8C60.Y	Other specified myasthenia gravis
+
+8C60.Z	Myasthenia gravis, unspecified
+
+  8C61  	Congenital myasthenic syndromes
+Congenital myasthenic syndrome is a heterogeneous group of genetically determined diseases. There are four well-defined categories: Congenital myasthenic syndrome with presynaptic defect, Synaptic basal lamina-associated CMS, Congenital myasthenia with postsynaptic defect, CMS with glycosylation deficiency, and the remaining category is that of unidentified CMS.
+
+  8C62  	Lambert-Eaton syndrome
+Lambert-Eaton myasthenic syndrome, 20 times as rare as Acetylcholine receptor positive Myasthenia gravis with a prevalence of 3.42 per million, is an immune-mediated disease of the neuromuscular junction. Clinically the disease is characterised by proximal weakness of the legs. In most patients, the weakness extends to other muscles including the oculobulbar ones. Autonomic symptoms (dry mouth, erectile dysfunction, constipation) are frequent. Tendon reflexes are reduced. Repetitive nerve stimulation shows low Compound muscle action potentials, decrement >10% al low frequency and increment >100% after maximum voluntary contraction at high frequency.
+
+  8C6Y  	Other specified myasthenia gravis and neuromuscular junction disorders
+
+  8C6Z  	Unspecified myasthenia gravis or neuromuscular junction disorders
+
+Primary disorders of muscles (BlockL2‑8C7)
+Exclusions:	Metabolic disorders (BlockL1‑5C5)
+Arthrogryposis multiplex congenita (LD26.41)
+Coded Elsewhere:	Idiopathic rhabdomyolysis (FB32.20)
+Idiopathic inflammatory myopathy (4A41)
+  8C70  	Muscular dystrophy
+Progressive, hereditary skeletal muscle diseases characterised by muscle weakness, wasting, defects in muscle proteins, necrosis of muscle tissue and replacement of muscle tissue with connective and fatty tissue.
+Coded Elsewhere:	Muscular dystrophy affecting extraocular muscle (9C82.1)
+Barth syndrome (5C50.E0)
+Epidermolysis bullosa simplex with muscular dystrophy (EC30)
+
+8C70.0	Becker muscular dystrophy
+
+8C70.1	Duchenne muscular dystrophy
+Duchenne muscular dystrophy (DMD) is a severe X-linked myopathy caused by mutation in the dystrophin gene with symptoms appearing before the age of 6 with a rapid disease progression. Symptoms may include fatigue, learning difficulties (the IQ can be below 75), Muscle weakness, problems with motor skills, frequent falls and progressive difficulty walking.
+
+8C70.2	Emery-Dreifuss muscular dystrophy
+Emery-Dreifuss muscular dystrophy (EDMD) is a muscle disease characterised by muscular weakness and atrophy, with early contractures of the tendons and cardiac involvement (arrhythmias, cardiomyopathy).
+
+8C70.3	Facioscapulohumeral muscular dystrophy
+Facioscapulohumeral muscular dystrophy (FSHD) is an autosomal dominantly inherited muscle disease characterised by progressive muscle weakness with initial focal involvement of the facial, shoulder and arm muscles.
+
+8C70.4	Limb-girdle muscular dystrophy
+Limb-girdle muscular dystrophy (LGMD) constitutes a group of genetically determined, progressive disorders of muscles, in which the pelvic or shoulder girdle musculature is predominantly or primarily involved. It may be inherited in an autosomal recessive or dominant fashion.
+
+8C70.40	Dominant limb-girdle muscular dystrophy
+The Limb Girdle Muscular Dystrophies (LGMD) are a group of genetic disorders characterised predominantly by progressive wasting and weakness of proximal limb girdle muscles, including pelvic, shoulder, upper arm and thigh muscles. The onset symptoms usually varies from early childhood to late adulthood, and the progression rate and distribution of weakness and wasting also varies considerably among individuals and genetic subtypes. There are currently 8 autosomal dominant LGMDs (LGMD1), linked to specific gene mutations. Dominant LGMDs are often allelic with other clinical disorders, including the myofibrillar myopathies or dilated cardiomyopathy.
+Exclusions:	Secondary myopathies (BlockL2‑8C8)
+Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+
+8C70.41	Recessive limb-girdle muscular dystrophy
+Autosomal recessive limb girdle muscular dystrophies (LGMD2) are a group of genetically heterogeneous diseases that are typically characterised by progressive weakness and wasting of the shoulder and pelvic girdle muscles. Many of the more than 20 different conditions show overlapping clinical features with other forms of muscular dystrophy, congenital, myofibrillar or even distal myopathies and also with acquired muscle diseases. Although individually extremely rare, all types of LGMD2 together form an important differential diagnostic group among neuromuscular diseases.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+8C70.4Y	Other specified limb-girdle muscular dystrophy
+
+8C70.4Z	Limb-girdle muscular dystrophy, unspecified
+
+8C70.5	Scapuloperoneal muscular dystrophy
+Scapuloperoneal muscular dystrophies are a group of genetically heterogeneous myopathies characterised by progressive weakness and wasting of scapular and anterior leg muscles. Emery-Dreifuss muscular dystrophy is a classic scapuloperoneal muscular dystrophy associated with early contractures and cardiac arrhythmia, but other muscle disorders can also present with a scapuloperoneal phenotype.
+Exclusions:	Secondary myopathies (BlockL2‑8C8)
+Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+
+8C70.6	Congenital muscular dystrophy
+Congenital muscular dystrophies with central nervous system abnormalities are a heterogeneous group of autosomal recessively inherited degenerative muscle disorders associated with cerebral and cerebellar dysplasia, white matter abnormalities and ocular abnormalities in some subtypes.
+
+8C70.Y	Other specified muscular dystrophy
+
+8C70.Z	Muscular dystrophy, unspecified
+
+  8C71  	Myotonic disorders
+Group of inherited muscular disorders associated with clinical and/or electrical myotonia. Myotonia is defined clinically as the occurrence of “delayed relaxation of muscle after voluntary contraction or percussion.”
+
+8C71.0	Myotonic dystrophy
+Myotonic dystrophy is a group of inherited muscular disorders. It is the most common form of muscular dystrophy that begins in adulthood. Myotonic dystrophy is characterised by progressive muscle wasting and weakness, and prolonged muscle contractions (myotonia) that are not able to relax after use. Other signs and symptoms of myotonic dystrophy include slurred speech or temporary locking of their jaw, cataracts and cardiac conduction defects. In affected men, hormonal changes may lead to early balding and infertility. The clinical severity varies widely among affected patients, even among members of the same family.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+Coded Elsewhere:	Myotonic cataract (9B10.2Y)
+
+8C71.1	Chondrodystrophic myotonia
+Schwartz-Jampel syndrome is a congenital myotonic syndrome characterised by myotonia that results in a characteristic facies with blepharophimosis and a puckered facial appearance, and osteoarticular abnormalities leading to limited joint mobility.
+
+8C71.2	Myotonia congenita
+Thomsen and Becker disease are myotonic disorders characterised by slow muscle relaxation associated with hyperexcitation of the muscle fibres occurring within the first few months after birth. The myotonia is unusual in that it is relieved by exercise (warm-up effect). Autosomal dominant myotonia congenita (Thomsen disease) is a non-dystrophic muscle disorder caused by mutation in the gene encoding skeletal muscle chloride channel-1 (CLCN1). It is clinically characterised by muscle stiffness and an inability of the muscle to relax after voluntary contraction. Autosomal recessive myotonia congenita (Becker disease) is caused by mutation in the gene encoding skeletal muscle chloride channel-1 (CLCN1). It is a non-dystrophic skeletal muscle disorder characterised by muscle stiffness and an inability of the muscle to relax after voluntary contraction. Most patients have symptom onset in the legs, which later progresses to the arms, neck, and facial muscles. Many patients show marked hypertrophy of the lower limb muscles. Transient muscle weakness is a characteristic feature.
+
+8C71.3	Drug-induced myotonia
+Drug-induced myotonia refers to the myotonia-inducing effects of certain drugs. Hypocholesterolaemic agents may induce myotonia by altering the sterol composition of the muscle cell membrane, while other drugs including beta-adrenergic blockers and agonists, succinylcholine and diuretics may exacerbate or unmask pre-existing myotonia.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+8C71.4	Neuromyotonia
+Neuromyotonia or Isaac's syndrome is an immune-mediated peripheral nerve disorder characterised by continuous muscle fibre activity at rest resulting in muscle stiffness, cramps, myokymia, and pseudomyotonia.
+
+8C71.5	Pseudomyotonia
+The term pseudomyotonia (slow relaxation of muscles after voluntary contraction) describes the clinical appearance of myotonia in the absence of myotonic discharges on the electromyography. Pseudomyotonia is most commonly observed as the slow-relaxing or “hung-up” tendon reflexes of hypothyroidism, although other causes are described. Pseudomyotonia is seen in about one-third of patients with Isaacs syndrome, particularly with handgrip, but also after eye and jaw closure; rarely, this can be the first symptom.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+8C71.Y	Other specified myotonic disorders
+
+8C71.Z	Myotonic disorders, unspecified
+
+  8C72  	Congenital myopathies
+
+8C72.0	Congenital myopathy with structural abnormalities
+Distinct group of inherited disorders of skeletal muscles which have characteristic structural abnormalities on muscle immuno-histochemistry.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Secondary myopathies (BlockL2‑8C8)
+Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+
+8C72.00	Nemaline myopathy
+Nemaline myopathy encompasses a large spectrum of congenital myopathies characterised by hypotonia, weakness and depressed or absent deep tendon reflexes, with pathologic evidence of nemaline bodies (rods) on muscle biopsy.
+
+8C72.01	Centronuclear myopathy
+Centronuclear myopathy (CNM) is an inherited neuromuscular disorder characterised by clinical features of a congenital myopathy and centrally placed nuclei on muscle biopsy. It encompasses the X-linked form, the autosomal recessive form and the autosomal dominant form with a highly variable clinical presentation.
+
+8C72.02	Central core disease
+Central core disease (CCD) is an inherited neuromuscular disorder characterised by central cores on muscle biopsy and clinical features of a congenital myopathy (hypotonia and motor developmental delay) and is characterised by predominantly proximal weakness, pronounced in the hip girdle.
+
+8C72.0Y	Other specified congenital myopathy with structural abnormalities
+Coding Note:	Code aslo the causing condition
+
+8C72.0Z	Congenital myopathy with structural abnormalities, unspecified
+Coding Note:	Code aslo the causing condition
+
+8C72.1	Congenital myopathy with no structural abnormalities
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+8C72.Y	Other specified congenital myopathies
+
+8C72.Z	Congenital myopathies, unspecified
+
+  8C73  	Mitochondrial myopathies
+Mitochondrial myopathies are heterogeneous group of disorders caused by dysfunction of mitochondrial oxidative phosphorylation and can be classified according to the associated biochemical, genetic defects (in the mitochondrial DNA or in nuclear encoded proteins) or clinical phenotype. Exclude: defects of mitochondrial respiratory chain, Kearns-Sayre syndrome, myoclonic epilepsy with ragged red fibres (MERRF)
+Coded Elsewhere:	Leigh syndrome (5C53.24)
+Progressive external ophthalmoplegia (9C82.0)
+
+8C73.0	Autosomal recessive cardiomyopathy or ophthalmoplegia
+Autosomal recessive cardiomyopathy and ophthalmoplegia is a childhood-onset disease characterised by progressive external ophthalmoplegia, mild facial and proximal limb weakness, and severe cardiomyopathy. Muscle biopsies shows ragged-red and cytochrome C oxidase-negative fibres; the activities of several complexes in the electron-transport chain are decreased. The combination of progressive external ophthalmoplegia, cardiomyopathy, and multiple mtDNA deletions is thought to be due to a defect of communication between the nuclear and mitochondrial genomes.
+Exclusions:	Secondary myopathies (BlockL2‑8C8)
+Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+
+8C73.1	Neuropathy, ataxia, and retinitis pigmentosa
+Neuropathy, Ataxia, and Retinitis Pigmentosa (NARP) syndrome is a clinically heterogeneous oxidative phosphorylation disorder often characterised by a combination of sensory-motor neuropathy, cerebellar ataxia, and night blindness.
+
+8C73.Y	Other specified mitochondrial myopathies
+
+8C73.Z	Mitochondrial myopathies, unspecified
+
+  8C74  	Periodic paralyses or disorders of muscle membrane excitability
+These are group of disorders caused by malfunctioning of the ion channels in skeletal muscle membranes causing the cells to depolarize leading to weakness or paralysis. The common triggers include cold, heat, high carbohydrate meals, stress, excitement, physical exertion etc..
+
+8C74.0	Paramyotonia congenita
+Paramyotonia congenita of Von Eulenburg is a skeletal muscle disease characterised by exercise- or cold-induced myotonia and muscle weakness.
+
+8C74.1	Periodic paralysis
+
+8C74.10	Hypokalaemic periodic paralysis
+Hypokalaemic periodic paralysis (hypoPP) is a muscle channelopathy characterised by episodes of muscle paralysis lasting from a few to 24-48 hours and associated with a fall in blood potassium levels.
+Coded Elsewhere:	Thyrotoxic periodic paralysis (5A02.Y)
+
+8C74.11	Hyperkalaemic periodic paralysis
+Hyperkalaemic periodic paralysis (HyperPP) is a muscle disorder characterised by episodic attacks of muscle weakness associated with an increase in serum potassium concentration.
+Coded Elsewhere:	Long QT syndrome type 7 (BC65.0)
+
+8C74.1Y	Other specified periodic paralysis
+
+8C74.1Z	Periodic paralysis, unspecified
+
+8C74.Y	Other specified periodic paralyses or disorders of muscle membrane excitability
+
+8C74.Z	Periodic paralyses or disorders of muscle membrane excitability, unspecified
+
+  8C75  	Distal myopathies
+Distal myopathies are heterogeneous group of myopathies characterised clinically by progressive weakness and atrophy starting in distal muscles and progressing to proximal ones, and histologically by nonspecific myopathic features on muscle biopsy.
+
+  8C76  	Myofibrillar myopathy
+Myofibrillar myopathies are a heterogeneous group of disorders, characterised by the pathologic finding of myofibrillar disruption on electron microscope with a spectrum of histological abnormalities including excessive desmin accumulation in muscle fibres.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+  8C77  	Ocular myopathy
+Slowly progressive weakness of ocular muscles, usually characterised by decreased mobility of the eye and drooping of the upper lid. The disorder may be unilateral or bilateral, and may be caused by central or peripheral nervous system lesion or by a neuromuscular disease.
+Exclusions:	Ocular myopathy with mitochondrial abnormalities (9C82.0)
+aculopharynegeal muscular dystrophy (9C82.1)
+Ocular muscular dystrophy (9C82.1)
+
+  8C78  	Malignant hyperthermia or hyperpyrexia
+Malignant hyperthermia is a pharmacogenetic disorder of skeletal muscle that presents as a hypermetabolic response to potent volatile anaesthetic gases such as halothane, sevoflurane, desflurane and the depolarizing muscle relaxant succinylcholine, and rarely in humans, to stresses such as vigorous exercise and heat. May be caused by a mutation in the Ryonadine Receptor 1 gene.
+
+  8C7Y  	Other specified primary disorders of muscles
+
+  8C7Z  	Primary disorders of muscles, unspecified
+
+Secondary myopathies (BlockL2‑8C8)
+This is a group of conditions in which the muscle fibres are dysfunctional, resulting in muscle weakness. The myopathy is caused by an underlying disorder.
+Exclusions:	Arthrogryposis multiplex congenita (LD26.41)
+Ischaemic infarction of muscle (FB32.2)
+Coded Elsewhere:	Alcoholic myopathy (8D44.1)
+Myopathy due to toxicity (8D43.3)
+  8C80  	Drug-induced myopathy
+Myopathy caused by drugs that ranges from mild myalgias with or without mild weakness to chronic myopathy with severe weakness, to massive rhabdomyolysis with acute renal failure. It could be due to several different mechanisms including direct myotoxicity, immune mediated and indirect muscle damage through drug-induced coma, drug-induced hypokalaemia, drug-induced hyperkinetic states or dystonic states.
+
+  8C81  	Autoimmune myopathy
+Autoimmune myopathy is a subgroup of idiopathic inflammatory myopathies, which despite diverse causes, have the common histopathological features of myocyte necrosis without significant inflammation. Patients present with a subacute severe symmetrical proximal myopathy, associated with a markedly elevated creatine kinase level. These are most likely immune-mediated, as they respond to immunotherapy. it is often accompanied by statin therapy, connective tissue diseases, cancer, and autoantibodies specific for signal recognition particle (SRP) or 3-hydroxy-3-methylglutaryl–coenzyme A reductase (HMGCR).
+Coding Note:	Code aslo the causing condition
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Primary disorders of muscles (BlockL2‑8C7)
+
+  8C82  	Myopathy in certain specified infectious or parasitic disease
+Myopathy in certain specified infectious or parasitic disease is an uncommon group of muscle diseases caused by a broad range of bacterial, fungal, parasitic, and viral agents. Bacterial organisms cause pyomyositis, psoas abscess, Staphylococcus aureus myositis, group A streptococcal necrotizing myositis, group B streptococcal myositis, clostridial gas gangrene, and nonclostridial myositis. Fungal myositis is rare and usually occurs among immunocompromised hosts. Parasitic myositis is most commonly a result of trichinosis or cystericercosis, but other protozoa or helminths may be involved. Viruses may cause benign acute myositis, pleurodynia, acute rhabdomyolysis, or an immune-mediated polymyositis.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Primary disorders of muscles (BlockL2‑8C7)
+
+  8C83  	Myopathy in certain specified endocrine disease
+Myopathy in certain specified endocrine disease refers to muscle disorders associated with adrenal dysfunction (as steroid myopathy), thyroid dysfunction (as in myxoedema coma or thyrotoxic myopathy), parathyroid dysfunction (as in multiple endocrine neoplasia), pituitary dysfunction, and islands of Langerhans dysfunction (as in diabetic myopathy from ischemic infarction of the femoral muscles). Steroid myopathy is the most common endocrine myopathy. These conditions are usually reversible with correction of the underlying endocrine disturbance.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Primary disorders of muscles (BlockL2‑8C7)
+
+  8C84  	Secondary rhabdomyolysis
+Secondary rhabdomyolysis occurs when the primary effect of a aetiological factor results in a functional or biochemical state which is conducive to the development of ischemic, degenerative, necrotic or membrane destabilizing changes in muscle, producing the clinical and biochemical features of rhabdomyolysis. Most frequently, rhabdomyolysis is secondary to a metabolic derangement often genetic in nature, as result of abnormally excessive movement, excessive isometric tension by attempted movement against resistance, or coma leading to increased intramuscular pressure, ischemia, hypoxia and necrosis. Secondary rhabdomyolysis can also be caused by a mutation in various genes (RYR1, LPIN).
+Coding Note:	Code aslo the causing condition
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Primary disorders of muscles (BlockL2‑8C7)
+
+  8C8Y  	Other specified secondary myopathies
+
+  8C8Z  	Secondary myopathies, unspecified
+
+
+  8D0Y  	Other specified diseases of neuromuscular junction or muscle
+
+  8D0Z  	Diseases of neuromuscular junction or muscle, unspecified
+
+Cerebral palsy (BlockL1‑8D2)
+Exclusions:	Hereditary spastic paraplegia (8B44.0)
+  8D20  	Spastic cerebral palsy
+Spastic cerebral palsy is characterised by increased muscle tone associated with hyperactive muscle stretch reflexes (deep tendon reflexes) and an increase in resistance to rapid muscle stretch. Extensor plantar responses are commonly present.
+
+8D20.0	Spastic unilateral cerebral palsy
+Spastic unilateral cerebral palsy is a form of cerebral palsy in which the spasticity is confined to one side; it is often accompanied by cortical sensory impairment and varying degrees of hemineglect, demonstrable by testing stereognosis and graphesthesia. Early hand preference is often the first sign of this disorder, and may be apparent in the first months of life.
+
+8D20.1	Spastic bilateral cerebral palsy
+
+8D20.10	Spastic quadriplegic cerebral palsy
+Spastic quadriplegic cerebral palsy is a form of cerebral palsy in which spasticity is generalised, yet most marked in the legs. Opisthotonic posturing is often apparent in infancy, and head movement may elicit forced extension of the arms and legs. Suprabulbar palsy is often present, causing impaired swallowing and articulation (‘spastic dysarthria’).
+Inclusions:	Spastic tetraplegic cerebral palsy
+
+8D20.11	Spastic diplegic cerebral palsy
+Spastic diplegic cerebral palsy is a form of cerebral palsy in which spasticity is most marked in the legs, with mild, if any, involvement of the arms.
+
+8D20.1Z	Spastic bilateral cerebral palsy, unspecified
+
+8D20.Y	Other specified spastic cerebral palsy
+
+8D20.Z	Spastic cerebral palsy, unspecified
+
+  8D21  	Dyskinetic cerebral palsy
+Dyskinetic cerebral palsy, also known as extrapyramidal cerebral palsy is characterised by impairment of voluntary movement because of the presence of interfering involuntary movements, and inappropriate co-contraction of agonist and antagonist muscles (dystonia). This group of disorders includes choreoathetotic cerebral palsy and dystonic cerebral palsy. The former is characterised by large amplitude, involuntary movements of mainly distal limbs(athetosis) with or without small amplitude, fleeting, asymmetric contractions of individual muscle groups (chorea). 
+ 
+Dystonic cerebral palsy predominantly affects proximal trunk and limb muscles, which may show slow, persistent movements, leading to the adoption of unusual postures, such as torticollis.
+Inclusions:	Athetoid cerebral palsy
+
+  8D22  	Ataxic cerebral palsy
+Ataxic cerebral palsy is dominated by signs of cerebellar dysfunction, including hypotonia, ataxia, dysdiadochokinesis, dysmetria, dysarthria and nystagmus. Reflexes may be pendular, although there are often also signs of spasticity.
+
+  8D23  	Worster-Drought syndrome
+Worster-Drought syndrome (WDS) is a form of cerebral palsy characterised by congenital pseudobulbar (suprabulbar) paresis manifesting as selective weakness of the lips, tongue and soft palate, dysphagia, dysphonia, drooling and jaw jerking.
+
+  8D2Y  	Other specified cerebral palsy
+
+  8D2Z  	Cerebral palsy, unspecified
+
+Nutritional or toxic disorders of the nervous system (BlockL1‑8D4)
+  8D40  	Neurological disorders due to nutrient deficiency
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Dementia due to pellagra (6D85.8)
+White matter disorders due to nutritional deficiency (8A45.3)
+Dementia due to nutritional deficiency (6D85.Y)
+
+8D40.0	Encephalopathy due to nutritional deficiency
+Coding Note:	Code aslo the causing condition
+
+8D40.1	Neuropathy due to nutritional deficiency
+Coding Note:	Code aslo the causing condition
+
+8D40.2	Myopathy due to nutritional deficiency
+Coding Note:	Code aslo the causing condition
+
+8D40.3	Intellectual developmental disorder due to nutritional deficiency
+Coding Note:	Code aslo the causing condition
+
+8D40.Y	Other specified neurological disorders due to nutrient deficiency
+Coding Note:	Code aslo the causing condition
+
+8D40.Z	Neurological disorders due to nutrient deficiency, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8D41  	Neurological disorders due to an excess of micro or macro nutrients
+Coding Note:	Code aslo the causing condition
+
+8D41.0	Peripheral neuropathy due to vitamin B6 hyperalimentation
+
+8D41.1	Myopathy due to hypercalcaemia
+
+8D41.2	Pseudotumour Cerebri related to Hypervitaminosis A
+
+8D41.Y	Other specified neurological disorders due to an excess of micro or macro nutrients
+Coding Note:	Code aslo the causing condition
+
+8D41.Z	Neurological disorders due to an excess of micro or macro nutrients, unspecified
+Coding Note:	Code aslo the causing condition
+
+  8D42  	Neurological disorders due to overweight or obesity in adults or children
+Coding Note:	Code aslo the causing condition
+
+  8D43  	Neurological disorders due to toxicity
+Coded Elsewhere:	Neuromuscular junction disorders due to toxicity (NE61)
+Intracranial hypertension associated with medication or toxin exposure (8D60.Y)
+Myelopathy due to toxicity (8B42)
+
+8D43.0	Encephalopathy due to toxicity
+
+8D43.00	Encephalopathy due to ammonia
+
+8D43.0Y	Other specified encephalopathy due to toxicity
+
+8D43.0Z	Encephalopathy due to toxicity, unspecified
+
+8D43.1	Cognitive impairment due to toxicity
+These are conditions of impaired cognition due to the toxicity of substances.
+Coded Elsewhere:	Dementia due to exposure to heavy metals and other toxins (6D85.2)
+Dementia due to carbon monoxide poisoning (6D84.Y)
+Post radiation dementia (6D84.Y)
+Dementia or parkinsonism due to manganese toxicity (6D84.Y)
+
+8D43.2	Neuropathy due to toxicity
+In considering the diagnosis of toxic neuropathy, two criteria should be met: (1) Exposure can be verified and temporally related to the onset of clinical symptoms. Neuropathic symptoms usually occur concurrently with the exposure or following a variable latency of up to several months. (2) There must be neurological signs and abnormal electrodiagnostic studies, because many toxic neuropathies are subclinical, subjective symptoms may or may not occur. Removal from exposure results in cessation of progression of symptoms and the deficit. Most toxins produce symmetrical axonal degeneration in a length-dependent pattern, beginning in the distal segments of the long and large-calibre nerve fibres eventually spreading proximally with continued exposure. In addition to motor and /or sensory deficits, severe pain may be a characteristic feature.
+Coded Elsewhere:	Alcoholic polyneuropathy (8D44.0)
+
+8D43.20	Drug-induced polyneuropathy
+
+8D43.21	Post radiation polyneuropathy
+
+8D43.2Y	Other specified neuropathy due to toxicity
+
+8D43.2Z	Neuropathy due to toxicity, unspecified
+
+8D43.3	Myopathy due to toxicity
+Coded Elsewhere:	Alcoholic myopathy (8D44.1)
+Myopathy due to other toxic agents (8C8Y)
+
+8D43.4	Movement disorders due to toxicity
+Movements of the body, such as hyperkinesias, dyskinesias, myoclonus, chorea, tremor and tics produced by toxicity either by toxin or drug, ie toxicity by manganese, neuroleptic drugs,calcium channel blockers, gastrointestinal prokinetics, antiarrhythmics and antidepressants may induce Parkinsonism.
+Coded Elsewhere:	Toxin-induced parkinsonism (8A00.2Y)
+Chorea due to toxins (8A01.1Y)
+Dystonia due to toxins (8A02.1Y)
+Ataxia due to certain specified toxins (8A03.3Y)
+
+8D43.5	Cassava poisoning
+Symmetrical, non-progressive, non-remitting spastic paraparesia occurring in epidemic and endemic forms with a predilection for children and young women1, 2. The unknown etiology is related to consumption of bitter cassava roots with very minimal protein supplementation.
+Coded Elsewhere:	Myelopathy due to konzo (8B42)
+
+8D43.Y	Other specified neurological disorders due to toxicity
+
+8D43.Z	Neurological disorders due to toxicity, unspecified
+
+  8D44  	Alcohol-related neurological disorders
+Coded Elsewhere:	Dementia due to use of alcohol (6D84.0)
+
+8D44.0	Alcoholic polyneuropathy
+
+8D44.1	Alcoholic myopathy
+Myopathy secondary to alcohol use and includes acute and chronic alcoholic myopathy. Several forms have been described: acute necrotizing myopathy, acute hypokalaemic myopathy, chronic alcoholic myopathy, asymptomatic alcoholic myopathy, and alcoholic cardiomyopathy.
+
+8D44.Y	Other specified alcohol-related neurological disorders
+
+8D44.Z	Alcohol-related neurological disorders, unspecified
+
+  8D4Y  	Other specified nutritional or toxic disorders of the nervous system
+
+  8D4Z  	Nutritional or toxic disorders of the nervous system, unspecified
+
+Disorders of cerebrospinal fluid pressure or flow (BlockL1‑8D6)
+  8D60  	Increased intracranial pressure
+An increase in pressure within the skull caused by changes in the volumes of the intracranial components, such as brain matter, CSF and blood, or by the presence of a pathological mass entity.
+
+8D60.0	Brain herniation syndromes
+The shift or displacement of brain tissue due to mass effect from its normal location to a region it does not occupy.
+
+8D60.1	Cerebral oedema
+Is an excess accumulation of fluid in the intracellular and/or extracellular spaces of the brain.
+Exclusions:	Traumatic cerebral oedema (NA07.2)
+Cerebral oedema due to birth injury (KA40.1)
+
+8D60.Y	Other specified increased intracranial pressure
+
+8D60.Z	Increased intracranial pressure, unspecified
+
+  8D61  	Intracranial hypotension
+The syndrome of intracranial hypotension is a single pathophysiological entity of diverse origin. Usually it is characterised by an orthostatic headache, one that occurs or worsens with upright posture. Patients with chronic headaches or are asymptomatic have been described.
+
+8D61.0	Spontaneous intracranial hypotension
+The exact cause of spontaneous spinal CSF leaks usually remains unknown, but a combination of an underlying weakness of the spinal meninges and a trivial precipitating event is generally suspected.
+
+8D61.1	Secondary intracranial hypotension
+Coding Note:	Code aslo the causing condition
+
+8D61.Y	Other specified intracranial hypotension
+
+8D61.Z	Intracranial hypotension, unspecified
+
+  8D62  	Cerebrospinal fluid rhinorrhoea
+
+  8D63  	Cerebrospinal fluid otorrhoea
+
+  8D64  	Hydrocephalus
+Coded Elsewhere:	Neonatal hydrocephalus (KB05)
+
+8D64.0	Communicating hydrocephalus
+Communicating hydrocephalus, also known as non-obstructive hydrocephalus, is a disorder characterised by impaired cerebrospinal fluid reabsorption in the absence of any CSF-flow obstruction between the ventricles and subarachnoid space.
+
+8D64.00	Increased cerebrospinal fluid production
+Is a type of communicating hydrocephalus caused by increased CSF production.
+
+8D64.01	Congenital agenesis of arachnoid villi
+
+8D64.02	Post haemorrhagic hydrocephalus
+
+8D64.03	Post traumatic hydrocephalus
+
+8D64.04	Normal-pressure hydrocephalus
+A clinical syndrome mainly comprising gait disturbance, dementia, and urinary incontinence, and is associated with dilatation of the ventricular system of the brain. Most of the times demonstrating normal cerebrospinal fluid (CSF) pressure at lumbar puncture.
+
+8D64.0Y	Other specified communicating hydrocephalus
+
+8D64.0Z	Communicating hydrocephalus, unspecified
+
+8D64.1	Non-communicating hydrocephalus
+It represents a form of hydrocephalus where there is an excessive accumulation of CSF within the ventricles caused by blockage of its pathway and due to several causes.
+
+8D64.10	Hydrocephalus due to structural malformations
+A form of hydrocephalus in which there is an excessive accumulation of CSF within the ventricles caused by obstruction of its pathways due to structural malformations, such as Chiari I and II or cysts.
+Coded Elsewhere:	Dandy-Walker malformation with hydrocephalus (LA06.0)
+
+8D64.1Y	Other specified non-communicating hydrocephalus
+
+8D64.1Z	Non-communicating hydrocephalus, unspecified
+
+8D64.2	Ex-vacuo hydrocephalus
+Hydrocephalus ex-vacuo occurs when there is damage to the brain caused by stroke, injury, or radiation, and there may be an actual shrinkage of brain substance. Although there is more CSF than usual, the CSF pressure itself is normal in hydrocephalus ex-vacuo.
+
+8D64.Z	Hydrocephalus, unspecified
+
+  8D65  	Cerebrospinal fluid fistula
+Cerebrospinal fluid fistula is a condition in which the cerebrospinal fluid (CSF) held in and around the human brain and spinal cord leaks out of the surrounding protective sac, the dura, for no apparent reason or due to several pathological processes.
+
+  8D66  	Syringomyelia or syringobulbia
+In syringomyelia, there is fluid-filled tubular cavitation (syrinx formation) within the central spinal cord. The syrinx can elongate, enlarge and expand into the grey and white matter and, as it does so, it compresses the nervous tissue of the corticospinal and spinothalamic tracts and the anterior horn cells. This leads to the various neurological symptoms and signs. If the syrinx extends into the brainstem, syringobulbia results.
+Exclusions:	Congenital hydromyelia (LA07.3)
+
+8D66.0	Idiopathic syringomyelia
+A condition in which the syrinx has no identifiable cause and which is difficult to treat. Most large and/or symptomatic syrinxes can treated with syrinx shunting.
+
+8D66.1	Syringomyelia due to certain specified cause
+A condition when the syrinx is associated with an underlying cause.
+Coding Note:	Code aslo the causing condition
+
+8D66.2	Syringobulbia
+Syringobulbia is a medical condition when syrinxes, or fluid filled cavities, affect the brainstem. This defect normally results from congenital abnormality, trauma or tumour growth.
+
+8D66.Y	Other specified syringomyelia or syringobulbia
+
+8D66.Z	Syringomyelia or syringobulbia, unspecified
+
+  8D67  	Intracranial arachnoid cyst
+A fluid filled cavity within the arachnoid membrane which may be congenital or acquired. Acquired causes include trauma, infection and surgery. The most common site is the middle cranial fossa. Factors that influence whether the cyst causes symptoms include its size and location. Symptoms if present may include headache, dizziness, nausea and vomiting, seizures, developmental delay
+
+  8D68  	Porencephalic cyst
+
+  8D6Y  	Other specified disorders of cerebrospinal fluid pressure or flow
+
+  8D6Z  	Disorders of cerebrospinal fluid pressure or flow, unspecified
+
+Disorders of autonomic nervous system (BlockL1‑8D8)
+Inclusions:	Disorder of parasympathetic nervous system
+Coded Elsewhere:	Paroxysmal autonomic disorders
+Hypohidrosis (EE01)
+  8D80  	Congenital malformations of the autonomic nervous system
+
+  8D81  	Inherited autonomic nervous system disorders
+
+  8D82  	Autoimmune disorders involving the autonomic nervous system
+
+  8D83  	Autonomic nervous system disorder due to infection
+Coding Note:	Code aslo the causing condition
+
+  8D84  	Pure autonomic nervous system failure
+Pure autonomic failure is a sporadic, adult onset, slowly progressive disorder associated with accumulation of synuclein in peripheral autonomic neurons resulting in orthostatic hypotension, bladder and sexual dysfunction.
+
+  8D85  	Autonomic nervous system disorder due to substances
+Coded Elsewhere:	Neuroleptic malignant syndrome (8A0Y)
+
+  8D86  	Autonomic nervous system hyperactivity
+
+  8D87  	Autonomic nervous system disorder due to certain specified neurodegenerative disorder
+
+8D87.0	Multiple system atrophy
+Multiple system atrophy (MSA) is a rare neurodegenerative disorder characterised by varied combinations of parkinsonian, cerebellar, autonomic (erectile dysfunction, bladder dysfunction), orthostatic hypotension) and pyramidal features. The disease belongs to the group of alpha-synucleinopathies, a group of diseases characterised by aggregation of alpha-synuclein in affected brain regions. There are two different types MSA-P (with parkinsonism) and MSA-C ( with cerebellar dysfunction)
+
+8D87.00	Multiple system atrophy, Cerebellar type
+
+8D87.01	Multiple system atrophy, Parkinsonism
+This is a progressive disorder of the central and autonomic nervous systems, characterised by orthostatic hypotension (an excessive drop in blood pressure when standing up), which causes dizziness or fainting. It can occur without orthostatic hypotension, but instead have urinary involvement (urgency/incontinence). This type includes symptoms of Parkinson's disease such as slow movement, rigidity, and tremor.
+Exclusions:	Spinocerebellar ataxia (8A03.16)
+Pure autonomic nervous system failure (8D84)
+
+8D87.0Y	Other specified multiple system atrophy
+
+8D87.0Z	Multiple system atrophy, unspecified
+
+8D87.Y	Other specified autonomic nervous system disorder due to specified neurodegenerative disorder
+
+  8D88  	Autonomic neuropathies
+Coded Elsewhere:	Hereditary sensory or autonomic neuropathy (8C21)
+
+8D88.0	Autonomic neuropathy due to sodium channelopathies
+Coded Elsewhere:	Paroxysmal extreme pain disorder (8E43.Y)
+Primary erythromelalgia (EG00)
+Secondary erythromelalgia (EG00)
+
+8D88.1	Autonomic neuropathy due to diabetes mellitus
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+8D88.2	Immune mediated autonomic neuropathy
+Coding Note:	Code aslo the causing condition
+
+8D88.3	Autonomic disorder due to toxins
+
+8D88.4	Autonomic neuropathy in endocrine and metabolic diseases
+Coding Note:	Code aslo the causing condition
+
+8D88.Y	Other specified autonomic neuropathies
+
+8D88.Z	Autonomic neuropathies, unspecified
+
+  8D89  	Disorders of orthostatic tolerance
+Coded Elsewhere:	Orthostatic hypotension (BA21)
+
+8D89.0	Reflex syncope
+Reflex syncope is a transient loss of consciousness with spontaneous recovery and associated with loss of postural tone. Reflex syncope is the most common form of syncope and can occur in individuals with normal autonomic function. The mechanism is believed to be related to blood pooling in the legs followed by reduction in blood return to the heart which triggers a sympathetic tone increase. Vigorous cardiac contractions with an underfilled ventricle is hypothesized to cause reflex loss of sympathetic tone and vagotonia.
+
+8D89.1	Syncope due to autonomic failure
+
+8D89.2	Postural orthostatic tachycardia syndrome
+Postural Orthostatic Tachycardia Syndrome is a type of chronic orthostatic intolerance lasting three months or longer associated with excessive upright tachycardia in the absence of orthostatic hypotension, plus a constellation of typically daily symptoms which may include lightheadedness, dizziness, nausea, dyspnoea, diaphoresis, headache, fatigue and other symptoms of autonomic dysfunction. Excessive tachycardia is defined by present consensus as a heart rate increase of at least 30 beats per minute in adults (40 beats per minute for adolescents), or a heart rate greater than 120 beats per minute, within 10 minutes of upright tilt table testing.
+
+8D89.3	Baroreflex failure
+
+8D89.Y	Other specified disorders of orthostatic tolerance
+
+8D89.Z	Disorders of orthostatic tolerance, unspecified
+
+  8D8A  	Focal or segmental autonomic disorders
+Coded Elsewhere:	Trigeminal autonomic cephalalgias (8A82)
+Hyperlacrimation (9A10.3)
+Underproduction of tears (9A10.4)
+
+8D8A.0	Complex regional pain syndrome
+Complex regional pain syndrome (CRPS) is a chronic pain condition in an extremity with a variable course over time. It is characterized by continuing regional pain (not in a specific nerve territory or dermatome), usually with distal predominance or distal-to-proximal gradient. It typically arises after tissue trauma and is seemingly disproportionate in magnitude or duration to the usual course of pain after such tissue trauma.
+CRPS is characterized by signs indicating autonomic and neuro-inflammatory changes in the affected body region varying between patients and over time. Often, CRPS is accompanied by significant emotional distress or functional disability. CRPS is multifactorial.
+
+8D8A.00	Complex regional pain syndrome type I
+CRPS Type I develops after any type of trauma, especially limb fracture or soft tissue lesion. CRPS Type I does not involve discrete nerve damage. Diagnostic signs and symptoms of CRPS Type I and CRPS Type II are identical.
+Inclusions:	Reflex sympathetic dystrophy
+
+8D8A.01	Complex regional pain syndrome type II
+CRPS Type II occurs after trauma associated with discrete peripheral nerve damage as indicated by neurological examination, electrodiagnostic testing, or other quasi-objective testing. While clinical features of the nerve lesion (numbness, paraesthesia) are restricted to the nerve territory involved, CRPS signs and symptoms must extend beyond the identified nerve territory. Diagnostic signs and symptoms of CRPS Type I and CRPS Type II are identical.
+
+8D8A.0Y	Other specified complex regional pain syndrome
+
+8D8A.0Z	Complex regional pain syndrome, unspecified
+
+8D8A.1	Horner syndrome
+
+8D8A.2	Episodic anisocoria
+This is a group of disorders in which periodic pupillary movements leading to changes in size. These are due to abnormal parasympathetic or sympathetic tone.
+
+8D8A.Y	Other specified focal or segmental autonomic disorders
+
+8D8A.Z	Focal or segmental autonomic disorders, unspecified
+
+  8D8B  	Disorders affecting autonomic synaptic neurotransmission
+Coded Elsewhere:	Aromatic L-amino acid decarboxylase deficiency (5C59.00)
+Dopamine beta-hydroxylase deficiency (5C59.00)
+Autosomal recessive dopa-responsive dystonia (8A02.11)
+Menkes disease (5C64.0Y)
+
+  8D8C  	Autonomic dysreflexia
+This is a potenitally dangerous disorder associated with damage to the spinal cord above the sixth thoracic level characterized by a marked increase in the sympathetic response to minor stimuli. It leads to sudden severe hypertension which can be life threatening
+
+  8D8D  	Hypoglycaemia unawareness
+Hypoglycemia unawareness is defined at the onset of neuroglycopenia before the appearance of autonomic warning symptoms
+
+  8D8Y  	Other specified disorders of autonomic nervous system
+
+  8D8Z  	Disorders of autonomic nervous system, unspecified
+
+Human prion diseases (BlockL1‑8E0)
+Human prion diseases or transmissible spongiform encephalopathies are rare transmissible diseases affecting the central nervous system. The infectious agents are composed of an abnormal isoform of a host membrane protein called 'prion protein' (PrP). Their common features are a long duration of incubation and lesions limited to the central nervous system without inflammatory or immunologic reaction but with accumulation of an abnormal form of prion protein (PrPsc).
+  8E00  	Sporadic Creutzfeldt-Jakob Disease
+A disease of the brain, that is associated with a mutation of normal prion protein genes or spontaneous transformation of prion proteins. This disease is characterised by a long incubation period, progressive dementia, neurological deficits, and is fatal. Transmission may be by direct contact with infected nervous tissue or blood. Confirmation is by pathological examination of the brain.
+
+  8E01  	Acquired prion disease
+Environmentally acquired prion diseases are prion diseases caused by a known source of abnormal prion protein.
+
+8E01.0	Iatrogenically acquired Creutzfeldt-Jakob Disease
+Iatrogenically acquired Creutzfeld-Jakob Disease (iCJD) is CJD acquired by medical procedures, medicines, medicinal materials, or devices.
+
+8E01.1	Kuru
+A disease of the nervous system, caused by a prion. This disease is characterised by limb pain, ataxia, tremors, decreased coordination, or emotional changes, and is fatal. Transmission is by ingestion of infected human brain, or direct contact. Confirmation is commonly by clinical signs, or pathological examination of the brain.
+
+8E01.2	Variant Creutzfeldt-Jakob Disease
+A disease of the brain, that is suspected to be caused by a prion associated with Bovine Spongiform Encephalopathy. This disease is characterised by a long incubation period, psychiatric symptoms followed by neurological deficits, and is fatal. Transmission may be by ingestion of food (with a bovine origin) contaminated with infected brain or spinal cord from an infected cow, or blood transfusion. Confirmation is by pathological examination of the brain.
+
+8E01.3	Other acquired Creutzfeldt-Jakob Disease
+There have been cases of Creutzfeldt-Jakob Disease (CJD) associated with neurosurgical procedures and stereotactic electroencephalogram (EEG) electrode placement on the brain, particularly in the 1950s to 1970s when the transmissibility of prions was not yet recognised.
+
+  8E02  	Genetic prion diseases
+
+8E02.0	Genetic Creutzfeldt-Jakob disease
+A disease of the brain, that is associated with a prion. This disease is characterised by neurological deficits, and is fatal. Confirmation is by pathological examination of the brain.
+
+8E02.1	Gerstmann-Straussler-Scheinker syndrome
+A disease caused by inheritance of mutation(s) in normal prion protein genes. This disease is characterised by cerebellar ataxia, decreased coordination, dysmetria, or dysarthria, and is fatal. Confirmation is by pathological examination of the brain and genetic testing.
+Exclusions:	Gerstmann syndrome (MB4C)
+
+8E02.2	Fatal familial insomnia
+A disease of the brain, caused by inheritance of mutation(s) of normal prion protein genes. This disease is characterised by severe insomnia and autonomic system dysfunction, and is fatal. Confirmation is by pathological examination of the brain and genetic testing.
+
+8E02.3	Other genetic prion diseases
+
+8E02.Y	Other specified Creutzfeldt-Jakob disease
+
+8E02.Z	Creutzfeldt-Jakob disease, unspecified
+
+  8E03  	Variably protease sensitive prionopathy
+A disease of the brain, caused by a mutation(s) in prion protein genes. This disease is characterised by deposition of abnormal prions in the brain leading to behavioural and mood changes, speech deficits, and progressive motor impairments. Confirmation is by pathological examination of the brain or identification of protease-sensitive prion proteins in a brain sample.
+
+  8E0Y  	Other specified human prion diseases
+
+  8E0Z  	Human prion diseases, unspecified
+
+Disorders of consciousness (BlockL1‑8E2)
+Coded Elsewhere:	Delirium (6D70)
+Coma (MB20.1)
+  8E20  	Persistent vegetative state
+Subacute or chronic state of severe disturbance of consciousness lasting at least a month, characterised by the recovery of cyclic arousal states mimicking sleep/wake cycles after a severe brain injury. Patients with this condition are unresponsive and show no evidence of awareness of themselves or their environment. Cardiopulmonary and visceral autonomic regulation is maintained by the brainstem.
+
+  8E21  	Permanent vegetative state
+Prognostic term applied to patients in a persistent vegetative state for whom no recovery is expected.
+
+  8E22  	Minimally conscious state
+Subacute or chronic state of severely disturbed consciousness in which patients show minimal yet definite signs of consciousness, such as visual pursuit or command following, occurring after a severe brain injury. These patients do not show functional communication or functional use of objects.
+
+8E22.0	Minimally conscious state plus
+Subcategory of patients in a minimally conscious state who show signs of command following.
+
+8E22.1	Minimally conscious state minus
+Subcategory of patients in a minimally conscious state who show signs of non-reflex behaviour such as eye tracking, orientation to pain, or contingent responses to specific emotional stimuli but without command following.
+
+8E22.Y	Other specified minimally conscious state
+
+8E22.Z	Minimally conscious state, unspecified
+
+  8E2Y  	Other specified disorders of consciousness
+
+  8E2Z  	Disorders of consciousness, unspecified
+
+Other disorders of the nervous system (BlockL1‑8E4)
+Coded Elsewhere:	Brain death (MH10)
+Neurosarcoidosis (4B20.3)
+  8E40  	Disorders of the meninges excluding infection
+Coded Elsewhere:	Postprocedural meningitis (8E62)
+
+8E40.0	Neoplastic meningitis
+Inflammation of the meninges due to malignant infiltration from carcinomas, leukaemias and lymphomas. The syndrome is clinically characterised by headache, neck stiffness, fever and photophobia with potential progression to stupor and coma. The presentation may be acute, subacute or chronic. Diagnosis may be aided by neuroimaging and spinal fluid analysis which may reveal a lymphocytic pleocytosis, raised protein and the presence of malignant cells on cytology.
+Coding Note:	Code aslo the causing condition
+
+8E40.1	Chemical meningitis
+
+8E40.2	Inflammatory meningitis
+A general term to describe a group of disorders in which there is Inflammation of the meninges due to an underlying inflammatory disorder. The syndrome is clinically characterised by headache, neck stiffness, fever and photophobia. Other central and peripheral nervous system manifestations may be present. Non-neurological features, including skin, eye and organ involvement may also be present. Diagnosis may be aided by serological testing, neuroimaging and if appropriate a tissue biopsy. Spinal fluid analysis may reveal a lymphocytic pleocytosis, a raised protein and the presence of oligoclonal bands.
+
+8E40.3	Arachnoiditis
+Arachnoiditis is a chronic inflammation of the arachnoid layer of the meninges, of which adhesive arachnoiditis is the most severe form, characterised by debilitating, intractable neurogenic back and limb pain and a range of other neurological problems.
+
+8E40.Y	Other specified disorders of the meninges excluding infection
+
+8E40.Z	Disorders of the meninges excluding infection, unspecified
+
+  8E41  	Pachymeningitis
+Inflammation of the pachymeninges resulting in localised or diffuse thickening of the dura mater which can be caused by chronic infection, inflammatory and immune-mediated disorders and malignancies. The cranial and/or the spinal dura may be affected. Neurological features includes headache, visual disturbance, cranial nerve palsies, ataxia and with spinal involvement, limb weakness, sensory impairment and sphincter disturbances . Diagnosis may be aided by neuroimaging and spinal fluid analysis.
+
+8E41.0	Pachymeningitis due to infection
+Inflammation of the pachymeninges resulting in localised or diffuse thickening of the dura mater caused by chronic infection such as tuberculosis. The cranial and/or the spinal dura may be affected. Neurological features includes headache, visual disturbance, cranial nerve palsies, ataxia and with spinal involvement, limb weakness, sensory impairment and sphincter disturbances . Diagnosis may be aided by neuroimaging, spinal fluid analysis and dural biopsy.
+
+8E41.1	Idiopathic hypertrophic pachymeningitis
+Inflammation of the pachymeninges resulting in localised or diffuse thickening of the dura mater for which no identifiable cause is found. The cranial and/or the spinal dura may be affected. Neurological features includes headache, visual disturbance, cranial nerve palsies, ataxia and with spinal involvement, limb weakness, sensory impairment and sphincter disturbances . Diagnosis may be aided by neuroimaging and spinal fluid analysis and dural biopsy.
+
+8E41.Y	Other specified pachymeningitis
+
+8E41.Z	Pachymeningitis, unspecified
+
+  8E42  	Superficial siderosis of the nervous system
+Superficial siderosis is the deposition of haemosiderin in the central nervous system as a result of chronic or recurrent subarachnoid haemorrhage due to vascular anomalies, aneurysms, vascular tumours, neurosurgery, cervical root lesions, head injury and trauma. Clinical feature of Superficial siderosis include sensorineural deafness, cerebellar ataxia, pyramidal weakness and less frequently dementia, loss of sphincter control, anosmia, anisocoria, sensory disturbance, extra-ocular motor palsies, sciatica and lower motor neuron signs. The diagnosis may be confirmed by pure tone audiometry, neuroimaging, spinal fluid analysis, angiography to identify a potential bleeding source and where appropriate genetic testing.
+
+  8E43  	Pain disorders
+Exclusions:	Chronic neuropathic pain (MG30.5)
+
+8E43.0	Neuropathic pain
+Neuropathic pain is described as electric, burning, or shock like, caused by metabolic, nutritional, infectious, genetic, autoimmune, and/or vasculitic processes. The pain may occur spontaneously, without provocation, or be provoked by noxious or nonnoxious stimuli. Pain is characteristic of small fibre neuropathy, but even in large fibre neuropathies, a sufficient number of small fibres may be damaged to cause pain. Neuropathic pain usually affects distal skin and subcutaneous structures. The pain may be constant or intermittent, and may be described as searing, burning, or icy cold. 
+Complex regional pain syndrome follows trauma and comprises regional pain, sensory changes, abnormalities of temperature, sudomotor activity, colour changes of the skin, and oedema.
+Exclusions:	Chronic neuropathic pain (MG30.5)
+
+8E43.00	Phantom limb syndrome
+Phantom limb pain is the perception of sensations, including pain, in a limb that has been amputated or a body part that has been removed. These sensations may include a specific position, shape, or movement of the phantom, feelings of warmth or cold, itching, tingling, or electric sensations, and other paraesthesias.
+
+8E43.0Y	Other specified neuropathic pain
+
+8E43.0Z	Neuropathic pain, unspecified
+
+8E43.Y	Other specified pain disorders
+
+8E43.Z	Pain disorders, unspecified
+
+  8E44  	Post anoxic brain damage
+Post anoxic brain damage refers to the variable severity of encephalopathy that results from circulatory arrest, hypotension or asphyxia.
+
+  8E45  	Locked-in syndrome
+
+  8E46  	Reye syndrome
+Reye syndrome is sudden (acute) brain damage (encephalopathy) and liver function problems of unknown cause. The syndrome has occurred with the use of aspirin to treat chickenpox or the flu in children. However, it has become very uncommon since aspirin is no longer recommended for routine use in children. Reye syndrome often begins with vomiting, which lasts for many hours. The vomiting is quickly followed by irritable and aggressive behaviour. There is no specific treatment for this condition. The health care provider will monitor the pressure in the brain, blood gases, and blood acid-base balance (pH).
+
+  8E47  	Encephalopathy, not elsewhere classified
+Global brain dysfunction
+Coding Note:	Code aslo the causing condition
+
+  8E48  	Encephalitis, not elsewhere classified
+
+  8E49  	Postviral fatigue syndrome
+Inclusions:	chronic fatigue syndrome
+myalgic encephalomyelitis
+Exclusions:	Fatigue (MG22)
+
+  8E4A  	Paraneoplastic or autoimmune disorders of the nervous system
+Paraneoplastic and autoimmune disorders of the nervous system result from a targeted immune attack on neurons or glial cells in the central (e.g. encephalopathy, ataxia, myelitis) or peripheral nervous systems (peripheral or autonomic neuropathies, neuromuscular junction disorders or myopathy). In the paraneoplastic context, this attack is a consequence of a potentially effective tumour immune response initiated by onco-neural antigens derived from a systemic cancer. In the non-paraneoplastic context termed autoimmune the etiology remains elusive though increasing evidence indicates a preceding infectious trigger in at least some cases. These disorders are commonly multifocal causing injury and symptoms arising from involvement at many levels of the nervous system. A personal or family history of autoimmunity is often found. Accompanying neural and non-organ specific (thyroid peroxidase [TPO] antibodies) autoantibodies may be found. The neural autoantibody profile may be predictive of a specific cancer type and may be associated with a particular neurological phenotype. Exclusion of alternative etiologies (e.g. infections) is important. Response to immunotherapy may support the diagnosis.
+Coding Note:	Code aslo the causing condition
+
+8E4A.0	Paraneoplastic or autoimmune disorders of the central nervous system, brain or spinal cord
+Paraneoplastic and autoimmune disorders of the central nervous system, brain and spinal cord nervous system result from a targeted immune attack on neurons or glial cells in the central (e.g. encephalopathy, ataxia, myelopathy, myelitis) nervous system. In the paraneoplastic context, this attack is a consequence of a potentially effective tumour immune response initiated by onco-neural antigens derived from a systemic cancer. In the non-paraneoplastic context termed ‘autoimmune’ the etiology remains elusive though increasing evidence indicates a preceding infectious trigger in at least some cases. These disorders are commonly multifocal causing injury and symptoms arising from involvement at many levels of the central nervous system. A personal or family history of autoimmunity is often found. Accompanying neural and non-organ specific (thyroid peroxidase [TPO] antibodies) autoantibodies may be found. The neural autoantibody profile may be predictive of a specific cancer type and may be associated with a particular neurological phenotype. Exclusion of alternative etiologies (e.g. infections) is important. Response to immunotherapy may support the diagnosis.
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Paraneoplastic retinopathy (9B71.4)
+Autoimmune retinopathy (9B71.5)
+Opsoclonus-myoclonus (9C85.02)
+
+8E4A.1	Paraneoplastic or autoimmune disorders of the peripheral or autonomic nervous system
+Paraneoplastic and autoimmune disorders of the peripheral and autonomic nervous system result from a targeted immune attack on neurons or glial cells in the peripheral nervous systems (peripheral or autonomic neuropathies). In the paraneoplastic context, this attack is a consequence of a potentially effective tumour immune response initiated by onco-neural antigens derived from a systemic cancer. In the non-paraneoplastic context termed autoimmune the etiology remains elusive though increasing evidence indicates a preceding infectious trigger in at least some cases. Onset may be subacute or insidious and these disorders may be limited, multifocal or generalised. Autoimmune somatic peripheral nerve disorders may affect the nerve at multiple levels including root, nerve and plexus and may be axonal, demyelinating or both. Autoimmune autonomic disorders result in autonomic failure that can be partial or generalised. The prototypic autonomic neuropathy is the autoimmune ganglionopathy associated with
+antibodies targeting the ganglionic nicotinic acetylcholine receptor (α3 gAChR). Screening for cancer is appropriate for those with specific neural antibody profiles and other risk factors.
+Associated neural antibodies in peripheral neuropathies include anti neuronal nuclear antibody type 1 or anti-Hu, CASPR2, gAChR, ganglioside (GM1 IgG and IGM) antibodies.
+Coding Note:	Code aslo the causing condition
+
+8E4A.2	Paraneoplastic or autoimmune neuromuscular transmission disorders
+NMT disorders are defined by a variable disturbance of the function of the neuromuscular transmission, resulting in fluctuating muscle weakness and fatigue. These are usually classified into pre- and postsynaptic disorders.
+Presynaptic disorders, mainly the Lambert Eaton Myasthenic Syndrome (LEMS) is associated with antibodies targeting the voltage gated calcium channels (PQ and N type). LEMS is associated with malignancy (pulmonary or extra-pulmonary small cell carcinoma) in about 50 % of cases. In the context of LEMS the detection of SOX 1 (anti glial nuclear) antibodies is highly predictive of cancer.
+Postsynaptically, myasthenia gravis is mostly (>90%) associated with antibodies targeting the muscle acetylcholine receptor (AChR) or rarely other proteins (including muscle -specific kinase -MUSK). Myasthenia is usually not considered a paraneoplastic disease, with the exception of thymoma in about 10% cases.
+Coded Elsewhere:	Lambert-Eaton syndrome (8C62)
+Myasthenia gravis (8C60)
+
+8E4A.3	Paraneoplastic or autoimmune disorders of the muscle
+Paraneoplastic and autoimmune diseases of muscle present with weakness and can be caused by a variety of causes, either by undefined remote effects or autoimmune effects in cancer, or autoimmune mechanisms in non cancer related conditions. The presentation is variable, usually presenting with a proximal myopathic pattern.
+Coded Elsewhere:	Paraneoplastic polymyositis (4A41.11)
+Paraneoplastic dermatomyositis (4A41.00)
+
+8E4A.Y	Other specified paraneoplastic or autoimmune disorders of the nervous system
+Coding Note:	Code aslo the causing condition
+
+  8E4Y  	Other specified disorders of the nervous system
+
+  8E4Z  	Other disorders of the nervous system, unspecified
+
+Postprocedural disorders of the nervous system (BlockL1‑8E6)
+Coded Elsewhere:	Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+Post dural puncture headache (8A84.Y)
+Dural graft-associated Creutzfeldt-Jakob Disease (8E01.0)
+  8E60  	Post ventricular shunting leak
+
+  8E61  	Post radiation injury of the nervous system
+Coded Elsewhere:	Post radiation lumbosacral plexopathy (8B92.0)
+Post radiation polyneuropathy (8D43.21)
+Post radiation brachial plexopathy (8B91.Y)
+
+8E61.0	Brain irradiation
+Injury to the brain from therapeutic cranial irradiation which may be divided temporally into three syndromes: Acute or early toxicity which is consequent upon immediate exposure to radiation, early-delayed injury and late-delayed injury although the three may overlap.
+
+8E61.1	Spinal cord irradiation
+
+  8E62  	Postprocedural meningitis
+Inflammation of the meninges due to a procedure. The syndrome is clinically characterised by headache, neck stiffness, fever and photophobia. Diagnosis may be aided by neuroimaging and spinal fluid analysis which may reveal a lymphocytic pleocytosis and raised protein.
+
+  8E63  	Post pump encephalopathy
+
+  8E64  	Multifocal cerebral infarctions
+
+  8E65  	Anoxic-ischaemic encephalopathy
+
+  8E66  	Intracranial hypotension due to lumbar puncture
+
+
+  8E7Y  	Other specified diseases of the nervous system
+
+  8E7Z  	Diseases of the nervous system, unspecified
+

@@ -1,0 +1,2025 @@
+CHAPTER 09
+Diseases of the visual system
+This chapter has 159 four-character categories.
+Code range starts with 9A00
+This refers to any diseases of the visual system, which includes the eyes and adnexa, the visual pathways and brain areas, which initiate and control visual perception and visually guided behaviour.
+Exclusions:	Certain conditions originating in the perinatal period (Chapter 19)
+Certain infectious or parasitic diseases (Chapter 01)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Endocrine, nutritional or metabolic diseases (Chapter 05)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Posterior cortical atrophy (8A21.0)
+Coded Elsewhere:	Neoplasms of the eye or ocular adnexa
+Reasons for contact with the health care system in relation to eyes or vision
+Contusion of eyeball or orbital tissues (NA06.9)
+Foreign body in multiple parts of external eye (ND70.2)
+Oculocutaneous albinism (EC23.20)
+Traumatic injury to eyeball (NA06.8)
+Birth injury to eye (KA41)
+Late congenital syphilitic oculopathy (1A60.2)
+Symptoms, signs or clinical findings of the visual system (MC10-MC2Y)
+Structural developmental anomalies of the eye, eyelid or lacrimal apparatus (LA10-LA1Z)
+This chapter contains the following top level blocks:
+•	Disorders of the ocular adnexa or orbit
+•	Disorders of the eyeball - anterior segment
+•	Disorders of the eyeball - posterior segment
+•	Disorders of the eyeball affecting both anterior and posterior segments
+•	Disorders of the visual pathways or centres
+•	Glaucoma or glaucoma suspect
+•	Strabismus or ocular motility disorders
+•	Disorders of refraction or accommodation
+•	Postprocedural disorders of eye or ocular adnexa
+•	Impairment of visual functions
+•	Vision impairment
+•	Neoplasms of the eye or ocular adnexa
+•	Reasons for contact with the health care system in relation to eyes or vision
+
+Disorders of the ocular adnexa or orbit (BlockL1‑9A0)
+Coded Elsewhere:	Ocular myiasis (1G01.0)
+Disorders of eyelid or peri-ocular area (BlockL2‑9A0)
+Coded Elsewhere:	Congenital malformations of the eyelid
+Seborrhoeic keratosis (2F21.0)
+Cysts of eyelid (2F36.4)
+Eyelid trauma (NA06.0)
+Benign cutaneous neoplasm or cyst of eyelid (2F36.Y)
+  9A00  	Congenital malposition of eyelids
+Coded Elsewhere:	Congenital entropion (LA14.02)
+Congenital ectropion (LA14.03)
+Congenital ptosis (LA14.04)
+Hypotelorism (LB71.0)
+Hypertelorism (LB71.1)
+Epiblepharon (LA14.0Y)
+
+9A00.0	Dystopia canthorum
+Coded Elsewhere:	Waardenburg syndrome (EC23.2Y)
+
+9A00.1	Telecanthus
+
+9A00.Y	Other specified congenital malposition of eyelids
+
+9A00.Z	Congenital malposition of eyelids, unspecified
+
+  9A01  	Infectious disorders of eyelid
+Coded Elsewhere:	Trachoma (1C23)
+Involvement of eyelid in tuberculosis (1B12.1)
+Involvement of eyelid in leprosy (1B20.3)
+Verruca vulgaris of eyelid (1E80.Y)
+
+9A01.0	Preseptal cellulitis
+
+9A01.1	Abscess of eyelid
+
+9A01.2	Hordeolum
+An acute focal infection usually by Staphylococcus aureus involving the eyelash follicle and its associated meibomian and Zeis glands. If the principal focus of infection is the follicle, it presents with a painful boil which discharges pus at the eyelid margin (external hordeolum or stye). If the infection is centred on the meibomian gland (internal hordeolum) then suppuration onto the conjunctival surface occurs.
+
+9A01.20	Hordeolum externum
+An acute focal pyogenic infection of the eyelash follicle commonly known as a stye and caused predominantly by Staphylococcus aureus. It presents as an acute painful inflammatory eyelid swelling which subsequently discharges at the eyelid margin.
+
+9A01.21	Hordeolum internum
+A focal acute pyogenic infection, usually by Staphylococcus aureus, of a meibomian gland, the normal secretion from which into the eyelash follicle is blocked. It presents as an acute inflammatory swelling which may discharge onto the conjunctival surface of the eyelid, or rarely anteriorly through the eyelid skin. It may predispose to formation of a chalazion.
+Exclusions:	Chalazion (9A02.0)
+
+9A01.2Z	Hordeolum, unspecified
+
+9A01.3	Infectious blepharitis
+A condition of the eyelid, commonly caused by an infection with a bacterial source. This condition is characterised by pruritus, burning, scratchiness, excessive tearing, or crusty debris around the eyelashes. This condition may also present with lid erythema, collarettes, madarosis, trichiasis, or plugged meibomian glands. Transmission is by direct or indirect contact with an infected individual, endogenous spread, or through fomites.
+Exclusions:	Blepharoconjunctivitis (9A60.4)
+Coded Elsewhere:	Herpes simplex infection of eyelid (1F00.11)
+Molluscum contagiosum of eyelid (1E76)
+Zoster infection of eyelid (1E91.1)
+
+9A01.4	Infestation of eyelid
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Parasitic infestation of eyelid in loiasis (1F66.0)
+Parasitic infestation of eyelid in leishmaniasis (1F54.Z)
+
+9A01.Y	Other specified infectious disorders of eyelid
+
+  9A02  	Inflammatory disorders of eyelid
+Coded Elsewhere:	Atopic eczema of eyelids (9A06.70)
+Seborrhoeic dermatitis of eyelids (9A06.71)
+
+9A02.0	Chalazion
+A chalazion is a small cyst on the eyelid caused by blockage of a meibomian gland.
+
+9A02.00	Chalazion externum
+
+9A02.01	Chalazion internum
+
+9A02.0Y	Other specified chalazion
+
+9A02.0Z	Chalazion, unspecified
+
+9A02.1	Posterior blepharitis
+Posterior blepharitis is inflammation of the eyelids secondary to dysfunction of the meibomian glands. Like anterior blepharitis it is a bilateral chronic condition and manifested by a broad spectrum of symptoms involving the lids including inflammation and plugging of the meibomian orifices and production of abnormal secretion upon pressure over the glands. It may be associated with skin rosacea.
+
+9A02.2	Ligneous conjunctivitis
+Ligneous conjunctivitis (LC) is a rare form of chronic conjunctivitis characterised by the recurrent formation of pseudomembranous lesions most commonly on the palpebral surfaces. It is most frequently reported as a clinical manifestation of severe homozygous or compound-heterozygous hypoplasminogenaemia. Most cases involve infants and children.
+
+9A02.4	Meibomian gland dysfunction
+This refers to the dysfunction of a special kind of sebaceous gland at the rim of the eyelids inside the tarsal plate, responsible for the supply of meibum, an oily substance that prevents evaporation of the eye's tear film. Meibum prevents tear spillage onto the cheek, trapping tears between the oiled edge and the eyeball, and makes the closed lids airtight.
+
+9A02.Y	Other specified inflammatory disorders of eyelid
+
+  9A03  	Acquired malposition of eyelid
+
+9A03.0	Blepharoptosis
+Drooping of the upper lid due to deficient development or paralysis of the levator palpebrae muscle.
+
+9A03.00	Marcus-Gunn syndrome
+Marcus-Gunn syndrome is characterised by ptosis associated with maxillopalpebral synkinesis. The syndrome is generally unilateral and sporadic, but bilateral and autosomal dominant inherited cases have been reported.
+
+9A03.01	Mechanical ptosis of eyelid
+
+9A03.02	Myogenic ptosis of eyelid
+This refers to a contraction initiated by the myocyte cell itself instead of an outside occurrence or stimulus such as nerve innervation, causing drooping or falling of the eyelid. The drooping may be worse after being awake longer, when the individual's muscles are tired.
+
+9A03.03	Paralytic ptosis of eyelid
+
+9A03.0Y	Other specified blepharoptosis
+
+9A03.0Z	Blepharoptosis, unspecified
+
+9A03.1	Entropion of eyelid
+
+9A03.10	Cicatricial entropion of eyelid
+
+9A03.11	Mechanical entropion of eyelid
+
+9A03.12	Senile entropion of eyelid
+This is a senile condition in which the eyelid (usually the lower lid) folds inward. It is very uncomfortable, as the eyelashes constantly rub against the cornea and irritate it. Entropion is usually caused by genetic factors and very rarely it may be congenital when an extra fold of skin grows with the lower eyelid (epiblepharon). Entropion can also create secondary pain of the eye (leading to self trauma, scarring of the eyelid, or nerve damage).
+
+9A03.13	Spastic entropion of eyelid
+This is a spastic condition in which the eyelid (usually the lower lid) folds inward. It is very uncomfortable, as the eyelashes constantly rub against the cornea and irritate it. Entropion is usually caused by genetic factors and very rarely it may be congenital when an extra fold of skin grows with the lower eyelid (epiblepharon). Entropion can also create secondary pain of the eye (leading to self trauma, scarring of the eyelid, or nerve damage).
+
+9A03.1Y	Other specified entropion of eyelid
+
+9A03.1Z	Entropion of eyelid, unspecified
+
+9A03.2	Ectropion of eyelid
+The turning outward (eversion) of the edge of the eyelid, resulting in the exposure of the palpebral conjunctiva.
+
+9A03.20	Cicatricial ectropion of eyelid
+
+9A03.21	Mechanical ectropion of eyelid
+
+9A03.22	Senile ectropion of eyelid
+
+9A03.23	Spastic ectropion of eyelid
+
+9A03.24	Floppy eyelid syndrome
+Acquired disorder of unknown origin, manifested by an easily everted floppy upper eyelid and papillary conjunctivitis of the upper palpebral conjunctiva. It is primarily associated with obese men and obstructive sleep apnoea. The tarsus of the upper eyelid becomes softer and looser probably due to mechanical forces and enzymatical changes. The upper eyelid everts during sleep, resulting in irritation, papillary conjunctivitis, and conjunctival keratinization. Effective treatment consists of preventing the upper eyelid from everting while the patient is sleeping.
+
+9A03.2Y	Other specified ectropion of eyelid
+
+9A03.2Z	Ectropion of eyelid, unspecified
+
+9A03.3	Eyelid retraction
+
+9A03.4	Lagophthalmos
+
+9A03.40	Cicatricial lagophthalmos
+
+9A03.41	Mechanical lagophthalmos
+
+9A03.42	Paralytic lagophthalmos
+
+9A03.4Y	Other specified lagophthalmos
+
+9A03.4Z	Lagophthalmos, unspecified
+
+9A03.5	Dermatochalasis of eyelid
+
+9A03.Y	Other specified acquired malposition of eyelid
+
+9A03.Z	Acquired malposition of eyelid, unspecified
+
+  9A04  	Acquired disorders of eyelashes
+Exclusions:	Distichiasis (LA14.0)
+Structural developmental anomalies of eyelids (LA14.0)
+
+9A04.0	Trichiasis without entropion
+This refers to abnormally positioned eyelashes that grow back toward the eye, touching the cornea or conjunctiva. This can be caused by infection, inflammation, autoimmune conditions, congenital defects, eyelid agenesis and trauma such as burns or eyelid injury. This diagnosis is without a condition in which the eyelid (usually the lower lid) folds inward. It is very uncomfortable, as the eyelashes constantly rub against the cornea and irritate it.
+
+9A04.1	Madarosis of eyelid or periocular area
+Partial or complete loss of eyelashes and/or eyebrow hairs. Alopecia areata and chronic cutaneous lupus erythematosus are well recognised causes. If the underlying cause is known this should be coded as well.
+
+9A04.Y	Other specified acquired disorders of eyelashes
+
+  9A05  	Movement disorders of eyelid
+Exclusions:	Tic disorders (8A05)
+Coded Elsewhere:	Benign essential blepharospasm (8A02.00)
+Hemifacial spasm (8B88.2)
+Facial tic (8A05.03)
+
+9A05.0	Myokymia of eyelid
+Myokymia is used to describe an involuntary eyelid muscle contraction, typically involving the lower eyelid or less often the upper eyelid. It occurs in normal individuals and typically starts and disappears spontaneously. However, it can sometimes last up to three weeks. Since the condition typically resolves itself, medical professionals do not consider it to be serious or a cause for concern.
+Exclusions:	Facial myokymia (8B88.1)
+Myokymia (MB47.5)
+
+9A05.1	Eyelid apraxia
+
+9A05.Y	Other specified movement disorders of eyelid
+
+9A05.Z	Movement disorders of eyelid, unspecified
+
+  9A06  	Certain specified disorders of eyelid
+
+9A06.0	Involvement of eyelid by dermatosis classified elsewhere
+Involvement of eyelid by skin diseases such as psoriasis or lichen planus.
+
+9A06.1	Vitiligo of eyelid or periocular area
+
+9A06.2	Symblepharon, acquired
+
+9A06.3	Traumatic scar of eyelid
+
+9A06.4	Xanthelasma of eyelid
+Xanthelasmata are a form of plane xanthoma which manifest as sharply demarcated yellowish deposits of lipid within the skin of the eyelid. While they are neither harmful nor painful, these minor growths may be disfiguring and may be the presenting sign of hypercholesterolaemia. They are common in people of Asian origin and those from the Mediterranean region.
+
+9A06.5	Tear Trough Deformity
+
+9A06.6	Sunken Sulcus Deformity
+
+9A06.7	Dermatitis or eczema of eyelids
+Eczematous blepharitis and contact dermatitis affecting the eyelids.
+Coded Elsewhere:	Irritant contact blepharoconjunctivitis (EK02.11)
+
+9A06.70	Atopic eczema of eyelids
+Atopic eczema affecting the eyelids. This is a common manifestation of atopic eczema and can result in a significant impact on normal vision and on well-being.
+
+9A06.71	Seborrhoeic dermatitis of eyelids
+Seborrhoeic dermatitis of eyelids (seborrhoeic blepharitis) is common. It is characterised by redness and scaling on the skin of the eyelids with variable involvement of the eyelid margins.
+Exclusions:	Seborrhoea (ED91.2)
+
+9A06.72	Allergic contact blepharoconjunctivitis
+Allergic contact dermatitis affecting the eyelid and conjunctivae.
+
+9A06.7Y	Other specified dermatitis or eczema of eyelids
+
+9A06.7Z	Dermatitis or eczema of eyelids, type unspecified
+
+9A06.8	Blepharochalasis
+This is a malposition of the eyelid caused either by involution or by inflammation of the eyelid. The inflammation is characterised by exacerbations and remissions of eyelid oedema, which results in a stretching and subsequent atrophy of the eyelid tissue resulting in redundant folds over the lid margins. It typically affects only the upper eyelids, and may be unilateral as well as bilateral.
+
+9A06.Y	Other specified disorders of eyelid
+
+  9A0Y  	Other specified disorders of eyelid or peri-ocular area
+
+  9A0Z  	Disorders of eyelid or peri-ocular area, unspecified
+
+Disorders of lacrimal apparatus (BlockL2‑9A1)
+Exclusions:	congenital malformations of lacrimal system (LA14.1)
+  9A10  	Disorders of lacrimal gland
+
+9A10.0	Infections of the lacrimal gland
+
+9A10.1	Orbital inflammatory syndrome
+This refers to a marginated mass-like enhancing soft tissue involving any area of the orbit. It is the most common painful orbital mass in the adult population, and is associated with proptosis, cranial nerve palsy (Tolosa-Hunt syndrome), uveitis, and retinal detachment.
+
+9A10.2	Benign lymphoepithelial lesion of lacrimal gland
+This is a type of benign enlargement of the parotid and/or lacrimal glands. This pathologic state is sometimes, but not always, associated with Sjögren's syndrome. This diagnosis of paired almond-shaped glands, one for each eye, that secrete the aqueous layer of the tear film.
+
+9A10.3	Hyperlacrimation
+
+9A10.4	Underproduction of tears
+Underproduction of tears causes keratoconjunctivitis sicca and can be caused by disorders that interrupt the neural control of lacrimation.
+
+9A10.Y	Other specified disorders of lacrimal gland
+
+9A10.Z	Disorders of lacrimal gland, unspecified
+
+  9A11  	Disorders of lacrimal drainage system
+Coded Elsewhere:	Agenesis of lacrimal ducts (LA14.11)
+Congenital dacryocele (LA14.12)
+Congenital agenesis of lacrimal punctum (LA14.13)
+Congenital stenosis or stricture of lacrimal duct (LA14.14)
+
+9A11.0	Eversion of lacrimal punctum
+Inclusions:	Punctal ectropion
+
+9A11.1	Canaliculitis
+
+9A11.2	Dacryocystitis
+
+9A11.3	Conjunctivochalasis
+
+9A11.4	Punctal stenosis
+
+9A11.5	Nasolacrimal canalicular stenosis
+
+9A11.6	Dacryolith
+
+9A11.7	Nasolacrimal sac stenosis
+
+9A11.8	Nasolacrimal duct obstruction
+Coded Elsewhere:	Congenital stenosis or stricture of lacrimal duct (LA14.14)
+
+9A11.Y	Other specified disorders of lacrimal drainage system
+
+9A11.Z	Disorders of lacrimal drainage system, unspecified
+
+  9A1Y  	Other specified disorders of lacrimal apparatus
+
+  9A1Z  	Disorders of lacrimal apparatus, unspecified
+
+Disorders of orbit (BlockL2‑9A2)
+This refers to disorders of the cavity or socket of the skull in which the eye and its appendages are situated. "Orbit" can refer to the bony socket, or it can also be used to imply the contents.
+Coded Elsewhere:	Neoplasms of orbit
+Orbital trauma
+Structural developmental anomalies of orbit (LA14.2)
+  9A20  	Displacement of eyeball
+
+9A20.0	Axial displacement of eyeball
+
+9A20.00	Outward displacement of eyeball
+Coding Note:	Code aslo the causing condition
+Inclusions:	Proptosis
+Exophthalmos
+
+9A20.01	Inward displacement of eyeball
+Inclusions:	Enophthalmos
+
+9A20.0Y	Other specified axial displacement of eyeball
+
+9A20.0Z	Axial displacement of eyeball, unspecified
+
+9A20.1	Non-Axial displacement of eyeball
+
+9A20.Y	Other specified displacement of eyeball
+
+9A20.Z	Displacement of eyeball, unspecified
+
+  9A21  	Orbital infection
+Coded Elsewhere:	Osteomyelitis of orbit (FB84.Y)
+Hydatic cyst (9A23.1)
+Echinococcus infection of orbit (1F73.Y)
+Myiasis of orbit (1G01.0)
+
+9A21.0	Orbital cellulitis
+Exclusions:	Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+9A21.1	Orbital subperiosteal abscess
+A condition of the eye and adnexa, caused by an infection with a bacterial source. This condition is characterised by a focal accumulation of purulent material in the bones that support the globe, fever, crusting of the eye, swelling of the eye, or proptosis. Confirmation is by identification of the bacterial agent.
+
+9A21.2	Orbital abscess
+
+9A21.3	Periostitis of orbit
+
+9A21.Y	Other specified orbital infection
+
+9A21.Z	Orbital infection, unspecified
+
+  9A22  	Orbital inflammation
+
+9A22.0	Dysthyroid orbitopathy
+
+9A22.1	Diffuse orbital inflammation
+
+9A22.2	Granulomatous orbital inflammation
+
+9A22.Y	Other specified orbital inflammation
+
+9A22.Z	Orbital inflammation, unspecified
+
+  9A23  	Orbital cyst
+
+9A23.0	Congenital orbital cyst
+Coded Elsewhere:	Teratoma of orbit (2F36.3)
+Dermoid cyst of eyelid (2F36.4)
+
+9A23.1	Acquired orbital cyst
+Coded Elsewhere:	Epidermoid cyst (EK70.0)
+
+9A23.Z	Orbital cyst, unspecified
+
+  9A24  	Bony deformity of orbit
+
+9A24.0	Contraction of orbit
+
+9A24.1	Expansion of orbit
+
+9A24.2	Distortion of orbit
+
+9A24.3	Enlargement of bony orbit
+
+9A24.4	Exostosis of orbit
+
+9A24.Y	Other specified bony deformity of orbit
+
+9A24.Z	Bony deformity of orbit, unspecified
+
+  9A25  	Soft tissue deformity of orbit
+
+9A25.0	Anophthalmic socket
+
+9A25.1	Microphthalmic socket
+
+9A25.2	Contracted socket
+
+9A25.3	Oedema of orbit
+
+9A25.4	Haemorrhage of orbit
+This is the loss of blood or blood escaping from the circulatory system. This diagnosis is of the cavity or socket of the skull in which the eye and its appendages are situated. "Orbit" can refer to the bony socket, or it can also be used to imply the contents.
+
+9A25.5	Atrophy of soft tissue of orbit
+
+9A25.Y	Other specified soft tissue deformity of orbit
+
+9A25.Z	Soft tissue deformity of orbit, unspecified
+
+  9A26  	Combined bony and soft tissue deformity of orbit
+Coded Elsewhere:	Hypertelorism (LB71.1)
+
+  9A2Y  	Other specified disorders of orbit
+
+  9A2Z  	Disorders of orbit, unspecified
+
+
+  9A4Y  	Other specified disorders of the ocular adnexa or orbit
+
+  9A4Z  	Disorders of the ocular adnexa or orbit, unspecified
+
+Disorders of the eyeball - anterior segment (BlockL1‑9A6)
+This refers to any disorders of the front third of the eye that includes the structures in front of the vitreous humour: the cornea, iris, ciliary body, and lens.
+Coded Elsewhere:	Structural disorders of the pupil (LA11.6)
+Developmental anomalies of anterior segment (LA11.Y)
+Disorders of conjunctiva (BlockL2‑9A6)
+Coded Elsewhere:	Neoplasms of conjunctiva
+  9A60  	Conjunctivitis
+Exclusions:	keratoconjunctivitis (BlockL2‑9A7)
+Coded Elsewhere:	Trachoma (1C23)
+Viral conjunctivitis (1D84)
+Neonatal conjunctivitis or dacryocystitis (KA65.0)
+
+9A60.0	Papillary conjunctivitis
+
+9A60.00	Giant papillary conjunctivitis
+Giant papillary conjunctivitis is a nonallergic hypersensitivity inflammation of the ocular surface, most frequently to contact lenses, ocular prostheses, postoperative sutures, and scleral buckles.
+
+9A60.01	Acute atopic conjunctivitis
+This is the allergic inflammation of the conjunctiva (mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball) of the immediate type, due to airborne allergens such as pollens, dusts, spores, and animal hair.
+
+9A60.02	Allergic conjunctivitis
+Allergic conjunctivitis is an IgE-mediated response due to the exposure of seasonal or perennial allergens in sensitized patients. The allergen-induced inflammatory response of the conjunctiva results in the release of histamine and other mediators. Symptoms consist of redness (mainly due to vasodilation of the peripheral small blood vessels), oedema (swelling) of the conjunctiva, itching, and increased lacrimation (production of tears).
+
+9A60.0Y	Other specified papillary conjunctivitis
+
+9A60.0Z	Papillary conjunctivitis, unspecified
+
+9A60.1	Follicular conjunctivitis
+Coded Elsewhere:	Chlamydial conjunctivitis (1C20)
+Herpes simplex keratoconjunctivitis (1F00.1Y)
+Zoster keratoconjunctivitis (1E91.1)
+Keratoconjunctivitis due to adenovirus (1D84.0)
+Keratoconjunctivitis due to Acanthamoeba (1F50)
+
+9A60.2	Cicatrizing conjunctivitis
+
+9A60.3	Mucopurulent conjunctivitis
+These are infections of the conjunctiva, containing mucus and pus, by several species such as Haemophilus, Streptococcus, Neisseria, and Chlamydia.
+
+9A60.30	Ulceration of conjunctiva
+
+9A60.31	Abscess of conjunctiva
+
+9A60.32	Conjunctivitis due to Koch-Weeks bacillus
+
+9A60.33	Acute epidemic conjunctivitis
+
+9A60.3Y	Other specified mucopurulent conjunctivitis
+
+9A60.3Z	Mucopurulent conjunctivitis, unspecified
+
+9A60.4	Blepharoconjunctivitis
+
+9A60.5	Vernal keratoconjunctivitis
+Vernal keratoconjunctivitis is a persistent and severe form of ocular allergy that affects children and young adults, usually in warm climates. Vernal keratoconjunctivitis typically appears in boys between the ages of 4–12 years. The typical symptoms are intense itching, tearing, and photophobia. Disease exacerbation can be triggered either by allergen re-exposure or by nonspecific stimuli such as sunlight, wind, and dust. The tarsal form is characterised by irregularly sized hypertrophic papillae, leading to a cobblestone appearance of the upper tarsal plate. The limbal form is characterised by transient, multiple limbal, or conjunctival gelatinous yellow-grey infiltrates superposed with white points or deposits, known as Horner–Trantas dots and papillae at the limbus.
+
+9A60.6	Serous conjunctivitis, except viral
+
+9A60.Y	Other specified conjunctivitis
+
+9A60.Z	Conjunctivitis, unspecified
+
+  9A61  	Certain specified disorders of conjunctiva
+Exclusions:	keratoconjunctivitis (BlockL2‑9A7)
+Coded Elsewhere:	Conjunctival blebitis after glaucoma surgery (9D23)
+Complications with glaucoma drainage devices (9D24)
+Injury of conjunctiva or corneal abrasion without mention of foreign body (NA06.4)
+Foreign body in conjunctival sac (ND70.1)
+
+9A61.0	Pingueculae
+
+9A61.1	Pterygium
+Exclusions:	Pseudopterygium of conjunctiva (9A61.2)
+
+9A61.2	Pseudopterygium of conjunctiva
+
+9A61.3	Conjunctival scars
+These are cicatrices of the mucous membrane that lines the inner surface of the eyelid and the exposed surface of the eyeball that occur due to various reasons such as trauma, infection or allergy.
+
+9A61.4	Conjunctival vascular disorders
+Benign cysts which often appear as small, clear, fluid-filled inclusions of conjunctival epithelium whose goblet cells secrete into the cyst and not onto the surface.
+
+9A61.40	Vascular abnormalities of conjunctiva
+Coded Elsewhere:	Conjunctival haemangioma or haemolymphangioma (2E81.01)
+
+9A61.4Y	Other specified conjunctival vascular disorders
+
+9A61.4Z	Conjunctival vascular disorders, unspecified
+
+9A61.5	Conjunctival or subconjunctival haemorrhage
+A conjunctival haemorrhage is a small haematoma clearly delimited on the conjunctiva itself resulting from a direct blow on the eye. Subconjunctival haemorrhage extends from the orbit, forward and deep to the conjunctiva with no posterior limit.
+
+9A61.6	Conjunctival or subconjunctival degenerations or deposits
+These are the conjunctival/subconjunctival accumulation of some materials and gradual deterioration with impairment or loss of function, caused by injury, disease, or aging.
+Coded Elsewhere:	Vitamin A deficiency with conjunctival xerosis (5B55.1)
+Vitamin A deficiency with conjunctival xerosis or Bitot's spots (5B55.2)
+
+9A61.Z	Certain specified disorders of conjunctiva, unspecified
+
+  9A62  	Mucous membrane pemphigoid with ocular involvement
+Mucous membrane pemphigoid (MMP) involving the conjunctivae is also known as ocular pemphigoid. This may be confined to the conjunctivae or may be associated with involvement of other sites as well. Its importance lies in its potential to cause loss of vision and it may thus warrant more aggressive therapy than would be considered for MMP of other sites.
+Coded Elsewhere:	Chronic cicatrizing conjunctivitis, ocular cicatricial pemphigoid (9A60.2)
+
+  9A6Y  	Other specified disorders of conjunctiva
+
+  9A6Z  	Disorders of conjunctiva, unspecified
+
+Disorders of the cornea (BlockL2‑9A7)
+This refers to disorders of the transparent front part of the eye that covers the iris, pupil, and anterior chamber. The cornea, with the anterior chamber and lens, refracts light, with the cornea accounting for approximately two-thirds of the eye's total optical power.
+Coded Elsewhere:	Neoplasms of the cornea
+  9A70  	Hereditary corneal dystrophies
+The term corneal dystrophy embraces a heterogeneous group of bilateral genetically determined non-inflammatory corneal diseases that are usually restricted to the cornea. The designation is imprecise but remains in vogue because of its clinical value.
+Coded Elsewhere:	X-linked ichthyosis (EC20.01)
+Cornea plana (LA11.1)
+Megalocornea (LA11.1)
+Microcornea (LA11.1)
+
+9A70.0	Endothelial corneal dystrophy
+
+9A70.Y	Other specified hereditary corneal dystrophies
+
+9A70.Z	Hereditary corneal dystrophies, unspecified
+
+  9A71  	Infectious keratitis
+Coded Elsewhere:	Herpes simplex keratitis (1F00.10)
+
+  9A72  	Traumatic keratitis
+Exclusions:	Foreign body in cornea (ND70.0)
+
+  9A73  	Exposure keratitis
+This is an exposure condition in which the eye's cornea, the front part of the eye, becomes inflamed. The condition is often marked by moderate to intense pain and usually involves impaired eyesight. May cause feelings of scratching each time individual blinks eye.
+
+  9A74  	Neurotrophic keratitis
+Coding Note:	Code aslo the causing condition
+
+  9A75  	Autoimmune keratitis
+
+  9A76  	Corneal ulcer
+Loss of epithelial tissue from the surface of the cornea due to progressive erosion and necrosis of the tissue. It is often caused by bacterial, fungal, or viral infection.
+
+  9A77  	Corneal scars or opacities
+Corneal opacity occurs when the cornea is scarred by a variety of infectious and inflammatory eye diseases. These scars stop light from passing through the cornea to the retina and may cause the cornea which is normally transparent to appear white or clouded over.
+Coded Elsewhere:	Anterior corneal pigmentations (9A78.1)
+Posterior corneal pigmentations (9A78.1)
+Stromal corneal pigmentations (9A78.1)
+
+9A77.0	Contact lens-associated corneal infiltrates
+
+9A77.1	Adherent leukoma
+This is a white tumour of the cornea enclosing a prolapsed adherent iris.
+
+9A77.Y	Other specified corneal scars or opacities
+
+9A77.Z	Corneal scars or opacities, unspecified
+
+  9A78  	Certain specified disorders of cornea
+Coded Elsewhere:	Injury of conjunctiva or corneal abrasion without mention of foreign body (NA06.4)
+Ocular laceration or rupture with prolapse or loss of intraocular tissue, unilateral (NA06.87)
+Ocular laceration without prolapse or loss of intraocular tissue, unilateral (NA06.8D)
+Ocular laceration or rupture with prolapse or loss of intraocular tissue, bilateral (NA06.88)
+Ocular laceration without prolapse or loss of intraocular tissue, bilateral (NA06.8E)
+Foreign body in cornea (ND70.0)
+Chemical burn of cornea or conjunctival sac (NE00)
+
+9A78.0	Corneal neovascularization
+
+9A78.1	Corneal pigmentations or deposits
+
+9A78.2	Corneal oedema
+
+9A78.20	Bullous keratopathy
+This is the maximum stage of corneal oedema.
+It is a pathological condition in which small vesicles, or bullae, are formed in the cornea due to endothelial dysfunction. In a healthy cornea, endothelial cells keeps the tissue from excess fluid absorption, pumping it back into the aqueous humour. When affected by some reason, such as Fuchs' dystrophy or a trauma during cataract removal, endothelial cells suffer mortality or damage. The corneal endothelial cells normally do not undergo mitotic cell division, and cell loss results in permanent loss of function.
+
+9A78.21	Secondary corneal oedema
+
+9A78.2Y	Other specified corneal oedema
+
+9A78.2Z	Corneal oedema, unspecified
+
+9A78.3	Changes in corneal membranes
+
+9A78.4	Corneal degeneration
+Exclusions:	Mooren ulcer (9A76)
+Coded Elsewhere:	Vitamin A deficiency with corneal xerosis (5B55.3)
+Vitamin A deficiency with corneal ulceration or keratomalacia (5B55.4)
+Vitamin A deficiency with xerophthalmic scars of cornea or blindness (5B55.5)
+
+9A78.5	Corneal deformities
+Coded Elsewhere:	Structural developmental anomalies of cornea (LA11.1)
+
+9A78.50	Keratoconus
+Keratoconus is a noninflammatory, often bilateral, corneal dystrophy characterised by progressive cone-shaped bulging and thinning of the cornea.
+Coding Note:	Code aslo the causing condition
+
+9A78.51	Corneal staphyloma
+
+9A78.5Y	Other specified corneal deformities
+
+9A78.5Z	Corneal deformities, unspecified
+
+9A78.6	Anaesthesia of cornea
+This is the condition of having sensation (including the feeling of pain) blocked or temporarily taken away, of the transparent front part of the eye that covers the iris, pupil, and anterior chamber.
+
+9A78.7	Hypoesthesia of cornea
+This refers to a reduced sense of touch or sensation, or a partial loss of sensitivity to sensory stimuli, of the transparent front part of the eye that covers the iris, pupil, and anterior chamber.
+
+9A78.8	Recurrent erosion of cornea
+
+9A78.9	Corneal abscess
+
+9A78.A	Sclerosing keratitis
+
+9A78.Z	Certain specified disorders of cornea, unspecified
+
+  9A79  	Keratoconjunctivitis sicca
+
+  9A7Y  	Other specified disorders of the cornea
+
+  9A7Z  	Disorders of the cornea, unspecified
+
+Disorders of the anterior chamber (BlockL2‑9A8)
+Coded Elsewhere:	Retained foreign body in anterior chamber of eye (NA06.2)
+  9A80  	Hyphaema
+Exclusions:	traumatic hyphaema (NA06.9)
+
+  9A81  	Parasites in the anterior chamber of the eye
+Coding Note:	Code aslo the causing condition
+
+  9A82  	Cyst in the anterior chamber of the eye
+
+  9A83  	Flat anterior chamber hypotony of eye
+
+  9A8Y  	Other specified disorders of the anterior chamber
+
+  9A8Z  	Disorders of the anterior chamber, unspecified
+
+Disorders of the anterior uvea (BlockL2‑9A9)
+Coded Elsewhere:	Congenital malformations of the uvea
+Neoplasms of the iris
+Neoplasms of the ciliary body
+Corectopia (LA11.Y)
+Polycoria (LA11.Y)
+Atresia iridis (LA11.Y)
+  9A90  	Degeneration of iris or ciliary body
+
+9A90.0	Disorders of chamber angle
+This refers to the change of tissue to a lower or less functionally active form, of the fluid-filled space inside the eye between the iris and the cornea's innermost surface, the endothelium.
+
+9A90.1	Degeneration of iris
+This refers to the change of tissue to a lower or less functionally active form, of the thin, circular structure in the eye, responsible for controlling the diameter and size of the pupil and thus the amount of light reaching the retina. The color of the iris is often referred to as "eye color."
+
+9A90.2	Iris atrophy
+
+9A90.Y	Other specified degeneration of iris or ciliary body
+
+9A90.Z	Degeneration of iris or ciliary body, unspecified
+
+  9A91  	Cyst of iris, ciliary body or anterior chamber
+Coded Elsewhere:	Cyst in the anterior chamber of the eye (9A82)
+
+  9A92  	Persistent pupillary membranes
+
+  9A93  	Adhesions or disruptions of iris or ciliary body
+This refers to adhesions and disruptions of the thin, circular structure in the eye, responsible for controlling the diameter and size of the pupil and thus the amount of light reaching the retina. The colour of the iris is often referred to as "eye colour." It is also of the circumferential tissue inside the eye composed of the ciliary muscle and ciliary processes. It is triangular in horizontal section and is coated by a double layer, the ciliary epithelium.
+Exclusions:	Corectopia (LA11)
+
+  9A94  	Certain specified disorders of iris or ciliary body
+
+9A94.0	Rubeosis of iris
+
+9A94.1	Floppy iris syndrome
+This is a complication that may occur during cataract extraction in certain patients. This syndrome is characterised by a flaccid iris which billows in response to ordinary intraocular fluid currents, a propensity for this floppy iris to prolapse towards the area of cataract extraction during surgery, and progressive intraoperative pupil constriction despite standard procedures to prevent this.
+
+9A94.2	Plateau iris syndrome
+
+9A94.Y	Other disorders of iris and ciliary body
+
+  9A96  	Anterior uveitis
+Coding Note:	Code aslo the causing condition
+
+9A96.0	Anterior uveitis not associated with systemic conditions
+
+9A96.1	Anterior uveitis associated with systemic conditions
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Sarcoid associated anterior uveitis (4B20.4)
+
+9A96.2	Infection-associated anterior uveitis
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Gonococcal anterior uveitis (1A72.4)
+Zoster anterior uveitis (1E91.1)
+Secondary syphilitic anterior uveitis (1A61.4)
+Tuberculous anterior uveitis (1B12.1)
+Chronic tuberculous iridocyclitis (1B12.1)
+Syphilitic uveitis (1A62.20)
+
+9A96.3	Primary anterior uveitis
+This refers to primary inflammation of the uvea. The uvea consists of the middle, pigmented, vascular structures of the eye and includes the iris, ciliary body, and choroid.
+
+9A96.Y	Other specified anterior uveitis
+Coding Note:	Code aslo the causing condition
+
+9A96.Z	Anterior uveitis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  9A9Y  	Other specified disorders of the anterior uvea
+
+  9A9Z  	Disorders of the anterior uvea, unspecified
+
+Functional disorders of the pupil (BlockL2‑9B0)
+  9B00  	Disorders of the afferent pupillary system
+
+9B00.0	Relative afferent pupillary defects
+
+9B00.1	Amaurotic pupillary reaction
+
+9B00.2	Paradoxical pupillary reaction to light or darkness
+
+9B00.3	Wernicke pupils
+
+9B00.Y	Other specified disorders of the afferent pupillary system
+
+9B00.Z	Disorders of the afferent pupillary system, unspecified
+
+  9B01  	Disorders of the efferent pupillary system
+Coded Elsewhere:	Horner syndrome (8D8A.1)
+Horner syndrome, acquired (8D8A.1)
+Horner syndrome, congenital (8D8A.1)
+
+9B01.0	Physiologic anisocoria
+
+9B01.1	Parasympathoparetic pupils
+Damage to the parasympathetic outflow to the iris sphincter muscle
+Coded Elsewhere:	Third nerve palsy (9C81.0)
+
+9B01.2	Pharmacologic inhibition of the parasympathetic pathway
+
+9B01.3	Iris sphincter disorders
+This refers to disorders of the muscle in the part of the eye called the iris. It encircles the pupil of the iris, appropriate to its function as a constrictor of the pupil.
+
+9B01.4	Pharmacologic parasympathicotonic pupils
+Pharmacologic stimulation of the parasympathetic pathway
+
+9B01.5	Pharmacologic sympathoparetic pupils
+
+9B01.6	Sympathotonic pupils
+
+9B01.7	Episodic unilateral mydriasis
+
+9B01.Y	Other specified disorders of the efferent pupillary system
+
+9B01.Z	Disorders of the efferent pupillary system, unspecified
+
+  9B02  	Light-near dissociations
+
+9B02.0	Argyll Robertson pupil
+These are bilateral small pupils that constrict when the patient focuses on a near object but do not constrict when exposed to bright light (they do not “react” to light).
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Syphilitic Argyll Robertson pupil (1A62.01)
+
+9B02.1	Pregeniculate light-near dissociations
+
+9B02.2	Mesencephalic light-near dissociations
+
+9B02.Y	Other specified light-near dissociations
+
+9B02.Z	Light-near dissociations, unspecified
+
+  9B0Y  	Other specified functional disorders of the pupil
+
+  9B0Z  	Functional disorders of the pupil, unspecified
+
+Disorders of lens (BlockL2‑9B1)
+Coded Elsewhere:	Structural developmental anomalies of lens or zonula (LA12)
+Presence of intraocular lens (QB51.2)
+  9B10  	Cataract
+
+9B10.0	Age-related cataract
+A senile cataract is a clouding of the lens of the eye, which impedes the passage of light, related to ageing, and that occurs usually starting from the age of 40.
+Exclusions:	capsular glaucoma with pseudoexfoliation of lens (9C61.0)
+
+9B10.00	Coronary age-related cataract
+
+9B10.01	Punctate age-related cataract
+
+9B10.02	Mature age-related cataract
+This is a mature age-related clouding of the lens inside the eye which leads to a decrease in vision. It is the most common cause of blindness and is conventionally treated with surgery. Visual loss occurs because opacification of the lens obstructs light from passing and being focused on to the retina at the back of the eye.
+
+9B10.0Y	Other specified age-related cataract
+
+9B10.0Z	Age-related cataract, unspecified
+
+9B10.1	Infantile or juvenile cataract
+A cataract is clouding of the lens of the eye, which impedes the passage of light.
+Exclusions:	Congenital cataract (LA12.1)
+
+9B10.10	Combined forms of infantile and juvenile cataract
+
+9B10.1Y	Other specified infantile or juvenile cataract
+
+9B10.1Z	Infantile or juvenile cataract, unspecified
+
+9B10.2	Certain specified cataracts
+A cataract is clouding of the lens of the eye, which impedes the passage of light.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Congenital cataract (LA12.1)
+Coded Elsewhere:	Myotonic cataract (9B10.2Y)
+Undernutrition-dehydration cataract (9B10.2Y)
+
+9B10.20	Traumatic cataract
+Partial or complete opacity on or in the lens or capsule of one or both eyes, impairing vision or causing blindness. The many kinds of cataract are classified by their morphology (size, shape, location) or etiology (cause and time of occurrence) resulting from or following injury.
+
+9B10.21	Diabetic cataract
+This refers to an unspecified group of metabolic diseases in which a person has high blood sugar, either because the pancreas does not produce enough insulin, or because cells do not respond to the insulin that is produced. This diagnosis is with diabetic cataract.
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+9B10.22	After-cataract
+This is a clouding of the lens of the eye, which impedes the passage of light resulting from disease, degeneration, or from surgery.
+Inclusions:	Secondary cataract
+Soemmerring ring
+
+9B10.23	Subcapsular glaucomatous flecks
+Coding Note:	Code aslo the causing condition
+
+9B10.2Y	Other specified cataracts
+Coding Note:	Code aslo the causing condition
+
+9B10.Z	Cataract, unspecified
+
+  9B11  	Certain specified disorders of lens
+Exclusions:	congenital lens malformations (LA12)
+Cataract lens fragments in eye following cataract surgery (9D21)
+Coded Elsewhere:	Presence of intraocular lens (QB51.2)
+
+9B11.0	Aphakia
+
+9B11.1	Dislocation of lens
+
+9B11.Y	Other disorders of lens
+
+  9B1Z  	Disorders of lens, unspecified
+
+
+  9B3Y  	Other specified disorders of the eyeball - anterior segment
+
+  9B3Z  	Disorders of the eyeball - anterior segment, unspecified
+
+Disorders of the eyeball - posterior segment (BlockL1‑9B5)
+This refers to disorders of the back two-thirds of the eye that includes the anterior hyaloid membrane and all of the optical structures behind it: the vitreous humour, retina, choroid, and optic nerve.
+Disorders of sclera (BlockL2‑9B5)
+Coded Elsewhere:	Blue sclera (LA11.0)
+  9B50  	Episcleritis
+Episcleritis is a benign, self-limiting inflammatory disease affecting part of the eye called the episclera. The episclera is a thin layer of tissue that lies between the conjunctiva and the connective tissue layer that forms the white of the eye (sclera). Episcleritis is a common condition, and is characterised by the abrupt onset of mild eye pain and redness.
+Coded Elsewhere:	Tuberculous episcleritis (1B12.1)
+Late syphilitic episcleritis (1A62.20)
+
+  9B51  	Scleritis
+Inflammation of the white, opaque, fibrous, outer tunic of the eyeball. Can be associated with uveitis.
+Coded Elsewhere:	Zoster scleritis (1E91.1)
+
+  9B52  	Scleral staphyloma
+Exclusions:	degenerative myopia (9B76)
+
+  9B5Y  	Other specified disorders of sclera
+
+  9B5Z  	Disorders of sclera, unspecified
+
+Disorders of the choroid (BlockL2‑9B6)
+Inclusions:	Disorders of posterior uvea
+Coded Elsewhere:	Neoplasms of choroid
+Congenital malformations of choroid (LA13.6)
+  9B60  	Choroidal degeneration
+Exclusions:	angioid streaks (9B78.3)
+
+  9B61  	Choroidal dystrophy
+Exclusions:	ornithinaemia (5C50.9)
+
+  9B62  	Chorioretinal scars
+
+  9B63  	Choroidal haemorrhage or rupture
+Coded Elsewhere:	Choroidal rupture (NA06.61)
+
+  9B64  	Choroidal detachment
+
+  9B65  	Choroiditis
+Inclusions:	Posterior uveitis
+
+9B65.0	Noninfectious posterior choroiditis
+Coded Elsewhere:	Ocular Behçet disease (4A62)
+
+9B65.1	Infectious posterior choroiditis
+Coded Elsewhere:	Late syphilitic posterior uveitis (1A62.20)
+Toxoplasma posterior uveitis (1F57.3)
+Tuberculous posterior uveitis (1B12.1)
+
+9B65.2	Chorioretinal inflammation
+Coded Elsewhere:	Toxoplasma chorioretinitis (1F57.3)
+Tuberculous chorioretinitis (1B12.1)
+Late congenital syphilitic chorioretinitis (1A60.2)
+
+9B65.Z	Choroiditis, unspecified
+
+  9B66  	Intermediate choroiditis
+This is a form of uveitis localised to the vitreous and peripheral retina. Primary sites of inflammation include the vitreous of which other such entities as pars planitis, posterior cyclitis, and hyalitis are encompassed. Intermediate uveitis may either be an isolated eye disease or associated with the development of a systemic disease such as multiple sclerosis or sarcoidosis.
+
+9B66.0	Noninfectious intermediate choroiditis
+This is a non-infectious form of uveitis localised to the vitreous and peripheral retina. Primary sites of inflammation include the vitreous of which other such entities as pars planitis, posterior cyclitis, and hyalitis are encompassed. Intermediate uveitis may either be an isolated eye disease or associated with the development of a systemic disease such as multiple sclerosis or sarcoidosis.
+
+9B66.1	Infectious intermediate choroiditis
+This is a infectious form of uveitis localised to the vitreous and peripheral retina. Primary sites of inflammation include the vitreous of which other such entities as pars planitis, posterior cyclitis, and hyalitis are encompassed. Intermediate uveitis may either be an isolated eye disease or associated with the development of a systemic disease such as multiple sclerosis or sarcoidosis.
+
+9B66.Z	Intermediate choroiditis, unspecified
+
+  9B6Y  	Other specified disorders of the choroid
+
+  9B6Z  	Disorders of the choroid, unspecified
+
+Disorders of the retina (BlockL2‑9B7)
+Coded Elsewhere:	Certain congenital malformations of posterior segment of eye (LA13.8)
+Neoplasms of retina
+Traumatic injuries of the retina (NA06.6)
+Renal retinitis in chronic kidney disease, stage 5 (GB61.5)
+Presence of retina Implant (QB51.Y)
+Coats disease (LD21.Y)
+  9B70  	Inherited retinal dystrophies
+Coded Elsewhere:	Sjögren-Larsson syndrome (5C52.03)
+Usher syndrome (LD2H.4)
+Asphyxiating thoracic dystrophy (LD24.B1)
+
+  9B71  	Retinopathy
+Coding Note:	Code aslo the causing condition
+
+9B71.0	Diabetic retinopathy
+A condition characterised as a disease of the retina (retinopathy) involving damage to the small blood vessels in the retina which is due to chronically high blood glucose levels in people with diabetes.
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+9B71.00	Nonproliferative diabetic retinopathy
+Coding Note:	Code aslo the causing condition
+
+9B71.01	Proliferative diabetic retinopathy
+This is proliferative retinopathy (damage to the retina) caused by complications of diabetes, which can eventually lead to blindness. It is an ocular manifestation of diabetes, a systemic disease, which affects up to 80 percent of all patients who have had diabetes for 10 years or more.
+Always assign an additional code for the type of diabetes mellitus.
+Coding Note:	Code aslo the causing condition
+
+9B71.02	Diabetic macular oedema
+Coding Note:	Code aslo the causing condition
+
+9B71.0Z	Diabetic retinopathy, unspecified
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+9B71.1	Hypertensive retinopathy
+Coding Note:	Code aslo the causing condition
+
+9B71.2	Radiation retinopathy
+Radiation retinopathy is damage to retina due to exposure to ionizing radiation. Radiation retinopathy has a delayed onset, typically after months or years of radiation, and is slowly progressive. In general, radiation retinopathy is seen around 18 months after treatment with external-beam radiation and with brachytherapy.
+
+9B71.3	Retinopathy of prematurity
+Retinopathy of prematurity is a vasoproliferative disorder that affects extremely premature infants potentially leading to severe visual impairment or blindness. Exposure of newborn premature infants to hyperoxia down regulates retinal vascular endothelial growth factor, Blood vessels constrict and can become obliterated, resulting in delays of normal retinal vascular development. Low birth weight, young gestational age, and severity of illness (e.g. respiratory distress syndrome, bronchopulmonary dysplasia, sepsis) are associated factors. It primarily occurs in extremely low birth weight infants because of the cessation of normal retinal vascular maturation.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Retrolental fibroplasia
+
+9B71.4	Paraneoplastic retinopathy
+Paraneoplastic retinopathies results from a targeted attack on the retina due to a tumour immune response initiated by onco-neural antigens derived from systemic cancer. Patients usually present after cancer diagnosis with progressive visual dimming and photopsias but dysfunction of rods (impaired dark adaption and peripheral vision loss) and cones (decreased visual acuity, colour dysfunction, photosensitivity and glare) may also occur. Symptoms are often worse than clinical signs. Other causes of retinopathy should be excluded. Multiple anti-retinal autoantibodies (e.g. anti-recoverin antibodies) are described although their significance is uncertain. Two major subsets are recognised: cancer-associated-retinopathy (most commonly small-cell-lung-cancer) and melanoma-associated-retinopathy. 
+Associated neural autoantibodies include:
+CRMP5 (anti-CV2) (collapsin response mediator protein 5 - anti CV2); anti-recoverin autoantibodies; and alpha-enolase autoantibodies.
+Coding Note:	Code aslo the causing condition
+
+9B71.40	Melanoma associated retinopathy
+
+9B71.4Y	Other specified paraneoplastic retinopathy
+Coding Note:	Code aslo the causing condition
+
+9B71.4Z	Paraneoplastic retinopathy, unspecified
+Coding Note:	Code aslo the causing condition
+
+9B71.5	Autoimmune retinopathy
+Autoimmune retinopathies are immune-mediated inflammatory disorders of the retina that differ from paraneoplastic retinopathies in the lack of association with cancer. Patients present with progressive visual loss and dysfunction of rods (impaired dark adaption and peripheral vision problems) and cones (visual acuity, colour dysfunction, photosensitivity and glare) may occur. The symptoms are often worse than the clinical signs on fundoscopy. Multiple anti-retinal autoantibodies (e.g. anti-recoverin antibodies) are described although their significance is uncertain. Autoimmune retinopathy is a diagnosis of exclusion and other causes of retinopathy need to be ruled out, while the potential role of immunotherapy remains uncertain. 
+Associated neural autoantibodies include:
+anti-recoverin autoantibodies; alpha-enolase autoantibodies; anti-transducin autoantibodies;
+Coding Note:	Code aslo the causing condition
+
+9B71.Y	Other specified retinopathy
+Coding Note:	Code aslo the causing condition
+
+9B71.Z	Retinopathy, unspecified
+Coding Note:	Code aslo the causing condition
+
+  9B72  	Inflammatory diseases of the retina
+This refers to inflammatory diseases of light-sensitive layer of tissue, lining the inner surface of the eye. The optics of the eye create an image of the visual world on the retina, which serves much the same function as the film in a camera.
+Coded Elsewhere:	Retinal vasculitis (9B78.12)
+
+9B72.0	Viral retinitis
+
+9B72.00	Cytomegaloviral retinitis
+This is an inflammation of the eye's retina that can lead to blindness. This is a DNA virus in the family Herpesviridae known for producing large cells with nuclear and cytoplasmic inclusions. Such inclusions are called an "owl's eye" effect.
+
+9B72.01	HIV retinitis
+
+9B72.0Y	Other specified viral retinitis
+
+9B72.0Z	Viral retinitis, unspecified
+
+9B72.Y	Other specified inflammatory diseases of the retina
+
+9B72.Z	Inflammatory diseases of the retina, unspecified
+
+  9B73  	Retinal detachments or breaks
+Retinal breaks are full thickness openings in the neurosensory retina that can be in the form of a hole, a tear or a retinal dialysis. Retinal detachment is a condition in which the retina peels away from its underlying layer of support tissue.
+Exclusions:	detachment of retinal pigment epithelium (9B78.6)
+
+9B73.0	Retinal detachment with retinal break
+Inclusions:	Rhegmatogenous retinal detachment
+
+9B73.1	Retinoschisis
+
+9B73.10	Adult retinoschisis
+
+9B73.11	Juvenile retinoschisis
+X-linked retinoschisis is a genetic ocular disease that is characterised by reduced visual acuity in males due to juvenile macular degeneration.
+
+9B73.1Y	Other specified retinoschisis
+
+9B73.1Z	Retinoschisis, unspecified
+
+9B73.2	Retinal cysts
+Retinoschisis is an eye disease characterised by the abnormal splitting of the retina's neurosensory layers. A retinal cyst is a closed sac, having a distinct membrane and division compared to the nearby tissue in retina that can either be congenital or acquired.
+Exclusions:	congenital retinoschisis (LA13.3)
+Microcystoid degeneration of retina (9B78.4)
+
+9B73.3	Serous retinal detachment
+This occurs due to inflammation, injury or vascular abnormalities that results in fluid accumulating underneath the retina without the presence of a hole, tear, or break.
+Exclusions:	Central serous chorioretinopathy (9B75.2)
+
+9B73.4	Retinal breaks without detachment
+Exclusions:	Chorioretinal scars after surgery for detachment (9D22)
+peripheral retinal degeneration without break (9B78.4)
+
+9B73.Y	Other specified retinal detachments or breaks
+
+9B73.Z	Retinal detachments or breaks, unspecified
+
+  9B74  	Retinal vascular occlusions
+These are obstruction or closure of retinal vascular structures.
+Exclusions:	amaurosis fugax (9D51)
+
+9B74.0	Retinal artery occlusions
+
+9B74.1	Retinal venous occlusions
+
+9B74.2	Combined retinal arterial and vein occlusion
+
+9B74.Y	Other specified retinal vascular occlusions
+
+9B74.Z	Retinal vascular occlusions, unspecified
+
+  9B75  	Macular disorders
+
+9B75.0	Age related macular degeneration
+Age-related macular degeneration (ARMD) is defined as an ocular disease leading to loss of central vision in the elderly, and characterised by primary and secondary damage of macular retinal pigment epithelial (RPE) cells, resulting in formation of drusen (deposits lying beneath the RPE), choroidal neovascularization (CNV), and atrophy of photoreceptors and choriocapillaris layer of the choroidea.
+Coded Elsewhere:	Small drusen of the macula (MC20.1)
+
+9B75.00	Early age related macular degeneration
+consists of a combination of multiple small drusen, few intermediate drusen (63 to 124 microns in diameter), or RPE abnormalities.
+
+9B75.01	Intermediate age related macular degeneration
+consists of extensive intermediate drusen, at least one large druse (>=125 microns in diameter), or geographic atrophy not involving the centre of the fovea
+
+9B75.02	Advanced age related macular degeneration
+
+9B75.0Y	Other specified age related macular degeneration
+
+9B75.0Z	Age related macular degeneration, unspecified
+
+9B75.1	Non-traumatic macular hole
+
+9B75.2	Central serous chorioretinopathy
+This is an eye disease which causes visual impairment, often temporary, usually in one eye. When the disorder is active it is characterised by leakage of fluid under the retina that has a propensity to accumulate under the central macula.
+
+9B75.3	Macular telangiectasia
+
+9B75.Y	Other specified macular disorders
+
+9B75.Z	Macular disorders, unspecified
+
+  9B76  	Degenerative high myopia
+
+  9B77  	Eales disease
+Eales disease is a retinal vasculopathy that presents as an inflammatory stage with retinal periphlebitis affecting especially peripheral retina, then an ischemic stage with sclerosis of retinal veins, and finally a proliferative stage characterised by neovascularization, haemorrhage and retinal detachment.
+
+  9B78  	Certain specified retinal disorders
+Coded Elsewhere:	Double heterozygous sickling disorders with retinopathy (3A51.3)
+Retinal dystrophy in GM2 gangliosidosis (5C56.00)
+
+9B78.0	Retinal vasculopathy and cerebral leukodystrophy
+Retinal vasculopathy and cerebral leukodystrophy is an inherited group of small vessel diseases comprised of cerebroretinal vasculopathy, hereditary vascular retinopathy and hereditary endotheliopathy with retinopathy, nephropathy and stroke (HERNS); all exhibiting progressive visual impairment as well as variable cerebral dysfunction.
+Coded Elsewhere:	HERNS syndrome (LD2F.1Y)
+
+9B78.1	Background retinopathy and retinal vascular changes
+Background retinopathy is the earliest visible change to the retina in diabetes, characterised by some retinal vascular changes such as the capillaries in the retina become blocked, they may bulge slightly (microaneurysm) and may leak blood or fluid.
+
+9B78.10	Changes in retinal vascular appearance
+
+9B78.11	Exudative retinopathy
+
+9B78.12	Retinal vasculitis
+
+9B78.13	Retinal telangiectasis
+
+9B78.1Y	Other specified background retinopathy and retinal vascular changes
+
+9B78.1Z	Background retinopathy and retinal vascular changes, unspecified
+
+9B78.2	Other proliferative retinopathy
+Exclusions:	proliferative vitreo-retinopathy with retinal detachment (9B73)
+Proliferative diabetic retinopathy (9B71.01)
+
+9B78.3	Degeneration of macula or posterior pole
+
+9B78.30	Reticular pseudodrusen
+Histologically located above the retinal pigment epithelium, this finding is often associated with other retinal disease.
+
+9B78.3Y	Other specified degeneration of macula or posterior pole
+
+9B78.3Z	Degeneration of macula or posterior pole, unspecified
+
+9B78.4	Peripheral retinal degeneration
+Exclusions:	with retinal break (9B73.4)
+
+9B78.5	Retinal haemorrhage
+Exclusions:	Traumatic retinal haemorrhage (NA06.7)
+
+9B78.6	Separation of retinal layers
+Inclusions:	Detachment of retinal pigment epithelium
+
+9B78.60	Serous detachment of retinal pigment epithelium
+This refers to the serous detachment of the pigmented cell layer just outside the neurosensory retina that nourishes retinal visual cells, and is firmly attached to the underlying choroid and overlying retinal visual cells.
+
+9B78.61	Haemorrhagic detachment of retinal pigment epithelium
+This refers to the haemorrhagic detachment of the pigmented cell layer just outside the neurosensory retina that nourishes retinal visual cells, and is firmly attached to the underlying choroid and overlying retinal visual cells.
+
+9B78.6Y	Other specified separation of retinal layers
+
+9B78.6Z	Separation of retinal layers, unspecified
+
+9B78.7	Retinal oedema
+
+9B78.8	Retinal ischaemia
+Coding Note:	Code aslo the causing condition
+
+9B78.9	Retinal atrophy
+This is a group of genetic diseases and is characterised by the bilateral degeneration of the retina, causing progressive vision loss culminating in blindness.
+
+  9B7Y  	Other specified disorders of the retina
+
+  9B7Z  	Disorders of the retina, unspecified
+
+Disorders of the vitreous body (BlockL2‑9B8)
+Any condition of the transparent, semigelatinous substance that fills the cavity behind the crystalline lens of the eye and in front of the retina.
+Coded Elsewhere:	Congenital anomalies of the vitreous (LA13.0)
+  9B80  	Inherited vitreoretinal disorders
+Coded Elsewhere:	Stickler syndrome (LD2F.1Y)
+
+  9B81  	Posterior vitreous detachment
+
+  9B82  	Vitreous prolapse
+Exclusions:	vitreous syndrome following cataract surgery (9D20)
+
+  9B83  	Vitreous haemorrhage
+
+  9B84  	Vitreous opacities, membranes or strands
+
+  9B8Y  	Other specified disorders of the vitreous body
+
+  9B8Z  	Disorders of the vitreous body, unspecified
+
+
+  9C0Y  	Other specified disorders of the eyeball - posterior segment
+
+  9C0Z  	Disorders of the eyeball - posterior segment, unspecified
+
+Disorders of the eyeball affecting both anterior and posterior segments (BlockL1‑9C2)
+  9C20  	Panuveitis
+
+9C20.0	Noninfectious panuveitis
+Coded Elsewhere:	Multifocal choroiditis (9B65.0)
+
+9C20.1	Infectious panuveitis
+Coded Elsewhere:	Tuberculous panuveitis (1B12.1)
+
+9C20.2	Purulent endophthalmitis
+Suppurative inflammation of the tissues of the internal structures of the eye; often caused by fungi, necrosis of intraocular tumours, or retained intraocular foreign bodies. Other aetiology can be any infectious uveitis.
+
+9C20.Y	Other specified panuveitis
+
+9C20.Z	Panuveitis, unspecified
+
+  9C21  	Endophthalmitis
+Coded Elsewhere:	Purulent endophthalmitis (9C20.2)
+
+9C21.0	Sympathetic uveitis
+
+9C21.Y	Other specified endophthalmitis
+
+9C21.Z	Endophthalmitis, unspecified
+
+  9C22  	Eyeball deformity
+Coded Elsewhere:	Microphthalmos (LA10.0)
+Clinical anophthalmos (LA10.1)
+Microphthalmos associated with syndromes (LD21.0)
+
+9C22.0	Atrophic Bulbi
+
+9C22.1	Phthisis Bulbi
+
+9C22.Y	Other specified eyeball deformity
+
+9C22.Z	Eyeball deformity, unspecified
+
+  9C2Y  	Other specified disorders of the eyeball affecting both anterior and posterior segments
+
+  9C2Z  	Disorders of the eyeball affecting both anterior and posterior segments, unspecified
+
+Disorders of the visual pathways or centres (BlockL1‑9C4)
+This refers to disorders part of the central nervous system which gives organisms the ability to process visual detail, as well as enabling the formation of several non-image photo response functions.
+  9C40  	Disorder of the optic nerve
+Coded Elsewhere:	Congenital malformation of optic disc (LA13.7)
+Injury of optic nerve, unilateral (NA04.10)
+Malignant neoplasm of the optic nerve (2A02.12)
+
+9C40.0	Infectious optic neuropathy
+Coded Elsewhere:	Late syphilitic retrobulbar neuritis (1A62.20)
+
+9C40.1	Optic neuritis
+Optic neuritis is a condition related to immune mediated inflammation of the optic nerve. It is commoner in women and can be the first presenting symptom of MS. The symptoms are those of blurred vision, pain on moving the eye and in the vast majority it is self limiting”.
+Coded Elsewhere:	Neuromyelitis optica (8A43)
+
+9C40.10	Retrobulbar neuritis
+
+9C40.1Y	Other specified optic neuritis
+
+9C40.1Z	Optic neuritis, unspecified
+
+9C40.2	Neuroretinitis
+
+9C40.3	Perineuritis of optic nerve
+Inflammation of the optic nerve sheath without inflammation of the nerve itself
+
+9C40.4	Ischaemic optic neuropathy
+Optic nerve disorders caused by an ischaemic process of the optic nerve
+
+9C40.40	Anterior ischemic optic neuropathy
+This refers to anterior ischemic damage to the optic nerve due to any cause. Damage and death of these nerve cells, or neurons, leads to characteristic features of optic neuropathy.
+
+9C40.41	Posterior ischemic optic neuropathy
+This refers to posterior ischemic damage to the optic nerve due to any cause. Damage and death of these nerve cells, or neurons, leads to characteristic features of optic neuropathy.
+
+9C40.4Y	Other specified ischaemic optic neuropathy
+
+9C40.4Z	Ischaemic optic neuropathy, unspecified
+
+9C40.5	Compressive optic neuropathy
+Optic nerve disorders caused by the compression of the optic nerve
+
+9C40.6	Infiltrative optic neuropathy
+Optic nerve disorders caused by an infiltrative process of the optic nerve
+
+9C40.7	Traumatic optic neuropathy
+Optic nerve disorders due to trauma to the optic nerve
+
+9C40.8	Hereditary optic neuropathy
+Optic nerve disorders caused by genetic abnormalities
+Coded Elsewhere:	Leber hereditary optic neuropathy (8C73.Y)
+
+9C40.9	Glaucomatous optic neuropathy
+Inclusions:	Glaucomatous optic atrophy
+
+9C40.A	Optic disc swelling
+This refers to swelling in the location where ganglion cell axons exit the eye to form the optic nerve. There are no light sensitive rods or cones to respond to a light stimulus at this point.
+Coding Note:	Code aslo the causing condition
+
+9C40.A0	Papilloedema
+Optic disc swelling that results from increased intracranial pressure
+Inclusions:	Optic disc swelling that results from increased intracranial pressure
+
+9C40.A1	Optic disc swelling associated with uveitis
+
+9C40.AY	Other specified optic disc swelling
+Coding Note:	Code aslo the causing condition
+
+9C40.AZ	Optic disc swelling, unspecified
+Coding Note:	Code aslo the causing condition
+
+9C40.B	Optic atrophy
+Optic atrophies (OA) refer to a specific group of hereditary optic neuropathies in which the cause of the optic nerve dysfunction is inherited either in an autosomal dominant or autosomal recessive pattern. Autosomal dominant optic atrophy (ADOA), type Kjer, is the most common OA, whereas autosomal recessive optic atrophy (AROA) is a rare form.
+Coded Elsewhere:	Leber hereditary optic neuropathy (8C73.Y)
+
+9C40.B0	Congenital optic atrophy
+
+9C40.B1	Acquired optic atrophy
+Coding Note:	Code aslo the causing condition
+
+9C40.BZ	Optic atrophy, unspecified
+
+9C40.Y	Other specified disorder of the optic nerve
+
+9C40.Z	Disorder of the optic nerve, unspecified
+
+  9C41  	Disorder of optic chiasm
+This is a group of conditions associated with the optic chiasm, the part of the brain where the optic nerves (CN II) partially cross.
+Coding Note:	Use additional code, if desired, to identify underlying condition.
+
+  9C42  	Disorder of post chiasmal visual pathways
+Coding Note:	Use additional code, if desired, to identify underlying condition.
+Inclusions:	Disorders of optic tracts, geniculate nuclei and optic radiations
+
+  9C43  	Disorder of visual cortex
+Coding Note:	Use additional code, if desired, to identify underlying condition.
+
+  9C44  	Disorder of higher visual centres
+Coding Note:	Use additional code, if desired, to identify underlying condition.
+
+  9C4Y  	Other specified disorders of the visual pathways or centres
+
+  9C4Z  	Disorders of the visual pathways or centres, unspecified
+
+Glaucoma or glaucoma suspect (BlockL1‑9C6)
+  9C60  	Glaucoma suspect
+
+  9C61  	Glaucoma
+Exclusions:	Traumatic glaucoma due to birth injury (KA41)
+Coded Elsewhere:	Glaucomatous optic neuropathy (9C40.9)
+
+9C61.0	Primary open-angle glaucoma
+Primary open-angle glaucoma is a chronic progressive optic neuropathy with characteristic morphological changes at the optic nerve head and retinal nerve fibre layer in the absence of other ocular disease or congenital anomalies. Progressive retinal ganglion cell death and visual field loss are associated with these changes. Anterior chamber angle appearance is normal and major risk factors include level of intraocular pressure and older age.
+
+9C61.00	Normal tension glaucoma
+Normal tension glaucoma is a condition considered to be within the continuum of primary open-angle glaucoma; the term is used when intraocular pressure is within the statistically normal range (10-21 mmHg).
+
+9C61.01	Ocular hypertension
+Ocular hypertension is a condition of elevated intraocular pressure in the absence of optic nerve, nerve fibre layer or visual field abnormalities.
+
+9C61.0Y	Other specified primary open-angle glaucoma
+
+9C61.0Z	Primary open-angle glaucoma, unspecified
+
+9C61.1	Primary angle closure and angle closure glaucoma
+Primary angle closure glaucoma is a condition described as angle closure or/and peripheral anterior synechiae with elevated intraocular pressure and evidence of optic nerve damage.
+
+9C61.10	Primary angle closure suspect or anatomical narrow angle
+Primary angle closure glaucoma suspect is a condition of narrow anterior chamber angle, suspicious for future closure, with no signs of trabecular meshwork or optic nerve damage.
+
+9C61.11	Primary angle-closure
+Primary angle closure is a condition defined by the presence of iridotrabecular contact with elevated intraocular pressure or peripheral anterior synechiae but no signs of optic nerve damage.
+
+9C61.12	Primary angle closure glaucoma
+Primary angle closure glaucoma is a condition described as angle closure or/and peripheral anterior synechiae with elevated intraocular pressure and evidence of optic nerve damage.
+
+9C61.13	Primary angle closure without pupillary block
+Primary angle closure without pupillary block Is a condition described as anatomical variation in the iris root in which narrowing of the anterior chamber angle occurs independent of pupillary block causing angle closure.
+
+9C61.14	Acute angle closure with pupillary block
+Acute Angle Closure (AAC) with pupillary block is a condition described as circumferential iris apposition to the trabecular meshwork with rapid and excessive increase in intraocular pressure that does not resolve spontaneously.
+
+9C61.15	Intermittent angle-closure
+Intermittent Angle Closure is a milder clinical manifestation of acute angle closure that resolves spontaneously.
+
+9C61.16	Chronic angle-closure
+Chronic angle closure is a condition when intraocular pressure elevation is due to variable portions of anterior chamber angle being permanently closed by peripheral anterior synechiae.
+
+9C61.17	Condition after acute angle-closure glaucoma attack
+Condition after acute angle closure glaucoma attack refers to a condition after a previous episode of acute angle-closure attack, usually with secondary alterations of the iris (sphincter lesions) and lens (“Glaukomflecken”, cataract).
+
+9C61.1Y	Other specified primary angle closure and angle closure glaucoma
+
+9C61.1Z	Primary angle closure and angle closure glaucoma, unspecified
+
+9C61.2	Secondary open-angle glaucoma
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Glaucoma due to ocular surgery or laser (9D25)
+
+9C61.20	Pseudoexfoliative open-angle glaucoma
+Pseudoexfoliative Open-Angle glaucoma is a condition where fibrillar pseudoexfoliative material is produced by various ocular tissues and is deposited on the trabecular meshwork, lens, and other structures of the anterior segment leading to intraocular pressure elevation and subsequent optic nerve damage.
+
+9C61.21	Pigmentary open-angle glaucoma
+Pigmentary Open-Angle glaucoma Is a condition where pigment is liberated due to rubbing of the zonules against the posterior iris sheath that leads to obstruction of the trabecular meshwork causing intraocular pressure elevation and subsequent optic nerve damage.
+
+9C61.22	Lens-induced secondary open-angle glaucoma
+
+9C61.23	Glaucoma associated with intraocular haemorrhage
+Ghost cell glaucoma is a condition where bleeding into the vitreous body or anterior chamber can lead to intraocular pressure elevation when stiffer red blood cells that have lost their haemoglobin obstruct the trabecular meshwork.
+Inclusions:	ghost cell glaucoma
+
+9C61.24	Glaucoma due to eye inflammation
+Coding Note:	Code aslo the causing condition
+
+9C61.25	Glaucomato-cyclitic crisis
+A glaucomato-cyclitic crisis presents with mild keratic precipitates and aqueous flare, acute intraocular pressure elevation and optic nerve damage when repeated attacks occur.
+
+9C61.26	Secondary open-angle glaucoma due to parasitic eye disease
+Coding Note:	Code aslo the causing condition
+
+9C61.27	Glaucoma due to intraocular tumours
+Coding Note:	Code aslo the causing condition
+
+9C61.28	Glaucoma associated with retinal detachment
+Coding Note:	Code aslo the causing condition
+
+9C61.29	Glaucoma due to eye trauma
+Coding Note:	Code aslo the causing condition
+
+9C61.2A	Glaucoma due to drugs
+
+9C61.2B	Glaucoma caused by increased episcleral venous pressure
+Coding Note:	Code aslo the causing condition
+
+9C61.2C	Secondary glaucoma due to extra-ocular mass
+Coding Note:	Code aslo the causing condition
+
+9C61.2Y	Other specified secondary open-angle glaucoma
+Coding Note:	Code aslo the causing condition
+
+9C61.2Z	Secondary open-angle glaucoma, unspecified
+Coding Note:	Code aslo the causing condition
+
+9C61.3	Secondary angle closure glaucoma
+Coding Note:	Code aslo the causing condition
+
+9C61.30	Secondary angle closure glaucoma with pupillary block
+Secondary angle closure glaucoma with pupillary block is a condition where an anteriorly subluxated lens occludes the pupil causing acute secondary angle closure and intraocular pressure elevation.
+Coding Note:	Code aslo the causing condition
+
+9C61.31	Secondary angle closure glaucoma without pupillary block
+
+9C61.32	Neovascular secondary angle closure glaucoma
+Neovascular secondary angle-closure glaucoma is a frequent condition where neovascular membranes occlude and close the chamber angle by fibrovascular contraction leading to intraocular pressure elevation and subsequent optic nerve damage. Neovascularization can be due to retinal venous occlusion, diabetic retinopathy, ocular ischemia, long-standing retinal detachment and other ischemic conditions of the eye.
+Coding Note:	Code aslo the causing condition
+
+9C61.33	Secondary angle closure glaucoma due to endothelial overgrowth
+Secondary angle-closure glaucoma due to endothelial overgrowth is a condition where corneal endothelial cells overgrow the trabecular meshwork and iris, closing the angle by tissue contraction leading to intraocular pressure elevation and subsequent optic nerve damage.
+
+9C61.34	Secondary angle closure glaucoma due to epithelial ingrowth
+Epithelial ingrowth is a condition after open globe trauma or surgery where conjunctival or corneal epithelial cells get access to the anterior chamber and overgrow the trabecular meshwork with subsequent intraocular pressure elevation and optic nerve damage.
+
+9C61.35	Ciliary block glaucoma
+Ciliary block glaucoma is a condition where aqueous misdirection into the vitreous cavity displaces the lens-iris diaphragm anteriorly thus causing angle closure with subsequent intraocular pressure elevation and optic nerve damage.
+
+9C61.36	Secondary angle closure glaucoma due to other anterior displacement of the lens-iris diaphragm
+Iris and ciliary body cysts, intraocular tumours, posterior scleritis, uveal effusion, or Silicon Oil or gas in the vitreous cavity can cause IOP elevation by angle closure.
+
+9C61.3Y	Other specified secondary angle closure glaucoma
+Coding Note:	Code aslo the causing condition
+
+9C61.3Z	Secondary angle closure glaucoma, unspecified
+Coding Note:	Code aslo the causing condition
+
+9C61.4	Developmental glaucoma
+Inclusions:	Glaucoma of newborn
+Hydrophthalmos
+
+9C61.40	Primary congenital glaucoma
+Primary Congenital Glaucoma is a condition during early infancy where delayed development and malformation of the trabecular meshwork blocks the outflow routes leading to elevated intraocular pressure that causes enlargement of the eyeball (Buphthalmus), corneal oedema, Descemet tears, myopia, and damage to the optic nerve, often resulting in severe visual impairment or blindness
+
+9C61.41	Primary infantile glaucoma
+Primary infantile glaucoma is a condition after 2 years of age where malformation of the trabecular meshwork causes elevated intraocular pressure without enlargement of the eyeball but damage to the optic nerve similar to congenital glaucoma.
+
+9C61.42	Secondary childhood glaucoma
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Aniridia (LA11.3)
+Marfan syndrome (LD28.01)
+Rubella (1F02)
+Oculocerebrorenal syndrome (5C60.0)
+Neurofibromatoses (LD2D.1)
+
+9C61.4Y	Other specified developmental glaucoma
+
+9C61.4Z	Developmental glaucoma, unspecified
+
+9C61.Z	Glaucoma, unspecified
+
+  9C6Y  	Other specified glaucoma or glaucoma suspect
+
+  9C6Z  	Glaucoma or glaucoma suspect, unspecified
+
+Strabismus or ocular motility disorders (BlockL1‑9C8)
+Disorder due to abnormalities of extraocular muscles or ocular motor abnormalities.
+Coded Elsewhere:	Diseases of neuromuscular junction or muscle (8C60-8D0Z)
+  9C80  	Non paralytic strabismus
+Non-paralytic strabismus is an abnormal binocular alignment in which one of the eyes is deviated. There are full ocular movements in each eye. The condition can alternate between eyes or only involve one eye. Strabismus may be intermittent or constant. The abnormal alignment may be present at distance fixation, near fixation or both.
+
+9C80.0	Esotropia
+Esotropia is an abnormal binocular alignment in which one of the eyes has an inward deviation. Fixation can be alternatively or monocular. Esotropia is present in all distances. Squint angles can vary with distances.
+
+9C80.1	Exotropia
+Exotropia is an abnormal binocular alignment in which one of the eyes has an outward deviation. Fixation can be alternatively or monocular. Exotropia is present in all distances.
+
+9C80.2	Vertical or torsional strabismus
+An abnormal binocular alignment which may be constant or intermittent, that is not horizontal, but vertical or torsional (rotational) around the pupillary axis.
+
+9C80.3	Intermittent strabismus
+An abnormal binocular alignment which is present intermittently, with normal alignment at other times with binocular single vision.
+
+9C80.30	Intermittent divergent exotropia
+
+9C80.31	Intermittent convergent esotropia
+
+9C80.3Y	Other specified intermittent strabismus
+
+9C80.3Z	Intermittent strabismus, unspecified
+
+9C80.4	Heterophoria
+A temporary deviation of the eyes from normal binocular alignment when there is disruption of the visual input from one eye. The alignment is normal when there is binocular visual input.
+
+9C80.5	Mechanical strabismus
+An abnormal binocular alignment caused by abnormalities of ocular movement in one or both eyes caused by damage to the extraocular muscles and/or other orbital structures. Mechanical strabismus is characterised by limitation of movements in one or more directions and variable strabismus.
+
+9C80.Y	Other specified non paralytic strabismus
+
+9C80.Z	Non paralytic strabismus, unspecified
+
+  9C81  	Ocular motor nerve palsies
+Exclusions:	Internuclear ophthalmoplegia (9C83.5)
+Internal ophthalmoplegia (9D01.0)
+ophthalmoplegia progressive supranuclear (8A00.10)
+
+9C81.0	Third nerve palsy
+Inclusions:	isolated oculomotor nerve palsy
+
+9C81.00	External bilateral paralysis of oculomotor nerve
+
+9C81.0Y	Other specified third nerve palsy
+
+9C81.0Z	Third nerve palsy, unspecified
+
+9C81.1	Fourth nerve palsy
+Inclusions:	isolated trochlear nerve palsy
+
+9C81.2	Sixth nerve palsy
+Inclusions:	isolated abducent nerve palsy
+
+9C81.3	Total external ophthalmoplegia
+
+9C81.4	Cavernous sinus syndromes
+
+9C81.Y	Other specified ocular motor nerve palsies
+
+9C81.Z	Ocular motor nerve palsies, unspecified
+
+  9C82  	Disorders of extraocular muscles
+Coded Elsewhere:	Certain paralytic strabismus (9C81.Y)
+
+9C82.0	Progressive external ophthalmoplegia
+Chronic ophthalmoplegia is characterised by progressive weakness of ocular muscles and levator muscle of the upper eyelid. The condition is mainly manifested in adults. It may be totally and permanently isolated, however in a minority of cases it is associated with skeletal myopathy, which causes abnormal fatigability and even permanent muscle weakness. In this case the affection is still termed isolated progressive external ophthalmoplegia. A large proportion of chronic ophthalmoplegias presents with multisystemic pattern of signs: neurological signs (hearing loss, retinopathy, cerebellar disorders, peripheral neuropathy, etc.), endocrine (diabetes, hypogonadism, hypoparathyroidism, etc.), kidney (kidney failure, tubulopathy, etc.), and heart disorders (conduction disorders, myocardiopathy, etc.).
+
+9C82.1	Muscular dystrophy affecting extraocular muscle
+Non-specific term that is used to describe a range of primary myopathies that affect the extraocular muscles.
+Exclusions:	Secondary myopathies (BlockL2‑8C8)
+Coded Elsewhere:	Congenital fibrosis of extraocular muscles (9C82.2)
+
+9C82.2	Congenital cranial dysinnervation syndrome
+
+9C82.3	Restrictive ophthalmopathy
+Coding Note:	Code aslo the causing condition
+
+9C82.4	Oculomotor apraxia
+
+9C82.Y	Other specified disorders of extraocular muscles
+
+9C82.Z	Disorders of extraocular muscles, unspecified
+
+  9C83  	Disorders of binocular movement
+Other disorders of binocular movement in which the movement of the two eyes is abnormal.
+
+9C83.0	Palsy of conjugate gaze
+A palsy of conjugate gaze is an incomplete or absent movement of the two eyes in a particular direction of gaze.
+Coded Elsewhere:	Progressive supranuclear palsy (8A00.10)
+
+9C83.00	Horizontal gaze palsy
+A palsy of horizontal gaze is an incomplete or absent movement of the two eyes in a horizontal direction of gaze. May be in one or both directions
+
+9C83.01	Vertical gaze palsy
+A palsy of vertical gaze is an incomplete or absent movement of the two eyes in the vertical direction of gaze.
+
+9C83.02	Monocular elevator palsy
+Monocular elevator palsy is an incomplete or absent movement of one eyes in upgaze. May be due to pathology in the orbit, as well as infranuclear, internuclear, or supranuclear in origin.
+
+9C83.0Y	Other specified palsy of conjugate gaze
+
+9C83.0Z	Palsy of conjugate gaze, unspecified
+
+9C83.1	Spasm of conjugate gaze
+
+9C83.10	Horizontal conjugate gaze deviation
+
+9C83.11	Upward gaze deviation
+
+9C83.12	Downward gaze deviation
+
+9C83.13	Oculogyric crisis
+Episodic spells of tonic upward and sometimes laterally deviation of the eyes, rarely downward
+
+9C83.1Y	Other specified spasm of conjugate gaze
+
+9C83.1Z	Spasm of conjugate gaze, unspecified
+
+9C83.2	Convergence insufficiency
+
+9C83.3	Convergence excess
+
+9C83.4	Spasm of the near reflex
+
+9C83.5	Internuclear ophthalmoplegia
+This is a disorder of conjugate lateral gaze in which the affected eye shows impairment of adduction.
+
+9C83.6	Anomalies of divergence or deviation of eye movement
+
+9C83.60	Divergence insufficiency
+
+9C83.61	Divergence paralysis
+
+9C83.62	Divergence excess
+
+9C83.63	Synergistic divergence
+Anomalous innervation of muscle normally supplied by the oculomotor nerve.
+In congenital unilateral adduction palsy, when adduction is attempted, the affected eye abducts rather than adducts.
+
+9C83.64	Skew deviation
+a vertical misalignment of the visual axes caused by a disturbance of prenuclear inputs
+
+9C83.65	Ocular tilt reaction
+skew deviation associated with ocular torsion (cyclodeviation) and a head tilt (ear to shoulder)
+
+9C83.66	Alternating skew deviation
+
+9C83.67	Dissociative vertical divergence
+
+9C83.6Y	Other specified anomalies of divergence or deviation of eye movement
+
+9C83.6Z	Anomalies of divergence or deviation of eye movement, unspecified
+
+9C83.Y	Other specified disorders of binocular movement
+
+9C83.Z	Disorders of binocular movement, unspecified
+
+  9C84  	Nystagmus
+
+9C84.0	Physiological nystagmus
+
+9C84.1	Congenital forms of nystagmus
+
+9C84.2	Vestibular nystagmus
+
+9C84.20	Down beat nystagmus
+
+9C84.21	Upbeat nystagmus
+
+9C84.22	Torsional nystagmus
+
+9C84.23	Perverted nystagmus
+
+9C84.2Y	Other specified vestibular nystagmus
+
+9C84.2Z	Vestibular nystagmus, unspecified
+
+9C84.3	Seesaw nystagmus
+
+9C84.4	Gaze-evoked nystagmus
+
+9C84.5	Nystagmus occurring in visual system disorders
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Spasmus nutans (8A04.Y)
+
+9C84.50	Visual deprivation nystagmus
+
+9C84.51	Divergence nystagmus
+
+9C84.52	Convergence-retraction nystagmus
+
+9C84.5Y	Other specified nystagmus occurring in visual system disorders
+Coding Note:	Code aslo the causing condition
+
+9C84.5Z	Nystagmus occurring in visual system disorders, unspecified
+Coding Note:	Code aslo the causing condition
+
+9C84.6	Eyelid nystagmus
+
+9C84.Y	Other specified nystagmus
+
+9C84.Z	Nystagmus, unspecified
+
+  9C85  	Certain specified irregular eye movements
+
+9C85.0	Anomalies of saccadic eye movements
+
+9C85.00	Disorders of the saccadic pulse
+
+9C85.01	Disorders of the saccadic step
+Coded Elsewhere:	Gaze-evoked nystagmus (9C84.4)
+
+9C85.02	Inappropriate saccades
+Inclusions:	Saccadic intrusions and oscillations
+
+9C85.0Y	Other specified anomalies of saccadic eye movements
+
+9C85.0Z	Anomalies of saccadic eye movements, unspecified
+
+9C85.1	Anomalies of smooth pursuit movements
+
+9C85.2	Nonorganic eye movement disorders
+
+9C85.Y	Other specified irregular eye movements
+
+9C85.Z	Irregular eye movements, unspecified
+
+  9C8Y  	Other specified strabismus or ocular motility disorders
+
+  9C8Z  	Strabismus or ocular motility disorders, unspecified
+
+Disorders of refraction or accommodation (BlockL1‑9D0)
+  9D00  	Disorders of refraction
+
+9D00.0	Myopia
+A refractive error in which rays of light entering the eye parallel to the optic axis are brought to a focus in front of the retina when ocular accommodation is relaxed. This usually results from the eyeball being too long from front to back, but can be caused by an overly curved cornea, a lens with increased optical power, or both. It is also called nearsightedness.
+Exclusions:	degenerative myopia (9B76)
+
+9D00.1	Hypermetropia
+A refractive error in which rays of light entering the eye parallel to the optic axis are brought to a focus behind the retina, as a result of the eyeball being too short from front to back. It is also called farsightedness because the near point is more distant than it is in emmetropia with an equal amplitude of accommodation.
+
+9D00.2	Astigmatism
+Unequal curvature of the refractive surfaces of the eye. Thus a point source of light cannot be brought to a point focus on the retina but is spread over a more or less diffuse area. This results from the radius of curvature in one plane being longer or shorter than the radius at right angles to it.
+
+9D00.3	Presbyopia
+The normal decreasing elasticity of the crystalline lens that leads to loss of accommodation.
+
+9D00.4	Anisometropia
+
+9D00.5	Aniseikonia
+
+9D00.6	Transient refractive change
+
+9D00.Y	Other specified disorders of refraction
+
+9D00.Z	Disorders of refraction, unspecified
+
+  9D01  	Disorders of accommodation
+
+9D01.0	Internal ophthalmoplegia
+
+9D01.1	Paresis of accommodation
+
+9D01.2	Spasm of accommodation
+
+9D01.Y	Other specified disorders of accommodation
+
+9D01.Z	Disorders of accommodation, unspecified
+
+  9D0Y  	Other specified disorders of refraction or accommodation
+
+  9D0Z  	Disorders of refraction or accommodation, unspecified
+
+Postprocedural disorders of eye or ocular adnexa (BlockL1‑9D2)
+Exclusions:	pseudophakia (QB51.2)
+Coded Elsewhere:	Haemorrhage and haematoma of eye or ocular adnexa complicating a procedure (NE81.01)
+Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+  9D20  	Bullous aphakic keratopathy following cataract surgery
+Inclusions:	Vitreal corneal syndrome
+
+  9D21  	Cataract lens fragments in eye following cataract surgery
+
+  9D22  	Chorioretinal scars after surgery for detachment
+
+  9D23  	Conjunctival blebitis after glaucoma surgery
+
+  9D24  	Complications with glaucoma drainage devices
+
+  9D25  	Glaucoma due to ocular surgery or laser
+
+Impairment of visual functions (BlockL1‑9D4)
+Coded Elsewhere:	Impairment of electrophysiological functions (MC21)
+Polyopia (9D53)
+  9D40  	Impairment of visual acuity
+Visual acuity refers to the ability to recognize details at the point of fixation, which usually is the fovea. It is expressed as an angular measure, usually measured as distance and/or near acuity.
+
+  9D41  	Impairment of visual field
+Ranges of visual field impairment refer to the extent of peripheral vision outside fixation. The extent should be measured for each eye separately.
+
+  9D42  	Patterns of visual field impairment
+Patterns of visual field impairment are often indicative for certain disease conditions.
+
+9D42.0	Visual field loss, pattern not specified
+
+9D42.1	Normal Visual Field
+
+9D42.2	Peripheral field deficit
+
+9D42.20	Enlarged blind spot
+Inclusions:	Scotoma of blind spot area
+
+9D42.21	Arcuate scotoma
+A Bjerrum or arcuate scotoma follows the pattern of the retinal nerve fibres. It is typical for glaucomatous defects and can also be caused by juxta-papillary lesions.
+
+9D42.22	Nasal step
+A nasal step is a discontinuity of the nasal field limit at the horizontal meridian. It is typical for glaucoma.
+
+9D42.23	Ring scotoma
+A ring scotoma is a scotoma that surrounds the central field. Initially, it may consist of several smaller scotomas that gradually coalesce.
+
+9D42.24	Isolated peripheral scotoma
+Isolated scotomas may be the result of scarring from infections or surgery.
+
+9D42.2Y	Other specified peripheral field deficit
+
+9D42.2Z	Peripheral field deficit, unspecified
+
+9D42.3	Hemianopic or quadrantic loss
+Defects that cover a hemi-field or a quadrant in one eye may be the result of optic nerve involvement.
+
+9D42.4	Central scotoma
+A central scotoma is a defect that covers the fovea. It therefore causes visual acuity loss and may necessitate eccentric fixation.
+
+9D42.5	Para-central scotoma
+A para-central scotoma is a scotoma adjacent to the fovea. Both may minimally affect letter chart acuity, but may interfere significantly with reading and other activities.
+
+9D42.6	Homonymous hemianopia or quadrant anopia
+Homonymous, binocular field defects present the same or similar patterns in both eyes. They are caused by lesions of the retro-chiasmal pathways.
+
+9D42.60	Right hemi-field homonymous hemianopia or quadrant anopia
+
+9D42.61	Left hemi-field homonymous hemianopia or quadrant anopia
+
+9D42.6Y	Other specified homonymous hemianopia or quadrant anopia
+
+9D42.6Z	Homonymous hemianopia or quadrant anopia, unspecified
+
+9D42.7	Heteronymous hemianopia or quadrant anopia
+Heteronymous field defects present opposite patterns in the two eyes. They are caused by may be caused by-chiasmal lesions.
+
+9D42.70	Bi-nasal defects heteronymous hemianopia or quadrant anopia
+
+9D42.71	Bi-temporal defects heteronymous hemianopia or quadrant anopia
+
+9D42.7Y	Other specified heteronymous hemianopia or quadrant anopia
+
+9D42.7Z	Heteronymous hemianopia or quadrant anopia, unspecified
+
+9D42.8	Visual field loss, other specified forms
+
+9D42.Y	Other specified patterns of visual field impairment
+
+9D42.Z	Patterns of visual field impairment, unspecified
+
+  9D43  	Impairment of contrast vision
+Contrast sensitivity refers to the ability to distinguish small differences in brightness between adjacent surfaces.
+Peak Contrast sensitivity refers to the smallest differences that are discernible for large stimuli.
+For smaller objects, such as those involved in many Activities of Daily Living, contrast sensitivity interacts with visual acuity and visual field. Better contrast makes smaller details visible. The visual field is larger for stronger stimuli.
+
+  9D44  	Impairment of colour vision
+Colour vision refers to the ability to distinguish colour differences. True colour “blindness” is extremely rare. Most colour vision deficiencies are minor, and congenital, with X-linked recessive inheritance (more prevalent among men). Some drugs and optic neuritis may also cause colour vision deficiencies.
+Inclusions:	achromatopsia
+acquired colour vision deficiency
+colour blindness
+
+  9D45  	Impairment of light sensitivity
+Coded Elsewhere:	Vitamin A deficiency with night blindness (5B55.0)
+
+  9D46  	Impairment of binocular functions
+
+Subjective visual experiences (BlockL2‑9D5)
+Subjective Visual Experiences are experiences reported by patients, whose presence or absence cannot be verified objectively.
+  9D50  	Visual discomfort
+Inclusions:	Asthenopia
+
+  9D51  	Transient visual loss
+Coded Elsewhere:	Amaurosis fugax (8B10.0)
+
+  9D52  	Hemifield losses
+
+  9D53  	Entoptic phenomena
+Entoptic phenomena are visual phenomena caused by changes within the eye.
+Coded Elsewhere:	Visual floaters (MC1A)
+
+  9D54  	Visual illusions
+Visual illusions refer to percepts based on an erroneous interpretation of visual input.
+
+  9D55  	Nonorganic visual loss
+
+  9D56  	Visual release hallucinations
+Charles Bonnet syndrome, also called visual release hallucinations, refers to the experience of complex visual hallucinations in a person who has experienced partial or complete loss of vision. Hallucinations are exclusively visual, usually temporary, and unrelated to mental and behavioural disorders.
+Exclusions:	Schizophrenia or other primary psychotic disorders (BlockL1‑6A2)
+
+  9D5Y  	Other specified subjective visual experiences
+
+  9D5Z  	Subjective visual experiences, unspecified
+
+  9D7Y  	Other specified impairment of visual functions
+
+  9D7Z  	Impairment of visual functions, unspecified
+
+Vision impairment (BlockL1‑9D9)
+A vision impairment results when an eye condition affects the visual system and one or more of its vision functions. Typically, population-based surveys measure visual impairment using exclusively visual acuity, with severity categorized as mild, moderate or severe distance vision impairment or blindness, and near vision impairment. However, in the clinical setting, other visual functions are also often assessed, such as a person’s field of vision, contrast sensitivity and colour vision.
+  9D90  	Vision impairment including blindness
+The table below gives a classification of severity of vision impairment recommended by the Resolution of the International Council of Ophthalmology (2002) and the Recommendations of the WHO Consultation on “Development of Standards for Characterization of Vision Loss and Visual Functioning" (September 2003)
+For characterizing binocular vision impairment, vision acuity should be measured with both eyes open with presenting correction if any. For characterizing monocular visual impairment, visual acuity should be measured monocularly with presenting correction if any.
+If the extent of the visual field is taken into account, patients with a visual field of the better eye no greater than 10° in radius around central fixation should be placed under ‘inocular’. For monocular blindness, this degree of field loss would apply to the affected eye.
+Category	Presenting distance visual acuity
+	Worse than:	Equal to or better than:
+0 No vision impairment		•	6/12
+•	5/10 (0.5)
+•	20/40
+1 Mild vision impairment	•	6/12
+•	5/10 (0.5)
+•	20/40	•	6/18
+•	3/10 (0.3)
+•	20/70
+2 Moderate vision impairment	•	6/18
+•	3/10 (0.3)
+•	20/70	•	6/60
+•	1/10 (0.1)
+•	20/200
+3 Severe vision impairment	•	6/60
+•	1/10 (0.1)
+•	20/200	•	3/60
+•	1/20 (0.05)
+•	20/400
+4 Blindness	•	3/60
+•	1/20 (0.05)
+•	20/400
+•	light perception	•	1/60
+•	1/50 (0.02)
+•	5/300 (20/1200)
+•	or counts fingers (CF) at metre
+5 Blindness	•	1/60
+•	1/50 (0.02)
+•	5/300 (20/1200)	Light perception
+6 Blindness	No light perception	
+9	Undetermined or unspecified	
+Category	Presenting near visual acuity	
+	Worse than N6 or M 0.8 with existing correction
+
+
+9D90.0	No vision impairment
+
+9D90.1	Mild vision impairment
+
+9D90.2	Moderate vision impairment
+Inclusions:	visual impairment categories 1 or 2 in both eyes
+Visual impairment category 1
+WHO - low vision
+
+9D90.3	Severe vision impairment
+Inclusions:	Legal blindness - USA
+visual impairment categories 3, 4, 5 in one eye, with categories 1 or 2 in the other eye
+
+9D90.4	Blindness, binocular
+Inclusions:	visual impairment categories 3, 4, 5 in both eyes.
+Visual impairment category 5
+
+9D90.5	Blindness, monocular
+Inclusions:	visual impairment categories 3, 4, 5 in one eye [normal vision in other eye].
+Visual impairment categories 3, 4, 5 in one eye and categories 0, 1, 2 or 9 in the other eye.
+
+9D90.Y	Other specified vision impairment including blindness
+
+9D90.Z	Vision impairment including blindness, unspecified
+
+  9D91  	Near vision deficits
+Near vision refers to the ability to perform tasks that require detailed vision at a close distance. It should be measured with both eyes open at the subject’s preferred viewing distance and with the subject’s habitual near vision correction (if any). Near vision impairment is characterised by a presenting near visual acuity worse than N6.
+
+  9D92  	Specific vision dysfunctions
+Specific visual dysfunctions refer to functional deficits in higher cerebral centres. Such dysfunctions may exist with or without visual impairment of the eyes and the lower visual system.
+
+  9D93  	Complex vision-related dysfunctions
+Complex Vision-Related Dysfunctions involve interactions with other sensory and motor systems. They reflect the combined effects at all stages of processing.
+
+  9D9Y  	Other specified vision impairment
+
+  9D9Z  	Vision impairment, unspecified
+
+
+  9E1Y  	Other specified diseases of the visual system
+
+  9E1Z  	Diseases of the visual system, unspecified
+

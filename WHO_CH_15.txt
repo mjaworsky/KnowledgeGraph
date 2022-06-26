@@ -1,0 +1,1300 @@
+CHAPTER 15
+Diseases of the musculoskeletal system or connective tissue
+This chapter has 90 four-character categories.
+Code range starts with FA00
+This chapter contains diseases of musculoskeletal system and diseases of connective tissue.
+Exclusions:	Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Endocrine, nutritional or metabolic diseases (Chapter 05)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Certain infectious or parasitic diseases (Chapter 01)
+Temporomandibular joint disorders (DA0E.8)
+Certain conditions originating in the perinatal period (Chapter 19)
+Coded Elsewhere:	Neoplasms of the musculoskeletal system
+Monogenic autoinflammatory syndromes (4A60)
+Nonorgan specific systemic autoimmune disorders (4A40-4A4Z)
+Symptoms, signs or clinical findings of the musculoskeletal system (ME80-MF1Y)
+Structural developmental anomalies of the skeleton (LB70-LB9Z)
+Syndromes with connective tissue involvement as a major feature (LD28)
+Syndromes with skeletal anomalies as a major feature (LD24)
+This chapter contains the following top level blocks:
+•	Arthropathies
+•	Conditions associated with the spine
+•	Soft tissue disorders
+•	Osteopathies or chondropathies
+•	Neoplasms of the musculoskeletal system
+
+Arthropathies (BlockL1‑FA0)
+Osteoarthritis (BlockL2‑FA0)
+Osteoarthritis (OA) can be defined as a group of distinct, but overlapping diseases, which may have different etiologies, but similar biological, morphological, and clinical outcomes affecting the articular cartilage, subchondral bone, ligaments, joint capsule, synovial membrane, and periarticular muscles. OA is the most common joint disease in persons 65 years of age and above. Its etiology is not fully understood, although there are several related factors, such as female gender, genetics, metabolism, and excessive mechanical stress. The diagnosis of OA is primarily based on clinical history and physical examination. The cardinal radiographic features of OA are focal/non-uniform narrowing of the joint space in the areas subjected to the most pressure, subchondral cysts, subchondral sclerosis, and osteophytes.
+  FA00  	Osteoarthritis of hip
+
+FA00.0	Primary osteoarthritis of hip
+
+FA00.1	Post traumatic osteoarthritis of hip
+
+FA00.2	Other secondary osteoarthritis of hip
+Coding Note:	Code aslo the causing condition
+
+FA00.Z	Osteoarthritis of hip, unspecified
+
+  FA01  	Osteoarthritis of knee
+Primary osteoarthritis occurring in an otherwise intact knee joint, involving genetically related, age-related or use-related degeneration with microscopic and macroscopic anatomical changes, which ultimately limit motion in one or more joints. Changes to the joint include increasing cartilage loss and osseous transformation such as sclerosis, osteophyte formation and cysts as well as potential inflammatory changes in surrounding soft tissue structures.
+
+FA01.0	Primary osteoarthritis of knee
+
+FA01.1	Post traumatic osteoarthritis of knee
+
+FA01.2	Other secondary osteoarthritis of knee
+Coding Note:	Code aslo the causing condition
+
+FA01.Z	Osteoarthritis of knee, unspecified
+
+  FA02  	Osteoarthritis of wrist and hand
+
+FA02.0	Primary osteoarthritis of wrist and hand
+
+FA02.1	Post traumatic osteoarthritis of wrist and hand
+
+FA02.2	Other secondary osteoarthritis of wrist and hand
+Coding Note:	Code aslo the causing condition
+
+FA02.Z	Osteoarthritis of wrist and hand, unspecified
+
+  FA03  	Osteoarthritis of other specified joint
+
+FA03.0	Primary osteoarthritis of other specified joint
+
+FA03.1	Post traumatic osteoarthritis of other specified joint
+
+FA03.2	Other secondary osteoarthritis of other specified joint
+Coding Note:	Code aslo the causing condition
+
+FA03.Z	Osteoarthritis of other specified joint, unspecified
+
+  FA04  	Oligoosteoarthritis
+Coding Note:	Code aslo the causing condition
+
+  FA05  	Polyosteoarthritis
+Coding Note:	Code aslo the causing condition
+
+  FA0Z  	Osteoarthritis, unspecified
+
+Infection related arthropathies (BlockL2‑FA1)
+A disease of the joints, caused by an infection with a bacterial, viral, fungal, or parasitic source.
+Distinction is made between the following types of etiological relationship.
+a) direct infection of joint, where organisms invade synovial tissue and microbial antigen is present in the joint;
+b) indirect infection, which may be of two types: a reactive arthropathy, where microbial infection of the body is established but neither organisms nor antigens can be identified in the joint, and a postinfective arthropathy, where microbial antigen is present but recovery of an organism is inconstant and evidence of local multiplication is lacking.
+  FA10  	Direct infections of joint
+Hematogenic or non-hematogenic infections of joints with the microbes listed.
+Exclusions:	Reactive arthropathies (FA11)
+Postinfectious arthropathies (FA12)
+
+FA10.0	Bacterial infection of joint
+Coded Elsewhere:	Gonococcal arthritis (1A72.0)
+
+FA10.1	Viral infection of joint
+
+FA10.2	Fungal infection of joint
+
+FA10.Z	Direct infections of joint, unspecified
+
+  FA11  	Reactive arthropathies
+A disease of the joints, caused by an infection in another part of the body, auto-immune disease, or post-vaccination. This disease is characterised by a secondary inflammation of the joints in reaction to infection, auto-immune disease, or vaccination. Common previous sites of infection are the enteric or genitourinary system.
+Coding Note:	Code also the underlying disease or aetiology.
+Exclusions:	Acute rheumatic fever (BlockL2‑1B4)
+Behçet disease (4A62)
+Coded Elsewhere:	Arthritis mutilans (FA21.Y)
+
+FA11.0	Arthropathy following intestinal bypass
+Coded Elsewhere:	Bowel-associated dermatosis-arthritis syndrome (EB2Y)
+
+FA11.1	Arthropathy following vaccination
+
+FA11.2	Arthropathy following genitourinary infection
+Reactive arthritis (ReA) is an autoimmune disorder belonging to the group of seronegative spondyloarthropathies and is characterised by the classic triad of arthritis, urethritis and conjunctivitis.
+
+FA11.Y	Other specified reactive arthropathies
+Coding Note:	Code also the underlying disease or aetiology.
+
+FA11.Z	Reactive arthropathies, unspecified
+Coding Note:	Code also the underlying disease or aetiology.
+
+  FA12  	Postinfectious arthropathies
+Coding Note:	Code aslo the causing condition
+
+FA12.0	Bacterial postinfectious arthropathy
+Coding Note:	Code aslo the causing condition
+
+FA12.1	Viral postinfectious arthropathies
+Coding Note:	Code aslo the causing condition
+
+FA12.2	Fungal postinfectious arthropathies
+Coding Note:	Code aslo the causing condition
+
+FA12.3	Parasitic postinfectious arthropathies
+Coding Note:	Code aslo the causing condition
+
+FA12.Y	Other specified postinfectious arthropathies
+Coding Note:	Code aslo the causing condition
+
+FA12.Z	Postinfectious arthropathies, unspecified
+Coding Note:	Code aslo the causing condition
+
+  FA13  	Infectious spondyloarthritis
+A condition of the spine, caused by an infection with a bacterial, viral, fungal, or parasitic source. This condition is characterised by inflammation of the vertebrae.
+Exclusions:	Inflammatory spondyloarthritis (FA92)
+
+  FA1Y  	Other specified infection related arthropathies
+
+  FA1Z  	Infection related arthropathies, unspecified
+
+Inflammatory arthropathies (BlockL2‑FA2)
+Coded Elsewhere:	Peripheral spondyloarthritis (FA92.1)
+  FA20  	Rheumatoid arthritis
+Rheumatoid arthritis (RA) is persistent and/or erosive disease that is defined as the confirmed presence of synovitis in at least 1 joint, absence of an alternative diagnosis that better explains the synovitis, and achievement of a total score of 6 or greater (of a possible 10) from the individual scores in 4 domains: number and site of involved joints, serologic abnormality, elevated acute-phase response, and symptom duration.
+Exclusions:	rheumatoid arthritis, juvenile (FA24.1)
+Acute rheumatic fever (BlockL2‑1B4)
+Coded Elsewhere:	Respiratory disorders in rheumatoid arthritis (CB05.1)
+
+FA20.0	Seropositive rheumatoid arthritis
+
+FA20.1	Seronegative rheumatoid arthritis
+
+FA20.Z	Rheumatoid arthritis, serology unspecified
+
+  FA21  	Psoriatic arthritis
+Psoriatic arthritis, a member of the spondyloarthritis family, is defined as an inflammatory arthropathy associated with psoriasis that is usually rheumatic factor negative. It is characterised by various clinical manifestations, including symmetric polyarthritis, asymmetric oligoarthritis or polyarthritis, spinal inflammation similar to ankylosing spondylitis, peripheral enthesitis, anterior chest wall involvement, distal interphalangeal arthritis of the hands and feet, dactylitis (sausage digit or toe), arthritis mutilans and onycho-pachydermo-periostitis. The CASPAR has high sensitivity and specificity.
+Exclusions:	Juvenile psoriatic arthritis (FA24.2)
+
+FA21.0	Psoriatic spondyloarthritis
+Inclusions:	Psoriatic spondylitis
+
+FA21.Y	Other specified psoriatic arthritis
+
+FA21.Z	Psoriatic arthritis, unspecified
+
+  FA22  	Polymyalgia rheumatica
+Polymyalgia rheumatica (PMR) is a syndrome characterised by aching of the proximal portions of the extremities and torso. Provisional classification criteria for PMR by the European League Against Rheumatism/American College of Rheumatology Collaborative Initiative should be applied to patients aged 50 years or older with bilateral shoulder aching, and abnormal CRP and/or ESR. The scoring algorithm is based on morning stiffness >45 minutes (2 points), hip pain/limited range of motion (1 point), absence of rheumatoid factor and/or anti-citrullinated protein antibody (1 point), with optional ultrasound criteria. Most commonly, PMR occurs in isolation, but may be seen in 40-50% of patients with giant cell arteritis.
+Exclusions:	Giant cell arteritis with polymyalgia rheumatica (4A44.2)
+
+  FA23  	Adult-onset Still disease
+Adult onset Still's disease is a rare rheumatic condition characterised by a combination of symptoms, such as fever higher than 39 degrees C, cutaneous rash during fever peaks, joint or muscle pain, lymph node hypertrophy, increase of white blood cells (especially polymorphonuclear neutrophils) and abnormalities of liver metabolism.
+Exclusions:	Still disease NOS (FA24.4)
+
+  FA24  	Juvenile idiopathic arthritis
+Juvenile idiopathic arthritis (JIA) is the term used to describe a group of inflammatory articular disorders of unknown cause that begin before the age of 16 and last over 6 weeks. Six disorders have been defined: systemic-onset juvenile idiopathic arthritis (formerly referred to as Still's disease), oligoarticular arthritis, rheumatoid factor-positive polyarthritis, rheumatoid factor-negative polyarthritis, enthesitis-related arthritis (spondyloarthropathies), and the juvenile form of psoriatic arthritis (see these terms). A seventh category has been defined comprising unclassified types of arthritis (types that do not correspond to any of the defined disease or that correspond to more than one of the disease definitions).
+Coding Note:	Arthritis in children, with onset before 16th birthday and lasting longer than 6 weeks
+Exclusions:	Juvenile dermatomyositis (4A41.01)
+Felty syndrome (FA20.0)
+
+FA24.0	Juvenile idiopathic oligoarthritis
+Oligoarticular juvenile arthritis is the most common form of juvenile idiopathic arthritis, representing nearly 50% of cases. It is more common in girls (80% of cases), with onset occurring between ages 2 and 4. It is usually asymmetrical and affects between one and a maximum of four joints, predominantly those of the lower limbs (knee or foot).
+Coding Note:	Use additional code, if desired, to identify associated uveitis
+
+FA24.00	Juvenile idiopathic oligoarthritis, onset persistent
+Onset persistent refers to the fact that the child never has more than four joints involved throughout the course of the disease.
+
+FA24.01	Juvenile idiopathic oligoarthritis, onset extended
+Onset extended refers to the fact that after the initial six month period, the total number of affected joints exceeds four.
+
+FA24.0Z	Juvenile idiopathic oligoarthritis, onset unspecified
+Coding Note:	Use additional code, if desired, to identify associated uveitis
+
+FA24.1	Juvenile idiopathic polyarthritis
+Juvenile idiopathic polyarthritis is a type of juvenile idiopathic arthritis (JIA) that affects five or more joints in the first six months after onset. It often affects the same joints on each side of the body. It is more common in girls.
+
+FA24.2	Juvenile psoriatic arthritis
+Juvenile psoriatic arthritis is an autoimmune inflammatory disorder representing less than 10% of all juvenile idiopathic arthritis (JIA) cases, and characterised by the association of psoriasis with one of two forms of arthritis: the association of psoriasis with an arthritis that most resembles oligoarticular arthritis with a risk of uveitis is more common in girls with onset at around 6 years of age, whereas the association of psoriasis with a form of arthritis that most resembles a spondyloarthropathy is most common in boys and manifests later.
+Coding Note:	Use additional code to identify associated uveitis
+
+FA24.3	Juvenile enthesitis related arthritis
+Enthesitis-related arthritis is a type of juvenile idiopathic arthritis (JIA) that represents the paediatric form of spondyloarthropathy in adults, but differs from it as the initial manifestations in the paediatric form are asymmetric oligoarticular arthritis of the lower limbs, associated with enthesitis. Axial manifestations (sacroiliac involvement) are present in only 25% of cases at onset but appear several years later in the disease course.
+Coding Note:	Use additional code to identify associated uveitis
+
+FA24.4	Juvenile systemic arthritis
+Systemic-onset juvenile idiopathic arthritis represents 10-11% of cases of juvenile idiopathic arthritis (JIA) and is marked by the severity of the extra-articular manifestations (fever, cutaneous eruptions) and by an equal sex ratio. Fever peaks are associated with transient cutaneous eruptions and diffuse erythematosis or urticarial-like lesions. The presence of arthritis is essential for diagnosis but may appear later in the disease course. The number of sites affected is variable (mono-, oligo- or polyarthritis) affecting both the small and large joints in a nearly symmetrical manner. This characteristic diagnostic triad may also be associated with an adenopathy and hepatosplenomegaly. Visceral complications (pericarditis, pleural effusion or serous peritonitis with abdominal pain) may be present.
+Coding Note:	Code aslo the causing condition
+
+FA24.Y	Other specified juvenile idiopathic arthritis
+Coding Note:	Arthritis in children, with onset before 16th birthday and lasting longer than 6 weeks
+
+FA24.Z	Juvenile idiopathic arthritis, unspecified
+Coding Note:	Arthritis in children, with onset before 16th birthday and lasting longer than 6 weeks
+
+  FA25  	Gout
+Gout is an acute or chronic arthropathy resulting from deposition of monosodium urate monohydrate crystals in joint tissues. It is strongly associated with hyperuricaemia, which may be secondary to certain drugs, poisons or lymphoproliferative disorders. Gout is definitively diagnosed by demonstration of urate crystals in aspirated synovial fluid in the absence of an alternative aetiology for arthritis. It may be associated with focal urate deposition in skin and subcutaneous tissue (tophaceous gout) and with urate nephropathy
+Exclusions:	Hyperuricaemia without signs of inflammatory arthritis or tophaceous disease (5C55)
+
+FA25.0	Primary gout
+Primary gout refers to those cases that appear to be innate, that are neither secondary to another acquired disorder nor a subordinate manifestation of an inborn error that leads initially to a major disease unlike gout. Although some cases of primary gout have a genetic basis, others do not.
+Inclusions:	Gouty bursitis
+Gouty arthropathy
+
+FA25.1	Secondary gout
+Secondary gout refers to those cases that develop during the course of another disease, or as a consequence of treatment with drugs. Secondary gout is associated with increased purine biosynthesis de novo, increased nucleic acid turnover, or decreased renal clearance of uric acid.
+Coding Note:	Code aslo the causing condition
+
+FA25.10	Lead-induced gout
+
+FA25.11	Drug-induced gout
+
+FA25.12	Gouty arthropathy due to enzyme defects or other inherited disorders
+Coding Note:	Code aslo the causing condition
+
+FA25.1Y	Other specified secondary gout
+Coding Note:	Code aslo the causing condition
+
+FA25.1Z	Secondary gout, unspecified
+Coding Note:	Code aslo the causing condition
+
+FA25.2	Gout without specification whether primary or secondary
+
+FA25.20	Tophaceous gout
+Tophi are precipitates of monosodium urate in the tissues of patients with hyperuricaemia and may be associated with other manifestations of hyperuricaemia including gouty arthropathy. They present particularly in the skin and subcutaneous tissue. One of the more common sites for them is the helix of the ear.
+
+FA25.2Y	Other specified gout without specification whether primary or secondary
+
+FA25.2Z	Gout, unspecified
+
+  FA26  	Certain specified crystal arthropathies
+Exclusions:	Gout (FA25)
+
+FA26.0	Calcium pyrophosphate dehydrate deposition disease
+Familial calcium pyrophosphate deposition is a chronic inherited arthropathy characterised by chondrocalcinosis (cartilage calcification), often associated with recurrent acute calcium pyrophosphate crystal arthritis and polyarticular osteoarthritis.
+
+FA26.1	Hydroxyapatite deposition disease
+Calcium hydroxyapatite crystal deposition disease is characterised by the presence of basic calcium phosphate crystals - predominantly hydroxyapatite - in periarticular soft tissues, especially tendons. This entity is best recognised as "calcific tendinitis" at its most frequent site about the shoulder, but the disease involves numerous other sites and may be more appropriately termed calcific periarthritis.
+
+FA26.2	Chondrocalcinosis
+Chondrocalcinosis refers to radiographic calcification in hyaline and/or fibrocartilage and is not specific for CPPD or other particular crystal deposition disease. Familial l CPPD deposition disease has been reported from many countries and some kindred have CPPD disease linked to ANKH mutation on chromosome 5p.
+Inclusions:	Familial chondrocalcinosis
+
+FA26.Y	Other specified crystal arthropathies
+
+FA26.Z	Crystal arthropathies, unspecified
+
+  FA27  	Certain specified inflammatory arthropathies
+Exclusions:	cricoarytenoid arthropathy (CA0H)
+arthropathy NOS (FA38)
+
+FA27.0	Kashin-Beck disease
+Kashin-Beck disease (KBD) is a chronic, endemic osteochondropathy of unknown etiology. The disease is mainly distributed in a diagonal belt ranging from the northeast to the southwest of China, where the soil selenium content is low. Mineral deficiencies (e.g., selenium, iodine), fungal cereal contamination, and water contamination may be contributing factors to its etiology. The disease is manifested by arthritic pain, morning stiffness, enlarged and shortened fingers, deformed and enlarged joints, and limited motion of the joints in the extremities.
+
+FA27.1	Pigmented villonodular synovitis
+This condition is characterised by outgrowths of synovial membrane composed of villi and fibrous nodules and is histologically characterised by hemosiderin- and lipid-containing macrophages and multinucleated giant cells. It usually occurs in the knee and hip, and is often diagnosed by Magnetic Resonance Imaging.
+
+FA27.2	Palindromic rheumatism
+Palindromic rheumatism causes sudden attacks of joint pain and swelling, typically in the hands and feet. An episode may last from a few hours to several days. The frequency of attacks also varies. Between attacks, pain and swelling completely disappear, and the affected joints look normal on X-rays. It is likely that 30 to 50 percent of patients with palindromic rheumatism go on to develop rheumatoid arthritis, but the progression may take several years.
+
+FA27.3	Transient synovitis
+
+FA27.4	Intermittent hydrarthrosis
+
+FA27.Y	Other specified inflammatory arthropathies
+
+  FA2Z  	Inflammatory arthropathies, unspecified
+
+Certain specified joint disorders or deformities of limbs (BlockL2‑FA3)
+Exclusions:	Conditions associated with the spine (BlockL1‑FA7)
+  FA30  	Acquired deformities of fingers or toes
+Exclusions:	congenital deformities and malformations of fingers and toes (BlockL3‑LB8)
+Congenital absence of finger (LB99.7)
+Congenital absence of toe (LB9A.5)
+Acquired absence of toe (QF00)
+Acquired absence of finger, including thumb, unilateral (QF00)
+amputation of finger (QF00)
+amputation of toe (QF00)
+
+FA30.0	Acquired hallux valgus
+
+FA30.1	Hallux rigidus
+Coding Note:	Code aslo the causing condition
+
+FA30.2	Acquired hammer toe
+Exclusions:	Congenital hammer toe (LB98.5)
+
+FA30.Y	Other specified acquired deformities of fingers or toes
+
+FA30.Z	Acquired deformities of fingers or toes, unspecified
+
+  FA31  	Other acquired deformities of limbs
+Exclusions:	congenital: deformities and malformations of limbs (BlockL2‑LB7)
+Acquired deformities of fingers or toes (FA30)
+congenital: absence of limbs (BlockL2‑LB7)
+Coxa plana (FB82.1)
+Acquired absence of limb (QF00)
+
+FA31.0	Valgus deformity, not elsewhere classified
+Exclusions:	Talipes calcaneovalgus (LB98.22)
+Metatarsus valgus (LB98.21)
+
+FA31.1	Varus deformity, not elsewhere classified
+Exclusions:	Metatarsus varus (LB98.02)
+tibia vara (FB82.1)
+
+FA31.2	Flexion deformity
+
+FA31.3	Acquired wrist drop
+
+FA31.4	Acquired foot drop
+
+FA31.5	Acquired pes planus
+Exclusions:	Congenital pes planus (LB98.1)
+
+FA31.6	Acquired clawhand or clubhand
+
+FA31.7	Acquired clawfoot or clubfoot
+Exclusions:	congenital clubfoot - varus (LB98.0)
+congenital clubfoot - valgus (LB98.22)
+
+FA31.8	Acquired unequal limb length
+
+FA31.Y	Other specified acquired deformities of limbs
+
+FA31.Z	Acquired deformities of limbs, unspecified
+
+  FA32  	Disorders of patella
+Exclusions:	Dislocation of patella (NC93.1)
+Coded Elsewhere:	Chondromalacia patellae (FB82.00)
+
+FA32.0	Recurrent instability of patella
+
+FA32.1	Patellofemoral disorders
+
+FA32.Y	Other specified disorders of patella
+
+FA32.Z	Disorders of patella, unspecified
+
+  FA33  	Internal derangement of knee
+Internal derangement of the knee (IDK) is a chronic disorder of the knee due to a torn, ruptured or deranged meniscus of the knee, or a partial or complete cruciate rupture, with or without injury to the capsular ligament, resulting in ongoing or intermittent signs and symptoms such as pain, instability, or abnormal mobility of that knee.
+If indicated that derangement is due to trauma, code to Injury, poisoning and certain other consequences of external causes, regardless of time past since injury.
+Exclusions:	recurrent dislocation or subluxation patella (FA32.0)
+Ankylosis of joint (FA34.4)
+deformity of knee (FA31)
+Injuries to the knee or lower leg (BlockL1‑NC9)
+Disorders of patella (FA32)
+
+FA33.0	Cystic meniscus
+
+FA33.1	Discoid meniscus
+
+FA33.2	Derangement of meniscus due to old tear or injury
+Inclusions:	Old bucket-handle tear
+
+FA33.3	Loose body in knee
+
+FA33.4	Chronic instability of knee
+Exclusions:	Recurrent instability of patella (FA32.0)
+
+FA33.40	Chronic instability of knee, medial collateral ligament or other and unspecified medial meniscus
+
+FA33.4Y	Other specified chronic instability of knee
+
+FA33.4Z	Chronic instability of knee, unspecified
+
+FA33.Y	Other specified internal derangement of knee
+
+FA33.Z	Internal derangement of knee, unspecified
+
+  FA34  	Certain specified joint derangements
+Exclusions:	Temporomandibular joint disorders (DA0E.8)
+current injury - see injury of joint by body region (Chapter 22)
+
+FA34.0	Loose body in joint
+Exclusions:	Loose body in knee (FA33.3)
+
+FA34.1	Disorder of ligament
+Exclusions:	Chronic instability of knee (FA33.4)
+familial ligamentous laxity (LD28.1)
+
+FA34.2	Recurrent instability of joint
+Exclusions:	vertebral subluxation (ME93)
+Recurrent instability of patella (FA32.0)
+
+FA34.3	Contracture of joint
+Exclusions:	Dupuytren contracture (FB51.0)
+contracture of tendon (sheath) without contracture of joint (FB42.1)
+acquired deformities of limbs (FA31)
+
+FA34.4	Ankylosis of joint
+Exclusions:	stiffness of joint without ankylosis (ME85)
+Ankylosis of spinal joint (FB00)
+
+FA34.5	Impingement syndrome of hip
+
+FA34.Y	Other joint derangements
+
+  FA35  	Wear of articular bearing surface of joint prosthesis
+Exclusions:	Mode of injury or harm associated with a surgical or other medical device, implant or graft (PL12)
+
+FA35.0	Wear of articular bearing surface of joint prosthesis of hip
+
+FA35.1	Wear of articular bearing surface of joint prosthesis of knee
+
+FA35.2	Wear of articular bearing surface of joint prosthesis of other joint
+
+FA35.Z	Wear of articular bearing surface of joint prosthesis of unspecified joint
+
+  FA36  	Effusion of joint
+Increased intra-articular fluid secondary to trauma and/or other acquired conditions not detailed in other codes.
+Inclusions:	hydrarthrosis
+Exclusions:	hydrarthrosis of yaws (1C1D.2)
+
+FA36.0	Effusion of joint containing blood
+Inclusions:	haemarthrosis
+Exclusions:	Dislocation or strain or sprain of unspecified body region (ND56.3)
+
+FA36.Y	Other specified effusion of joint
+
+FA36.Z	Effusion of joint, unspecified
+
+  FA37  	Certain joint disorders, not elsewhere classified
+Exclusions:	calcification of: tendon (FB40.3)
+difficulty in walking (MB44.2)
+abnormality of gait and mobility (MB44)
+Acquired deformities of fingers or toes (FA30)
+Other acquired deformities of limbs (FA31)
+Coded Elsewhere:	Pain in joint (ME82)
+Stiffness of joint (ME85)
+
+FA37.0	Osteophyte
+
+FA37.Y	Other specified certain joint disorders, not elsewhere classified
+
+FA37.Z	Certain joint disorders, not elsewhere classified, unspecified
+
+  FA38  	Arthropathy in diseases classified elsewhere
+Coding Note:	Code aslo the causing condition
+Exclusions:	arthropathy in: haematological disorders (Chapter 03)
+neuropathic spondylopathy (BlockL2‑FB0)
+psoriatic and enteropathic arthropathies juvenile (FA24.2)
+
+FA38.0	Diabetic arthropathy
+Coding Note:	Code aslo the causing condition
+Exclusions:	Diabetic Charcot arthropathy (FA38.10)
+Diabetic cheiroarthropathy (BlockL3‑EE4)
+
+FA38.1	Neuropathic arthropathy
+Neuropathic arthropathy is a progressive destructive arthritis associated with loss of pain sensation, proprioception, or both. Normal muscular reflexes that modulate joint movement are decreased. Without these protective mechanisms, joints are subjected to repeated trauma, resulting in progressive cartilage and bone damage. Additional symptoms include skin changes, such as erythema, swelling, hyperpigmentation, or purpura and soft tissue ulcers over the affected area, as well as joint loosening or instability and joint deformities.
+Coding Note:	Use additional code, if desired, to identify neuropathy.
+
+FA38.10	Diabetic Charcot arthropathy
+Joint damage resulting from diabetic sensory polyneuropathy. This most commonly affects the ankle and foot in patients with longstanding diabetes mellitus.
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+FA38.1Y	Other specified neuropathic arthropathy
+Coding Note:	Use additional code, if desired, to identify neuropathy.
+
+FA38.1Z	Neuropathic arthropathy, unspecified
+Coding Note:	Use additional code, if desired, to identify neuropathy.
+
+FA38.2	Arthropathy in hypersensitivity reactions classified elsewhere
+Coding Note:	Code aslo the causing condition
+
+FA38.3	Haemophilic arthropathy
+Joint destruction in the knees, shoulders, ankles, elbows, and hips is associated with haemophilia. The condition includes acute hemarthrosis, subacute or chronic arthritis, and end-stage haemophilic arthropathy. Nearly all patients with severe haemophilia A or B and half of patients with moderate disease activity experience hemarthrosis. Symptoms include joint pain, joint swelling, joint fibrosis, development of flexion deformities, and erosion of joint cartilage. Joints most commonly affected are knees, ankles, elbows, shoulders, and hips (in order of frequency). Bleeding into muscle and soft tissue also causes musculoskeletal dysfunction.
+Coding Note:	Code aslo the causing condition
+
+FA38.Y	Other specified arthropathy in diseases classified elsewhere
+Coding Note:	Code aslo the causing condition
+
+FA38.Z	Unspecified arthropathy in diseases classified elsewhere
+Coding Note:	Code aslo the causing condition
+
+  FA3Z  	Unspecified joint disorders and deformities of limbs
+
+  FA5Y  	Other specified arthropathies
+
+  FA5Z  	Arthropathies, unspecified
+
+Conditions associated with the spine (BlockL1‑FA7)
+This is a group of conditions in which there is a deviation from or interruption of the normal structure or function of the spine.
+Coded Elsewhere:	Spinal pain (ME84)
+Structural disorders of spine (BlockL2‑FA7)
+  FA70  	Spinal deformities
+
+FA70.0	Kyphosis
+This is a curving of the spine that causes a bowing or rounding of the back, which leads to a hunchback or slouching posture.
+Exclusions:	Post radiation kyphosis (FC01.2)
+
+FA70.1	Scoliosis
+Coded Elsewhere:	Post radiation scoliosis (FC01.5)
+
+FA70.2	Lordosis
+This is the inward curvature of a portion of the lumbar and cervical vertebral column, excessive curvature is called hyperlordosis.
+Coded Elsewhere:	Postsurgical lordosis (FC01.4)
+
+FA70.Z	Spinal deformities, unspecified
+
+  FA71  	Torticollis
+Exclusions:	Cervical dystonia or spasmodic torticollis (8A02.0)
+Congenital torticollis (LA62)
+current injury - see injury of spine by body region (BlockL1‑NB5)
+torticollis: due to birth injury (KA43.3)
+
+  FA72  	Disorders of vertebra
+Changes in the structure of the spine causing damage to vertebrae and surrounding tissue secondary to infection, injury, tumours, infections, bone changes that come with age etc. Spinal diseases often limit movement and cause pain when bone changes put pressure on the spinal cord or nerves.
+
+FA72.0	Ankylosing hyperostosis
+
+FA72.1	Kissing spine
+
+FA72.2	Traumatic spondylopathy
+Coding Note:	Code aslo the causing condition
+
+FA72.3	Fatigue fracture of vertebra
+Coding Note:	Code aslo the causing condition
+Inclusions:	Stress fracture of vertebra
+
+FA72.4	Collapsed vertebra, not elsewhere classified
+Exclusions:	collapsed vertebra in osteoporosis (BlockL2‑FB0)
+current injury - see injury of spine by body region. (BlockL1‑NB5)
+
+FA72.Y	Other specified disorders of vertebra
+
+  FA7Y  	Other specified structural disorders of spine
+
+  FA7Z  	Structural disorders of spine, unspecified
+
+Degenerative condition of spine (BlockL2‑FA8)
+This is a disease characterised by degenerative changes in the intervertebral disc, vertebral end-plates and spinal joints due to aging or structural change.
+  FA80  	Intervertebral disc degeneration
+
+FA80.0	Intervertebral disc degeneration of cervical spine without prolapsed disc
+This is a disease characterised by degenerative changes in the intervertebral disc and vertebral end-plates without prolapse of the intervertebral disc.
+Exclusions:	Intervertebral disc degeneration of cervical spine with nervous system involvement (FA80.3)
+
+FA80.1	Intervertebral disc degeneration of cervical spine with prolapsed disc
+Exclusions:	Intervertebral disc degeneration of cervical spine with nervous system involvement (FA80.3)
+
+FA80.2	Intervertebral disc degeneration of cervical spine with bony spur at the vertebra
+Exclusions:	Intervertebral disc degeneration of cervical spine with nervous system involvement (FA80.3)
+
+FA80.3	Intervertebral disc degeneration of cervical spine with nervous system involvement
+
+FA80.4	Intervertebral disc degeneration of thoracic spine without prolapsed disc
+Exclusions:	Intervertebral disc degeneration of thoracic spine with nervous system involvement (FA80.7)
+
+FA80.5	Intervertebral disc degeneration of thoracic spine with prolapsed disc
+Exclusions:	Intervertebral disc degeneration of thoracic spine with nervous system involvement (FA80.7)
+
+FA80.6	Intervertebral disc degeneration of thoracic spine with bony spur at the vertebra
+Exclusions:	Intervertebral disc degeneration of thoracic spine with nervous system involvement (FA80.7)
+
+FA80.7	Intervertebral disc degeneration of thoracic spine with nervous system involvement
+
+FA80.8	Intervertebral disc degeneration of lumbar spine without prolapsed disc
+Exclusions:	Intervertebral disc degeneration of lumbar spine with nervous system involvement (FA80.B)
+
+FA80.9	Intervertebral disc degeneration of lumbar spine with prolapsed disc
+Exclusions:	Intervertebral disc degeneration of lumbar spine with nervous system involvement (FA80.B)
+
+FA80.A	Intervertebral disc degeneration of lumbar spine with bony spur at the vertebra
+Exclusions:	Intervertebral disc degeneration of lumbar spine with nervous system involvement (FA80.B)
+
+FA80.B	Intervertebral disc degeneration of lumbar spine with nervous system involvement
+
+FA80.Y	Other specified intervertebral disc degeneration
+
+FA80.Z	Intervertebral disc degeneration, unspecified
+
+  FA81  	Spondylolysis
+This is a condition characterised by deficient development or degeneration of a portion of the vertebra, usually in the pars interarticularis (the bone bridge between the superior and inferior facet joints of the lumbar vertebra).
+
+FA81.0	Spondylolysis with slippage
+This is a condition characterised by deficient development or degeneration of a portion of the vertebra, usually in the pars interarticularis (the bone bridge between the superior and inferior facet joints of the lumbar vertebra) with forward displacement of a superior vertebral body over the vertebral body below.
+
+FA81.1	Spondylolysis without slippage
+This is a condition characterised by deficient development or degeneration of a portion of the vertebra, usually in the pars interarticularis (the bone bridge between the superior and inferior facet joints of the lumbar vertebra) without slippage of the vertebrae.
+
+FA81.Z	Spondylolysis, unspecified
+
+  FA82  	Spinal stenosis
+This is a condition characterised by narrowing of the spinal canal.
+
+  FA83  	Ossification of spinal ligaments
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Ankylosing hyperostosis (FA72.0)
+
+  FA84  	Spondylolisthesis
+This is a forward displacement of a vertebral body (the anterior or front-facing portion of a vertebrae), with a higher position over the vertebral body below.
+Coding Note:	Code aslo the causing condition
+
+FA84.0	Spondylolisthesis with pars defect
+
+FA84.1	Spondylolisthesis without pars defect
+This is a condition characterised by forward displacement of a superior vertebral body over the vertebral body below without a defect in the pars interarticularis.
+
+FA84.Z	Spondylolisthesis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  FA85  	Spinal endplate defects
+
+FA85.0	Spinal epiphysiopathy with no determinant
+
+FA85.1	Spinal epiphysiopathy with determinants
+
+FA85.10	Localised central endplate defect
+
+FA85.11	Multiple anterior endplate defect
+Familial Scheuermann disease is an inherited disorder characterised by kyphotic deformity of the spine that develops in adolescence. The spinal deformity includes irregularities of the vertebral endplates, the presence of Schmorl's nodes, disk-space narrowing, and vertebral wedging.
+
+FA85.12	Separation of ring apophysis
+
+FA85.1Y	Other specified spinal epiphysiopathy with determinants
+
+FA85.1Z	Spinal epiphysiopathy with determinants, unspecified
+
+FA85.Y	Other specified spinal endplate defects
+
+FA85.Z	Spinal endplate defects, unspecified
+
+  FA8Y  	Other specified degenerative condition of spine
+
+  FA8Z  	Degenerative condition of spine, unspecified
+
+Inflammation of spine (BlockL2‑FA9)
+  FA90  	Infection of vertebra
+A condition of the vertebrae, caused by an infection with a bacterial, viral, fungal, or parasitic source. This condition commonly present with fever, chills, headache, weight loss, or may be asymptomatic. Confirmation is by identification of the infectious agent in a blood sample, or radiographic tests.
+
+FA90.0	Infection of vertebra with no determinant
+
+FA90.1	Infection of vertebra with determinants
+
+FA90.Y	Other specified infection of vertebra
+
+FA90.Z	Infection of vertebra, unspecified
+
+  FA91  	Infection of intervertebral disc
+A condition of the intervertebral discs, caused by an infection with a bacterial, viral, fungal, or parasitic source. This condition commonly present with fever, chills, headache, stiffness of the neck, or tingling sensations in the arms or legs. Confirmation is by identification of the infectious agent in a blood sample, or radiographic tests.
+
+  FA92  	Inflammatory spondyloarthritis
+Inflammatory spondyloarthritis is a rheumatic disease referring to the group of inflammatory disorders affecting the lower limb, enthesitis, dactylitis, and uveitis. Clinical characteristics include typical patterns of peripheral arthritis (i.e., predominantly of the lower limb and asymmetric), absence of rheumatoid factor, absence of subcutaneous nodules and other extra-articular features of rheumatoid arthritis, overlapping extra-articular features of the group (e.g., anterior uveitis), and significant familial aggregation and association with HLA-B27.
+Exclusions:	Infectious spondyloarthritis (FA13)
+
+FA92.0	Axial spondyloarthritis
+Inclusions:	Ankylosing spondylitis
+Exclusions:	Behçet disease (4A62)
+
+FA92.00	Spinal enthesitis
+
+FA92.01	Sacroiliitis, not elsewhere classified
+Inflammation of the sacroiliac joint that may be related to local disease or systemic disease.
+
+FA92.0Y	Other specified axial spondyloarthritis
+
+FA92.0Z	Axial spondyloarthritis, unspecified
+
+FA92.1	Peripheral spondyloarthritis
+Experts from the Assessment of SpondyloArthritis international Society (ASAS) developed classification criteria for axSpA and peripheral SpA. These criteria were developed for patients with peripheral manifestations without back pain, arthritis, enthesitis or dactylitis plus SpA features.
+
+FA92.Y	Other specified inflammatory spondyloarthritis
+
+FA92.Z	Inflammatory spondyloarthritis, unspecified
+
+  FA9Y  	Other specified inflammation of spine
+
+  FA9Z  	Inflammation of spine, unspecified
+
+Spondylopathies (BlockL2‑FB0)
+Coded Elsewhere:	Infectious spondyloarthritis (FA13)
+Collapsed vertebra, not elsewhere classified (FA72.4)
+Nonunion after spinal arthrodesis (FC01.70)
+  FB00  	Ankylosis of spinal joint
+
+  FB0Y  	Other specified spondylopathies
+
+  FB0Z  	Spondylopathies, unspecified
+
+  FB10  	Spinal instabilities
+Exclusions:	Spondylolysis (FA81)
+
+  FB1Y  	Other specified conditions associated with the spine
+
+  FB1Z  	Conditions associated with the spine, unspecified
+
+Soft tissue disorders (BlockL1‑FB3)
+Coded Elsewhere:	Diabetic radiculoplexoneuropathy (8B94)
+Autoimmune neuritis (8E4A.1)
+Disorders of muscles (BlockL2‑FB3)
+Exclusions:	Muscular dystrophy (8C70)
+Coded Elsewhere:	Foreign body granuloma of soft tissue, not elsewhere classified (FB56.0)
+  FB30  	Infectious myositis
+Infective myositis is an acute, subacute, or chronic infection of skeletal muscle and may be caused by a wide range of infecting organisms. Immunosuppression, particularly as the result of HIV infection, is an important predisposing factor.
+
+  FB31  	Calcification or ossification of muscle
+
+FB31.0	Progressive osseous heteroplasia
+
+FB31.1	Fibrodysplasia ossificans progressiva
+This is an extremely rare disease of the connective tissue where a mutation of the body's repair mechanism causes fibrous tissue (including muscle, tendon, and ligament) to be ossified when damaged.
+
+FB31.Y	Other specified calcification or ossification of muscle
+
+FB31.Z	Calcification or ossification of muscle, unspecified
+
+  FB32  	Certain specified disorders of muscle
+This is an impairment of health or a condition of abnormal functioning of the muscle that does not fit in another category.
+Exclusions:	Alcoholic myopathy (8D44.1)
+Myalgia (FB56.2)
+Cramp or spasm (MB47.3)
+Stiff person syndrome (8E4A.0)
+Primary disorders of muscles (BlockL2‑8C7)
+Coded Elsewhere:	Drug-induced myopathy (8C80)
+Sarcoid myositis (4B20.Y)
+
+FB32.0	Diastasis of muscle
+This is a pathological separation or tearing of muscle fibres from other muscle fibres, tendons or fascia
+
+FB32.1	Spontaneous rupture of muscle
+This is a spontaneous tearing or separation of muscle fibres from other muscle fibres and/or tendons in the absence of trauma.
+Exclusions:	rupture of tendon (Chapter 22)
+traumatic rupture of muscle - see injury of muscle by body region (Chapter 22)
+
+FB32.2	Ischaemic infarction of muscle
+Exclusions:	Volkmann ischaemic contracture (NF0A.6)
+traumatic ischaemia of muscle (NF0A.6)
+compartment syndrome, traumatic (NF0A.6)
+
+FB32.20	Idiopathic rhabdomyolysis
+Skeletal muscle breakdown with leakage of muscle contents, frequently accompanied by myoglobinuria, occurring in both adult and paediatric populations with no identifiable cause. The attacks are often recurrent. Renal failure due to tubular necrosis is a severe complication.
+Exclusions:	Myasthenia gravis or certain specified neuromuscular junction disorders (BlockL2‑8C6)
+Secondary myopathies (BlockL2‑8C8)
+
+FB32.2Y	Other specified ischaemic infarction of muscle
+
+FB32.2Z	Ischaemic infarction of muscle, unspecified
+
+FB32.3	Immobility syndrome
+
+FB32.4	Contracture of muscle
+Exclusions:	Contracture of joint (FA34.3)
+
+FB32.5	Muscle strain or sprain
+Exclusions:	current injury - see injury of muscle by body region (Chapter 22)
+
+FB32.Y	Other specified disorders of muscles
+
+  FB33  	Secondary disorders of muscle
+Coding Note:	Code aslo the causing condition
+Exclusions:	myopathy in: metabolic diseases (BlockL2‑8C8)
+
+  FB3Z  	Disorders of muscles, unspecified
+
+Disorders of synovium or tendon (BlockL2‑FB4)
+This is a group of disorders which affect the synovial joint lining (synovium) and also tendons.
+  FB40  	Tenosynovitis
+Exclusions:	soft tissue disorders related to use, overuse and pressure (FB50.1)
+current injury - see injury of ligament or tendon by body region (Chapter 22)
+
+FB40.0	Infectious tenosynovitis
+
+FB40.1	Plantar fasciitis
+
+FB40.2	Posterior tibial tendonitis
+
+FB40.3	Calcific tendinitis
+This is a disorder characterised by deposits of hydroxyapatite in any tendon of the body causing inflammation and pain.
+
+FB40.4	Trigger finger
+This is a common disorder characterised by catching, snapping or locking of the involved finger flexor tendon, associated with dysfunction and pain.
+Inclusions:	Nodular tendinous disease
+
+FB40.5	Radial styloid tenosynovitis
+Inflammation of the flexor and/or extensor tendon synovial sheaths in the hand and wrist that control movement of the thumb.
+
+FB40.Y	Other specified tenosynovitis
+
+FB40.Z	Tenosynovitis, unspecified
+
+  FB41  	Spontaneous rupture of synovium or tendon
+This is a spontaneous rupture to a fluid-filled sac containing viscous fluid which normally acts to decrease friction and also provides a cushion between bones and tendons and/or muscles around a joint.
+Coding Note:	Includes rupture that occurs when a normal force is applied to tissues that are inferred to have less than normal strength.
+Exclusions:	rupture where an abnormal force is applied to normal tissue - see injury of tendon by body region (Chapter 22)
+rotator cuff syndrome (FB53.1)
+
+FB41.0	Spontaneous rupture of popliteal cyst
+This is a rupture of the semimembranous or more rarely some other synovial bursa, or fluid filled sac, found behind the knee joint.
+
+FB41.1	Spontaneous rupture of synovium
+This is a rupture to a fluid-filled sac containing viscous fluid which normally acts to decrease friction and also provides a cushion between bones and tendons and/or muscles around a joint.
+Exclusions:	Spontaneous rupture of popliteal cyst (FB41.0)
+
+FB41.2	Spontaneous rupture of tendon
+
+FB41.Y	Other specified spontaneous rupture of synovium or tendon
+Coding Note:	Includes rupture that occurs when a normal force is applied to tissues that are inferred to have less than normal strength.
+
+FB41.Z	Spontaneous rupture of synovium or tendon, unspecified
+Coding Note:	Includes rupture that occurs when a normal force is applied to tissues that are inferred to have less than normal strength.
+
+  FB42  	Certain specified disorders of synovium or tendon
+Exclusions:	Palmar fascial fibromatosis (FB51.0)
+tendinitis NOS (FB55)
+xanthomatosis localized to tendons (5C80.2)
+
+FB42.0	Acquired short Achilles tendon
+
+FB42.1	Contracture of tendon sheath
+
+FB42.2	Ganglion
+This is a nodular tumour-like lesions or mucoid flesh, arising from tendon sheaths, ligaments, or joint capsule, especially of the hands, wrists, or feet. They are not true cysts as they lack epithelial wall. They are distinguished from synovial cysts by the lack of communication with a joint cavity or the synovial membrane.
+Inclusions:	Ganglion of tendon sheath
+Exclusions:	ganglion in yaws (1C1D.1)
+
+FB42.3	Synovial hypertrophy, not elsewhere classified
+This is an increase in synovial lining thickness which is not elsewhere classified.
+
+  FB43  	Secondary disorders of synovium or tendon
+Coding Note:	Code aslo the causing condition
+
+  FB4Y  	Other specified disorders of synovium or tendon
+
+  FB4Z  	Disorders of synovium or tendon, unspecified
+
+Miscellaneous specified soft tissue disorders (BlockL2‑FB5)
+This is a group of other disorders, which are not defined elsewhere, affecting tissues that connect, support, or surround other structures and organs of the body, not being bone.
+  FB50  	Bursitis
+This is a disorder of inflammation of one or more bursae (small sacs) of synovial fluid in the body which usually results in pain.
+Exclusions:	Tibial collateral bursitis (FB54.2)
+
+FB50.0	Infectious bursitis
+This is a disorder of inflammation of one or more bursae (small sacs) of synovial fluid in the body which usually results in pain and is caused by an infectious agent.
+Exclusions:	Tuberculous bursitis (1B12.4)
+
+FB50.1	Bursitis related to use, overuse or pressure
+This is a disorder of inflammation of one or more bursae (small sacs) of synovial fluid in the body which usually results in pain and is caused by repetitive use, overuse and pressure irritation.
+
+FB50.2	Synovial cyst of popliteal space
+This is a benign swelling of the semimembranous or more rarely some other synovial bursa found behind the knee joint.
+Exclusions:	Spontaneous rupture of popliteal cyst (FB41.0)
+
+FB50.3	Calcium deposit in bursa
+Exclusions:	Calcific tendinitis of shoulder (FB40.3)
+
+FB50.Y	Other specified bursitis
+
+FB50.Z	Bursitis, unspecified
+
+  FB51  	Fibroblastic disorders
+
+FB51.0	Palmar fascial fibromatosis
+This is a fixed flexion contracture of the hand where the fingers bend towards the palm and cannot be fully extended (straightened).
+Inclusions:	Dupuytren disease of palm
+
+FB51.1	Knuckle pads
+This is a benign, asymptomatic, well-circumscribed, smooth, firm, skin-coloured papules, nodules, or plaques, located in the skin over the dorsal aspects of the metacarpophalangeal (MCP) and interphalangeal (IP) joints.
+
+FB51.2	Fasciitis and fibromatosis
+
+FB51.3	Fibroblastic rheumatism
+
+FB51.4	Retroperitoneal fibrosis
+Retroperitoneal fibrosis (RPF) is a disease characterised by the development of extensive proliferation of fibrous tissue in the retroperitoneum, resulting in entrapment and obstruction of retroperitoneal structures, notably the ureters. RPF can be classified as primary (idiopathic) meaning that the cause is not known or secondary. But its association with various immune-related conditions and response to immunosuppression have led to speculation regarding an autoimmune aetiology of idiopathic RPF. One-third of the cases are secondary to malignancy, medication, trauma, or certain infections.
+
+FB51.40	Primary retroperitoneal fibrosis
+This is the commonest form of retroperitoneal fibrosis. By definition, no associated trigger (e.g. drugs or malignancy) can be determined, although atherosclerosis of the abdominal aorta is often associated. It has been postulated that such atherosclerosis may be of aetiological significance in some cases.
+
+FB51.4Y	Other specified retroperitoneal fibrosis
+
+FB51.Y	Other specified fibroblastic disorders
+
+FB51.Z	Fibroblastic disorders, unspecified
+
+  FB52  	Soft tissue disorders in diseases classified elsewhere
+This is a group of disorders affecting tissues that connect, support, or surround other structures and organs of the body, not being bone and occur in diseases classified elsewhere.
+Coding Note:	Code aslo the causing condition
+
+  FB53  	Shoulder lesions
+This is a group of disorders which are normally characterised with shoulder pain and reduced range of motion of the shoulder girdle.
+Exclusions:	shoulder-hand syndrome (FB56.5)
+Rotator cuff tendonitis (FB40.3)
+
+FB53.0	Adhesive capsulitis of shoulder
+This is a condition characterised by spontaneous onset of shoulder pain accompanied by progressive loss of active and passive ranges of motion.
+Inclusions:	Frozen shoulder
+
+FB53.1	Rotator cuff syndrome
+Exclusions:	Rotator cuff tendonitis (FB40.3)
+
+FB53.2	Impingement syndrome of shoulder
+This is a clinical syndrome which occurs when the tendons of the rotator cuff muscles become irritated and inflamed as they pass through the subacromial space, the passage beneath the acromion. This can result in pain, weakness and loss of movement at the shoulder.
+
+FB53.Y	Other specified shoulder lesions
+
+FB53.Z	Shoulder lesions, unspecified
+
+  FB54  	Enthesopathies of lower limb
+This is a group of disorders which refer to any abnormality of tendon and ligament insertion points of the leg. Abnormalities include inflammation and calcification.
+Exclusions:	Bursitis related to use, overuse or pressure (FB50.1)
+
+FB54.0	Iliac crest spur
+This is a disorder characterised by bony exostosis at iliac muscle origins.
+
+FB54.1	Iliotibial band syndrome
+This is the most common running injury of the lateral side of the knee. It is a non-traumatic overuse injury caused by repeated flexion and extension of the knee that causes irritation in the structures around the knee causing knee pain.
+
+FB54.2	Tibial collateral bursitis
+
+FB54.3	Calcaneal spur
+This is a disorder characterised by a bone outgrowth located on the calcaneus (heel bone).
+
+FB54.4	Metatarsalgia
+This is a condition characterised by pain and inflammation in the ball of your foot or at the metatarsal heads.
+Exclusions:	Morton metatarsalgia (8C11.6)
+Chronic primary musculoskeletal pain (MG30.02)
+Chronic secondary musculoskeletal pain (MG30.3)
+
+FB54.Y	Other specified enthesopathies of lower limb
+
+FB54.Z	Enthesopathies of lower limb, unspecified
+
+  FB55  	Certain specified enthesopathies
+Exclusions:	Bursitis related to use, overuse or pressure (FB50.1)
+spinal enthesopathy (FA92.00)
+Osteophyte (FA37.0)
+
+FB55.0	Medial epicondylitis of elbow
+This is a common upper extremity disorder which is characterised by degenerative changes in the musculotendonous region of the medial epicondyle, resulting from repetitive stress of flexion and extension movements of the wrist joint.
+
+FB55.1	Lateral epicondylitis of elbow
+This is a common upper extremity disorder which is characterised by degenerative changes in the musculotendonous region of the lateral epicondyle, resulting from repetitive stress of flexion and extension movements of the wrist joint
+Inclusions:	Tennis elbow
+
+FB55.2	Periarthritis of wrist
+This is disorder is characterised by inflammation of tissues around the joints of the wrist.
+
+FB55.Z	Enthesopathies, unspecified
+
+  FB56  	Specified soft tissue disorders, not elsewhere classified
+This is a group of other disorders, which are not classified elsewhere, affecting tissues that connect, support, or surround other structures and organs of the body, not being bone.
+Exclusions:	brachial radiculitis NOS (8B93)
+lumbosacral radiculitis NOS (8B93)
+Mononeuropathy (BlockL2‑8C1)
+radiculitis NOS (8B93)
+Sciatica (ME84.3)
+
+FB56.0	Foreign body granuloma of soft tissue, not elsewhere classified
+Exclusions:	Foreign body granuloma of skin (EH93.3)
+
+FB56.1	Residual foreign body in soft tissue
+Exclusions:	Foreign body granuloma of skin (EH93.3)
+Foreign body granuloma of soft tissue, not elsewhere classified (FB56.0)
+
+FB56.2	Myalgia
+This is a disorder characterised by pain in a muscle or group of muscles.
+Exclusions:	Chronic primary musculoskeletal pain (MG30.02)
+Chronic secondary musculoskeletal pain (MG30.3)
+
+FB56.3	Hypertrophy of infrapatellar fat pad
+This is a hypertrophy of an intracapsular but extrasynovial structure limited by the inferior pole of the patella superiorly, the joint capsule and patellar tendon anteriorly, the proximal tibia and deep infrapatellar bursa inferiorly, and the synovium-lined joint cavity posteriorly.
+
+FB56.4	Pain in limb
+Exclusions:	Chronic primary limb pain (MG30.02)
+Chronic primary musculoskeletal pain (MG30.02)
+Chronic secondary musculoskeletal pain (MG30.3)
+
+FB56.5	Algoneurodystrophy
+
+FB56.6	Other specified soft tissue disorders
+
+  FB6Z  	Soft tissue disorders, unspecified
+
+Osteopathies or chondropathies (BlockL1‑FB8)
+Coded Elsewhere:	Bone diseases with increased bone density (LD24.1)
+Bone diseases with disorganised development of skeletal components (LD24.2)
+Congenital vascular bone syndromes (LD26.6)
+Tuberculosis of bones or joints (1B12.40)
+Malignant otitis externa (AA02)
+  FB80  	Certain specified disorders of bone density or structure
+Exclusions:	Osteopoikilosis (LD24.11)
+Osteopetrosis (LD24.10)
+Coded Elsewhere:	Osteogenesis imperfecta (LD24.K0)
+
+FB80.0	Fibrous dysplasia of bone
+Fibrous dysplasia of bone is a congenital non-hereditary benign bone disease, where normal bone is replaced by a fibrous-like tissue with immature osteogenesis. Bone lesions are mono- or polyostotic and may be associated with bone pain and fragility, leading to fractures. In some patients or bone sites, they are hypertrophic, and responsible for neurological complications.
+
+FB80.1	Skeletal fluorosis
+
+FB80.2	Osteitis condensans
+
+FB80.3	Hyperostosis of skull
+
+FB80.4	Osteosclerosis
+
+FB80.5	Solitary bone cyst
+A solitary bone cyst is a benign non-epithelial bone cavity that is asymptomatic and that is found most commonly in the second decade of life by chance. The long bones are most often affected, but cases involving the jaw bone have been reported.
+Exclusions:	solitary cyst of jaw (DA05)
+
+FB80.6	Aneurysmal bone cyst
+Exclusions:	aneurysmal cyst of jaw (DA05)
+
+FB80.7	Malunion of fracture
+
+FB80.8	Nonunion of fracture
+Exclusions:	Pseudarthrosis after fusion or arthrodesis (FC01.0)
+
+FB80.9	Delayed union of fracture
+
+FB80.A	Stress fracture, not elsewhere classified
+Exclusions:	stress fracture of vertebra (FA72.3)
+
+FB80.B	Pathological fracture, not elsewhere classified
+Exclusions:	Collapsed vertebra, not elsewhere classified (FA72.4)
+
+FB80.Y	Other specified disorders of bone density and structure
+
+FB80.Z	Disorder of bone density and structure, unspecified
+
+  FB81  	Osteonecrosis
+Osteonecrosis is the medical term for death of bone tissue that occurs when the supply of blood to the bone is cut off for some reason. Doctors sometimes refer to the condition as avascular necrosis, aseptic necrosis or ischemic bone necrosis
+Coding Note:	Code aslo the causing condition
+Inclusions:	avascular necrosis of bone
+Coded Elsewhere:	Other secondary osteonecrosis (1B12.40)
+
+FB81.0	Idiopathic aseptic osteonecrosis
+
+FB81.1	Osteonecrosis due to dialysis
+
+FB81.2	Drug-induced osteonecrosis
+Alteration of the normal structure of orofacial tissues resulting from medicinal substances acting locally or systemically.
+Inclusions:	Osteonecrosis due to chemical burn of oral mucosa
+
+FB81.3	Osteonecrosis due to trauma
+
+FB81.4	Osteonecrosis due to haemoglobinopathy
+Coding Note:	Code aslo the causing condition
+
+FB81.5	Osteonecrosis due to ionizing radiation
+Necrosis of bone attributable to ionizing radiation, most commonly seen affecting the mandible following radical radiotherapy for the treatment of head and neck cancer or the chest wall following radiotherapy for breast cancer.
+Coded Elsewhere:	Osteoradionecrosis of jaw (DA06.0)
+
+FB81.Y	Other specified osteonecrosis
+Coding Note:	Code aslo the causing condition
+
+FB81.Z	Osteonecrosis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  FB82  	Chondropathies
+Exclusions:	postprocedural chondropathies (FC01)
+Coded Elsewhere:	Chondrodysplasia punctata (LD24.04)
+
+FB82.0	Chondromalacia
+
+FB82.00	Chondromalacia patellae
+A disease of the knee joint, caused by damaged to the cartilage under the patella. This disease is characterised by pain in the front of the knee that worsens when walking up or down stairs. This disease may be associated with injury or overuse.
+
+FB82.0Y	Other specified chondromalacia
+
+FB82.0Z	Chondromalacia, unspecified
+
+FB82.1	Osteochondrosis or osteochondritis dissecans
+Note: Osteochondroses are typically referred to by eponyms. The most common eponyms are indexed to osteochondrosis with specification identified by the site and time in life.
+Coded Elsewhere:	Medial condensing osteitis of clavicle (LB72.Y)
+Idiopathic aseptic osteonecrosis of carpal lunate (FB81.0)
+
+FB82.2	Slipped upper femoral epiphysis
+
+FB82.3	Relapsing polychondritis
+Relapsing polychondritis is a multisystem inflammatory disease of unknown etiology affecting the cartilage. The disease is characterised by intermittent or fluctuant inflammatory manifestations due to inflammation of the cartilaginous structures, resulting in tissue damage and tissue destruction. Chondritis of auricular, nasal, tracheal cartilage predominates in this disease, suggesting response to tissue-specific antigens such as collagen II and cartilage matrix protein (matrillin-1). In about one third of patients, RP is associated with vasculitis (from isolated cutaneous leucocytoclastic vasculitis to systemic polyangiitis) and autoimmune rheumatic diseases (autoimmune rheumatic diseases mainly rheumatoid arthritis and systemic lupus erythematosus). haematological malignant diseases, gastrointestinal disorders and endocrine diseases may also occur. Functional and anatomical evaluation for upper and lower airway disease is essential in evaluation and management of the disease.
+
+FB82.Y	Other specified chondropathies
+
+FB82.Z	Chondropathies, unspecified
+
+  FB83  	Low bone mass disorders
+Coded Elsewhere:	Genetic bone diseases with decreased bone density (LD24.K)
+
+FB83.0	Osteopenia
+Coding Note:	Code aslo the causing condition
+
+FB83.00	Premenopausal idiopathic osteopenia
+
+FB83.01	Postmenopausal osteopenia
+
+FB83.02	Senile osteopenia
+Coding Note:	Code aslo the causing condition
+
+FB83.03	Osteopenia of disuse
+
+FB83.04	Drug-induced osteopenia
+
+FB83.0Y	Other specified osteopenia
+Coding Note:	Code aslo the causing condition
+
+FB83.0Z	Osteopenia, unspecified
+Coding Note:	Code aslo the causing condition
+
+FB83.1	Osteoporosis
+Coded Elsewhere:	Postoophorectomy osteoporosis (FC01.9)
+Osteoporosis in multiple myelomatosis (2A83.1)
+
+FB83.10	Premenopausal idiopathic osteoporosis
+
+FB83.11	Postmenopausal osteoporosis
+Susceptibility to bone fracture secondary to a systemic decrease in bone mass and micro-architectural deterioration of bone tissue related to hormonal changes associated with menopause
+
+FB83.12	Osteoporosis of disuse
+
+FB83.13	Drug-induced osteoporosis
+
+FB83.14	Osteoporosis due to malabsorption
+Coded Elsewhere:	Osteoporosis in atypical cystic fibrosis (CA25.1)
+Osteoporosis in classical cystic fibrosis (CA25.0)
+
+FB83.1Y	Other specified osteoporosis
+
+FB83.1Z	Osteoporosis, unspecified
+
+FB83.2	Adult osteomalacia
+A disease characterised by defects in bone mineralization and bone softening secondary to vitamin D deficiency.
+Exclusions:	renal osteodystrophy (BlockL2‑GB6)
+osteomalacia: vitamin-D-resistant (5C64.3)
+infantile and juvenile osteomalacia (5B57.0)
+rickets (active) vitamin-D-resistant (5C64.3)
+Coded Elsewhere:	Puerperal osteomalacia (JB44.6)
+
+FB83.20	Aluminium bone disease
+Coding Note:	Code aslo the causing condition
+
+FB83.21	Adult osteomalacia due to malnutrition
+Coding Note:	Code aslo the causing condition
+
+FB83.22	Drug-induced adult osteomalacia
+
+FB83.2Y	Other specified adult osteomalacia
+
+FB83.2Z	Adult osteomalacia, unspecified
+
+  FB84  	Osteomyelitis or osteitis
+Exclusions:	osteomyelitis jaw (DA06.0)
+osteomyelitis vertebra (FA90)
+
+FB84.0	Acute haematogenous osteomyelitis
+
+FB84.1	Other acute osteomyelitis
+
+FB84.2	Subacute osteomyelitis
+
+FB84.3	Chronic multifocal osteomyelitis
+
+FB84.4	Chronic osteomyelitis with draining sinus
+
+FB84.5	Other chronic haematogenous osteomyelitis
+
+FB84.Y	Other specified osteomyelitis or osteitis
+
+FB84.Z	Osteomyelitis or osteitis, unspecified
+
+  FB85  	Paget disease of bone
+A disorder characterised by pathologically excessive resorption of bone by multinucleated osteoclasts and abnormal modelling of disorganised, woven bone by osteoblasts with resultant bone vascularization, weakness, enlargement and deformity.
+Inclusions:	Osteitis deformans
+
+FB85.0	Juvenile Paget disease
+
+FB85.1	Paget disease of bone in neoplastic disease
+Coding Note:	Code aslo the causing condition
+
+FB85.Y	Other specified Paget disease of bone
+
+FB85.Z	Paget disease of bone, unspecified
+
+  FB86  	Disorders associated with bone growth
+
+FB86.0	Epiphyseal arrest
+
+FB86.1	Bone hyperplasias
+Coded Elsewhere:	Ankylosing hyperostosis (FA72.0)
+
+FB86.10	Hypertrophic osteoarthropathy
+Hypertrophic osteoarthropathy (HOA) is a syndrome of clubbing of the digits, subperiosteal new bone formation (periostitis) affecting the long bones, and arthritis. The primary hereditary form is associated with mutations in the HPGD gene. The secondary form may be secondary to a number of systemic disorders, most commonly as a paraneoplastic phenomenon related to bronchial carcinoma.
+
+FB86.11	Hypertrophy of bone
+
+FB86.1Y	Other specified bone hyperplasias
+
+FB86.1Z	Bone hyperplasias, unspecified
+
+FB86.2	Osteolysis
+Coding Note:	Code aslo the causing condition
+
+FB86.Y	Other specified disorders associated with bone growth
+
+FB86.Z	Disorders associated with bone growth, unspecified
+
+  FB8Y  	Other specified osteopathies or chondropathies
+
+  FB8Z  	Osteopathies or chondropathies, unspecified
+
+  FC00  	Certain specified acquired deformities of musculoskeletal system or connective tissue, not elsewhere classified
+Coding Note:	Code aslo the causing condition
+Exclusions:	Dentofacial anomalies (DA0E)
+Spinal deformities (FA70)
+Structural developmental anomalies of the skeleton (BlockL2‑LB7)
+acquired deformities of limbs (BlockL2‑FA3)
+acquired absence of limbs (QF00)
+Postprocedural disorders of the musculoskeletal system (FC01)
+Acquired absence of organs (QF01)
+
+FC00.0	Acquired deformity of nose
+Coding Note:	Code aslo the causing condition
+Exclusions:	Deviated nasal septum (CA0D)
+
+FC00.1	Acquired deformity of neck
+Coding Note:	Code aslo the causing condition
+
+FC00.2	Acquired deformity of chest or rib
+Coding Note:	Code aslo the causing condition
+
+FC00.3	Acquired deformity of pelvis
+Coding Note:	Code aslo the causing condition
+Exclusions:	Maternal care for known or suspected disproportion (JA83)
+Obstructed labour due to maternal pelvic abnormality (JB05)
+Obstructed labour due to deformed pelvis (JB05.0)
+
+FC00.4	Acquired deformity of trunk
+
+FC00.Y	Acquired deformities of musculoskeletal system and connective tissue, not classified elsewhere, other specified sites
+Coding Note:	Code aslo the causing condition
+
+  FC01  	Postprocedural disorders of the musculoskeletal system
+Exclusions:	Osteoporosis (FB83.1)
+Presence of devices other than cardiac or vascular implants (QB51)
+Arthropathy following intestinal bypass (FA11.0)
+Coded Elsewhere:	Osteonecrosis due to ionizing radiation (FB81.5)
+Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+Wear of articular bearing surface of joint prosthesis (FA35)
+Post radiation lordosis (FA70.2)
+
+FC01.0	Pseudarthrosis after fusion or arthrodesis
+
+FC01.1	Postlaminectomy syndrome, not elsewhere classified
+
+FC01.2	Post radiation kyphosis
+
+FC01.3	Postlaminectomy kyphosis
+
+FC01.4	Postsurgical lordosis
+
+FC01.5	Post radiation scoliosis
+
+FC01.6	Fracture of bone following insertion of orthopaedic implant, joint prosthesis, or bone plate
+
+FC01.7	Nonunion after arthrodesis
+
+FC01.70	Nonunion after spinal arthrodesis
+Inclusions:	nonunion after spinal fusion
+
+FC01.7Y	Nonunion after arthrodesis of other sites
+
+FC01.8	Postsurgical osteolysis
+
+FC01.9	Postoophorectomy osteoporosis
+osteoporosis occurring after oophorectomy
+
+FC01.A	Postsurgical malabsorption osteoporosis
+
+  FC0Y  	Other specified diseases of the musculoskeletal system or connective tissue
+
+  FC0Z  	Diseases of the musculoskeletal system or connective tissue, unspecified
+

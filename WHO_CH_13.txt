@@ -1,0 +1,3204 @@
+CHAPTER 13
+Diseases of the digestive system
+This chapter has 155 four-character categories.
+Code range starts with DA00
+Exclusions:	Endocrine, nutritional or metabolic diseases (Chapter 05)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Neoplasms (Chapter 02)
+Certain infectious or parasitic diseases (Chapter 01)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Mental, behavioural or neurodevelopmental disorders (Chapter 06)
+Coded Elsewhere:	Digestive system disorders of fetus or newborn (KB80-KB8Z)
+Symptoms, signs or clinical findings of the digestive system or abdomen (MD80-ME4Y)
+Structural developmental anomalies of the digestive tract (LB10-LB1Z)
+Diseases of the digestive system complicating pregnancy, childbirth or the puerperium (JB64.6)
+This chapter contains the following top level blocks:
+•	Diseases or disorders of orofacial complex
+•	Diseases of oesophagus
+•	Diseases of the stomach or the duodenum
+•	Diseases of small intestine
+•	Diseases of appendix
+•	Diseases of large intestine
+•	Diseases of anal canal
+•	Diseases of liver
+•	Diseases of gallbladder or biliary tract
+•	Diseases of pancreas
+•	Diseases of peritoneum
+•	Diverticular disease of intestine
+•	Ischaemic vascular disorders of intestine
+•	Hernias
+•	Inflammatory bowel diseases
+•	Functional gastrointestinal disorders
+•	Postprocedural disorders of digestive system
+
+Diseases or disorders of orofacial complex (BlockL1‑DA0)
+Morbid process, derangement or abnormality localised in the mouth or related tissues of the face
+Coded Elsewhere:	Structural developmental anomalies of mouth or tongue (LA31)
+Symptoms or signs of the orofacial complex (MD80)
+Jaw pain (ME86.9)
+  DA00  	Disorders of lips
+A group of any derangement or condition effecting the normal structure and function of the lips resulting from developmental or traumatic factors or systemic disease.
+Coded Elsewhere:	Lichen planus of lips (EA91.Y)
+
+DA00.0	Cheilitis
+Cheilitis is the generic term given to inflammatory conditions of the lip.
+Coded Elsewhere:	Actinic cheilitis (EK90.Y)
+
+DA00.1	Self-induced lip trauma
+Self-inflicted damage to lips by biting, picking, chewing etc.
+Coded Elsewhere:	Artefactual cheilitis (ED00)
+
+DA00.2	Pigmentary abnormalities of lips
+This is an abnormality in the material that changes the colour of reflected or transmitted light as the result of wavelength-selective absorption, of the lips.
+
+DA00.3	Lip fissure
+
+DA00.Y	Other specified disorders of lips
+
+  DA01  	Disorders of oral mucosa
+Inflammation of the soft tissues of the mouth, such as mucosa; palate; gingiva; and / or lip, as well as any associated any pathological or traumatic discontinuity of tissue
+Exclusions:	Noma (DA0C.31)
+gangrenous stomatitis (1C1H)
+Cheilitis (DA00.0)
+cancrum oris (DA0C.31)
+Coded Elsewhere:	Lichen planus and lichenoid reactions of oral mucosa (EA91.4)
+Oral submucous fibrosis (DA02.2)
+Oral allergy syndrome (EK10.0)
+Contact gingivostomatitis (DA02.3)
+
+DA01.0	Disturbances of oral epithelium
+Coded Elsewhere:	Cheek-biting (6B25.Y)
+
+DA01.00	Leukoplakia
+Leukoplakia is a condition where areas of keratosis appear as adherent white patches on the mucous membranes of the oral cavity. Leukoplakia may affect other gastrointestinal tract mucosal sites, or mucosal surfaces of the urinary tract and genitals.
+Inclusions:	Leukoplakia of gingiva
+Exclusions:	Hairy leukoplakia (DA01.01)
+
+DA01.01	Hairy leukoplakia
+Oral hairy leukoplakia is a focal epithelial hyperplasia of the oral mucosa associated with Epstein-Barr virus. It is closely associated with HIV and occurs in both immunocompromised and immunocompetent HIV-infected individuals. It is also, however, found in uninfected people who are immunosuppressed, e.g. organ transplant recipients. It presents as white patches with a corrugated or hairy appearance affecting particularly the lateral borders of the tongue.
+
+DA01.02	Wandering rash of the mouth
+The counterpart of geographic tongue affecting other parts of the oral epithelium. It is less common than geographic tongue.
+
+DA01.0Y	Other specified disturbances of oral epithelium
+
+DA01.1	Noninfectious erosive or ulcerative disorders of oral mucosa
+A group of erosive and ulcerative disorders of oral mucosa without infection.
+Coded Elsewhere:	Oral pemphigus (EB40.00)
+Stevens-Johnson syndrome (EB13.0)
+Pyodermatitis–pyostomatitis vegetans (EL3Y)
+Lupus erythematosus of oral mucosa (4A40.Y)
+
+DA01.10	Oral aphthae or aphtha-like ulceration
+This is a frequent small, shallow, painful ulcerations in the oral mucosa. Recurrent oral ulceration that clinically resembles recurrent aphthous stomatitis but presents atypically, including commencement after adolescence, with fever, with a strong family history, or failing to resolve with age.
+Coded Elsewhere:	Oropharyngeal ulceration due to Behçet disease (4A62)
+
+DA01.11	Oral mucositis
+Ulcerative mucositis is the inflammation of the oral mucosa with inflammation, ulceration and frequently with bleeding.
+
+DA01.12	Chronic ulcerative stomatitis
+Chronic ulcerative stomatitis (CUS) is a rare disease which presents with chronic oral mucosal erosions and ulceration resembling erosive lichen planus but refractory to standard therapies. It typically occurs in older women. Diagnosis requires the demonstration of speckled granular perinuclear IgG deposits in the basal and parabasal layers of oral epithelium (stratified epithelium-specific antinuclear or SES-ANA pattern). There is increasing evidence that CUS is an autoimmune disease provoked by circulating IgG antibodies directed against delta-Np63, an isoform of the p53 family of nuclear transcription factors which is present around the nuclei of normal oral epithelial basal keratinocytes. CUS normally responds to treatment with hydroxychloroquine.
+
+DA01.13	Erythema multiforme with oral ulceration
+This is a skin condition of unknown cause, possibly mediated by deposition of immune complex (mostly IgM) in the superficial microvasculature of the skin and oral mucous membrane that usually follows an infection or drug exposure.
+
+DA01.14	Drug-induced oral ulcer
+Ulceration of the oral mucosa attributable to medication. Non-steroidal anti-inflammatory drugs (NSAIDs) and cytotoxic drugs such as methotrexate and n are well recognised causes but many others have been incriminated.
+
+DA01.15	Mouth ulcers
+Oral ulceration of other specified or unspecified type.
+Exclusions:	Mechanical oral ulceration (DA01.1)
+
+DA01.1Y	Other specified noninfectious erosive or ulcerative disorders of oral mucosa
+
+DA01.2	Granuloma or granuloma-like lesions of oral mucosa
+This is a specific type of chronic inflammatory response of the oral mucosa characterised by a localised accumulation of epithelioid macrophages, multi nucleate giant cells, and lymphocytes.
+Inclusions:	Denture granuloma
+Coded Elsewhere:	Sarcoidosis of oral cavity (4B20.Y)
+Crohn disease of lips or oral mucosa (DD70.0)
+
+DA01.20	Giant cell granuloma, central
+A benign condition of the jaws. It is twice as likely to affect women and is more likely to occur in individuals between the age of 20 and 40. Central giant cell granulomas are more common in the mandible and often cross the midline.
+Exclusions:	peripheral giant cell granuloma (DA0D)
+
+DA01.21	Orofacial granulomatosis
+Orofacial granulomatosis (OFG) is an uncommon clinicopathological entity characterised by persistent and/or recurrent lymphoedema and fissuring of the lips and oral mucosa (the latter resulting in a "cobblestone" appearance), oral ulceration and the presence on biopsy of non-caseating granulomas. OFG may be an early manifestation of Crohn disease, sometimes presenting months or years before bowel disease. Some cases are associated with dental infections, sarcoidosis, food allergy or contact allergy. Granulomatous cheilitis is a form of OFG confined to the lips. Rarely, OFG may be associated with fissured tongue and facial palsy (Melkersson-Rosenthal syndrome).
+Coded Elsewhere:	Granulomatous cheilitis (DA00.0)
+
+DA01.2Y	Other specified granuloma or granuloma-like lesions of oral mucosa
+
+DA01.3	Infections of lips or oral mucosa
+A group of conditions characterised by the invasion of lips and oral mucosa by harmful organisms (pathogens), such as bacteria, fungi, protozoa, rickettsiae, or viruses.
+Coded Elsewhere:	Enteroviral vesicular stomatitis (1F05.0)
+Enteroviral vesicular pharyngitis (1F05.1)
+Candidosis of lips or oral mucous membranes (1F23.0)
+Warts of lips or oral cavity (1E82)
+Angular cheilitis due to bacterial infection (DA00.0)
+
+DA01.30	Cellulitis or abscess of soft tissues of the mouth
+Infection of the soft tissues of the mouth resulting in cellulitis and/or abscess formation.
+Exclusions:	Peritonsillar abscess (CA0K.1)
+Abscess of salivary gland (DA04.3)
+Periapical abscess without sinus (DA09.62)
+Periapical abscess with sinus (DA09.61)
+Periapical abscess with facial involvement (DA09.60)
+Coded Elsewhere:	Abscess of periodontium (DA0C.4)
+
+DA01.3Y	Other specified infections of lips or oral mucosa
+
+DA01.4	Irritative hyperplasia of oral mucosa
+Exclusions:	irritative hyperplasia of edentulous ridge [denture hyperplasia] (DA0D.2)
+
+DA01.40	Papillary hyperplasia of oral mucosa
+This is an oral pathologic condition that appears in the mouth as an overgrowth of tissue usually beneath a denture and is associated with poor denture hygiene, denture overuse, and ill-fitting dentures.
+
+DA01.41	Denture hyperplasia
+
+DA01.42	Oral fibroepithelial polyp
+
+DA01.4Z	Irritative hyperplasia of oral mucosa, unspecified
+
+DA01.Y	Other specified disorders of oral mucosa
+
+  DA02  	Miscellaneous specified disorders of lips or oral mucosa
+Exclusions:	Diseases of tongue (DA03)
+Cysts of oral or facial-neck region (DA05)
+Certain specified disorders of gingival or edentulous alveolar ridge (DA0D)
+Coded Elsewhere:	Drug-induced oral conditions (EH74)
+
+DA02.0	Genetic or developmental disorders involving lips or oral mucosa
+A group of genetic and developmental disorders characterised by abnormal facial development that particularly involves the lips and oral mucosa.
+Coded Elsewhere:	Chronic mucocutaneous candidosis (1F23.14)
+Peutz-Jeghers syndrome (LD2D.0)
+Hereditary haemorrhagic telangiectasia (LA90.00)
+Pachyonychia congenita (LD27.Y)
+Cowden syndrome (LD2D.Y)
+Dyskeratosis congenita (3A70.0)
+Heterotopic sebaceous glands of lips (ED91.0)
+Heterotopic sebaceous glands of oral mucosa (ED91.0)
+
+DA02.1	Xerostomia
+Dry mouth. This may result from many causes including dehydration, salivary gland dysfunction, suppression of saliva production by drugs (e.g. anticholinergics) or habitual mouth-breathing.
+
+DA02.2	Oral submucous fibrosis
+
+DA02.3	Contact gingivostomatitis
+Inflammation of the gingivae and oral mucosa due to contact with irritants or allergens but without specification of which mechanism is involved.
+
+DA02.30	Allergic contact gingivostomatitis
+Allergic contact dermatitis affecting the gingivae and oral mucosa.
+
+DA02.31	Irritant contact gingivostomatitis
+Inflammation of gingivae and oral mucosa due to contact with irritants.
+
+  DA03  	Diseases of tongue
+Any pathological process effecting the structural tissues of the tongue with or without interference of its normal functions.
+Exclusions:	leukoplakia of tongue (DA01.00)
+erythroplakia of tongue (DA01.0)
+leukoedema of tongue (DA01.0)
+Hairy leukoplakia (DA01.01)
+submucous fibrosis of tongue (DA02.2)
+Ankyloglossia (LA31.2)
+Coded Elsewhere:	Sublingual varices (BD75.0)
+
+DA03.0	Glossitis
+Inflammation of the tongue
+Exclusions:	atrophic glossitis (DA03.2)
+
+DA03.1	Geographic tongue
+A condition characterised by migratory glossitis and loss of dorsal papillae with a map-like appearance that gives origin to the name.
+Inclusions:	Benign migratory glossitis
+Glossitis areata exfoliativa
+Erythema migrans of tongue
+
+DA03.2	Atrophy of tongue papillae
+Inclusions:	Atrophic glossitis
+Central Papillary atrophy of the tongue
+
+DA03.3	Median rhomboid glossitis
+
+DA03.4	Hypertrophy of tongue papillae
+Inclusions:	Hypertrophy of foliate papillae
+
+DA03.5	Macroglossia
+Macroglossia is the medical term for a large or enlarged tongue. It may be due to a variety of congenital and acquired conditions. Isolated macroglossia has no determinable cause. It is seen commonly in Down syndrome. The most common causes of tongue enlargement are vascular malformations (e.g. lymphangioma or haemangioma) and muscular hypertrophy. It may, however, be due to infiltration, as with primary systemic amyloidosis.
+Coded Elsewhere:	Congenital macroglossia (LA31.0)
+Macroglossia due to primary systemic amyloidosis (5D00.Y)
+
+DA03.Y	Other specified diseases of tongue
+
+  DA04  	Diseases of salivary glands
+A group of diseases with any pathological condition that affects the structural tissues of the salivary glands or the salivary ducts which may or not interfere with the normal production and transport of saliva into the oral cavity.
+Coded Elsewhere:	Aplasia of lacrimal or salivary glands (LA14.10)
+Uveoparotid fever (4B20.Y)
+
+DA04.0	Atrophy of salivary gland
+Salivary gland atrophy is a wasting or decrease in size of salivary gland, which is not sufficient to cause necrosis. It may occur in response to poor nutrition, lack of use (disuse or immobilization), reduction in blood supply, loss of nerve supply, chronic cell injury, or ageing etc. It is including Sjögren's syndrome, irradiation therapy and obstructive sialadenitis.
+
+DA04.1	Hypertrophy of salivary gland
+
+DA04.2	Sialoadenitis
+Sialoadenitis (or Sialadenitis) is an inflammation of the salivary gland. It is often associated with pain, tenderness, redness, and gradual localised swelling of the affected area.
+Exclusions:	epidemic parotitis (1D80.0)
+Uveoparotid fever (4B20)
+
+DA04.3	Abscess of salivary gland
+This is a collection of pus (neutrophils) that has accumulated within the salivary gland because of an inflammatory process in response to either an infectious process (usually caused by bacteria or parasites) or other foreign materials.
+
+DA04.4	Sialolithiasis
+Sialolithiasis is a condition where a calcified mass forms within a salivary gland, usually in the duct of the submandibular gland. The usual symptoms are pain and swelling of the affected salivary gland, both of which get worse when salivary flow is stimulated.
+Inclusions:	Calculus of salivary gland or duct
+Stone of salivary gland or duct
+
+DA04.5	Mucocele of salivary gland
+This is a clinical term used to describe a bluish, soft, often fluctuant swelling caused by either blockage or rupture of a salivary gland duct.
+
+DA04.6	Disturbances of salivary secretion
+A group of conditions characterised by an increase or decrease in saliva secretion.
+Exclusions:	Dry mouth (DA02.1)
+Coded Elsewhere:	Xerostomia due to disturbance of salivary secretion (DA02.1)
+
+DA04.7	Sialophagia
+Excessive swallowing of saliva
+
+DA04.8	Sialoschesis
+Suppression of the secretion of saliva.
+
+DA04.Y	Other specified diseases of salivary glands
+
+DA04.Z	Diseases of salivary glands, unspecified
+
+  DA05  	Cysts of oral or facial-neck region
+This is a closed sac, having a distinct membrane and division compared to the nearby tissue, which may contain air, fluids, or semi-solid material on the oral and/or face and neck region.
+Exclusions:	Radicular cyst (DA09.8)
+Coded Elsewhere:	Epstein pearl (KC23)
+
+DA05.0	Developmental odontogenic cysts
+One derived from epithelium, usually containing fluid or semisolid material, which develops during various stages of odontogenesis.
+
+DA05.1	Developmental nonodontogenic cysts of oral region
+This is defined as an odontogenic cyst of Inflammatory origin that is preceded by a chronic periapical granuloma and stimulation of cell rests of malassez present in the periodontal membrane.
+
+DA05.Y	Other specified cysts of oral or facial-neck region
+
+DA05.Z	Cysts of oral or facial-neck region, unspecified
+
+  DA06  	Certain specified diseases of jaws
+A group of diseases which are associated with the jaws and which are not classified elsewhere.
+
+DA06.0	Inflammatory conditions of jaws
+Exclusions:	Cervicofacial actinomycosis (1C10.2)
+
+DA06.1	Alveolitis of jaw
+Inflammation of the alveoulus
+Inclusions:	Alveolar osteitis
+Dry socket
+
+DA06.2	Exostosis of jaw
+Formation of bone mass on the vestibular, buccal or facial side of the maxilla or the mandibular jaw where it may affect the lingual aspect; exostoses are more frequent in the maxillary bone.
+
+DA06.3	Stafne mandibular bone cavity
+Although commonly called a Stafne cyst, this entity is not a true cyst but rather a cavity due to a focal cortical defect of the medial aspect of the mandible. It is found most frequently in middle-aged men and is usually discovered radiologically as an incidental finding. Its importance is that it may be difficult to distinguish from other radiolucent lesions in the mandible such as myeloma or metastatic squamous carcinoma. The cavity is usually filled by part of the submandibular salivary gland or adjacent fat and it is thought to result from remodelling of the bone by adjacent salivary tissue. Stafne cysts are most frequently seen in middle-aged men. The estimated prevalence ranges around 0.10-0.48% 2. Pathology Stafne cysts are thought to result from remodelling of the bone by adjacent salivary tissue, and have been noted to regress following resection of the gland nearby. They generally appear in the area between the mandibular first molar and the mandibular angle 6.
+
+  DA07  	Disorders of tooth development or eruption
+Alteration of the normal formation process of the tooth, the normal chronology of eruption into the mouth or the proper alignment in the dental arch affecting a single or multiple teeth.
+Inclusions:	disorder of tooth development
+Coded Elsewhere:	Anodontia (LA30.0)
+Hypodontia (LA30.1)
+Oligodontia (LA30.2)
+Hyperdontia (LA30.3)
+Abnormalities of size or form of teeth (LA30.4)
+Amelogenesis imperfecta (LA30.6)
+Dentine dysplasia (LA30.7)
+Dentinogenesis imperfecta (LA30.8)
+Odontogenesis imperfecta (LA30.9)
+Solitary median maxillary central incisor syndrome (LA30.Y)
+Hereditary disturbances in tooth structure (LA30.Y)
+Papillon-Lefèvre syndrome (EC20.30)
+
+DA07.0	Fluoride related opacities or lesions
+This is a fluoride related abnormality in the tissue of an organism (in layman's terms, "damage"), usually caused by disease or trauma.
+
+DA07.1	Nonfluoride enamel opacities
+This is a condition characterised by enamel opacities, white spots, or visibly lighter areas on a tooth’s surface, not attributed to fluorine, which occur in low-fluoride areas.
+
+DA07.3	Disturbances in tooth formation
+A group of conditions characterised by disturbances in tooth formation.
+Inclusions:	Dental dysplasia
+Exclusions:	Hutchinson teeth and mulberry molars in congenital syphilis (1A60)
+mottled teeth (DA07.0)
+
+DA07.4	Root anomaly
+Common presence of fused roots showed by X-ray film that short or long root, supernumerary root, or fused roots. These root anomalies are commonly seen in permanent molars, especially in third molars which are the most anomaly in one fused root, 2 or 3 fused roots, even 4 fused roots, round apical root or dilacerations.
+
+DA07.5	Cementum dysplasia
+
+DA07.6	Disturbances in tooth eruption
+
+DA07.60	Teething syndrome
+Gum and jaw discomfort when an infant’s teeth emerges. Teething typically starts between 4 and 7 months of age and lasts until about the age of 3 years. Most common symptoms include irritability, crying, lack of appetite, red and swollen gums, drooling, and inability to sleep.
+
+DA07.61	Ankylosis of teeth
+Tooth ankylosis is the solid fixation of a tooth, resulting from fusion of the cementum and alveolar bone, with obliteration of the periodontal ligament. It is uncommon in deciduous dentition, and very rare in permanent teeth.
+Inclusions:	Absence of exfoliation of teeth
+
+DA07.6Y	Other specified disturbances in tooth eruption
+
+DA07.6Z	Disturbances in tooth eruption, unspecified
+
+DA07.7	Embedded teeth
+an unerupted tooth, usually completely covered with bone
+Exclusions:	embedded teeth with abnormal position of such teeth or adjacent teeth (DA0E.3)
+
+DA07.8	Impacted teeth
+An impacted tooth is a tooth that is all the way or partially below the gum line and is not able to erupt properly. Wisdom teeth (third molars) are the most commonly impacted teeth
+Inclusions:	dental impaction
+impacted tooth
+Exclusions:	impacted teeth with abnormal position of such teeth or adjacent teeth (DA0E.3)
+
+DA07.Y	Other specified disorders of tooth development or eruption
+
+DA07.Z	Disorders of tooth development or eruption, unspecified
+
+  DA08  	Diseases of hard tissues of teeth
+This is a group of conditions affecting the integrity of tooth enamel, dentine or cementum.
+
+DA08.0	Dental caries
+A condition characterised by localised destruction of calcified tissue, initiated on the tooth surface by decalcification of the enamel, followed by the enzymatic lysis of organic structures, resulting in cavity formation.
+Inclusions:	Dental decay
+
+DA08.1	Certain specified diseases of hard tissues of teeth
+Exclusions:	Dental caries (DA08.0)
+bruxism (DA0E.7)
+teeth-grinding NOS (DA0E.7)
+Coded Elsewhere:	Ankylosis of teeth (DA07.61)
+
+DA08.10	Excessive attrition of teeth
+The pathological wearing away of tooth substance as a result of tooth-to-tooth contact.
+
+DA08.11	Abrasion of teeth
+Abrasion is abnormal tooth surface loss resulting from direct friction forces between the teeth and external objects or from frictional forces between contacting teeth components in the presence of an abrasive medium.
+
+DA08.12	Erosion of teeth
+Tooth erosion is a gradual and irreversible loss of the normally hard surface of the tooth due to chemical, not bacterial, processes.
+
+DA08.13	Abfraction
+Theoretical concept of loss of tooth structure not caused by dental caries
+Inclusions:	non-carious cervical lesion
+
+DA08.14	Pathological resorption of teeth
+Tooth resorption, external, resorption of calcified dental tissue, beginning on the external surface, usually at the apex or the lateral surface of the root, as a result of tissue reaction in the periodontal or pericoronal tissue, increasing in severity with age.
+
+DA08.15	Posteruptive colour changes of dental hard tissues
+This is a condition characterised by colour changes of the dental hard tissues after tooth eruption.
+Exclusions:	Deposits on teeth (DA08.4)
+
+DA08.2	Chronic dental injuries
+A group of conditions characterised by persistent or long-lasting damage caused by an external force applied to the tooth resulting from intentional or unintentional means.
+
+DA08.3	Nontraumatic fracture of tooth
+Discontinuity of tooth structure in vertical or horizontal direction of the long axis of a tooth and which may affect enamel and/or dentine. This condition is referred as incomplete fracture and may be related to flexural loads acting on the teeth. In some cases the dental pulp may become affected.
+Inclusions:	Incomplete fracture not involving vital pulp
+Complete nontraumatic fracture not involving vital pulp
+Exclusions:	traumatic fracture of tooth (NA02.6)
+
+DA08.4	Deposits on teeth
+In dentistry, calculus or tartar is a form of hardened dental plaque.
+
+DA08.Y	Other specified diseases of hard tissues of teeth
+
+DA08.Z	Diseases of hard tissues of teeth, unspecified
+
+  DA09  	Diseases of pulp or periapical tissues
+Dental pulp is that part of the tooth located in the centre of the coronal portion underneath dentin and composed of connective tissue, blood vessels and nerve endings.
+Periapical tissues are designated as those located at the tip of the tooth root surrounding the apical foramen.
+
+DA09.0	Pulpitis
+Inflammation of pulpal tissue resulting from irritating factors of diverse nature such as bacterial, hyperaemic, chemical or thermal that act directly or indirectly on the dental pulp.
+
+DA09.1	Necrosis of pulp
+Necrosis of the dental pulp which clinically does not respond to thermal stimulation; the tooth may be asymptomatic or sensitive to percussion and palpation.
+
+DA09.2	Pulp abscess
+This is an acute or chronic inflammation of dental pulp, associated with a circumscribed collection of necrotic tissue and pus arising from breakdown of leukocytes and bacteria, sometimes walled off with connective tissue.
+Inclusions:	Pulpal abscess
+
+DA09.3	Phoenix abscess
+This is an acute condition that results immediately after endodontic therapy or in tooth with necrotic pulp
+
+DA09.4	Pulp degeneration
+
+DA09.5	Abnormal hard tissue formation in pulp
+This is a condition affecting the tooth characterised by secondary or irregular dentine in the pulp.
+
+DA09.6	Periapical abscess
+
+DA09.60	Periapical abscess with facial involvement
+Purulent periapical lesion resulting from necrosis of dental pulpal tissues and that has penetrated facial soft and bone tissues.
+
+DA09.61	Periapical abscess with sinus
+Inclusions:	Dental abscess with sinus
+Dentoalveolar abscess with sinus
+Dental sinus
+
+DA09.62	Periapical abscess without sinus
+
+DA09.6Y	Other specified periapical abscess
+
+DA09.6Z	Periapical abscess, unspecified
+
+DA09.7	Periapical periodontitis
+
+DA09.70	Acute apical periodontitis of pulpal origin
+Acute, apical periodontitis is a result of inflammation of the periapical tissues following pulpal necrosis.
+
+DA09.71	Chronic apical periodontitis
+A periapical inflammation characterised by dental granuloma formation.
+
+DA09.7Y	Other specified periapical periodontitis
+
+DA09.7Z	Periapical periodontitis, unspecified
+
+DA09.8	Radicular cyst
+The radicular cyst is defined as an area of chronic inflammation exhibiting a closed central cavity surrounded by an epithelial lining.
+Exclusions:	lateral periodontal cyst (DA05.0)
+
+DA09.Y	Other specified diseases of pulp or periapical tissues
+
+DA09.Z	Diseases of pulp or periapical tissues, unspecified
+
+  DA0A  	Certain specified disorders of teeth or supporting structures
+Coded Elsewhere:	Dislocation of tooth (NA03.2)
+
+DA0A.0	Exfoliation of teeth due to systemic causes
+Premature loss of teeth associated with systemic disease usually results from some change in the immune system or connective tissue.
+
+DA0A.1	Loss of teeth due to accident, extraction or local periodontal disease
+
+DA0A.2	Atrophy of edentulous alveolar ridge
+
+DA0A.3	Retained dental root
+Complete or fragment of root structure that remains in the jaw usually as result of fracture during the corresponding tooth extraction procedure.
+
+DA0A.Y	Other specified disorders of teeth and supporting structures
+
+DA0A.Z	Unspecified disorders of teeth and supporting structures
+
+  DA0B  	Gingival diseases
+Gingivitis is inflammation of the tissues of the gingiva (gum ) without loss of connective tissue.
+Coded Elsewhere:	Periodontal pocket (DA0C.Y)
+
+DA0B.0	Allergic gingivitis
+
+DA0B.1	Catarrhal gingivitis
+
+DA0B.2	Eruptive gingivitis
+
+DA0B.3	Atrophic senile gingivitis
+
+DA0B.4	Acute multiple gingival abscesses
+
+DA0B.5	Developmental or acquired deformities or conditions of gingiva
+This is a major developmental difference in the shape of a body part or organ compared to the average shape of that part.
+
+DA0B.6	Pericoronitis
+A gum condition in which irritation and inflammation are produced by the crown of an incompletely erupted tooth.
+
+DA0B.Y	Other specified gingival diseases
+
+DA0B.Z	Gingival diseases, unspecified
+
+  DA0C  	Periodontal disease
+Periodontal disease can refer to any pathological process involving the gum (GINGIVA), the alveolar bone (alveolar process), the dental cementum, and / or the periodontal ligament
+
+DA0C.0	Acute periodontitis
+This is an acute disease affecting the tooth-supporting structures, i.e. gingiva, alveolar bone and periodontal membrane.
+Exclusions:	Periapical abscess without sinus (DA09.62)
+Acute apical periodontitis of pulpal origin (DA09.70)
+Periapical abscess with sinus (DA09.61)
+Periapical abscess with facial involvement (DA09.60)
+
+DA0C.1	Aggressive periodontitis
+A type of periodontal disease and includes localised aggressive periodontitis (LAP), and Generalised aggressive periodontitis (GAP).
+Inclusions:	Juvenile periodontitis
+
+DA0C.2	Periodontosis
+Periodontosis defined as a disease of the periodontium occurring in an otherwise healthy adolescent and characterised by a rapid loss of the alveolar bone around more than one tooth of the permanent dentition.
+
+DA0C.3	Necrotising periodontal diseases
+An infection characterised by necrosis of periodontal tissues
+Coded Elsewhere:	Necrotising ulcerative gingivitis (1C1H)
+
+DA0C.30	Necrotising ulcerative periodontitis
+Inclusions:	Necrotising ulcerative gingivo-periodontitis
+
+DA0C.31	Noma
+This is a devastating infectious disease which destroys the soft and hard tissues of the oral and para-oral structures.
+Inclusions:	Cancrum oris
+Gangrenous stomatitis
+Stomatonecrosis
+
+DA0C.3Y	Other specified necrotising periodontal diseases
+
+DA0C.3Z	Necrotising periodontal diseases, unspecified
+
+DA0C.4	Abscess of periodontium
+localised purulent infection of periodontal tissues; common clinical feature in patients with moderate or advanced periodontitis.
+Inclusions:	Periodontal abscess
+
+DA0C.5	Linear gingival erythema
+
+DA0C.Y	Other specified periodontal disease
+
+DA0C.Z	Periodontal disease, unspecified
+
+  DA0D  	Certain specified disorders of gingival or edentulous alveolar ridge
+A group of diseases which are associated with gingival and alveolar ridge, which are not classified elsewhere.
+Exclusions:	Chronic gingivitis (DA0B)
+Atrophy of edentulous alveolar ridge (DA0A.2)
+gingivitis NOS (DA0B)
+Acute gingivitis (DA0B)
+
+DA0D.0	Gingival recession
+
+DA0D.1	Gingival enlargement
+An abnormal overgrowth of gingival tissues.
+
+DA0D.2	Gingival or edentulous alveolar ridge lesions associated with trauma
+Damage of gingival or mucosal lesions resulting from external stimuli. Common causes of traumatic ulcers include: denture irritation, biting, injuries, burns and friction irritation from sharp or fractured teeth.
+
+DA0D.3	Hypoplasminogenaemia
+Severe hypoplasminogenaemia or type 1 plasminogen (plg) deficiency is a systemic disease characterised by markedly impaired extracellular fibrinolysis leading to the formation of ligneous (fibrin-rich) pseudomembranes on mucosae during wound healing.
+
+DA0D.4	Cotton-roll gingivitis
+
+DA0D.5	Gingival ulceration
+
+DA0D.Y	Other specified disorders of gingival or edentulous alveolar ridge
+
+  DA0E  	Dentofacial anomalies
+A congenital or acquired abnormality in which the dental and oral structures deviate from normal form, function, or position.
+Exclusions:	hemifacial atrophy or hypertrophy (LA52)
+Robin's syndrome (LA56)
+acromegaly (5A60.0)
+
+DA0E.0	Major anomalies of jaw size
+
+DA0E.00	Micrognathia
+Apparently reduced length and width of the mandible when viewed from the front but not from the side. This is a bundled term comprising shortening and narrowing of the mandible and chin.
+Exclusions:	Pierre Robin syndrome (LA56)
+
+DA0E.0Y	Other specified major anomalies of jaw size
+
+DA0E.0Z	Major anomalies of jaw size, unspecified
+
+DA0E.1	Anomalies of jaw-cranial base relationship
+This is a congenital or acquired abnormality in which the portion of the skull that holds the upper jaw deviates from the normal form, function, or position.
+
+DA0E.2	Anomalies of dental arch relationship
+This is a congenital or acquired abnormality in which dental arch relationship deviate from normal form, function, or position.
+Coded Elsewhere:	Crossbite (DA0E.5Y)
+
+DA0E.3	Anomalies of tooth position
+Dental anomalies are craniofacial abnormalities of form, function, or position of the teeth, bones, and tissues of the jaw and mouth. Anomalies of tooth position can be classified in ectopic, transmigration, transposition, rotation.
+
+DA0E.4	Food impaction
+The forcible wedging of food between adjacent teeth during mastication, producing gingival recession and pocket formation.
+
+DA0E.5	Malocclusion
+Malocclusion is the atypical relationship between maxillary and mandibular teeth which may interfere with the efficiency of excursive movements of the mandible that are essential for the effective mastication process.
+
+DA0E.50	Class II division 2 malocclusion
+This condition relates to Angle’s classification of occlusion in which the first permanent maxillary molar position is aligned or in an anterior relationship to that of the mandibular firs permanent molar, such that the mesiobuccal cusp of the maxillary molar is mesial to the buccal grove of the mandibular molar and the central incisors are in linguoversion.
+
+DA0E.51	Angle class I malocclusion
+The maxillary first permanent molar is in slight distoversion in relation to the mandibular first permanent molar, and the mesiobuccal cusp of the maxillary molar is aligned with the buccal groove of the mandibular molar.
+
+DA0E.5Y	Other specified malocclusion
+
+DA0E.5Z	Malocclusion, unspecified
+
+DA0E.6	Dentofacial functional abnormalities
+Temporomandibular joint disorder (TMJ) is the name given to a group of symptoms that cause pain in the head, face, and jaw. The symptoms include headaches, soreness in the chewing muscles, and clicking or stiffness of the joints. They often have psychological as well as physical causes.
+Exclusions:	teeth-grinding NOS (DA0E.7)
+bruxism (DA0E.7)
+teeth clenching (DA0E.7)
+
+DA0E.7	Dentofacial parafunctional disorders
+Bruxism is a repetitive jaw-muscle activity characterised by clenching or grinding of the teeth and/or by bracing or thrusting of the mandible. Bruxism has two distinct circadian manifestations: it can occur during sleep (indicated as sleep bruxism) or during wakefulness (indicated as awake bruxism)
+Exclusions:	Atypical facial pain (8B82.1)
+dyskinesia (MB47.4)
+trismus (DA0E.8)
+
+DA0E.8	Temporomandibular joint disorders
+This is an umbrella term covering acute or chronic pain, especially in the muscles of mastication and/or inflammation of the temporomandibular joint, which connects the mandible to the skull.
+Inclusions:	Temporomandibular joint-pain-dysfunction syndrome
+Exclusions:	current temporomandibular joint: strain (NA03.3)
+current temporomandibular joint: dislocation (NA03.0)
+
+DA0E.Y	Other specified dentofacial anomalies
+
+DA0E.Z	Dentofacial anomalies, unspecified
+
+  DA0F  	Sensory disturbances affecting orofacial complex
+Coded Elsewhere:	Trigeminal neuralgia (8B82.0)
+Dysgeusia (MB41.2)
+
+DA0F.0	Burning mouth syndrome
+Chronic burning mouth pain is chronic orofacial pain with an intraoral burning or dysaesthetic sensation that recurs for more than two hours per day on 50 % of the days over more than three months, without evident causative lesions on clinical investigation and examination. It is characterised by significant emotional distress (anxiety, anger/frustration or depressed mood) or interference with orofacial functions such as eating, yawning, speaking etc. Chronic burning mouth pain is multifactorial: biological, psychological and social factors contribute to the pain condition. The diagnosis is appropriate independently of identified biological or psychological contributors unless another diagnosis would better account for the presenting symptoms.
+Inclusions:	Orodynia
+
+DA0F.Y	Other specified sensory disturbances affecting orofacial complex
+
+DA0F.Z	Sensory disturbances affecting orofacial complex, unspecified
+
+  DA0Y  	Other specified diseases or disorders of orofacial complex
+
+  DA0Z  	Diseases or disorders of orofacial complex, unspecified
+
+Diseases of oesophagus (BlockL1‑DA2)
+Coded Elsewhere:	Neoplasms of the oesophagus
+Structural developmental anomalies of oesophagus (LB12)
+Foreign body in oesophagus (ND73.1)
+  DA20  	Acquired anatomical alterations of the oesophagus
+This group incorporates oesophageal disorders principally due to acquired morphological changes of the oesophagus.
+Exclusions:	Structural developmental anomalies of oesophagus (LB12)
+
+DA20.0	Oesophageal obstruction
+Hindrance of the passage of luminal contents in the oesophagus. Obstruction of oesophagus can be partial or complete, and caused by intrinsic or extrinsic factors.
+Exclusions:	Congenital stenosis or stricture of oesophagus (LB12.3)
+Anatomical alteration due to gastro-oesophageal reflux disease (DA22)
+Neoplasms of the oesophagus ()
+Foreign body in oesophagus (ND73.1)
+
+DA20.1	Diverticulum of oesophagus, acquired
+Diverticulum of oesophagus is a disorder having out-pouchings from the oesophageal wall.
+Inclusions:	Oesophageal pouch, acquired
+Rokitansky diverticulum
+Exclusions:	Congenital diverticulum of oesophagus (LB12.4)
+
+DA20.2	Oesophageal web
+Oesophageal web is a thin membrane located in the middle or upper oesophagus, resulting in pain and dysphagia.
+Exclusions:	Congenital oesophageal web or ring (LB12.0)
+Coded Elsewhere:	Plummer-Vinson syndrome (3A00.Y)
+
+DA20.3	Perforation of oesophagus
+Perforation of oesophagus is a penetration or hole of the wall of the oesophagus, resulting in luminal contents in oesophagus flowing into the mediastinum and/or thoracic cavity.
+Exclusions:	Oesophageal ulcer (DA25)
+Coded Elsewhere:	Oesophagitis due to external causes (DA24.2)
+Foreign body in oesophagus (ND73.1)
+Injury of oesophagus (NB32.8)
+
+DA20.30	Spontaneous rupture of oesophagus
+Spontaneous perforation of the oesophageal wall. This most commonly results from a sudden increase in intraoesophageal pressure combined with relatively negative intrathoracic pressure caused by straining or vomiting. This is known as effort rupture of the oesophagus or Boerhaave's syndrome.
+Inclusions:	Rupture of oesophagus
+Exclusions:	traumatic perforation of (thoracic) oesophagus (NB32)
+Mallory-Weiss syndrome (DA26.3)
+Perforation due to malignant neoplasm ()
+
+DA20.3Y	Other specified perforation of oesophagus
+
+DA20.3Z	Perforation of oesophagus, unspecified
+
+DA20.Y	Other specified acquired anatomical alterations of the oesophagus
+
+DA20.Z	Acquired anatomical alterations of the oesophagus, unspecified
+
+  DA21  	Motility disorders of oesophagus
+This group incorporates oesophageal disorders due to disturbances of oesophageal motor function.
+Coding Note:	Code aslo the causing condition
+
+DA21.0	Achalasia
+Achalasia is an oesophageal smooth muscle motility disorder characterised by a loss of peristalsis in the distal oesophagus and a failure of lower oesophageal sphincter (LES) relaxation. Basic mechanism is the degeneration of neurons (ganglion cells) in the myenteric plexuses in the oesophageal wall, but the cause is still unclear.
+Inclusions:	Cardiospasm
+Exclusions:	congenital cardiospasm (LB12)
+Coded Elsewhere:	Achalasia in Chagas disease (1F53.3)
+
+DA21.1	Motility disorder of cervical or upper oesophagus
+Motility disorder of cervical and upper oesophagus is a condition characterised by choke, swallow air, regurgitate fluid into the nose, or experience discomfort in swallowing food due to incompetence of upper oesophageal sphincter.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Dyskinesia of cervical and upper oesophagus
+
+DA21.2	Disorder of oesophageal peristalsis
+Disorder of oesophageal peristalsis is part of a spectrum of motility disorders in the thoracic oesophagus characterised by dysphagia and chest pain due to incoordination of oesophageal peristaltic contractions. There is no abnormality in lower oesophageal sphincter relaxation.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Achalasia (DA21.0)
+Gastro-oesophageal reflux disease (DA22)
+
+DA21.20	Hypertensive peristalsis
+This is a motility disorders of oesophagus characterised by hypertensive peristalsis. This motility abnormality includes nutcracker oesophagus that has been reported in association with dysphagia, non-cardiac chest pain, and heartburn.
+
+DA21.21	Hypotensive peristalsis
+This is a motility disorders of oesophagus characterised by hypotensive peristalsis. The peristaltic dysfunction likely leads to impaired volume clearance.
+
+DA21.22	Spastic peristalsis
+This is a motility disorders of oesophagus characterised by hypercontractile spastic peristalsis, known as ‘‘jackhammer oesophagus’’ in the presence of normal lower oesophageal sphincter (LES) relaxation. This category also includes diffuse oesophageal spasm (DES) with uncoordinated contraction characterised by reduced distal latency on oesophageal manometry.
+Inclusions:	Diffuse oesophageal spasm
+Spasm of oesophagus
+
+DA21.2Y	Other specified disorder of oesophageal peristalsis
+Coding Note:	Code aslo the causing condition
+
+DA21.2Z	Disorder of oesophageal peristalsis, unspecified
+Coding Note:	Code aslo the causing condition
+
+DA21.3	Disorder of lower oesophageal sphincter function
+Disorder of lower oesophageal sphincter function is a condition characterised by dysphagia, chest pain, heartburn and regurgitation due to incompetence of lower oesophageal sphincter.
+Coding Note:	Code aslo the causing condition
+
+DA21.Y	Other specified motility disorders of oesophagus
+Coding Note:	Code aslo the causing condition
+
+DA21.Z	Motility disorders of oesophagus, unspecified
+Coding Note:	Code aslo the causing condition
+
+  DA22  	Gastro-oesophageal reflux disease
+A condition which develops when the reflux of stomach contents causes troublesome symptoms and/or complications
+Coded Elsewhere:	Gastro-oesophageal reflux disease in newborn (KB80)
+
+DA22.0	Non-erosive gastro-oesophageal reflux disease
+A disease condition in that patients have classic symptoms of gastro-oesophageal reflux disease (GERD), but do not have apparent esophagitis or oesophageal mucosal injury.
+Exclusions:	Functional heartburn (DD90.2)
+
+DA22.1	Erosive gastro-oesophageal reflux disease
+Erosive gastro-oesophageal reflux disease is defined endoscopically by visible breaks of the distal oesophageal mucosa.
+Inclusions:	Reflux oesophagitis
+Peptic oesophagitis
+
+DA22.Z	Gastro-oesophageal reflux disease, unspecified
+
+  DA23  	Columnar metaplastic epithelium of the oesophagus
+An acquired condition in which the tissue lining the oesophagus is replaced by tissue that is similar to the lining of the intestine or the stomach following chronic gastro-oesophageal reflux.
+Coded Elsewhere:	Barrett adenocarcinoma (2B70.00)
+
+DA23.0	Barrett epithelium
+Barrett epithelium is defined as those having circumferential columnar metaplasia of oesophagus from the esophago-gastric junction. Recently, from the view of adeno-carcinogenesis of the oesophagus, the term of Barrett epithelium require the histological confirmation of specialized intestinal metaplasia.
+
+DA23.1	Dysplasia of Barrett epithelium
+Dysplasia of Barrett epithelium is defined as neoplastic epithelium that remains confined within the basement membrane of Barrett oesophagus. Dysplasia of Barrett epithelium is considered as a precursor of adenocarcinoma arising in Barrett Oesophagus.
+
+DA23.2	Barrett ulcer
+Barrett ulcer is defined as ulceration in columnar epithelium of oesophagus.
+
+DA23.Y	Other specified columnar metaplastic epithelium of the oesophagus
+
+DA23.Z	Columnar metaplastic epithelium of the oesophagus, unspecified
+
+  DA24  	Oesophagitis
+Oesophagitis is inflammation of the oesophagus. If left untreated, this condition can cause ulcers or scarring of the oesophagus. Oesophagitis usually occurs by acid reflux, but here BD Gastro-oesophageal reflux diseases are excluded.
+Exclusions:	reflux oesophagitis (DA22.1)
+Oesophageal erosion (DA25.0)
+Gastro-oesophageal reflux disease (DA22)
+Crohn disease (DD70)
+Coded Elsewhere:	Oesophagitis in newborn (KB81)
+
+DA24.0	Infectious oesophagitis
+Infectious oesophagitis is inflammation, irritation and swelling of the oesophagus due to the infectious agent.
+Coding Note:	Code aslo the causing condition
+
+DA24.00	Oesophageal phlegmon
+A spreading diffuse inflammatory process with formation of suppurative/purulent exudate or pus in the oesophageal wall. It often develops to a defined pocket of pus, oesophageal abscess. This is mainly due to the result of acute inflammation by bacterial infection.
+Inclusions:	Abscess of oesophagus
+
+DA24.0Y	Other specified infectious oesophagitis
+Coding Note:	Code aslo the causing condition
+
+DA24.0Z	Infectious oesophagitis, unspecified
+Coding Note:	Code aslo the causing condition
+
+DA24.1	Eosinophilic oesophagitis
+Eosinophilic oesophagitis is an inflammatory condition in which the wall of the oesophagus becomes filled with a large number of eosinophils. It is diagnosed based on typical oesophageal symptoms and oesophageal mucosal biopsies demonstrating oesophageal epithelial infiltration with eosinophils.
+Inclusions:	Allergic oesophagitis
+Exclusions:	Neonatal eosinophilic oesophagitis (KB81.0)
+Coded Elsewhere:	Food-induced eosinophilic oesophagitis (4A83.1)
+
+DA24.2	Oesophagitis due to external causes
+Inflammation of the oesophagus due to external cause such as radiation, ingestion of the alkali and acid, and swallowed pills or food failing to traverse entire oesophagus.
+Coded Elsewhere:	Thermal injury of oesophagus (NE02)
+
+DA24.20	Chemical oesophagitis
+This is oesophageal inflammation caused by chemical injury including alkaline or acid solutions.
+
+DA24.21	Drug-induced oesophagitis
+This refers to a drug-induced inflammation of the oesophagus. Medications can induce oesophageal abnormalities via both systemic effects and by causing direct oesophageal mucosal injury, so-called ‘pill-induced’ oesophagitis.
+
+DA24.22	Radiation oesophagitis
+
+DA24.2Z	Oesophagitis due to external causes, unspecified
+
+DA24.Y	Other specified oesophagitis
+
+DA24.Z	Oesophagitis, unspecified
+
+  DA25  	Oesophageal ulcer
+Oesophageal ulcer is tissue defect located in the oesophagus. It causes inflammatory injuries in the oesophageal mucosa, with extension beyond the submucosa into the muscularis mucosa. The oesophageal ulcer due to acidic digestive juices is classified elsewhere in gastro-oesophageal reflux disease, and excluded from here.
+Exclusions:	Barrett ulcer (DA23.2)
+Neoplasms of the oesophagus ()
+Crohn disease (DD70)
+
+DA25.0	Oesophageal erosion
+Oesophageal erosion represents a mucosal breach extending up to, but not through, the muscularis mucosa. Oesophageal erosion due to gastro-oesophageal reflux disease is excluded from here.
+
+DA25.1	Infectious oesophageal ulcer
+Infectious oesophageal ulcer is ulceration or erosion in the mucosa of oesophagus due to the infectious agent, such as bacteria, viruses, fungi and parasites.
+
+DA25.10	Bacterial oesophageal ulcer
+Ulcer in the mucosa of oesophagus due to bacterial infection.
+
+DA25.11	Fungal oesophageal ulcer
+Ulcer in the mucosa of oesophagus due to fungal infection.
+
+DA25.12	Parasitic oesophageal ulcer
+Ulcer in the mucosa of oesophagus due to parasitic infection.
+
+DA25.13	Viral oesophageal ulcer
+Ulcer in the mucosa of oesophagus due to viral infection.
+
+DA25.1Y	Other specified infectious oesophageal ulcer
+
+DA25.1Z	Infectious oesophageal ulcer, unspecified
+
+DA25.2	Oesophageal ulcer due to allergic or immunologic disorder
+Oesophageal ulcer or erosion due to allergic disorders or systemic immunologic disorders.
+Coding Note:	Code aslo the causing condition
+
+DA25.3	Oesophageal ulcer due to external causes
+Oesophageal ulcer or erosion due to external causes such as ingestion of certain chemical substances or drugs, radiation and thermal injury, or other external causes.
+Coded Elsewhere:	Thermal oesophageal ulcer (NE02)
+
+DA25.30	Chemical oesophageal ulcer
+This is oesophageal ulcer caused by chemical injury including alkaline or acid solutions.
+Inclusions:	Ulcer of oesophagus due to ingestion of chemicals
+
+DA25.31	Drug-induced oesophageal ulcer
+Inclusions:	Ulcer of oesophagus due to ingestion of drugs and medicaments
+
+DA25.32	Radiation oesophageal ulcer
+
+DA25.3Y	Oesophageal ulcer due to other specified external causes
+
+DA25.3Z	Oesophageal ulcer due to external causes, unspecified
+
+DA25.Y	Other specified oesophageal ulcer
+
+DA25.Z	Oesophageal ulcer, unspecified
+
+  DA26  	Vascular disorders of the oesophagus
+This group incorporates vascular disorders principally affecting the blood vessels of the oesophagus. They include vascular disorders of arteries, veins and capillaries that carry blood to and from the oesophagus.
+
+DA26.0	Oesophageal varices
+Abnormally dilated veins developed as portosystemic shunts in the lining of the lower oesophagus in patients with portal hypertension. Once oesophageal varices develop, they continue to grow, and bleeding from oesophageal varices can be fatal.
+Coding Note:	Code aslo the causing condition
+
+DA26.00	Oesophageal varices with bleeding
+Coding Note:	Code aslo the causing condition
+
+DA26.01	Oesophageal varices without bleeding
+Coding Note:	Code aslo the causing condition
+
+DA26.0Z	Oesophageal varices, unspecified
+Coding Note:	Code aslo the causing condition
+
+DA26.1	Angiodysplasia or arteriovenous malformation of oesophagus
+Enlarged or widened blood vessels with thin walls that are similar to varicose veins. It can be a source of gastrointestinal bleeding and anaemia.
+
+DA26.2	Intramural haemorrhage of oesophagus
+Hematoma in the oesophageal wall that can be formed spontaneously or as a result of trauma, toxic ingestion, or endoscopic procedures. It is rarely observed.
+Inclusions:	Intramural haematoma of oesophagus
+Exclusions:	Oesophageal varices (DA26.0)
+
+DA26.3	Gastro-oesophageal laceration-haemorrhage syndrome
+Bleeding from tears in the mucosa at the junction of the stomach and oesophagus, usually caused by severe vomiting, retching or coughing.
+Inclusions:	Mallory-Weiss syndrome
+Mallory-Weiss tear
+Mallory-Weiss lesion
+
+DA26.Y	Other specified vascular disorders of the oesophagus
+
+DA26.Z	Vascular disorders of the oesophagus, unspecified
+
+  DA2Y  	Other specified diseases of oesophagus
+
+  DA2Z  	Diseases of oesophagus, unspecified
+
+Diseases of the stomach or the duodenum (BlockL1‑DA4)
+Diseases of stomach (BlockL2‑DA4)
+This is a group of conditions characterised as being in or associated with the stomach.
+Exclusions:	Gastrostomy malfunction (DE12.1)
+Diaphragmatic hernia (DD50.0)
+Coded Elsewhere:	Neoplasms of the stomach
+Structural developmental anomalies of stomach (LB13)
+Gastric ulcer (DA60)
+Peptic ulcer, site unspecified (DA61)
+Anastomotic ulcer (DA62)
+Foreign body in stomach (ND73.2)
+  DA40  	Acquired anatomical alterations of the stomach
+This group incorporates gastric disorders principally due to acquired morphological changes of the stomach.
+Exclusions:	Structural developmental anomalies of stomach (LB13)
+Diaphragmatic hernia (DD50.0)
+
+DA40.0	Gastric outlet obstruction
+Gastric outlet obstruction is a disorder characterised by epigastric abdominal pain and postprandial vomiting due to mechanical obstruction mostly at the level of the pylorus.
+
+DA40.1	Gastric fistula, acquired
+Acquired gastric fistula is an opening through the gastric wall and into the peritoneal cavity, into another organ and vessels that normally do not connect, or through the abdominal wall.
+
+DA40.2	Gastric volvulus
+Gastric volvulus is an uncommon clinical entity defined as an abnormal rotation (twisting) of all or part of the stomach by more than 180 degrees, creating a closed-loop obstruction of the flow of material through the stomach. It can result in incarceration and strangulation, with variable loss of blood supply. 
+Although rare in childhood, a wandering spleen may also be associated with gastric volvulus, because they share a common etiology: congenital absence of intraperitoneal visceral attachments.
+
+DA40.3	Gastric diverticulum
+Gastric diverticulum is a disorder having out-pouchings from the gastric wall.
+Exclusions:	Congenital diverticulum of stomach (LB13)
+
+DA40.4	Hourglass stricture and stenosis of stomach
+This is a structural change of stomach in which one more or less completely divided into two parts, resembling an hourglass in shape, due to often scarring which complicates chronic gastric ulcer.
+
+DA40.5	Gastroptosis
+This is the abnormal downward displacement of the stomach.
+
+DA40.Y	Other specified acquired anatomical alterations of the stomach
+
+DA40.Z	Acquired anatomical alterations of the stomach, unspecified
+
+  DA41  	Gastroduodenal motor or secretory disorders
+This group incorporates disorders due to abnormalities of gastroduodenal motor function and gastroduodenal secretory function, often resulting the disturbance of transportation and/or digestion of foods.
+Coded Elsewhere:	Dumping syndrome (DE11)
+
+DA41.0	Abnormal gastric motility
+
+DA41.00	Gastroparesis
+Gastroparesis is a disorder in which the stomach takes too long to empty its contents principally due to malfunction of vagus nerve.
+
+DA41.0Y	Other specified abnormal gastric motility
+
+DA41.0Z	Abnormal gastric motility, unspecified
+
+DA41.1	Acute dilatation of stomach
+Acute dilatation of stomach is a disorder due to acute enlargement of the gastric cavity by over-distention, resulting in the retention of food and the products of digestion in the stomach.
+Inclusions:	Acute distension of stomach
+
+DA41.2	Acid hypersecretion
+Acid hypersecretion is a condition due to basal hypersecretion of gastric acid in the stomach, resulting in peptic ulcer and steatorrhoea.
+Exclusions:	Zollinger-Ellison syndrome (5A43.1)
+
+DA41.3	Achlorhydria
+Achlorhydria is a condition due to the absent of gastric acid in the stomach, resulting in indigestion and malabsorption.
+
+DA41.Y	Other specified gastroduodenal motor or secretory disorders
+
+DA41.Z	Gastroduodenal motor or secretory disorders, unspecified
+
+  DA42  	Gastritis
+Gastritis is an injury of gastric mucosa involves epithelial damage, mucosal inflammation, and epithelial cell regeneration except any epithelial defect. Gastritis is caused by various factors such as infectious agents, drugs, chemical agents, autoimmune reaction and the others. Gastritis is diagnosed by histopathologically and/or endoscopically. Gastritis is classified as acute and chronic phase by clinical course.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Gastroduodenitis
+
+DA42.0	Autoimmune gastritis
+A type of chronic atrophic gastritis restricted to gastric body mucosa, and characterised by a severe atrophy of the acid secreting glands and achlorhydria. This is usually associated with serum antiparietal cell antibody, with or without pernicious anaemia.
+Coding Note:	Code aslo the causing condition
+
+DA42.1	Helicobacter pylori induced gastritis
+Gastritis with Helicobacter pylori infection. H. pylori infection cause acute gastritis at first. Lasting the infection the gastric mucosa turn into chronic gastritis and atrophic gastritis, one of the risk factors of gastric adenocarcinoma(CJBAA).
+
+DA42.2	Eosinophilic gastritis
+Coded Elsewhere:	Food-induced eosinophilic gastroenteritis (4A83.0)
+
+DA42.3	Lymphocytic gastritis
+Chronic gastritis characterised by a peculiar infiltration of benign lymphocytes into the glands and surface mucosa. Lymphocytic gastritis is associated with celiac disease, Helicobacter pylori (HP) gastritis, and varioliform gastritis.
+
+DA42.4	Allergic gastritis
+Gastritis due to allergic disorders, principally meaning acute gastritis that occurs secondary to food allergy. But this also includes allergic gastritis due to non-food substances and allergic gastritis due to non-IgE-mediated hypersensitivity. This includes gastroduodenitis and gastroenteritis.
+Exclusions:	Allergic eosinophilic gastritis (DA42.2)
+Food-induced eosinophilic gastroenteritis (4A83.0)
+
+DA42.40	Allergic gastritis due to IgE-mediated hypersensitivity
+
+DA42.41	Allergic gastritis due to non-IgE-mediated hypersensitivity
+
+DA42.4Y	Other specified allergic gastritis
+
+DA42.4Z	Allergic gastritis, unspecified
+
+DA42.5	Gastritis due to duodenogastric reflux
+Gastritis due to an excessive reflux of duodenal contents including bile into the stomach.
+
+DA42.6	Menetrier disease
+Gastritis characterised by gastric mucosal hypertrophy, which may cause the giant rugal folds. The thickening of the rugae is predominantly caused by the expansion of the epithelial cell compartment of the gastric mucosa. Patients with Ménétrier disease most often present with hypoalbuminemia secondary to a loss of albumin into the gastric lumen.
+
+DA42.7	Gastritis of unknown aetiology with specific endoscopic or pathological features
+
+DA42.70	Acute superficial gastritis of unknown aetiology
+
+DA42.71	Chronic superficial gastritis of unknown aetiology
+Persistent or recurrent inflammation of the lamina propria, limited to the outer third of the mucosa in the foveolar area.
+
+DA42.72	Acute haemorrhagic gastritis of unknown aetiology
+Rapid onset inflammation of the mucosal lining of the stomach with associated bleeding or abnormal blood flow.
+Exclusions:	Gastric erosion (DA60.0)
+
+DA42.73	Chronic atrophic gastritis of unknown aetiology
+Persistent or recurrent inflammation of the gastric mucosa with atrophy leading to decreased hydrochloric acid concentration in the gastric juice. Atrophic gastritis frequently progresses from chronic gastritis.
+Inclusions:	Gastric atrophy
+
+DA42.74	Metaplastic gastritis of unknown aetiology
+Gastritis with intestinal metaplastic lesion, endoscopically visualized as an ash-coloured nodular change.
+Inclusions:	Intestinal metaplasia
+
+DA42.75	Granulomatous gastritis of unknown aetiology
+A rare disease characterised by the presence of granulomas within the 
+gastric mucosa or submucosa. Common causes of GG are Crohn’s disease (CD), disseminated sarcoidosis and infections (tuberculosis [TB], syphilis, fungal).
+
+DA42.76	Hypertrophic gastritis of unknown aetiology
+Gastritis with rugal hypertrophy of greater curvature in corpus, in which hypertrophy of glands is observed.
+Exclusions:	Menetrier disease (DA42.6)
+
+DA42.7Y	Other specified gastritis of unknown aetiology with specific endoscopic or pathological features
+
+DA42.8	Gastritis due to external causes
+Gastritis caused by external substances, such as alcohol, radiation, chemical agent and by other external causes.
+
+DA42.80	Alcoholic gastritis
+Inflammation of the gastric mucosa due to excessive alcohol use.
+
+DA42.81	Radiation gastritis
+
+DA42.82	Chemical gastritis
+
+DA42.83	Drug-induced gastritis
+Acute or chronic gastritis induced by taking some known gastric mucosal damaged agents such as NSAIDs, aspirin and antibiotics.
+
+DA42.8Z	Gastritis due to external causes, unspecified
+
+DA42.9	Gastric phlegmon
+A spreading diffuse inflammatory process with formation of suppurative/purulent exudate or pus in the gastric wall. It often develops to a defined pocket of pus, gastric abscess. This is mainly due to the result of acute inflammation by bacterial infection.
+Inclusions:	Gastric abscess
+Phlegmonous gastritis
+
+DA42.Y	Other specified gastritis
+Coding Note:	Code aslo the causing condition
+
+DA42.Z	Gastritis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  DA43  	Vascular disorders of the stomach
+This group incorporates vascular disorders principally affecting the blood vessels of the stomach. They include vascular disorders of arteries, veins and capillaries that carry blood to and from the stomach
+
+DA43.0	Gastric varices
+Abnormally dilated veins developed as portosystemic shunts in the lining of stomach (fundus and/or cardia) in patients with portal hypertension. Once gastric varices develop, they continue to grow, and bleeding from gastric varices can be fatal.
+
+DA43.1	Angiodysplasia of stomach
+Small vascular malformation of the stomach. Most lesions are less than 10mm in size and often observed in multiple sites. It can be a source of gastrointestinal bleeding and anaemia.
+Coded Elsewhere:	Hereditary haemorrhagic telangiectasia (LA90.00)
+
+DA43.2	Arteriovenous malformation of stomach
+Arteriovenous malformation is a vascular lesion in which arteries and veins are tangled and not connected by capillaries.
+
+DA43.3	Portal hypertensive gastropathy
+Changes in the mucosa of the stomach in patients with portal hypertension; by far the most common cause of this is cirrhosis of the liver.
+
+DA43.4	Diffuse vascular ectasia of stomach
+Tortuous dilated blood vessels in the pyloric antrum radiating outward from the pylorus (so-called watermelon stomach). It may cause both acute and chronic gastrointestinal haemorrhage.
+
+DA43.Y	Other specified vascular disorders of the stomach
+
+DA43.Z	Vascular disorders of the stomach, unspecified
+
+  DA44  	Gastric polyp
+Protruding lesion on the gastric epithelium caused by local over growth of gastric epithelial cells, classified to pedunculated and sessile type.
+Inclusions:	Non-neoplastic gastric polyp
+Exclusions:	Adenomatous gastric polyp (2E92.1)
+Adenoma of stomach (2E92.1)
+
+DA44.0	Hyperplastic polyp of stomach
+Due to over growth of gastric foveolar epithelial cells. The histological background of hyperplastic polyp is atrophic gastritis, mostly caused by long term H. pylori infection.
+
+DA44.1	Fundic gland polyp of stomach
+Due to hyperplasia of fundic gland cells. Fundic polyp rises on fundic gland area without atrophic gastritis. Most cases show H. pylori negative.
+
+DA44.2	Hamartomatous polyp of stomach
+Formed of dilated oxyntic glands and irregularly deformed oxyntic glands histologically. Most of them are located in the gastric body or the fundus.
+
+DA44.Y	Other specified gastric polyp
+
+DA44.Z	Gastric polyp, unspecified
+
+  DA4Y  	Other specified diseases of stomach
+
+Diseases of duodenum (BlockL2‑DA5)
+This is a group of conditions characterised as being in or associated with the duodenum, the first portion of the small intestine.
+Coded Elsewhere:	Neoplasms of the duodenum
+Structural developmental anomalies of duodenum (LB14)
+Duodenal ulcer (DA63)
+  DA50  	Acquired anatomical alterations of the duodenum
+This group incorporates duodenal disorders principally due to acquired morphological changes of the duodenum.
+
+DA50.0	Obstruction of duodenum
+Hindrance of the passage of luminal contents in the duodenum. Obstruction of duodenum can be partial or complete, and caused by intrinsic or extrinsic factors. Simple obstruction is associated with diminished or stopped flow of luminal contents. Strangulating obstruction is associated with impaired blood flow to the duodenum in addition to obstructed flow of luminal contents.
+Exclusions:	congenital stenosis of duodenum (LB14)
+
+DA50.1	Diverticulum of duodenum
+Diverticulum of duodenum is a disorder having out-pouchings from the duodenal wall.
+Exclusions:	Congenital diverticulum of duodenum (LB14)
+
+DA50.2	Fistula of duodenum
+Fistula of duodenum is an opening through the duodenal wall and into the peritoneal cavity, into another organ and vessels that normally do not connect, or through the abdominal wall.
+
+DA50.3	Deformity of duodenum, acquired
+Changes of duodenum in response to the influence by duodenal disease, compression of other organs around the duodenum.
+
+DA50.Y	Other specified acquired anatomical alterations of the duodenum
+
+DA50.Z	Acquired anatomical alterations of the duodenum, unspecified
+
+  DA51  	Duodenitis
+Duodenitis is an injury of duodenal mucosa involves epithelial damage and mucosal inflammation except any epithelial defect. Duodenitis is caused by various factors such as high acid secretion, infectious agents, drugs, chemical agents and the others. Gastric metaplasia (GM) is considered adaptive responses to hyperacidity. Helicobacter pylori can colonized on GM epithelium, and induce duodenitis. Duodenitis is diagnosed by histopathologically and/or endoscopically. Duodenitis is classified as acute and chronic phase by clinical course.
+Inclusions:	Inflammation of duodenum
+Exclusions:	Crohn disease (DD70)
+
+DA51.0	Helicobacter-pylori associated duodenitis
+Duodenitis with Helicobacter pylori infection. H. pylori can colonized on Gastric metaplasia epithelium at bulb, and induce duodenitis.
+
+DA51.1	Eosinophilic duodenitis
+A disease characterised by eosinophilic infiltration of various layers of duodenum in the absence of any known cause of eosinophilia.
+
+DA51.2	Lymphocytic duodenitis
+Chronic duodenitis characterised by a dense infiltration of benign lymphocytes into the epithelium and lamina propria. Lymphocytic duodenitis may present early gluten-induced damage.
+
+DA51.3	Allergic duodenitis
+Duodenitis due to allergic disorders.
+
+DA51.4	Duodenitis of unknown aetiology with specific endoscopic or pathologic features
+Duodenitis of unknown etiology showing specific endoscopic or pathological findings, including acute haemorrhagic duodenitis and Granulomatous duodenitis.
+
+DA51.40	Acute haemorrhagic duodenitis of unknown aetiology
+
+DA51.41	Granulomatous duodenitis of unknown aetiology
+A rare disease characterised by the presence of granulomas within the duodenal mucosa or submucosa. Common causes are Crohn’s disease (CD), disseminated sarcoidosis and infections (tuberculosis [TB], syphilis, fungal). But we classify here as disease of other or unknown etiology.
+
+DA51.4Z	Duodenitis of unknown aetiology with specific endoscopic or pathologic features, unspecified
+
+DA51.5	Duodenitis due to external causes
+Duodenitis caused by external substances, such as alcohol, radiation, chemical agent and by other external causes.
+
+DA51.50	Alcoholic duodenitis
+Inclusions:	Inflammation of the duodenal mucosa due to alcohol use
+
+DA51.51	Drug-induced duodenitis
+Acute or chronic duodenitis induced by taking some known duodenal mucosal damaged agents such as NSAIDs and aspirin.
+
+DA51.52	Chemical duodenitis
+Inclusions:	Toxic duodenitis
+
+DA51.53	Radiation duodenitis
+
+DA51.5Y	Duodenitis due to other specified external causes
+
+DA51.5Z	Duodenitis due to external causes, unspecified
+
+DA51.6	Infectious duodenitis
+
+DA51.60	Duodenal phlegmon
+A spreading diffuse inflammatory process with formation of suppurative/purulent exudate or pus in the duodenal wall. It often develops to a defined pocket of pus, duodenal abscess. This is mainly due to the result of acute inflammation by bacterial infection.
+
+DA51.6Y	Other specified infectious duodenitis
+
+DA51.6Z	Infectious duodenitis, unspecified
+
+DA51.Y	Other specified duodenitis
+
+DA51.Z	Duodenitis, unspecified
+
+  DA52  	Vascular disorders of the duodenum
+This group incorporates vascular disorders principally affecting the blood vessels of the duodenum. They include vascular disorders of arteries, veins and capillaries that carry blood to and from the stomach.
+
+DA52.0	Duodenal varices
+Abnormally dilated veins developed as portosystemic shunts in the lining of duodenum in patients with portal hypertension. Once duodenal varices develop, they continue to grow, and bleeding from duodenal varices can be fatal.
+
+DA52.1	Angiodysplasia of duodenum
+Ectasia of duodenal submucosal veins and overlying mucosal capillaries. Most lesions are less than 10mm in size, and multiple lesions are frequent. On endoscopy, flat or slightly elevated, reddish, roundish or starry lesions are observed.
+
+DA52.2	Arteriovenous malformation of duodenum
+Arteriovenous malformation is a vascular lesion in which arteries and veins are tangled and not connected by capillaries. Dilated weak-walled blood vessels in the duodenum usually close to the inside surface. They appear as very red areas, and tend to bleed easily with minimal trauma.
+
+DA52.Y	Other specified vascular disorders of the duodenum
+
+DA52.Z	Vascular disorders of the duodenum, unspecified
+
+  DA53  	Duodenal polyp
+Protruding lesion on the duodenal epithelium caused by local over growth of duodenal epithelial cells.
+Exclusions:	Gastric heterotopia of duodenum (LB14)
+adenoma or adenomatous polyp of the duodenum (2E92.2)
+
+DA53.0	Hyperplastic duodenal polyp
+Due to over growth of gastric foveolar type epithelial cells in duodenum.
+
+DA53.Y	Other specified duodenal polyp
+
+DA53.Z	Duodenal polyp, unspecified
+
+  DA5Y  	Other specified diseases of duodenum
+
+Ulcer of stomach or duodenum (BlockL2‑DA6)
+  DA60  	Gastric ulcer
+Gastric ulcer is defined as a distinct breach in the mucosa of the stomach as a result of caustic effects of acid and pepsin in the lumen. Histologically, gastric ulcer is identified as necrosis of the mucosa extending through the muscularis mucosae into the submucosa. In the endoscopic or radiological view, there is an appreciable depth of the lesion. When the break of epithelial lining is confined to the mucosa without penetrating through the muscularis mucosae, the superficial lesion is called ‘erosion’.
+Inclusions:	Mucosal defect of the stomach
+Peptic ulcer of stomach
+Exclusions:	acute haemorrhagic erosive gastritis (DA42.72)
+Malignant neoplasms of stomach (2B72)
+
+DA60.0	Gastric erosion
+Gastric erosion represents a mucosal breach extending up to, but not through, the muscularis mucosa. Gastric erosion may constitute a phase of ulcer development or accompany some forms of gastric ulcer.
+
+DA60.1	Helicobacter pylori associated gastric ulcer
+Helicobacter pylori (H. pylori) is a gram-negative bacillus that is found in the mucous layer overlying gastric epithelium, within epithelial cells and attached to mucous cells, leading to inflammation. It accounts for the majority of gastric ulcer. H. pylori that involves the acid-producing mucosa of the stomach can lead to hypochlorhydria or achlorhydria, and subsequent gastric ulceration.
+Exclusions:	Helicobacter pylori associated and drug-induced gastric ulcer (DA60.2)
+
+DA60.2	Helicobacter pylori associated and drug-induced gastric ulcer
+
+DA60.3	Stress ulcer of stomach
+Stress ulcers of stomach are acute mucosal lesions occurring in critically ill patients that may result in acute upper gastrointestinal bleeding. They are usually superficial erosions but can develop into ulcers. Stress ulcer of stomach may develop anywhere within the stomach but are more likely to occur in fundic mucosa, which lines the body and fundus of the stomach.
+
+DA60.4	Eosinophilic gastric ulcer
+Gastric ulcer caused by eosinophilic gastritis.
+
+DA60.5	Lymphocytic gastric ulcer
+Gastric ulcer caused by lymphocytic gastritis.
+
+DA60.6	Gastric ulcer due to external causes
+Gastric ulcer caused by external substances, such as alcohol, radiation, chemical agent and by other external causes.
+
+DA60.60	Alcohol-induced gastric ulcer
+
+DA60.61	Chemical gastric ulcer
+
+DA60.62	Drug-induced gastric ulcer
+Medications such as NSAIDs can cause gastric ulcer. Other drugs that may increase the risk of ulceration include potassium chloride, concomitant use of steroids with NSAIDs, bisphosphonates, and mycophenolate mofetil.
+Inclusions:	Toxic gastric ulcer
+Exclusions:	Helicobacter pylori associated and drug-induced gastric ulcer (DA60.2)
+
+DA60.63	Radiation gastric ulcer
+
+DA60.6Y	Other specified gastric ulcer due to external causes
+
+DA60.6Z	Gastric ulcer due to external causes, unspecified
+
+DA60.7	Infectious secondary gastric ulcer
+Gastric ulcer due to infectious diseases other than Helicobacter pylori, such as bacteria such as mycobacterium, virus, fungus and parasites.
+Coding Note:	Code aslo the causing condition
+
+DA60.Y	Other specified gastric ulcer
+
+DA60.Z	Gastric ulcer, unspecified
+
+  DA61  	Peptic ulcer, site unspecified
+Peptic ulcer is defined as a distinct breach in the mucosa of the gastrointestinal tract as a result of caustic effects of acid and pepsin in the lumen. A peptic ulcer may develop in any part of the gastrointestinal tract exposed to acid and pepsin. The most common locations are the stomach and duodenal bulb, but peptic ulcer may also develop in the oesophagus in gastro-oesophageal reflux diseases, and in the distal ileum as a result of a Meckel’s diverticulum lined with heterotopic gastric mucosa.
+
+  DA62  	Anastomotic ulcer
+Anastomotic ulcer develops following gastric resection or other procedures, such as gastroenterostomy, that involve the anastomosis of the stomach to some other portion of the gastrointestinal tract. In such cases an ulcer develops near the stoma; it is almost invariably in the efferent limb of the intestine, not in the stomach.
+Exclusions:	Primary ulcer of small intestine (DA94.0)
+
+DA62.0	Anastomotic erosion
+Anastomotic erosion represents a mucosal breach extending up to, but not through, the muscularis mucosa. Anastomotic erosion may constitute a phase of ulcer development or accompany some forms of anastomotic ulcer.
+
+DA62.1	Helicobacter pylori associated anastomotic ulcer
+Helicobacter pylori associated anastomotic ulcer is an ulcer at the anastomosis that is associated with Helicobacter pylori infection. Helicobacter pylori infection is considered as one of the risk factors for anastomotic ulcer.
+
+DA62.2	Drug-induced anastomotic ulcer
+Drug-induced anastomotic ulcer is an ulcer at the anastomosis that is caused by drug ingestion. NSAID is considered as one of the risk factors for anastomotic ulcer.
+
+DA62.3	Peptic anastomotic ulcer
+Anastomotic ulcer, peptic is an ulcer resulting from the effects of gastric acid on the susceptible intestinal mucosa.
+
+DA62.Y	Other specified anastomotic ulcer
+
+DA62.Z	Anastomotic ulcer, unspecified
+
+  DA63  	Duodenal ulcer
+Duodenal ulcer is defined as a distinct breach in the mucosa of the duodenum as a result of caustic effects of acid and pepsin in the lumen. Histologically, duodenal ulcer is identified as necrosis of the mucosa extending through the muscularis mucosae into the submucosa. In the endoscopic or radiological view, there is an appreciable depth of the lesion. When the break of epithelial lining is confined to the mucosa without penetrating through the muscularis mucosae, the superficial lesion is called ‘erosion’.
+Exclusions:	Anastomotic ulcer (DA62)
+
+DA63.0	Duodenal erosion
+Duodenal erosion represents a mucosal breach extending up to, but not through, the muscularis mucosa. Duodenal erosion may constitute a phase of ulcer development or accompany some forms of duodenal ulcer.
+
+DA63.1	Helicobacter-pylori associated duodenal ulcer
+Helicobacter pylori (H. pylori) is a gram-negative bacillus that is found in the mucous layer overlying gastric epithelium, within epithelial cells and attached to mucous cells, leading to inflammation. In the case of duodenal ulcers, H. pylori is believed to infect the gastric antrum or ectopic gastric mucosa in the duodenum. This is associated with increased acid production and duodenal ulceration.
+
+DA63.2	Helicobacter-pylori associated and drug-induced duodenal ulcer
+
+DA63.3	Stress ulcer of duodenum
+Stress ulcers of duodenum are acute mucosal lesions occurring in critically ill patients that may result in acute upper gastrointestinal bleeding. They are usually superficial erosions but can develop into ulcers.
+
+DA63.4	Eosinophilic duodenal ulcer
+Duodenal ulcer caused by eosinophilic duodenitis
+
+DA63.5	Duodenal ulcer due to external causes
+Duodenal ulcer caused by external substances, such as alcohol, radiation, chemical agent and by other external causes.
+
+DA63.50	Drug-induced duodenal ulcer
+Medications such as NSAIDs can cause duodenal ulcer. Other drugs that may increase the risk of ulceration include potassium chloride, concomitant use of steroids with NSAIDs, bisphosphonates, and mycophenolate mofetil.
+Inclusions:	Toxic duodenal ulcer
+
+DA63.51	Radiation duodenal ulcer
+
+DA63.52	Chemical duodenal ulcer
+
+DA63.5Y	Duodenal ulcer due to other specified external causes
+
+DA63.5Z	Duodenal ulcer due to external causes, unspecified
+
+DA63.6	Infectious duodenal ulcer
+Coded Elsewhere:	Parasitic duodenal ulcer (1F61)
+
+DA63.60	Bacterial duodenal ulcer
+Duodenal ulcer caused by infection with bacteria. This includes mycobacterium, Treponema pallidum (syphilis bacterium) and other bacterial infections in the duodenum.
+Exclusions:	Helicobacter-pylori associated duodenal ulcer (DA63.1)
+
+DA63.61	Viral duodenal ulcer
+Duodenal ulcer caused by infection with virus. Infectious diseases such as cytomegalovirus and herpes simplex virus are often associated with duodenal ulcer.
+
+DA63.62	Fungal duodenal ulcer
+Duodenal ulcer caused by infection with fungus. This includes infection with candida and other fungal infections in the duodenum.
+
+DA63.6Z	Infectious duodenal ulcer, unspecified
+
+DA63.Y	Other specified duodenal ulcer
+
+DA63.Z	Duodenal ulcer, unspecified
+
+
+  DA7Z  	Diseases of the stomach or the duodenum, unspecified
+
+Diseases of small intestine (BlockL1‑DA9)
+This is a group of conditions characterised as being in or associated with the small intestine.
+Exclusions:	Ileostomy malfunction (DE12.0)
+Diseases of duodenum (BlockL2‑DA5)
+Coded Elsewhere:	Neoplasms of the small intestine
+Foreign body in small intestine (ND73.3)
+Structural developmental anomalies of small intestine (LB15)
+  DA90  	Nonstructural developmental anomalies of small intestine
+Any congenital defect of small intestine that results from interference with the normal growth and differentiation of the fetus. Such defects can arise at any stage of embryonic development, vary greatly in type and severity, and are caused by a wide variety of determining factors, including genetic mutations, chromosomal aberrations, teratogenic agents, and environmental factors. Most developmental defects are apparent at birth, especially any structural malformation, but some becomes evident later.
+Coded Elsewhere:	Maltase-glucoamylase deficiency (5C61.1)
+Congenital sucrase-isomaltase deficiency (5C61.2)
+Alpha, alpha trehalase deficiency (5C61.3)
+Congenital lactase deficiency (5C61.61)
+
+DA90.0	Syndromic diarrhoea
+Syndromic diarrhoea (SD), also known as phenotypic diarrhoea (PD) or tricho-hepato-enteric syndrome (THE), is a congenital enteropathy presenting with early-onset of severe diarrhoea requiring parenteral nutrition (PN), associated with facial dysmorphism, woolly and poorly pigmented hair and liver disease, with extensive fibrosis or cirrhosis, in about half of the patients.
+Inclusions:	Phenotypic diarrhoea
+
+DA90.1	Congenital intestinal transport defect
+This is a congenital disease of the small intestinal mucosa that presents with intractable diarrhoea and malabsorption of nutrients in young children, due to defect of transporter of nutrients in enterocytes.
+Coded Elsewhere:	Glucose-galactose malabsorption (5C61.0)
+Fructose malabsorption (5C61.40)
+Acrodermatitis enteropathica (5C64.20)
+Idiopathic bile acid malabsorption (DA96.02)
+Hereditary megaloblastic anaemia due to transcobalamin deficiency (3A01.0)
+Glycogen storage disease due to GLUT2 deficiency (5C51.3)
+Lysinuric protein intolerance (5C60.Y)
+Haptocorrin deficiency (5C63.0)
+Hereditary folate malabsorption (5C63.1)
+Vitamin B12 deficiency anaemia due to selective vitamin B12 malabsorption with proteinuria (3A01.Y)
+
+DA90.2	Congenital intestinal motility disorders
+This is a congenital disorder of the small intestinal intestine that presents severe impairment or change of bowel movement often associated with malabsorption of nutrients in young children.
+Coded Elsewhere:	Megacystis - microcolon - intestinal hypoperistalsis - hydronephrosis (LD2F.1Y)
+
+DA90.Y	Other specified nonstructural developmental anomalies of small intestine
+
+DA90.Z	Nonstructural developmental anomalies of small intestine, unspecified
+
+  DA91  	Obstruction of small intestine
+Hindrance of the passage of luminal contents in the small intestine. Obstruction of the small intestine can be partial or complete, and caused by intrinsic or extrinsic factors. Simple obstruction is associated with diminished or stopped flow of luminal contents. Strangulating obstruction is associated with impaired blood flow to the small intestine in addition to obstructed flow of luminal contents.
+Inclusions:	Occlusion of small intestine
+Exclusions:	Diverticular disease of small intestine (BlockL2‑DC7)
+Crohn disease of small intestine (DD70.1)
+hernia involving small intestine (DD50.2)
+ischaemic stricture of small intestine (DD31)
+Paralytic ileus (DA93.0)
+Intestinal obstruction of newborn (KB87)
+
+DA91.0	Intussusception of small intestine
+Intussusception occurs when a segment of bowel invaginatetes, or telescoped, into adjacent distal bowel, leading to obstruction and possibly ischemic injury.
+
+DA91.1	Volvulus of small intestine
+A volvulus is an abnormal twisting of the intestine around the axis of its own mesentery, resulting in obstruction of the more proximal bowel. Twisting of the mesentery may involve the mesenteric vessels and so make the involved loop particularly susceptible to strangulation and gangrene, with resulting perforation, peritonitis, and sepsis.
+
+DA91.2	Intestinal adhesions or bands of small intestine with obstruction
+Small bowel obstruction resulting from intraabdominal adhesion due to laparotomy, trauma, and intraabdominal inflammation such as endometriosis.
+
+DA91.3	Obstructive ileus of small intestine due to impaction
+Small bowel obstruction may result when a substance such as gallstone or enterolith is too large to traverse the small intestine, especially at the ileocecal valve.
+
+DA91.30	Gallstone ileus of small intestine
+Small bowel obstruction due to stenosis resulting from impaction of gallstones.
+
+DA91.31	Enterolith of small intestine
+This is a mineral concretion or calculus formed anywhere in the gastrointestinal system, but in this case the small intestine.
+
+DA91.3Y	Other specified obstructive ileus of small intestine due to impaction
+
+DA91.3Z	Obstructive ileus of small intestine due to impaction, unspecified
+
+DA91.Y	Other specified obstruction of small intestine
+
+DA91.Z	Obstruction of small intestine, unspecified
+
+  DA92  	Other acquired anatomical alterations of small intestine
+This group incorporates small intestinal disorders principally due to acquired morphological changes of the small intestine, except for obstruction of small intestine (EC).
+Coded Elsewhere:	Diverticular disease of small intestine (DC70-DC72.Z)
+Perforation of small intestine (ME24.30)
+Endometriosis of small intestine (GA10.7)
+
+DA92.0	Fistula of small intestine
+A small intestinal fistula is defined as an abnormal communication between the small intestine and another epithelialized surface such as the skin or an adjacent loop of bowel.
+Inclusions:	Fistula of intestine, site unspecified
+Exclusions:	Fistula of duodenum (DA50.2)
+Coded Elsewhere:	Fistula of small intestine to vagina (GC04.11)
+
+DA92.1	Pneumatosis intestinalis of small intestine
+Pneumatosis intestinalis is a rare condition characterised by multiple, gas-filled cysts, typically within the subserosa and submucosa of the small intestine.
+
+DA92.Y	Other specified other acquired anatomical alterations of small intestine
+
+DA92.Z	Other acquired anatomical alterations of small intestine, unspecified
+
+  DA93  	Motility disorders of small intestine
+Disorders of small intestinal motility due to abnormal contractions, such as weak contractions and disorganised (unsynchronized) contractions. The loss of ability to coordinate motor activity may cause a variety of disorders including small intestinal distention and bacterial overgrowth.
+
+DA93.0	Paralytic ileus
+A type of ileus, a functional not mechanical obstruction of the small intestines, and a state of pathophysiologic inhibition of motor activity due to non-mechanical causes. The paralysis does not need to be complete, but the intestinal muscles must be so inactive that it leads to a functional blockage of the intestine.
+Exclusions:	Obstructive ileus of small intestine due to impaction (DA91.3)
+Gallstone ileus of small intestine (DA91.30)
+
+DA93.Y	Other specified motility disorders of small intestine
+
+DA93.Z	Motility disorders of small intestine, unspecified
+
+  DA94  	Noninfectious enteritis or ulcer of small intestine
+Noninfectious enteritis and ulcer of small intestine is inflammation or tissue defect in the small intestine of non-infectious origin, usually due to medication including chemotherapy or radiation therapy side effects; or allergic or systemic disorders. Its severity may vary from mild and inconvenient to severe and life-threatening.
+Inclusions:	Noninfectious small intestinal inflammation, erosion, ulcer or ulcer scar
+Exclusions:	Crohn disease of small intestine (DD70.1)
+Functional diarrhoea (DD91.2)
+Noninfectious neonatal diarrhoea (KB8C)
+
+DA94.0	Primary ulcer of small intestine
+Enteritis or ulcer of small intestine of unknown origin
+
+DA94.00	Primary nonspecific ulceration of small intestine
+Primary or simple ulcer of the small intestine occurring beyond the duodenum is rare. The lesion includes single ulcers within the jejunum and ileum of unknown etiology. Non-specific ulcer accompanied with Behcet disease is classified elsewhere in EGD.
+Inclusions:	Simple ulcer of small intestine
+
+DA94.01	Chronic non-specific multiple ulcers of small intestine
+In CNSU patients chronic non-specific multiple ulcers are predominantly found in the ileum, which are circular or irregular in shape. The margins of ulcers are always clear and the intervening mucosa appears normal. CNSU is often characterised by anaemia and hypoalbuminemia due to bleeding and protein loss from multiple ulcers.
+
+DA94.02	Cryptogenic multifocal ulcerous stenosing enteritis
+CMUSE is an independent, rare disease characterised by chronic diarrhoea and by non-specific small intestinal ulceration and ulcerative stenosis which responds to corticosteroid therapy.
+
+DA94.0Y	Other specified primary ulcer of small intestine
+
+DA94.0Z	Primary ulcer of small intestine, unspecified
+
+DA94.1	Drug-induced or toxic enteritis of small intestine
+Enteritis or ulcer of small intestine due to medication including mucosal damaged agents such as NSAIDs, aspirin and antibiotics, due to chemotherapy and due to chemical toxic substances.
+
+DA94.2	Allergic or dietetic enteritis of small intestine
+Enteritis or ulcer of small intestine due to allergic disorders including food allergy. This category includes both immediate-type (IgE mediated) and non-IgE-mediated intestinal hypersensitivity, and eosinophilic disorders of small intestine. Food protein-induced enterocolitis syndrome (EPIES) is also included here.
+
+DA94.20	IgE mediated allergic enteritis of small intestine
+Immediate type (IgE-mediated) enteric hypersensitivity due to exposure to an allergen in individuals previously sensitized. The symptoms are acute abdominal pain and diarrhoea and can be combined to other symptoms in cases of anaphylaxis.
+
+DA94.21	Eosinophilic enteritis
+This refers to a rare and heterogeneous condition of inflammation of small intestine characterised by patchy or diffuse eosinophilic infiltration of the intestinal tissue.
+
+DA94.22	Food protein-induced enterocolitis syndrome
+A non-IgE-mediated intestinal hypersensitivity cell-mediated persistent chronic inflammation of the enteric tract which primarily affects children. The most common causal foods are: cow’s milk, soy, rice, oat, meat. In cases of chronic exposure, the most frequent symptoms are emesis, diarrhoea, poor growth and lethargy. In cases of re-exposure after restriction, the patient can present emesis, diarrhoea, hypotension (15%) 2 hours after ingestion.
+
+DA94.2Y	Other specified allergic or dietetic enteritis of small intestine
+
+DA94.2Z	Allergic or dietetic enteritis of small intestine, unspecified
+
+DA94.3	Enteritis or ulcer of small intestine due to other external causes
+Enteritis and ulcer of small intestine induced by external causes, such as foreign body, radiation, trauma, and other external causes. Enteritis due to chemical and toxic substances is excluded from here and classified in EGB.
+
+DA94.30	Enteritis or ulcer of small intestine due to foreign body
+
+DA94.31	Enteritis or ulcer of small intestine due to radiation
+
+DA94.32	Enteritis or ulcer of small intestine due to trauma
+
+DA94.3Z	Enteritis or ulcer of small intestine due to other external causes, unspecified
+
+DA94.Y	Other specified noninfectious enteritis or ulcer of small intestine
+
+DA94.Z	Noninfectious enteritis or ulcer of small intestine, unspecified
+
+  DA95  	Coeliac disease
+Coeliac disease is a permanent intolerance to gluten proteins, present in wheat, rye, and barley. It is an autoimmune disorder, characterised by a chronic inflammatory state of the small intestinal mucosa and submucosa, which can impair digestion and absorption of nutrients, leading to malnutrition.
+Inclusions:	Gluten-sensitive enteropathy
+Nontropical sprue
+Idiopathic steatorrhoea
+
+  DA96  	Intestinal malabsorption or protein-losing enteropathy
+Intestinal malabsorption is a diseased condition in which absorption of food nutrients across the intestinal tract is disturbed. Impairment of single or multiple nutrients may lead to malnutrition. 
+ Protein-losing enteropathy is a diseased condition in which there is excessive loss of plasma protein into the intestine. More loss of proteins than synthesis may lead to hypoalbuminemia.
+Exclusions:	Crohn disease (DD70)
+
+DA96.0	Intestinal malabsorption
+Intestinal malabsorption (syndrome) occurs due to pathological interference with the normal physiological sequence of digestion (intraluminal process), absorption (mucosal process), and transport (post-mucosal events) of nutrients in the small intestine. The concept of intestinal failure is a life-threatening severe type of intestinal malabsorption due to short bowel, structural enterocyte defects, and intestinal dysmotility etc.
+Coded Elsewhere:	Short bowel syndrome (KB89.1)
+Neonatal malabsorption syndromes (KB89)
+Amyloidosis of small intestine (5D00.0)
+
+DA96.00	Bacterial overgrowth syndrome
+Bacterial overgrowth syndrome is a term that describes clinical manifestations that occur when poor movement of intestinal contents allows certain normal intestinal bacteria to grow excessively, causing diarrhoea and poor absorption of nutrients (malabsorption). Various etiological processes can disrupt mechanisms that keep the number of these bacteria low. These include structural abnormalities (congenital or surgical) and disorders that cause decreased gastric acidity, reduced peristaltic activity, and mucosal damage or atrophy.
+Coded Elsewhere:	Bowel-associated dermatosis-arthritis syndrome (EB2Y)
+
+DA96.01	Tropical sprue
+Tropical sprue is a syndrome involving the entire small intestine that cause acute or chronic diarrhoea and malabsorption of nutrients of progressive severity that results in malnutrition and anaemia due to folic acid deficiency. The disorder occurs only among persons (mostly adults) who visit, or are residents of, certain tropical and subtropical areas. Histological changes consist of lengthening of the crypt area and broadening and shortening of the villi with chronic inflammation of small intestine. The cause of tropical sprue is not known, but excess levels of certain types of bacteria in the small intestines has been suggested, and antimicrobial therapy may result in cure of the intestinal abnormalities.
+Inclusions:	Tropical steatorrhoea
+
+DA96.02	Malabsorption or intolerance of specific nutrients
+Food intolerance is a term used for difficulty in digesting a food because of widely for varied physiological responses associated with a particular food, or compound found. Food intolerance should not be mistaken for food allergy, which is primarily involving the immune reaction against the food.
+Coded Elsewhere:	Lactose intolerance (5C61.6)
+
+DA96.0Y	Other specified intestinal malabsorption
+
+DA96.0Z	Intestinal malabsorption, unspecified
+
+DA96.1	Protein-losing enteropathy
+Protein-losing enteropathy is a syndrome characterised by the severe loss of serum proteins into the intestine. It is not a single disease, but an atypical manifestation of other diseases, which involves intestinal mucosa as well as intestinal blood or lymphatic vessels.
+Coded Elsewhere:	Intestinal lymphangiectasia (BD92.0)
+
+DA96.Y	Other specified intestinal malabsorption or protein-losing enteropathy
+
+DA96.Z	Intestinal malabsorption or protein-losing enteropathy, unspecified
+
+  DA97  	Certain vascular disorders of small intestine
+The whole small intestine receives its blood supply from the superior mesenteric artery and the venous drainage is through the portal system via the superior mesenteric vein. Vascular disorders includes lesions in these vessels and capillary.
+Exclusions:	Ischaemic vascular disorders of intestine (BlockL1‑DD3)
+Coded Elsewhere:	Non-occlusive mesenteric ischaemia (DD31.0)
+Segmental arterial mediolysis (BD52.0)
+Vascular abnormality of small intestine due to injury or trauma (NB90.Y)
+
+DA97.0	Angiodysplasia of small intestine
+Small dilated submucosal vessels of small intestinal mucosa with perforating vessels going through the muscularis mucosae.
+Coded Elsewhere:	Hereditary haemorrhagic telangiectasia (LA90.00)
+
+DA97.1	Arteriovenous malformation of small intestine
+Vascular malformations of small intestine that result from a localised maldevelopment of part of the primitive vascular plexus and consist of abnormal arteriovenous communications without intervening capillaries. They vary in size, ranging from massive lesions that are fed by multiple vessels to lesions so small that they are hard to identify at arteriography, surgery, or autopsy, but relatively larger than angiodysplasia.
+
+DA97.2	Vasculitis of mesenteric arteries
+A part of systemic vasculitis involving the gastrointestinal tract which causes mesenteric ischemia. This includes systemic lupus erythematosus, polyarteritis nodosa, allergic granulomatous vasculitis (Churg-Strauss syndrome), and thromboangitis obliterans (Buerger’s disease).
+
+DA97.3	Varices of small intestine
+The dilation of venous plexus in the small intestine.
+Exclusions:	Duodenal varices (DA52.0)
+
+DA97.Z	Certain vascular disorders of small intestine, unspecified
+
+  DA98  	Polyps of small intestine
+Polyps of small intestine are benign mushroom-like abnormalities of the small intestine that may have a stalk or be flat with a stalk. (Polyps of small intestine are any mass of tissue that arises from the small intestinal wall and protrudes into the lumen.)
+Exclusions:	Adenoma of small intestine (2E92.3)
+Adenomatous polyp of small intestine (2E92.3)
+Polyposis syndrome (2E92.40)
+
+DA98.0	Hamartoma of small intestine
+Hamartoma of small intestine is a non-neoplastic mass of indigenous tissue in the small intestine.
+
+DA98.1	Hyperplastic polyp of small intestine
+Hyperplastic/metaplastic polyps of small intestine usually result from the abnormal maturation of the mucosal cells of the small intestines and are usually of small size.
+
+DA98.2	Inflammatory fibroid polyp of small intestine
+Inflammatory fibroid polyp (IFP) is a rare tumour and it presents either as a solitary large or sessile lesion that arises in the submucosa. It is characterised by spindle and stellate cells set in an inflammatory, myxoid stroma.
+
+DA98.3	Lymphoid hyperplasia of small intestine
+Lymphoid hyperplasia of small intestine is a formation of well differentiated lymphoid tissue due to enhanced cell division in the small intestinal mucosa.
+
+DA98.Y	Other specified polyps of small intestine
+
+DA98.Z	Polyps of small intestine, unspecified
+
+  DA9Y  	Other specified diseases of small intestine
+
+  DA9Z  	Diseases of small intestine, unspecified
+
+Diseases of appendix (BlockL1‑DB1)
+Coded Elsewhere:	Neoplasms of the appendix
+  DB10  	Appendicitis
+Appendicitis is a condition characterised by inflammation of the vermiform appendix.
+
+DB10.0	Acute appendicitis
+Acute inflammation and enlargement of the vermiform appendix. It has been recognised as one of the most common causes of severe acute abdominal pain worldwide. Most cases require appropriate medical treatment or removal of the inflamed appendix. If untreated, mortality is high, mainly because of the risk of rupture leading to peritonitis and shock. In this category acute appendicitis only due to common bacterial infection is included, and appendicitis due to specific organisms is ruled out from here, and described elsewhere.
+
+DB10.00	Acute appendicitis with generalised peritonitis
+This is a condition characterised by acute inflammation of the vermiform appendix that is extending into the free, not contained, inflammation of the peritoneum. There is usually a free perforation and surgical treatment is recommended.
+Inclusions:	Acute appendicitis with free perforation to the abdominal cavity
+acute appendicitis with diffuse peritonitis following rupture or perforation
+
+DB10.01	Acute appendicitis with localised peritonitis
+This is a condition characterised by acute inflammation of the vermiform appendix that is confined around the appendix with localised peritonitis. This is usually appendicitis with abscess, and also could be treated conservatively, even if there is a perforation. However, according to the clinical course surgical treatment will be recommended.
+Inclusions:	Acute appendicitis with contained perforation to a localised abscess
+
+DB10.02	Acute appendicitis without localised or generalised peritonitis
+This condition is characterised by acute inflammation of the veriform appendix in that there is no mention about the extent of the peritonitis. Acute appendicitis without peritonitis is included here. Acute appendicitis with no perforation or abscess, and simply phlegmonous or suppurative appendicitis, these can usually be treated conservatively, are also included here.
+
+DB10.1	Chronic appendicitis
+A correctly diagnosed non-acute form of appendicitis. Chronic appendicitis is a disorder caused by inflammation of the appendix over a period of time. While acute appendicitis shows the typical manifestation of an inflamed appendix, chronic appendicitis may cause symptoms related to abdominal discomfort or more generalised symptoms. In this category chronic appendicitis only due to common bacterial infection is included, and appendicitis due to specific organisms is ruled out from here, and described elsewhere.
+
+DB10.Y	Other specified appendicitis
+
+DB10.Z	Appendicitis, unspecified
+
+  DB11  	Certain specified diseases of appendix
+Diseases of appendix other than appendicitis or neoplasm. This includes intussusception, mucocele, hyperplasia, appendicular concretions, diverticulum, fistula and other specified diseases of appendix.
+Exclusions:	Appendicitis (DB10)
+Neoplasms of the appendix ()
+
+DB11.0	Megaloappendix
+The vermiform appendix is an organ that can have variable sizes, locations as well as functional potentials. This refers to the longer and the larger appendix than normal size.
+
+DB11.1	Hyperplasia of appendix
+Hyperplasia of appendix is the rapid growth proliferation of normal lymphoid cells that resemble lymphoid tissue.
+
+DB11.2	Appendicular concretions
+A condition of the appendix filled with calcification
+
+DB11.3	Diverticulum of appendix, acquired
+A condition of an outpouching of a hollow structure of the appendix.
+
+DB11.4	Fistula of appendix
+A condition of an abnormal passageway between the appendix and neighbour organs.
+
+DB11.5	Intussusception of appendix
+A condition in which a part of the appendix has invaginated into another section of the appendix. Complete invagination of the appendix into the caecum may progress to a colo-colic and/or ileo-colic intussusception.
+
+DB11.6	Mucocele of appendix
+Mucocele of the appendix is a cystic, dilated appendix filled with mucin. Simple mucocele is not a neoplasm and results from chronic obstruction of the proximal lumen, usually by fibrous tissue.
+
+  DB1Y  	Other specified diseases of appendix
+
+  DB1Z  	Diseases of appendix, unspecified
+
+Diseases of large intestine (BlockL1‑DB3)
+Coded Elsewhere:	Neoplasms of the large intestine
+Structural developmental anomalies of large intestine (LB16)
+Diverticular disease of large intestine (DC80-DC82.Z)
+Polyposis syndrome (2E92.40)
+  DB30  	Obstruction of large intestine
+Hindrance of the passage of luminal contents in the large intestine. Obstruction of the large intestine can be partial or complete, and caused by intrinsic or extrinsic factors. Simple obstruction is associated with diminished or stopped flow of luminal contents. Strangulating obstruction is associated with impaired blood flow to the large intestine in addition to obstructed flow of luminal contents.
+Exclusions:	Paralytic ileus of large intestine (DA93.0)
+
+DB30.0	Intussusception of the large intestine
+Intussusception occurs when a segment of bowel invaginatetes, or telescoped, into adjacent distal bowel, leading to obstruction and possibly ischemic injury. Colonic intussusception is a relatively uncommon condition that is most frequent in the early years of life. There are three main varieties: caecocolic, colocolic and sigmoidrectal.
+
+DB30.1	Volvulus of large intestine
+A volvulus is an abnormal twisting of the intestine around the axis of its own mesentery, resulting in obstruction of the more proximal bowel. Twisting of the mesentery may involve the mesenteric vessels and so make the involved loop particularly susceptible to strangulation and gangrene, with resulting perforation, peritonitis, and sepsis. The classical sites of large intestinal volvulus are the caecum and the sigmoid colon, although there are reports of volvulus of the transverse colon and the splenic flexuture.
+
+DB30.2	Adhesions of large intestine with obstruction
+Large bowel obstruction resulting from intraabdominal adhesion due to laparotomy, trauma, and intraabdominal inflammation such as endometriosis.
+
+DB30.3	Impaction of large intestine
+Large bowel obstruction may result when a substance such as gallstone, foreign body, or enterolith, but not faecal, is too large to traverse the large intestine.
+Inclusions:	Impaction of large bowel
+Exclusions:	faecal impaction (ME05.0)
+
+DB30.4	Stenosis of the rectum
+Rectal stenosis is defined as narrowing of the rectum.
+
+DB30.Y	Other specified obstruction of large intestine
+
+DB30.Z	Obstruction of large intestine, unspecified
+
+  DB31  	Other acquired anatomical alterations of large intestine
+This group incorporates acquired large intestinal disorders principally due to morphological changes of the colon and rectum. Diverticular diseases and obstruction of large intestine are classified in GB a GD, respectively.
+Exclusions:	Obstruction of large intestine (DB30)
+Diverticular disease of large intestine (BlockL2‑DC8)
+Coded Elsewhere:	Perforation of large intestine (ME24.31)
+Endometriosis of large intestine (GA10.7)
+
+DB31.0	Fistula of large intestine
+Fistula of large intestine is defined as an abnormal communication between the large intestine and another epithelialized surface such as the skin, an adjacent organ or an adjacent loop of bowel. Colovesical fistula is the most common, but colovaginal, colocolic, coloileal, colocutaneous, and coloanal fistulae have been described. Fistula due to Crohn disease are excluded from here.
+Coded Elsewhere:	Fistula of large intestine to vagina (GC04.12)
+Rectovaginal fistula (GC04.16)
+
+DB31.1	Pneumatosis intestinalis of large intestine
+This refers to pneumatosis intestinalis in the large intestine, which is a condition characterised by multiple, gas-filled cysts, typically within the subserosa and submucosa of the intestine.
+
+DB31.2	Rectal prolapse
+Rectal mucosal prolapsed refers to abdominal descent of the rectal mucosa. The best recognised site of the mucosal prolapse is the anterior wall of the rectum.
+Inclusions:	Prolapse of rectal mucosa
+
+DB31.Y	Other specified other acquired anatomical alterations of large intestine
+
+DB31.Z	Other acquired anatomical alterations of large intestine, unspecified
+
+  DB32  	Motility disorders of large intestine
+Disorders of colonic motility due to abnormal contractions, such as spasms and colonic paralysis. The loss of ability to coordinate motor activity may cause a variety of disorders including colonic distention and severe constipation.
+Coded Elsewhere:	Paralytic ileus of large intestine (DA93.0)
+Paralytic ileus of small intestine or colon (DA93.0)
+
+DB32.0	Pseudo-obstruction of colon
+Colonic pseudo-obstruction is a rare condition with symptoms of decreased ability of the colon to push fluid, food and air through like those caused by a colonic obstruction, or blockage. The clinical and radiological findings are often similar to true obstruction, but no true mechanical blockage is found. The symptoms generally includes dyspepsia, chronic constipation and, in the moments where appear abdominal colic. Ogilvie syndrome: acute pseudoobstruction of the colon in severely ill debilitated patients is included here as acute form.
+
+DB32.1	Slow transit constipation
+Slow transit constipation (STC) typically involves the unusually slow passage of luminal contents through the large intestine. This can lead to chronic problems, such as constipation and uncontrollable soiling and could require colectomy.
+
+DB32.2	Megacolon
+Megacolon is a descriptive term indicating an abnormal dilation of large intestine. The dilatation is often accompanied by a paralysis of the peristaltic movements of the bowel.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Congenital megacolon (LB16.1)
+Hirschsprung disease (LB16.1)
+
+DB32.20	Toxic megacolon
+Toxic megacolon is an acute form of colonic distension characterised by a very dilated colon, accompanied by abdominal distension (bloating), and sometimes fever, abdominal pain, or shock. " Toxic" means that this complication occurs with inflammation. Toxic megacolon is a rare, life-threatening widening of the large intestine that occurs within a few days, occurring as a complication of inflammatory bowel disease, such as ulcerative colitis and Crohn disease.
+Coding Note:	Code aslo the causing condition
+
+DB32.2Y	Other specified megacolon
+Coding Note:	Code aslo the causing condition
+
+DB32.2Z	Megacolon, unspecified
+Coding Note:	Code aslo the causing condition
+
+DB32.3	Acquired hypoganglionosis of large intestine
+Acquired hypoganglionosisis characterised as a degeneration of ganglion cells and gliosis histologically. The prognosis is usually good following resection of the affected bowel.
+Exclusions:	Congenital hypoganglionosis of large intestine (LB16.3)
+
+DB32.Y	Other specified motility disorders of large intestine
+
+DB32.Z	Motility disorders of large intestine, unspecified
+
+  DB33  	Certain noninfectious colitis or proctitis
+Noninfectious colitis and proctitis is inflammation or tissue defect in the large intestine of non-infectious origin, but not included in inflammatory bowel diseases, including specific type of colitis, colitis due to medication including chemotherapy or radiation therapy side effects; or allergic or systemic disorders.
+Exclusions:	Inflammatory bowel diseases (BlockL1‑DD7)
+Gastroenteritis or colitis of infectious origin (BlockL1‑1A0)
+
+DB33.0	Primary ulcer of colon
+A condition with single or multiple ulcers (mucosal defect) develops in the rectum or colon. Ulcers of the colon can cause bleeding with straining in people with chronic constipation.
+Inclusions:	Simple ulcer of colon
+
+DB33.1	Microscopic colitis
+A condition of inflammation of the colon that is only detectable when the colon's lining is examined under a microscope. The endoscopic appearance of the inner colon lining is normal. There are two types of microscopic colitis: lymphocytic colitis and collagenous colitis.
+
+DB33.10	Collagenous colitis
+Collagenous colitis is characterised by chronic watery diarrhoea, normal radiological and endoscopic appearance of the colon, and a specific histopathological feature consisting in the presence of a subepithelial collagen band (10 mm or more) adjacent to the basal membrane, together with epithelial lymphocyte infiltration and chronic inflammation of the lamina propria.
+
+DB33.11	Lymphocytic colitis
+Lymphocytic colitis is an intestinal inflammatory disorder characterised by increased intraepithelial lymphocytes and manifesting as chronic watery diarrhoea, abdominal pain, nausea, incontinence and faecal urgency. Together with collagenous colitis it makes up a group known as microscopic colitis .
+
+DB33.1Y	Other specified microscopic colitis
+
+DB33.1Z	Microscopic colitis, unspecified
+
+DB33.2	Allergic or dietetic colitis
+Colitis and proctitis due to allergic disorders including food allergy. This category includes both immediate-type (IgE mediated) and non-igE-mediated colonic hypersensitivity, and eosinophilic disorders of large intestine. Food protein-induced proctitis/colitis of infants is also included here.
+
+DB33.20	Food protein-induced proctitis or colitis of infants
+A non-IgE-mediated intestinal hypersensitivity (in the absence of IgE antibodies) induced by food protein that induces inflammatory response mainly to the rectum and distal sigmoid colon. This is a condition in infants that results from an immune response triggered by proteins in the diet mainly milk (through breast-feeding). Patients usually appear healthy and have normal, soft stools that contain flecks or streaks of blood. The diagnosis is usually made based upon the resolution of symptoms upon withdrawal of the presumed food antigen. The usual onset is in the first 2 months of life but it also occurs in infants from 1 day to 6 months of age.
+
+DB33.2Y	Other specified allergic or dietetic colitis
+
+DB33.2Z	Allergic or dietetic colitis, unspecified
+
+DB33.3	Diversion colitis
+An inflammatory condition that occurs in segments of the colon and rectum that are diverted from the faecal stream by surgery.
+
+DB33.4	Colitis or proctitis due to external causes
+Colitis and proctitis induced by external causes, such as chemical and toxic substances, foreign body, radiation, trauma, and other external causes.
+Exclusions:	Gastroenteritis or colitis of infectious origin (BlockL1‑1A0)
+
+DB33.40	Chemical colitis or proctitis
+This refers to condition of inflammation of large intestine caused by chemical or toxic substances.
+
+DB33.41	Radiation-induced colitis
+This refers to inflammation of the large intestine and colonic ulcer due to radiation.
+
+DB33.42	Radiation proctitis
+Radiation proctitis is a rare rectal disease directly induced by pelvic radiotherapy and characterised by rectal bleeding, change in bowel habits, tenesmus and sepsis.
+
+DB33.43	Drug-induced colitis
+Colitis or ulcer of large intestine due to medication including mucosal damaged agents such as NSAIDs, antibiotics, chemotherapy drugs, and other medications.
+Inclusions:	Drug-induced proctitis
+Drug-induced colonic ulcer
+Coded Elsewhere:	Pseudomembranous colitis (1A04)
+
+DB33.4Y	Other specified colitis or proctitis due to external causes
+
+DB33.4Z	Colitis or proctitis due to external causes, unspecified
+
+DB33.Y	Other specified noninfectious colitis or proctitis
+
+DB33.Z	Certain noninfectious colitis or proctitis, unspecified
+
+  DB34  	Certain vascular disorders of large intestine
+The whole large intestine receives its blood supply from colonic branches of the superior mesenteric artery and the inferior mesenteric artery, and the venous drainage is through the portal system via the superior and inferior mesenteric vein. Vascular disorders includes lesions in these vessels and capillary.
+Exclusions:	Ischaemic vascular disorders of intestine (BlockL1‑DD3)
+Coded Elsewhere:	Ischaemic colitis (DD31.00)
+Vascular disorders of large intestine due to injury or trauma (NB90.Y)
+
+DB34.0	Angiodysplasia of colon
+Small dilated submucosal vessels of colonic mucosa with perforating vessels going through the muscularis mucosae.
+
+DB34.1	Arteriovenous malformation of large intestine
+Vascular malformations of large intestine that result from a localised maldevelopment of part of the primitive vascular plexus and consist of abnormal arteriovenous communications without intervening capillaries. They vary in size, ranging from massive lesions that are fed by multiple vessels to lesions so small that they are hard to identify at arteriography, surgery, or autopsy, but relatively larger than angiodysplasia.
+
+DB34.2	Vasculitis of large intestine
+
+DB34.3	Varices of large intestine
+Abnormally dilated veins in the lining of large intestine. Intestinal varices represent varices at an unusual site in patients with cirrhosis and portal hypertension.
+
+DB34.4	Acute haemorrhagic rectal ulcer
+Acute haemorrhagic rectal ulcer is regarded as an acute ischemic mucosal disorder that occurs in elderly patients who are suffering from incipient blood flow reduction due to arteriosclerotic factors. These patients are often bedridden, and this causes a decrease in mucosal blood flow in the lower rectum, which in turn triggers this pathology.
+
+DB34.Y	Other specified vascular disorders of large intestine
+
+DB34.Z	Vascular disorders of large intestine, unspecified
+
+  DB35  	Polyp of large intestine
+Polyps are abnormal growths rising from the lining of the large intestine that protrude into the intestinal lumen. Polyps can cause bleeding, and over time, can develop into cancers.
+Exclusions:	Polyposis syndrome (2E92.40)
+Malignant neoplasms of colon (2B90)
+Coded Elsewhere:	Adenomatous polyp of the colon (2E92.4Y)
+
+DB35.0	Hyperplastic polyp of large intestine
+Hyperplastic polyps are truly benign growths, possessing no potential for progression to colorectal cancer. Hyperplastic polys pathologically lack dysplasia.
+Inclusions:	Hyperplastic nodule of large intestine
+Serrated polyp of large intestine
+
+DB35.1	Inflammatory polyp of large intestine
+Inflammatory polyps occur as a result of the chronic inflammation that takes place in the colon and rectum.
+Exclusions:	Crohn disease of large intestine (DD70.3)
+
+DB35.2	Benign lymphoid polyp of large intestine
+Benign lymphoid polyps are associated with hyperplasia (enhanced cell division) of lymphoid tissue in the colonic mucosa. It is seen in parts of the intestine where lymphoid tissues are concentrated like the ileum of the small intestine or rectum.
+Inclusions:	Focal lymphoid hyperplasia
+
+DB35.3	Hamartomatous polyp
+Hamartomatous polyp is non-neoplastic, benign tumour-like malformations results from an abnormal formation of normal tissue. It contains mesenchymal elements of excess vascular and/or fibrous stroma and glandular proliferation with cystic dilatation.
+Exclusions:	PTEN Hamartoma tumour syndrome (2E92.40)
+
+DB35.4	Inflammatory fibroid polyp of large intestine
+Inflammatory fibroid polyp is a benign, non-encapsulated submucosal lesion, composed mainly of loose connective tissues, vessels and with an eosinophilic inflammatory component.
+
+DB35.Y	Other specified polyp of large intestine
+
+DB35.Z	Polyp of large intestine, unspecified
+
+  DB36  	Certain infections of the large intestine
+
+DB36.0	Colonic abscess
+A condition of the colon, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by focal accumulation of purulent material in colonic tissue. This disease may present with back pain, abdominal pain, fever, rectal bleeding, or diarrhoea. Confirmation is commonly by advanced imaging.
+
+DB36.1	Rectal abscess
+A condition of the rectum, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the rectal area.
+
+DB36.10	Perirectal abscess
+A condition of the perirectal region, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by focal accumulation of purulent material within the perirectal region. This condition may present with perirectal pain and swelling, fever, chills, or constipation. Confirmation is commonly by advanced imaging.
+Exclusions:	Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+DB36.11	Ischiorectal abscess
+A condition of the rectum, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the ischiorectal space. This condition presents with pain in the perianal region, back pain, swelling, or fever. Confirmation is commonly by advanced imaging.
+Inclusions:	Abscess of ischiorectal fossa
+
+DB36.12	Rectal cellulitis
+
+DB36.Y	Other specified infections of the large intestine
+
+DB36.Z	Certain infections of the large intestine, unspecified
+
+  DB3Y  	Other specified diseases of large intestine
+
+  DB3Z  	Diseases of large intestine, unspecified
+
+Diseases of anal canal (BlockL1‑DB5)
+Coded Elsewhere:	Neoplasms of the anal canal
+Structural developmental anomalies of anal canal (LB17)
+Acquired anatomical alterations of the anal canal (BlockL2‑DB5)
+This group incorporates disorders principally due to morphological changes of the anus and anal canal.
+Exclusions:	congenital anomalies of the anal canal (LB17)
+Anal abscess (DB70.00)
+Coded Elsewhere:	Haemorrhage of anus and rectum (ME24.A1)
+Crohn disease of anal region (DD70.4)
+Open wound of anus (NB51.Z)
+  DB50  	Fissure or fistula of anal regions
+Anal fissure and fistula are the common disorders of anal regions. An anal fissure is a superficial linear tear in the anoderm that is distal to the dentate line. An anal fistula is an inflammatory tract between the anal canal and the skin.
+
+DB50.0	Anal fissure
+An anal fissure is a linear break or tear in the mucosa that lines the anal canal. It may occur when hard or large stools are passed after defecation and typically cause pain and bright red anal bleeding.
+
+DB50.1	Anal fistula
+Anal fistula is an abnormal communication, hollow tract lined with granulation tissue connecting the primary opening inside the anal canal to a secondary opening in the perineal skin. They are usually associated with anorectal abscesses, and they are thought to be a chronic condition after an abscess evacuation.
+
+DB50.2	Anorectal fistula
+
+DB50.Y	Other specified fissure or fistula of anal regions
+
+DB50.Z	Fissure or fistula of anal regions, unspecified
+
+  DB51  	Stenosis of anal canal
+
+  DB52  	Ulcer of anus
+Ulcer of anus is tissue defect located in the anal regions, extending beyond the submucosa into the muscularis mucosa.
+Inclusions:	Ulcer of anus and rectum
+Solitary ulcer of anus
+Stercoral ulcer of anus
+Coded Elsewhere:	Drug-induced anal ulceration (EH76.Y)
+
+  DB53  	Anal prolapse
+This is a condition in which the rectal tissue looses its internal support and protrudes from the anus to the exterior of the body.
+Inclusions:	Prolapse of anal canal
+
+  DB5Y  	Other specified acquired anatomical alterations of the anal canal
+
+  DB5Z  	Acquired anatomical alterations of the anal canal, unspecified
+
+Haemorrhoids or perianal venous conditions (BlockL2‑DB6)
+Haemorrhoids are anatomical structures of swollen veins of the rectal plexus in the walls of the anal canal and /or under the skin around the anus. The term haemorrhoids is usually related to the symptoms caused by haemorrhoids resulting in bleeding and painful swelling when they become enlarged, inflamed, thrombosed, or prolapsed. Haemorrhoids are classified according to the degree of prolapse, although this may not always reflect the severity of symptoms.
+Inclusions:	varicose veins of anus and rectum
+  DB60  	Haemorrhoids
+A prolapse of vascular cushions resulting in bleeding and painful swelling in the anal canal. Internal haemorrhoids is swollen veins inside the anal canal and one in a vein of the superior rectal plexus, originating above the pectinate line and covered by mucous membrane. 
+Internal haemorrhoids are classified according to the degree of prolapse, although this may not always reflect the severity of symptoms.
+Inclusions:	piles
+Coded Elsewhere:	Haemorrhoids in pregnancy (JA61.4)
+Haemorrhoids in the puerperium (JB41.2)
+
+DB60.0	First degree haemorrhoids
+(grade I): First-degree haemorrhoids bulge into the anal canal and sometimes bleed, but do not prolapse through the anus.
+Inclusions:	Haemorrhoids (bleeding) without prolapse outside of anal canal
+
+DB60.1	Second degree haemorrhoids
+(grade II): Second-degree haemorrhoids prolapse from the anus during bowel movements but then withdraw back up into the anal canal, spontaneously.
+Inclusions:	Haemorrhoids (bleeding) that prolapse with straining, but retract spontaneously
+
+DB60.2	Third degree haemorrhoids
+(grade III): Third-degree haemorrhoids remain prolapsed unless pushed gently back into the anal canal, and they can be reduced manually.
+Inclusions:	Haemorrhoids (bleeding) that prolapse with straining, and require manual reduction back inside the anal canal
+
+DB60.3	Fourth degree haemorrhoids
+(grade IV): Fourth-degree haemorrhoids cannot be pushed back into the anal canal and permanently prolapsed.
+Inclusions:	Haemorrhoids (bleeding) with prolapsed tissue that cannot be manually reduced
+
+DB60.Z	Haemorrhoids, unspecified
+
+  DB61  	Perianal venous thrombosis
+Extremely painful cherry like lesions under the perianal skin containing clotted blood have been attributed to rupture of a blood vessel with haematoma. However, histology confirmed that these lesions are thrombi lying within the thin-walled vessels of the external anal plexus.
+Inclusions:	perianal thrombosis
+Perianal haematoma (nontraumatic)
+
+  DB62  	Residual haemorrhoidal skin tags
+This refers to residual small benign tumour that form primarily in areas where the skin forms creases, especially in the anal canal which help with stool control.
+
+  DB6Y  	Other specified haemorrhoids or perianal venous conditions
+
+  DB6Z  	Haemorrhoids or perianal venous conditions, unspecified
+
+  DB70  	Infections of the anal region
+Infections of anal canal caused by various microorganisms including bacteria, virus, fungus, parasite and the other specified agents.
+Coded Elsewhere:	Anal warts (1A95.0)
+Primary anal syphilis (1A61.1)
+Herpes simplex infection of perianal skin or rectum (1A94.1)
+Gonococcal infection of anus (1A72.2)
+Infections of the anus or perianal skin (EG61)
+Tuberculosis of anal canal (1B12.7)
+
+DB70.0	Abscess of anal regions
+A condition of the anal and rectal region, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the anal or rectal region.
+Coded Elsewhere:	Ischiorectal abscess (DB36.11)
+
+DB70.00	Anal abscess
+A condition of the anus, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the perianal crypts or glands. This condition may present with pain and swelling in the perianal region, or fever. Confirmation is commonly by rectal examination.
+Inclusions:	Perianal abscess
+Exclusions:	Intrasphincteric abscess (DB70.02)
+Streptococcal cellulitis of skin (1B70.1)
+Staphylococcal cellulitis of skin (1B70.2)
+
+DB70.01	Anorectal abscess
+
+DB70.02	Intrasphincteric abscess
+A condition of the intrasphincteric space, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material between the internal and external anal sphincter. Confirmation is commonly by ultrasonography or advanced imaging.
+
+DB70.0Y	Other specified abscess of anal regions
+
+DB70.0Z	Abscess of anal regions, unspecified
+
+DB70.Y	Other specified infections of the anal region
+
+DB70.Z	Infections of the anal region, unspecified
+
+  DB71  	Anal polyp
+Abnormal mushroom-like growth sticking out from the epithelium rising from the lining of the anus and anal canal.
+
+DB71.0	Inflammatory anal polyp
+Inflammatory polyp is an abnormal, mushroom-like growth sticking out from the mucous membrane that lines the anus. This mass is a reaction to some type of chronic inflammation in the anus.
+
+DB71.1	Lymphoid polyp
+Lymphoid polyp is a benign, focal or diffuse small polypoid lesions composed of well differentiated lymphoid tissue.
+
+DB71.2	Hypertrophied anal papillae
+The enlargement of existing anal papillae is a consequence of chronic inflammation and fibrotic proliferation within the anorectal zone, which is known as hypertrophied or fibrous anal polyp.
+
+DB71.Y	Other specified anal polyp
+
+DB71.Z	Anal polyp, unspecified
+
+  DB72  	Certain specified diseases of anal canal
+Coded Elsewhere:	Crohn disease of anal region (DD70.4)
+Anal pruritus (EG60)
+Foreign body in anus or rectum (ND73.5)
+
+DB72.0	Anal spasm
+Spasm of the anal sphincter muscle.
+
+DB72.Z	Certain specified diseases of anal canal, unspecified
+
+  DB7Y  	Other specified diseases of anal canal
+
+  DB7Z  	Diseases of anal canal, unspecified
+
+Diseases of liver (BlockL1‑DB9)
+Exclusions:	Unspecified jaundice (ME10.1)
+Coded Elsewhere:	Neoplasms of the liver
+Structural developmental anomalies of liver (LB20.0)
+Metabolic or transporter liver disease (5C90)
+Viral hepatitis (1E50-1E5Z)
+  DB90  	Infectious liver disease
+Exclusions:	Infections due to Hepatitis virus
+Coded Elsewhere:	Dengue (1D20-1D2Z)
+Yellow fever (1D47)
+Cytomegaloviral hepatitis (1D82.0)
+Hepatitis due to Toxoplasma gondii (1F57.0)
+Herpes simplex hepatitis (1F00.Y)
+
+DB90.0	Abscess of liver
+A condition of the liver, caused by an infection with a bacterial, viral, or fungal source. This condition is characterised by a focal accumulation of purulent material in the liver. This condition may present with fever, abdominal pain, or shock. Confirmation is by advanced imaging or ultrasonography.
+Exclusions:	pylephlebitis without liver abscess (DB98.3)
+Coded Elsewhere:	Amoebic liver abscess (1A36.10)
+
+DB90.Y	Other specified infectious liver disease
+
+DB90.Z	Infectious liver disease, unspecified
+
+  DB91  	Acute or subacute hepatic failure
+Acute and subacute liver failure is characterised by onset of coagulopathy and/or hepatic encephalopathy within 8 weeks of onset of symptoms in a patient without previously known liver diseases.
+Exclusions:	Chronic viral hepatitis (1E51)
+Alcoholic hepatitis (DB94.1)
+Alcoholic cirrhosis of liver with hepatic encephalopathy (DB94.3)
+Hepatic failure complicating abortion, ectopic or molar pregnancy (BlockL1‑JA0)
+Icterus of fetus and newborn (KA87)
+Non-alcoholic fatty liver disease with hepatic encephalopathy (DB92)
+Chronic hepatic failure due to portosystemic shunt (DB98)
+Drug-induced or toxic liver disease (DB95)
+Hepatic encephalopathy (DB97)
+Liver disorders in pregnancy, childbirth or the puerperium (JA65.0)
+
+DB91.0	Acute or subacute hepatic failure due to hepatitis virus
+Acute infection of hepatitis A, B, C, D and E viruses can cause acute and subacute hepatic failure. The prognosis varies depending on the virus.
+
+DB91.1	Other acute or subacute hepatic failure
+Other causes of acute and subacute hepatic failure are drugs, toxic agents, metabolic diseases (particularly Wilson’s disease), ischemic diseases, autoimmune hepatitis, and unknown diseases.
+
+DB91.Z	Acute or subacute hepatic failure, unspecified
+
+  DB92  	Non-alcoholic fatty liver disease
+NAFLD is characterised by fatty liver related to insulin resistance in the absence of significant alcohol consumption. It embraces a pathological spectrum from simple steatosis to steatohepatitis. 10-20% have steatohepatitis (non-alcoholic steatohepatitis: NASH), which can progress to cirrhosis and hepatocellular carcinoma.
+Exclusions:	Reye syndrome (8E46)
+Acute fatty liver of pregnancy (JA65.0)
+Drug-induced or toxic liver disease (DB95)
+Chronic hepatitis C (1E51.1)
+Alcoholic liver disease (DB94)
+inherited defects in mitochondrial metabolism (5C53)
+
+DB92.0	Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis
+
+DB92.1	Non-alcoholic steatohepatitis
+NASH is a histological form of NAFLD in which the key features are histological evidence of hepatocyte injury (such as ballooning or Mallory hyaline) and substantial lobular inflammation. NASH is often associated with fibrosis in pericentral and perisinusoidal distribution (a portal fibrosis pattern also exists, particularly in children). NASH is the clinically progressive form of NAFLD with clinical outcomes including cardiovascular events, and cirrhosis or hepatocellular carcinoma. While novel biomarkers for NASH have been reported, histology remains the gold standard for diagnosis.
+
+DB92.Y	Other specified non-alcoholic fatty liver disease
+
+DB92.Z	Non-alcoholic fatty liver disease, unspecified
+
+  DB93  	Hepatic fibrosis or cirrhosis
+Exclusions:	Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver (DB95.5)
+Alcoholic cirrhosis of liver without hepatitis (DB94.3)
+Alcoholic liver fibrosis (DB94.2)
+Fibropolycystic liver disease (LB20.00)
+Congenital hepatic fibrosis (LB20.00)
+Chronic viral hepatitis with cirrhosis (1E51)
+Non-alcoholic steatohepatitis (DB92.1)
+Non-alcoholic fatty liver disease (DB92)
+Cardiac cirrhosis (DB98.8)
+
+DB93.0	Hepatic fibrosis
+Hepatic Fibrosis is defined as an excess deposition of the components of extracellular matrix (i.e. collagens, glycoproteins, proteoglycans) within the liver. This response to liver injury potentially is reversible. In contrast, in most patients, cirrhosis is not a reversible process.
+Inclusions:	Hepatic sclerosis
+Hepatic fibrosis with hepatic sclerosis
+Coded Elsewhere:	Hepatic fibrosis due to Schistosomiasis without portal hypertension (1F86.Z)
+
+DB93.1	Hepatic cirrhosis
+Hepatic (liver) cirrhosis is the end stage of fibrosis of the liver caused by many kinds of liver diseases and conditions. Diffuse nodulation of liver due to fibrous bands subdividing liver into regenerative nodules. Blood vessels reach outflow through resistant collagen which contributes to the portal hypertension. Liver cirrhosis is usually irreversible. Some patients with cirrhosis in the early stage are asymptomatic, and other patients in the advanced stage showed signs and symptoms caused by decreased hepatic synthetic function, portal hypertension or decreased detoxification function.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Alcoholic cirrhosis of liver without hepatitis (DB94.3)
+
+DB93.2	Certain specified fibrosis or cirrhosis of liver
+This is other formation of excess fibrous connective tissue in an organ or tissue in a reparative or reactive process and chronic liver disease characterised by replacement of liver tissue by fibrosis, scar tissue and regenerative nodules.
+Inclusions:	Biliary cirrhosis, unspecified
+Coded Elsewhere:	Joubert syndrome with hepatic defect (LD20.0Y)
+
+DB93.20	Hereditary North American Indian childhood cirrhosis
+Hereditary North American Indian childhood cirrhosis is a severe autosomal recessive intrahepatic cholestasis that has only been described in aboriginal children from northwestern Quebec. Manifesting first as transient neonatal jaundice, the disease evolves into periportal fibrosis and cirrhosis during a period ranging from childhood to adolescence.
+
+DB93.21	Idiopathic copper-associated cirrhosis
+Idiopathic copper-associated cirrhosis is a rare copper-overload liver disease characterised by a rapidly progressive liver cirrhosis from the first few years of life leading to hepatic insufficiency and harbouring a specific pathological aspect: pericellular fibrosis, inflammatory infiltration, hepatocyte necrosis, absence of steatosis, poor regeneration and histochemical copper staining.
+
+DB93.Y	Other specified hepatic fibrosis or cirrhosis
+
+DB93.Z	Hepatic fibrosis or cirrhosis, unspecified
+
+  DB94  	Alcoholic liver disease
+Alcoholic liver disease is damage to the liver and its function due to excessive intake of alcohol over a prolonged period of time. The diagnosis is made by a history of excessive intake of alcohol and exclusion of other causes of liver disease. However, it is important to note that excessive alcohol intake interacts with other causes of chronic liver disease to worsen the pathological severity and clinical outcome; important (relatively common) examples are with chronic hepatitis C, obesity and diabetes-related fatty liver, and haemochromatosis.
+
+DB94.0	Alcoholic fatty liver
+Alcoholic fatty liver is abnormal retention of lipids in liver cells evident as stainable fat (steatosis) due to excessive intake of alcohol. It is the earliest stage of alcoholic liver disease. It is difficult to histologically distinguish between alcoholic fatty liver from non-alcoholic fatty liver. Diagnosis is dependent on history of level of alcohol intake (see Definition of NAFLD).
+
+DB94.1	Alcoholic hepatitis
+Alcoholic hepatitis is injury and inflammation of the liver caused by excessive intake of alcohol. It is characterised by infiltration by neutrophils, ballooning degeneration of hepatocytes and deposit of Mallory hyaline bodies. Alcoholic hepatitis often occurs concomitantly in patients with other forms of alcoholic liver disease such as fatty liver (alcoholic steatohepatitis), liver fibrosis and cirrhosis.
+
+DB94.10	Alcoholic hepatitis with cirrhosis
+This is an inflammation of the liver due to excessive intake of alcohol, consequence of liver disease characterised by replacement of liver tissue by fibrosis, scar tissue and regenerative nodules.
+
+DB94.1Y	Other specified alcoholic hepatitis
+
+DB94.1Z	Alcoholic hepatitis, unspecified
+
+DB94.2	Alcoholic liver fibrosis
+Alcoholic fibrosis of liver is defined as an excess deposition of the collagens and extracellular matrix within the liver as evident histologically, caused by excessive intake of alcohol.
+Inclusions:	Alcoholic sclerosis of liver
+
+DB94.3	Alcoholic cirrhosis of liver without hepatitis
+Alcoholic cirrhosis is an advanced pathological stage of alcoholic liver disease characterised by diffuse fibrosis that links portal tracts and central veins, distortion of the hepatic architecture and the formation of regenerative nodules. It often occurs with alcoholic hepatitis.
+Exclusions:	Alcoholic hepatitis with cirrhosis (DB94.10)
+
+DB94.Y	Other specified alcoholic liver disease
+
+DB94.Z	Alcoholic liver disease, unspecified
+
+  DB95  	Drug-induced or toxic liver disease
+Drug-induced and toxic liver disease is hepatotoxicity as injury to the liver that is associated with impaired liver function caused by exposure to a drug or another noninfectious agent.
+Exclusions:	Budd-Chiari syndrome (DB98.5)
+Alcoholic liver disease (DB94)
+
+DB95.0	Drug-induced or toxic liver disease with acute hepatic necrosis or acute hepatitis
+This is an acute hepatocellular injury that develops within 1 to 20 weeks after starting treatment. The histological lesions consist mainly of focal, zonal or bridging necrosis, but lobular and portal tract inflammation evident with drug hepatitis. Extrahepatic features of drug hypersensitivity, including rash, lymphadenopathy, eosinophilia or other systemic features, are observed in some cases.
+
+DB95.1	Drug-induced or toxic liver disease with chronic hepatitis
+This is the chronic form of drug-induced liver injury that almost always depend on continued exposure to the agent, and is characterised by interface hepatitis, bridging necrosis, and fibrosis.
+
+DB95.10	Drug-induced or toxic liver disease with chronic hepatitis with cirrhosis
+This is the chronic form of drug-induced liver injury characterised by interface hepatitis, bridging necrosis and fibrosis, with the development of cirrhosis.
+
+DB95.11	Drug-induced or toxic liver disease with chronic hepatitis without cirrhosis
+
+DB95.1Y	Other specified drug-induced or toxic liver disease with chronic hepatitis
+
+DB95.1Z	Drug-induced or toxic liver disease with chronic hepatitis, unspecified
+
+DB95.2	Drug-induced or toxic liver disease with cholestasis
+This is a drug-induced cholestatic liver injury where the symptoms of pruritus and jaundice are often prominent, and elevated serum alkaline phosphatase is the dominant biochemical finding.
+Inclusions:	Cholestasis with hepatocyte injury
+
+DB95.20	Chronic drug-induced or toxic liver disease with cholestasis
+This is a chronic cholestasis defined by persistence of drug-induced cholestatic liver injury for more than 3 months.
+
+DB95.2Y	Other specified drug-induced or toxic liver disease with cholestasis
+
+DB95.2Z	Drug-induced or toxic liver disease with cholestasis, unspecified
+
+DB95.3	Drug-induced or toxic liver disease with fatty liver
+This is a drug-induced fatty liver that consists of three types of steatosis, including microvesicular steatosis, macrovesicular steatosis, and phospholipidosis.
+
+DB95.30	Drug-induced or toxic liver disease with chronic fatty liver disease
+This is a chronic drug-induced steatosis characterised by relatively large triglyceride globules, which effectively fill the hepatocyte, displace the nucleus and other intracellular constituents to the periphery. Some patients show steatohepatitis, steatosis with focal necrosis and inflammatory cell infiltrate, leading to the development of cirrhosis.
+
+DB95.3Y	Other specified drug-induced or toxic liver disease with fatty liver
+
+DB95.3Z	Drug-induced or toxic liver disease with fatty liver, unspecified
+
+DB95.4	Drug-induced or toxic liver disease with granulomatous hepatitis
+
+DB95.5	Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver
+This is a drug-induced hepatic fibrosis as the end result of chronic hepatitis, chronic hepatotoxicity, steatohepatitis, or chronic cholestasis with bile duct injury.
+
+DB95.6	Drug-induced or toxic liver disease with vascular disorders of the liver
+Drug-associated disorders, leading to portal hypertension independent of primary liver disease, include hepatic vein thrombosis, hepatic veno-occlusive disease, non-cirrhotic portal hypertension, and nodular regenerative hyperplasia.
+
+DB95.7	Drug-induced or toxic liver disease with liver tumours
+Medication and chemical exposure have been associated with many forms of hepatic neoplasms, including focal nodular hyperplasia, hepatic adenoma, hepatocellular carcinoma, cholangiocarcinoma and angiosarcoma.
+
+DB95.Y	Other specified drug-induced or toxic liver disease
+
+DB95.Z	Drug-induced or toxic liver disease, unspecified
+
+  DB96  	Autoimmune liver disease
+Autoimmune liver diseases are generally forms of chronic liver disease in which the etiology is unclear but autoimmune mechanisms are evident or postulated for the development of the disease. The primary target organ is the liver and/or biliary system. It can progress to liver cirrhosis.
+
+DB96.0	Autoimmune hepatitis
+Autoimmune hepatitis is a chronic hepatitis, which can progress to liver cirrhosis, generally featured by the presence of circulating autoantibodies and hyperglobulinemia.
+
+DB96.1	Primary biliary cholangitis
+Primary biliary cholangitis is characterised by progressive destruction and disappearance of the intralobularbile duct epithelial cells leading to cholestasis (high alkaline phosphatase and GGT {gamma glutamyl transferase}) and eventually liver cirrhosis and liver failure, generally associated with the presence of circulating antimitochondrial antibodies and an increase of serum IgM levels.
+Inclusions:	chronic nonsuppurative destructive cholangitis
+Exclusions:	Hepatic fibrosis or cirrhosis (DB93)
+Alcoholic cirrhosis of liver without hepatitis (DB94.3)
+Primary sclerosing cholangitis (DB96.2)
+
+DB96.10	Primary biliary cholangitis with overlap syndrome
+
+DB96.1Y	Other specified primary biliary cholangitis
+
+DB96.1Z	Primary biliary cholangitis, unspecified
+
+DB96.2	Primary sclerosing cholangitis
+Primary sclerosing cholangitis is a chronic disease which shows focal or multifocal strictures of intra- and/or extra-hepatic bile ducts without any apparent causes, leading to cholestasis and ultimately liver cirrhosis and liver failure.
+
+DB96.20	Primary sclerosing cholangitis with cirrhosis
+Primary sclerosing cholangitis with cirrhosis is primary sclerosing cholangitis complicated with liver cirrhosis.
+
+DB96.2Y	Other specified primary sclerosing cholangitis
+
+DB96.2Z	Primary sclerosing cholangitis, unspecified
+
+DB96.Y	Other specified autoimmune liver disease
+
+DB96.Z	Autoimmune liver disease, unspecified
+
+  DB97  	Certain specified inflammatory liver diseases
+Inclusions:	Nonspecific reactive hepatitis
+Exclusions:	Drug-induced or toxic liver disease (DB95)
+Acute viral hepatitis (1E50)
+Acute or subacute hepatic failure (DB91)
+Chronic viral hepatitis (1E51)
+Infectious liver disease (DB90)
+Phlebitis of portal vein (DB98.3)
+Coded Elsewhere:	Hepatic sarcoidosis (4B20.2)
+
+DB97.0	Idiopathic granulomatous hepatitis
+
+DB97.1	Hepatic berylliosis
+
+DB97.2	Chronic hepatitis, not elsewhere classified
+Inclusions:	Chronic hepatitis, unspecified
+Other specified chronic hepatitis
+Exclusions:	hepatitis (chronic): granulomatous NEC (DB97.0)
+Drug-induced or toxic liver disease (DB95)
+hepatitis (chronic): viral (BlockL1‑1E5)
+hepatitis (chronic): alcoholic (DB94.1)
+
+DB97.Y	Other specified inflammatory liver disease
+
+DB97.Z	Inflammatory liver disease, unspecified
+
+  DB98  	Vascular disorders of the liver
+Vascular disorders of the liver are conditions where the hepatic blood flow is deranged due to damage, malformation and obstruction of hepatic artery, portal vein and hepatic vein.
+Coded Elsewhere:	Hereditary haemorrhagic telangiectasia (LA90.00)
+
+DB98.0	Infarction of liver
+Infarction of the liver is hepatic damage caused by limited blood supply to the liver due to obstruction or reduced blood flow of hepatic artery, portal vein or both.
+
+DB98.1	Peliosis hepatis
+Inclusions:	Hepatic angiomatosis
+
+DB98.2	Nodular regenerative hyperplasia of liver
+Nodular regenerative hyperplasia of the liver is a rare disorder characterised by diffuse micronodular transformation of the hepatic parenchyma without fibrous septa between the nodules.
+
+DB98.3	Portal vein thrombosis
+Portal vein thrombosis is a condition where the portal vein and/or its branches are obstructed, mainly by a blood clot or malignant tumour invasion.
+Inclusions:	Phlebitis of portal vein
+
+DB98.4	Splenic vein thrombosis
+Splenic vein thrombosis is a condition where the splenic vein is obstructed, mainly by a blood clot or malignant tumour invasion.
+
+DB98.5	Budd-Chiari syndrome
+Budd-Chiari syndrome is caused by obstruction of hepatic venous outflow involving either the hepatic veins or the terminal segment of the inferior vena cava and leading to hepatic congestion and ischemic necrosis. Severity depends on the speed of onset and extent of the obstruction. 
+Obstructions are generally caused by thrombosis in primary BCS, while secondary BCS results from tumour invasion into the lumen or compression of the vein by an expansive lesion. The principle manifestations of BCS are ascites leading to undernutrition and renal insufficiency, gastrointestinal haemorrhage due to portal hypertension, and hepatic insufficiency resulting in encephalopathy and severe infections. Asymptomatic forms have also been reported.
+
+DB98.6	Hepatic veno-occlusive disease
+Hepatic veno-occlusive disease (hepatic VOD) is a liver disease resulting from toxic injury to the hepatic sinusoidal capillaries that leads to obstruction of the small hepatic veins. The clinical picture is characterised by painful hepatomegaly, jaundice, oedemas, and ascites.
+Exclusions:	Budd-Chiari syndrome (DB98.5)
+Hepatic veno-occlusive disease - immunodeficiency (4A01.33)
+
+DB98.7	Portal hypertension
+Portal hypertension is abnormal increase of portal vein pressure, which induces development of collateral vessels of portal vein including oesophageal and cardiac varices. It also contributes to development of ascites.
+
+DB98.70	Idiopathic portal hypertension
+
+DB98.71	Non-cirrhotic portal fibrosis
+
+DB98.72	Partial nodular transformation of liver
+
+DB98.73	Splanchnic arteriovenous fistula
+
+DB98.7Y	Other specified portal hypertension
+
+DB98.7Z	Portal hypertension, unspecified
+
+DB98.8	Passive congestion of liver
+A condition of congestion, due to impaired venous drainage, typically by right heart failure, that affects the liver.
+Exclusions:	Hepatic veno-occlusive disease (DB98.6)
+Budd-Chiari syndrome (DB98.5)
+
+DB98.9	Hepatic artery aneurysm
+An aneurysm which develops on the hepatic artery. Causes of the aneurysm include arteriosclerosis, vasculitis, trauma and infection.
+
+DB98.A	Hepatic haemorrhage
+Traumatic or nontraumatic spontaneous bleeding in the liver. The most common cause of the latter is the rupture of liver tumours.
+Exclusions:	Hepatic haemorrhage due to hepatocellular carcinoma (2C12.02)
+
+DB98.B	Ischaemia reperfusion injury of liver
+Liver injury caused by reperfusion of blood after non-lethal ischaemia of the liver.
+Inclusions:	Ischaemic hepatitis
+
+DB98.Y	Other specified vascular disorders of the liver
+
+DB98.Z	Vascular disorders of the liver, unspecified
+
+  DB99  	Certain specified diseases of liver
+This is a group of conditions characterised as being in or associated with the liver that are not classified elsewhere.
+Exclusions:	cystic disease of liver (congenital) (LB20.00)
+hepatic vein thrombosis (BD71)
+toxic liver disease (DB95)
+hepatomegaly NOS (ME10.00)
+portal vein thrombosis (DB98.3)
+amyloid degeneration of liver (5D00.0)
+alcoholic liver disease (DB94)
+Coded Elsewhere:	Liver disorders in pregnancy, childbirth or the puerperium (JA65.0)
+Cirrhotic cardiomyopathy (BC43.Y)
+
+DB99.0	Chronic liver disease
+
+DB99.1	Hepatic cyst
+This is a closed sac, having a distinct membrane and division compared to the nearby tissue. It may contain air, fluids, or semi-solid material of the liver.
+Inclusions:	Simple cyst of liver
+
+DB99.10	Polycystic liver disease
+Polycystic liver disease is a genetic disorder characterised by the appearance of numerous cysts spread throughout the liver.
+
+DB99.1Y	Other specified hepatic cyst
+
+DB99.1Z	Hepatic cyst, unspecified
+
+DB99.2	Hepatorenal syndrome
+Exclusions:	Hepatorenal syndrome following labour or delivery (JB44.4)
+
+DB99.3	Portopulmonary hypertension
+This is the coexistence of portal and pulmonary hypertension, and is a serious complication of liver disease, present in 0.25 to 4% of all patients suffering from cirrhosis.
+
+DB99.4	Hepatopulmonary syndrome
+This is a syndrome of shortness of breath and hypoxemia (low oxygen levels in the blood of the arteries) caused by vasodilation (broadening of the blood vessels) in the lungs of patients with liver disease.
+
+DB99.5	Hepatic encephalopathy
+Hepatic encephalopathy is a complication of liver cirrhosis and a hallmark of acute liver failure, and is also observed in patients with portosystemic shunts without cirrhosis. Hepatic encephalopathy is characterised by personality changes, intellectual impairment, flapping tremor and a decreased consciousness level. In the advanced stages it is called hepatic coma, which may lead to death. The diagnosis of hepatic encephalopathy is made primarily by recognition of neuropsychiatric changes occurring in a patient with liver disease, after exclusion of brain diseases.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Chronic liver disease (DB99.0)
+
+DB99.6	Intrahepatic cholestasis, not elsewhere classified
+Exclusions:	Metabolic liver disease (5C90)
+Neonatal jaundice due to isoimmunization (KA84.0)
+Neonatal hyperbilirubinaemia (KA87)
+Progressive familial intrahepatic cholestasis (5C58.03)
+Benign recurrent intrahepatic cholestasis (5C58.04)
+Chronic cholestasis (DC10.02)
+Coded Elsewhere:	Hepatic amyloidosis with intrahepatic cholestasis (5D00.0)
+
+DB99.60	Cholestasis of parenteral nutrition
+This is a condition where bile cannot flow from the liver to the duodenum, so one must feed a person intravenously, bypassing the usual process of eating and digestion.
+
+DB99.6Y	Other specified intrahepatic cholestasis, not elsewhere classified
+
+DB99.6Z	Intrahepatic cholestasis, not elsewhere classified, unspecified
+
+DB99.7	Hepatic failure without mention whether acute or chronic
+
+DB99.8	Chronic hepatic failure
+
+DB99.Y	Other diseases of liver
+
+  DB9Z  	Diseases of liver, unspecified
+
+Diseases of gallbladder or biliary tract (BlockL1‑DC1)
+This is a group of conditions characterised as being in or associated with the gallbladder (an organ) and the biliary tract (the passageways for bile).
+Coded Elsewhere:	Neoplasms of the gallbladder or biliary tract
+Structural developmental anomalies of gallbladder (LB20.1)
+Structural developmental anomalies of bile ducts (LB20.2)
+Structural developmental anomalies of gallbladder or bile ducts (LB20.Y)
+  DC10  	Acquired anatomical alterations of gallbladder or bile ducts
+This considers the structure in the alterations of the gall bladder and the long tube-like structures that carry bile.
+Exclusions:	Congenital anomalies of gall bladder and bile ducts (LB20)
+Coded Elsewhere:	Perforation of gallbladder or bile ducts (ME24.35)
+
+DC10.0	Obstruction of gallbladder or bile ducts
+This is obstruction in the small organ that aids mainly in fat digestion and concentrates bile produced by the liver and in any of a number of long tube-like structures that carry bile.
+Exclusions:	Obstruction of gall bladder and bile ducts: with cholelithiasis (DC11)
+
+DC10.00	Obstruction of cystic duct
+
+DC10.01	Obstruction of gall bladder
+
+DC10.02	Obstruction of bile duct
+Exclusions:	with cholelithiasis (DC11)
+
+DC10.0Y	Other specified obstruction of gallbladder or bile ducts
+
+DC10.0Z	Obstruction of gallbladder or bile ducts, unspecified
+
+DC10.1	Hydrops of gallbladder
+Abnormal accumulation of serous fluid in the gallbladder
+
+DC10.2	Fistula of gallbladder or bile duct
+This is an abnormal connection or passageway between gallbladder or bile duct and other organs.
+
+DC10.3	Polyp of gallbladder
+The deposits of cholesterol and triglyceride in the gallbladder wall, projecting into the lumen.
+Exclusions:	Adenoma of gallbladder (2E92.6)
+
+DC10.4	Cholesterolosis of gallbladder
+Inclusions:	Strawberry gallbladder
+
+DC10.Y	Other specified acquired anatomical alterations of gallbladder or bile ducts
+
+DC10.Z	Acquired anatomical alterations of gallbladder or bile ducts, unspecified
+
+  DC11  	Cholelithiasis
+Cholelithiasis is calculus of gallbladder, cystic duct or bile duct. Most stones in the gallbladder are asymptomatic, but the most common initial symptom is biliary colic before the development of complications, including acute cholecystitis or cholangitis.
+
+DC11.0	Calculus of gallbladder or cystic duct with acute cholecystitis
+Stones in gallbladder or cystic duct present with acute inflammation of the gall bladder wall typically follows the cystic duct obstruction by the stone.
+
+DC11.1	Calculus of gallbladder or cystic duct with other cholecystitis
+Stones in gallbladder or cystic duct present with inflammation of the gall bladder wall and bile duct.
+
+DC11.2	Calculus of gallbladder or cystic duct with cholangitis
+
+DC11.3	Calculus of gallbladder or cystic duct without cholecystitis or cholangitis
+Stones in gallbladder present without inflammation of the gall bladder wall and bile duct.
+
+DC11.4	Calculus of bile duct with cholangitis
+Stones in bile duct present with inflammation of bile duct.
+Inclusions:	Choledocholithiais with cholangitis
+
+DC11.5	Calculus of bile duct with cholecystitis
+Stones in bile duct present with inflammation of gallbladder wall.
+
+DC11.6	Calculus of bile duct without cholangitis or cholecystitis
+Stones in bile duct present without inflammation of gallbladder wall and bile duct.
+
+DC11.7	Intrahepatic cholelithiasis
+
+DC11.Y	Other specified cholelithiasis
+
+DC11.Z	Cholelithiasis, unspecified
+
+  DC12  	Cholecystitis
+Inflammation of gallbladder wall by infection of various organism and/or unspecified disorders.
+Exclusions:	Cholelithiasis (DC11)
+
+DC12.0	Acute cholecystitis
+Acute inflammation of the gall bladder wall typically follows the cystic duct obstruction. The inflammation is evoked by mechanical, chemical, vascular, and bacterial inflammatory factors.
+Inclusions:	acute acalculous cholecystitis
+
+DC12.00	Acute on chronic cholecystitis
+
+DC12.0Y	Other specified acute cholecystitis
+
+DC12.0Z	Acute cholecystitis, unspecified
+
+DC12.1	Chronic cholecystitis
+Chronic inflammation of the gall bladder wall resulted from repeated acute cholecystitis or from mechanical irritation of the gall bladder wall by unspecified disorders
+Inclusions:	chronic acalculous cholecystitis
+
+DC12.Y	Other specified cholecystitis
+
+DC12.Z	Cholecystitis, unspecified
+
+  DC13  	Cholangitis
+Exclusions:	chronic nonsuppurative destructive cholangitis (DB96.1)
+cholangitis with cholelithiasis (DC11.4)
+Primary sclerosing cholangitis (DB96.2)
+
+  DC14  	Certain specified biliary diseases
+This is a group of conditions characterised as being in or associated with the biliary tract, the passageway for bile, which are not classified elsewhere.
+Exclusions:	Malignant neoplasms of hepatobiliary system (BlockL3‑2B7)
+Carcinoma in situ of gallbladder, biliary tract or ampulla of Vater (2E61.3)
+Benign neoplasm of gallbladder, extrahepatic bile ducts or ampulla of Vater (2E92.6)
+
+DC14.0	Haemorrhage of bile duct
+Inclusions:	Haemobilia
+
+DC14.1	Postcholecystectomy syndrome
+This describes the presence of abdominal symptoms after surgical removal of the gallbladder. Symptoms may include nausea and vomiting, bloating and diarrhoea, and pain in the upper right abdomen. The pain is often ascribed to discoordination of biliary sphincter of Oddi.
+
+DC14.2	Dyskinesia of sphincter of Oddi
+This is a movement disorder which consists of adverse effects including diminished voluntary movements and the presence of involuntary movements in the muscular valve that controls the flow of digestive juices (bile and pancreatic juice) through the ampulla of Vater into the second part of the duodenum.
+Inclusions:	Dysfunction of sphincter of Oddi
+Malfunctioning of sphincter of Oddi
+
+DC14.3	Adenomyomatosis of gallbladder
+This is a condition of an abnormal gallbladder wall. There can be overgrowth of mucosa, thickened muscle, and Rokitansky-Aschoff sinuses.
+
+DC14.Y	Other biliary diseases
+
+DC14.Z	Biliary disease, unspecified
+
+  DC1Y  	Other specified diseases of gallbladder or biliary tract
+
+  DC1Z  	Diseases of gallbladder or biliary tract, unspecified
+
+Diseases of pancreas (BlockL1‑DC3)
+This is a group of conditions characterised as being in or associated with the pancreas.
+Coded Elsewhere:	Neoplasms of pancreas
+Structural developmental anomalies of pancreas (LB21)
+  DC30  	Cystic diseases of the pancreas
+This is a closed sac, having a distinct membrane and division compared to the nearby tissue, which may contain air, fluids, or semi-solid material, of the pancreas.
+
+DC30.0	Cyst of pancreas
+Coded Elsewhere:	Congenital pancreatic cyst (LB21.Y)
+
+DC30.1	Pseudocyst of pancreas
+
+DC30.Y	Other specified cystic diseases of the pancreas
+
+DC30.Z	Cystic diseases of the pancreas, unspecified
+
+  DC31  	Acute pancreatitis
+Inflammation of the pancreas with sudden onset. Pathological changes range from oedema to necrosis. While mild cases often recover without complications, severe cases have high mortality due to systemic complications despite intensive treatment.
+Coded Elsewhere:	Cytomegaloviral pancreatitis (1D82.1)
+Pancreatitis due to mumps virus (1D80.4)
+
+DC31.0	Acute idiopathic pancreatitis
+Acute pancreatitis of which etiology cannot be identified. It should be diagnosed by exclusion of alcohol, gallstone, and other possible etiologies.
+
+DC31.1	Acute alcohol-induced pancreatitis
+Acute pancreatitis associated with alcohol consumption. Although alcohol consumption is a major cause of this disease, the diagnosis should be made after exclusion of other etiologies.
+
+DC31.2	Acute biliary pancreatitis
+Acute pancreatitis associated with gallstone. Although gallstone is a major etiology, the diagnosis should be made after exclusion of other etiologies. Bile reflux into pancreatic duct caused by an impacted stone at the duodenal papilla is assumed to be a cause.
+Inclusions:	Gallstone pancreatitis
+
+DC31.3	Acute drug-induced pancreatitis
+Acute pancreatitis caused by drug administration. Some diuretics, anti-tumour or antibiotic drugs, estrogen-containing contraceptives, azathioprine and others have been reported to induce acute pancreatitis.
+
+DC31.4	Hereditary acute pancreatitis
+This is a recurrent acute inflammation of pancreas characterised by episodes of severe abdominal pain. Several genetic mutations are associated with this pancreatitis. Onset of the disease is generally under 20 years old, but it can be at any age.
+
+DC31.5	Acute exacerbation of chronic pancreatitis
+
+DC31.Y	Other specified acute pancreatitis
+
+DC31.Z	Acute pancreatitis, unspecified
+
+  DC32  	Chronic pancreatitis
+Exclusions:	Cystic fibrosis of pancreas with pancreatic insufficiency (DC30)
+Pancreatic steatorrhoea (DC35.2)
+
+DC32.0	Calcific pancreatitis
+This is inflammation of the pancreas which requires immediate medical attention and hospitalization during an attack, which calcium salts build up in soft tissue, causing it to harden.
+
+DC32.1	Groove pancreatitis
+
+DC32.2	Hereditary chronic pancreatitis
+Hereditary chronic pancreatitis is a very rare form of childhood onset chronic pancreatitis. With the exception of an earlier onset and a slower progression the clinical course, the morphological features and laboratory findings of HCP do not differ from those present in patients with alcoholic chronic pancreatitis.
+
+DC32.3	Chronic alcohol-induced pancreatitis
+
+DC32.4	Chronic idiopathic pancreatitis
+This is an inflammation of the pancreas characterised by recurring or persistent abdominal pain, not associated with known risk factors.
+
+DC32.5	Tropical pancreatitis
+Tropical pancreatitis is a rare pancreatic disease of juvenile onset occurring mainly in tropical developing countries and characterised by chronic non-alcoholic pancreatitis manifesting with abdominal pain, steatorrhoea and fibrocalculous pancreatopathy . It is also commonly associated with the development of pancreatic calculi and pancreatic cancer at a much higher frequency than seen in ordinary chronic pancreatitis.
+
+DC32.Y	Other specified chronic pancreatitis
+
+DC32.Z	Chronic pancreatitis, unspecified
+
+  DC33  	Autoimmune pancreatitis
+Autoimmune pancreatitis (AIP) is a rare pancreatic disease characterised by chronic non-alcoholic pancreatitis that presents with abdominal pain, steatorrhoea, obstructive jaundice and responds well to steroid therapy and is seen in two subforms: type 1 AIP which affects elderly males, involves other organs and has increased immunoglobin G4 (IgG4) levels and type 2 AIP which affects both sexes equally but presents at a younger age and has no other organ involvement or increased IgG4 levels.
+
+  DC34  	Obstructive pancreatitis
+This is obstruction in the inflammation of the pancreas which requires immediate medical attention and hospitalization during an attack that has multiple causes and symptoms, which occurs when pancreatic enzymes (especially trypsin) that digest food are activated in the pancreas instead of the small intestine.
+
+  DC35  	Certain specified diseases of pancreas
+
+DC35.0	Atrophy of pancreas
+
+DC35.1	Secondary pancreatic insufficiency
+Coding Note:	Code aslo the causing condition
+
+DC35.2	Pancreatic steatorrhoea
+
+DC35.Z	Certain specified diseases of pancreas, unspecified
+
+  DC3Y  	Other specified diseases of pancreas
+
+  DC3Z  	Diseases of pancreas, unspecified
+
+Diseases of peritoneum (BlockL1‑DC5)
+This is the serous membrane that forms the lining of the abdominal cavity or the coelom—it covers most of the intra-abdominal (or coelomic) organs—in amniotes and some invertebrates.
+Coded Elsewhere:	Neoplasms of peritoneum or retroperitoneum
+  DC50  	Peritonitis
+Peritonitis is inflammation of the peritoneum, a condition marked by exudations in the peritoneum of serum, fibrin, cells, and pus.
+Exclusions:	Female pelvic peritonitis, unspecified (GA05.2)
+peritonitis with or following: abortion or ectopic or molar pregnancy (JA05.0)
+puerperal peritonitis (JB40.0)
+peritonitis with or following diverticular disease of small intestine (BlockL2‑DC7)
+peritonitis with or following diverticular disease of large intestine (BlockL2‑DC8)
+periodic familial peritonitis (5D00.21)
+Coded Elsewhere:	Neonatal peritonitis (KB8B)
+
+DC50.0	Primary peritonitis
+Peritonitis without surgical source nor the evident source of the infecting and other agent.
+
+DC50.00	Spontaneous bacterial peritonitis
+Acute bacterial infection of ascetic fluid without the evident source of the infecting agent in the patient with liver cirrhosis, or in the patient receiving peritoneal dialysis
+
+DC50.01	Other specified primary peritonitis
+
+DC50.1	Secondary peritonitis
+Peritonitis with evident source of an infecting agent or due to other diseases.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Female pelvic peritonitis, unspecified (GA05.2)
+Acute appendicitis with generalised peritonitis (DB10.00)
+Neonatal peritonitis (KB8B)
+Acute appendicitis with localised peritonitis (DB10.01)
+Genital tract or pelvic infection following abortion, ectopic or molar pregnancy (JA05.0)
+Puerperal sepsis (JB40.0)
+Diverticular disease of small intestine (BlockL2‑DC7)
+Diverticular disease of large intestine (BlockL2‑DC8)
+
+DC50.10	Eosinophilic peritonitis
+10% or more eosinophils in peritoneal effluent at presentation, and its causes are often obscure. However, cases have been reported with allergic reactions, exposure to drugs such as vancomycin, fungal and viral infections, soon after catheter replacement, and icodextrin treatment
+
+DC50.11	Mesenteric peritonitis
+peritonitis due to mesenterial fat necrosis or saponification
+
+DC50.12	Chronic proliferative peritonitis
+Extensive peritoneal fibrosis in response to asbestos, continuous ambulatory peritoneal dialysis. Clinical intestinal obstruction due to massive peritoneal adhesions.
+
+DC50.13	Peritonitis due to Streptococcus pneumoniae
+This is an inflammation of the peritoneum due to a Gram-positive, alpha-haemolytic, aerotolerant anaerobic member of the genus Streptococcus.
+
+DC50.14	Secondary peritonitis due to other diseases or agents
+Coding Note:	Code aslo the causing condition
+
+DC50.1Y	Other specified secondary peritonitis
+Coding Note:	Code aslo the causing condition
+
+DC50.1Z	Secondary peritonitis, unspecified
+Coding Note:	Code aslo the causing condition
+
+DC50.2	Peritoneal abscess
+A confined collection of inflammatory exudate in peritonitis.
+
+DC50.Z	Peritonitis, unspecified
+
+  DC51  	Certain specified disorders of peritoneum or retroperitoneum
+Exclusions:	Ascites (ME04)
+
+DC51.0	Chylous ascites
+Chylous ascites is a rare form of ascites caused by accumulation of lymph in the peritoneal cavity, usually due to intra-abdominal malignancy, liver cirrhosis or abdominal surgery complications, and present with painless but progressive abdominal distension, dyspnoea and weight gain.
+
+DC51.1	Peritoneal adhesions
+Disorders of peritoneum sticking by scar tissue or fibrosis
+Exclusions:	Adhesions of large intestine with obstruction (DB30.2)
+Postprocedural pelvic peritoneal adhesions (GC73)
+Intestinal adhesions or bands of small intestine with obstruction (DA91.2)
+
+DC51.2	Haemoperitoneum
+Blood retention in peritoneal cavity
+Exclusions:	traumatic retroperitoneal haemorrhage or haematoma (NB97.0)
+
+DC51.Y	Other specified disorders of peritoneum or retroperitoneum
+
+  DC5Z  	Diseases of peritoneum, unspecified
+
+Diverticular disease of intestine (BlockL1‑DC7)
+Diverticula are a major burden of illness in an aging population, presenting with bleeding or in form of a diverticulitis. Many are asymptomatic. Most diverticula (pseudodiverticula) occur in the colon, occurrence in the small intestine is also possible, but less frequent.
+Exclusions:	Gastric diverticulum (DA40.3)
+Diverticulum of oesophagus, acquired (DA20.1)
+Meckel diverticulum (LB15.0)
+Diverticular disease of small intestine (BlockL2‑DC7)
+Diverticula can occur anywhere in the small intestine, but they are most common in the jejunum. They represent herniations through the mesenteric side of the bowel and are usually acquired. This refers to the clinical entity characterised by the presence of sac-like outpocketings of the intestinal mucosa and submucosa through weak points of the muscle layer of the small intestine. This contains both diverticulitis and diverticulosis.
+Exclusions:	Meckel diverticulum (LB15.0)
+Coded Elsewhere:	Diverticulum of duodenum, with complication (DA50.1)
+  DC70  	Diverticulitis of small intestine
+When the pouches of small intestine (diverticula) become infected or inflamed, the condition is called diverticulitis. Diverticulitis may lead to several serious complications, such as small tears, called perforations and abscess, formation of fistula to adjacent organs, bleeding, or blockages in the lumen, and medical care is needed.
+
+DC70.0	Diverticulitis of small intestine with complication
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the small intestine and results if one or some of these diverticula becomes inflamed, of the small intestine with complication.
+
+DC70.00	Diverticulitis of small intestine with perforation and abscess
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the small intestine and results if one or some of these diverticula becomes inflamed, of the small intestine with perforation and abscess.
+
+DC70.0Y	Diverticulitis of small intestine with other specified complication
+
+DC70.0Z	Diverticulitis of small intestine with unspecified complication
+
+DC70.1	Diverticulitis of small intestine without complication
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the small intestine and results if one or some of these diverticula becomes inflamed, of the small intestine without complication.
+
+DC70.Z	Diverticulitis of small intestine without specification of presence of complications
+
+  DC71  	Diverticulosis of small intestine
+Diverticulosis of small intestine is a condition characterised by the presence of multiple sack-like mucosal herniations called diverticula through weak points in the wall or lining of the small intestine. Small intestinal diverticula are far less common than colonic diverticula. Most people with diverticulosis do not have any discomfort or symptoms. However, some people may experience pain or discomfort in the abdomen, bloating, and bleeding.
+
+DC71.0	Diverticulosis of small intestine with haemorrhage
+This is the condition of having diverticula in the small intestine, which are outpocketings of the mucosa and submucosa through weaknesses of muscle layers in the wall of the small intestine, with haemorrhage.
+
+DC71.1	Diverticulosis of small intestine without haemorrhage
+This is the condition of having diverticula in the small intestine, which are outpocketings of the mucosa and submucosa through weaknesses of muscle layers in the wall of the small intestine, without haemorrhage.
+
+DC71.Z	Diverticulosis of small intestine, unspecified
+
+  DC72  	Diverticulum of small intestine
+This is a morphological condition in which there is a small pouch in the lining of the small intestine, bulging outward through a weak spot. Each pouch is called a diverticulum. The condition of having multiple diverticula with symptoms, or with inflammation is excluded from here.
+
+DC72.0	Diverticulum of small intestine with haemorrhage
+This is a morphological condition in which there is a small pouch called diverticulum in the lining of the small intestine, with haemorrhage.
+
+DC72.1	Diverticulum of small intestine without haemorrhage
+This is a morphological condition in which there is a small pouch called diverticulum in the lining of the small intestine, without haemorrhage.
+
+DC72.Z	Diverticulum of small intestine, no specification about presence or absence of haemorrhage
+
+Diverticular disease of large intestine (BlockL2‑DC8)
+This refers to the clinical entity characterised by the presence of sac-like outpocketings of the colonic mucosa and submucosa through weak points of the muscle layer of the large intestine. This contains both diverticulitis and diverticulosis. Diverticular disease is used to describe a specific clinical disorder with defined radiological and pathological appearance, in which there is a characteristic muscle abnormality, usually, but not invariably accompanied by the presence of diverticula which may or may not be inflamed.
+Exclusions:	Diverticular disease of small and large intestine (DC90)
+  DC80  	Diverticulitis of large intestine
+Diverticulitis is applied when one or more diverticula are the source of visible macroscopic inflammation. It is often accompanied by pericolic abscess formation.
+
+DC80.0	Diverticulitis of large intestine with complication
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the colon and results if one or some of these diverticula becomes inflamed, of the large intestine with complication.
+
+DC80.00	Diverticulitis of large intestine with perforation and abscess
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the colon and results if one of these diverticula becomes inflamed, of the large intestine with perforation and abscess.
+
+DC80.0Z	Diverticulitis of large intestine with complication, unspecified
+
+DC80.1	Diverticulitis of large intestine without complication
+This develops from diverticulosis, which involves the formation of pouches (diverticula) on the outside of the colon and results if one or some of these diverticula becomes inflamed, of the large intestine without complication.
+
+DC80.Z	Diverticulitis of large intestine without specification of presence of complications
+
+  DC81  	Diverticulosis of large intestine
+The name diverticulosis is used merely to indicate the presence of multiple diverticula in the large intestine, with or without the accompanying muscle abnormalities found in classical diverticular disease. The condition of having multiple pouches (diverticula) is called diverticulosis. Most people with diverticulosis do not have any discomfort or symptoms. However, some people may experience crampy pain or discomfort in the lower abdomen, bloating, and constipation.
+
+DC81.0	Diverticulosis of large intestine with haemorrhage
+This is the condition of having diverticula in the large intestine, which are outpocketings of the mucosa and submucosa through weaknesses of muscle layers in the wall of the large intestine, with haemorrhage.
+
+DC81.1	Diverticulosis of large intestine without haemorrhage
+This is the condition of having diverticula in the large intestine, which are outpocketings of the mucosa and submucosa through weaknesses of muscle layers in the wall of the large intestine, without haemorrhage.
+
+DC81.Z	Diverticulosis of large intestine, unspecified
+
+  DC82  	Diverticulum of large intestine
+This is a morphological condition in which typical pulsion type of consisting of a pouch of mucous membrane (including muscularis mucosae) projecting through and beyond the circular muscle layers of the bowel wall so that they come to lie in the pericolic fat and appendices epiploicae. Each pouch is called a diverticulum. The condition of having multiple diverticula with symptoms, or with inflammation is excluded from here.
+
+DC82.0	Diverticulum of large intestine with haemorrhage
+This is a morphological condition in which there is a small pouch called diverticulum in the lining of the large intestine, with haemorrhage.
+
+DC82.1	Diverticulum of large intestine without haemorrhage
+This is a morphological condition in which there is a small pouch called diverticulum in the lining of the large intestine, without haemorrhage.
+
+DC82.Z	Diverticulum of large intestine, unspecified
+
+Diverticular disease of intestine of overlapping sites (BlockL2‑DC9)
+  DC90  	Diverticular disease of small and large intestine
+
+Diverticular disease of unspecified part of intestine (BlockL2‑DD0)
+  DD00  	Diverticulitis of unspecified part of intestine
+
+DD00.0	Diverticulitis of unspecified part of intestine with complication
+
+DD00.00	Diverticulitis of unspecified part of intestine with perforation and abscess
+
+DD00.0Y	Other specified diverticulitis of unspecified part of intestine with complication
+
+DD00.0Z	Diverticulitis of unspecified part of intestine with complication, unspecified
+
+DD00.1	Diverticulitis of unspecified part of intestine without complication
+
+DD00.Z	Diverticulitis of unspecified part of intestine without specification of presence or absence of complications
+
+  DD01  	Diverticulosis of unspecified part of intestine
+
+DD01.0	Diverticulosis of unspecified part of intestine with haemorrhage
+
+DD01.1	Diverticulosis of unspecified part of intestine without haemorrhage
+
+DD01.Z	Diverticulosis of unspecified part of intestine, unspecified
+
+  DD02  	Diverticulum of unspecified part of intestine
+
+DD02.0	Diverticular disease of unspecified part of intestine with haemorrhage
+
+DD02.1	Diverticulum of unspecified part of intestine without complication
+
+DD02.Z	Diverticulum of unspecified part of intestine, unspecified
+
+
+  DD1Z  	Diverticular disease of intestine, unspecified
+
+Ischaemic vascular disorders of intestine (BlockL1‑DD3)
+Intestinal ischemia characterised by blood supply to the gastrointestinal tract that is inadequate to meet its metabolic demand
+Exclusions:	necrotizing enterocolitis of fetus or newborn (KB88)
+Coded Elsewhere:	Angiodysplasia of colon (DB34.0)
+  DD30  	Acute vascular disorders of intestine
+Intestinal ischaemia has an associated vascular block, usually due to atheroma, thrombus, or embolus but occasionally the result of an arteritis, vasculitis, or other condition.
+Coded Elsewhere:	Non-occlusive mesenteric ischaemia (DD31.0)
+
+DD30.0	Acute mesenteric arterial infarction
+Acute mesenteric arterial infarction is an ischemic disorder of sudden interruption of mesenteric arterial flow because of occlusion of mesenteric artery. This may be further subdivided into acute mesenteric arterial embolus (AMAE) and acute mesenteric arterial thrombosis (AMAT).
+
+DD30.1	Acute mesenteric arterial ischaemia
+Acute mesenteric ischemia is low flow states of mesenteric circulation, in which inadequate blood flow through the mesenteric circulation causes ischemia and eventual gangrene of the bowel wall. It can be caused by various conditions such as arterial occlusion, venous occlusion, strangulating obstruction, and hypoperfusion associated with nonocclusive vascular diseases.
+
+DD30.2	Acute mesenteric venous occlusion
+Acute mesenteric venous occlusion is an ischemic disorder of sudden interruption of mesenteric venous flow because of venous thrombosis.
+
+DD30.Y	Other specified acute vascular disorders of intestine
+
+DD30.Z	Acute vascular disorders of intestine, unspecified
+
+  DD31  	Chronic vascular disorders of intestine
+Chronic mesenteric ischaemia is a clinical syndrome characterised by recurrent abdominal pain and weight loss as a result of repeated transient episodes of insufficient intestinal blood flow, usually related with the increased metabolic demand associated with digestion.
+
+DD31.0	Non-occlusive mesenteric ischaemia
+Non-occlusive mesenteric ischaemia causes 20% to 30% of acute mesenteric ischaemia episodes. Mesenteric ischaemia without anatomic arterial or venous obstruction is due to mesenteric vasospasm, which can occur during periods of relatively low mesenteric flow, especially if there is underlying arterial atherosclerotic disease. Such low-flow state can result from heart failure, hypotension, or hypovolemia.
+Coded Elsewhere:	Acute non-occlusive mesenteric arterial ischaemia (DD30.1)
+
+DD31.00	Ischaemic colitis
+Ischemic colitis is the most common form of ischemic injury to the gut and occurs more frequently in elderly people. The disease can result from either occlusive or nonocclusive events, mainly in the territory of the inferior mesenteric artery, in colonic branches of the superior mesenteric artery, and in the superior and inferior mesenteric veins. The splenic flexure and rectosigmoid junction, where low perfusion exists, are commonly affected.
+
+DD31.0Y	Other specified non-occlusive mesenteric ischaemia
+
+DD31.0Z	Non-occlusive mesenteric ischaemia, unspecified
+
+DD31.Y	Other specified chronic vascular disorders of intestine
+
+DD31.Z	Chronic vascular disorders of intestine, unspecified
+
+  DD3Y  	Other specified ischaemic vascular disorders of intestine
+
+  DD3Z  	Ischaemic vascular disorders of intestine, unspecified
+
+Hernias (BlockL1‑DD5)
+A hernia is the protrusion of an organ or the fascia of an organ through the wall of the cavity that normally contains it. In this category hernia which relates to gastrointestinal organs is included.
+  DD50  	Non-abdominal wall hernia
+A hernia occurs through the foramen in the diaphragm, the pelvic wall and the other opening covered by peritoneum not through the abdominal wall.
+
+DD50.0	Diaphragmatic hernia
+A hernia occurs through the foramen in the diaphragm.
+Inclusions:	paraoesophageal hernia
+Exclusions:	Congenital diaphragmatic hernia (LB00.0)
+Congenital hiatus hernia (LB13.1)
+
+DD50.1	Pelvic hernia
+A hernia occurs through the foramen in the pelvic wall.
+
+DD50.2	Intra-abdominal hernia
+A hernia occurs intra-abdominally through the opening covered by peritoneum.
+
+DD50.20	Primary intra-abdominal hernia
+A hernia occurs intra-abdominally and primarily through the opening covered by peritoneum without surgery and trauma.
+Exclusions:	congenital malpositioning of the intestine (LB18)
+
+DD50.21	Secondary intra-abdominal hernia
+A hernia occurs intra-abdominally and secondarily through the opening covered by peritoneum after abdominal surgery and trauma.
+Coding Note:	Code aslo the causing condition
+
+DD50.2Y	Other specified intra-abdominal hernia
+
+DD50.2Z	Intra-abdominal hernia, unspecified
+
+DD50.Y	Other specified non-abdominal wall hernia
+
+  DD51  	Inguinal hernia
+A hernia occurs when part of an internal organ bulges through a weak area of muscle. Most hernias occur in the abdomen. Inguinal hernia is the most common type and is in the groin.
+Coding Note:	Use additional codes, if desired, to identify complications such as obstruction or gangrene.
+Inclusions:	bubonocele
+scrotal hernia
+
+  DD52  	Femoral hernia
+A femoral hernia is a protrusion of a loop of the intestine through a weakened abdominal wall, located in the lower abdomen near the thigh.
+A hernia occurs when the contents of the abdomen (usually part of the small intestine) push through a weak point or tear the thin muscular wall of the abdomen, which holds the abdominal organs in place. Femoral hernias tend to occur more often in women than in men.
+
+  DD53  	Umbilical hernia
+A hernia occurs when part of an internal organ bulges through a weak area of muscle. An umbilical hernia is a protrusion of the peritoneum and fluid, omentum, or a portion of abdominal organ(s) through the umbilical ring. The umbilical ring is the fibrous and muscle tissue around the navel (belly-button). Small hernias usually close spontaneously without treatment by age 1 or 2. Umbilical hernias are usually painless and are common in infants.
+Exclusions:	Omphalocele (LB01)
+Urachal cyst (LB03.0)
+
+  DD54  	Paraumbilical hernia
+Paraumbilical or periumbilical hernias occur next to and supra-umbilical occur just above the navel. Paraumbilical hernias are large abdominal defects through the linea alba in the region of the umbilicus and are usually related to diastasis of the rectus abdominis muscles.
+Inclusions:	Supraumbilical hernia
+
+  DD55  	Epigastric hernia
+A hernia occurs through the weak area of the upper abdomen between the umbilicus and the xiphoid on the linea alba. Although congenital epigastric hernias have been described in infants, they are usually considered an acquired condition.
+
+  DD56  	Incisional hernia
+A hernia occurs through the weak area on the incision of the past abdominal surgery or major abdominal trauma.
+
+  DD57  	Parastomal hernia
+A hernia occurs through the weak parastomal area after making stoma.
+
+  DD5Y  	Other specified hernias
+
+  DD5Z  	Hernias, unspecified
+
+Inflammatory bowel diseases (BlockL1‑DD7)
+Inflammatory bowel disease is a group of inflammatory conditions of the intestine of unknown etiology. The pathogenesis is hypothesized that the mucosal immune system shows an aberrant response towards luminal antigens such as dietary factors and commensal microbiota in genetically susceptible individuals.
+Coded Elsewhere:	Inflammatory polyp of large intestine (DB35.1)
+  DD70  	Crohn disease
+Crohn’s disease is characterised by chronic and relapsing transmural inflammation extending through all layers of the small and/or large intestinal walls and has potential to involve the patient’s entire gastrointestinal tract.
+Inclusions:	Granulomatous enteritis
+Regional enteritis
+Intestinal ulcer and erosion due to Crohn disease
+Exclusions:	Ulcerative colitis (DD71)
+Coded Elsewhere:	Cutaneous or mucocutaneous Crohn disease (EE8Y)
+
+DD70.0	Crohn disease of upper gastrointestinal tract
+Crohn disease involved in upper gastrointestinal tract, such as oral cavity, oesophagus, stomach and duodenum.
+
+DD70.1	Crohn disease of small intestine
+Crohn disease, which is characterised by chronic and relapsing transmural inflammation, may affect any part of the digestive tract. This refers to Crohn disease involving the small intestine.
+Exclusions:	Crohn disease of both small and large intestine (DD70.5)
+
+DD70.2	Crohn disease of appendix
+Crohn disease, which is characterised by chronic and relapsing transmural inflammation, may affect any part of the digestive tract. This refers to Crohn disease involving the appendix.
+
+DD70.3	Crohn disease of large intestine
+Crohn’s disease, which is characterised by chronic and relapsing transmural inflammation, may affect any part of the digestive tract. This refers to Crohn disease involved in the large intestine.
+Exclusions:	Crohn disease of both small and large intestine (DD70.5)
+
+DD70.4	Crohn disease of anal region
+Crohn disease commonly involves the anus and perianal area and may precede any other gut involvement by years. The constellation of symptoms and signs which may occur include pruritus ani, maceration, skin tags, fissures, fistulae, erosions and secondary infection with abscesses.
+
+DD70.5	Crohn disease of both small and large intestine
+Crohn’s disease, which is characterised by chronic and relapsing transmural inflammation, may affect any part of the digestive tract. This refers to Crohn disease involved in both small and large intestine.
+
+DD70.6	Crohn disease of anastomotic sites
+Crohn disease, which is characterised by chronic and relapsing transmural inflammation, may affect any part of the digestive tract. This refers to Crohn disease involving anastomotic site of gastrointestinal tract, such as anastomotic ulcer due to Crohn disease.
+
+DD70.Y	Crohn disease of other specified site
+
+DD70.Z	Crohn disease, unspecified site
+
+  DD71  	Ulcerative colitis
+Ulcerative colitis is a chronic inflammatory disorder of unknown etiology that continuously causes ulcers in the lining of the rectum and colon. Inflammation is histologically restricted to the mucosa.
+
+DD71.0	Ulcerative pancolitis
+
+DD71.1	Left sided ulcerative colitis
+Inclusions:	left hemicolitis
+
+DD71.2	Ulcerative rectosigmoiditis
+
+DD71.3	Ulcerative proctitis
+
+DD71.Y	Other specified ulcerative colitis
+
+DD71.Z	Ulcerative colitis, unspecified
+
+  DD72  	Indeterminate colitis
+Indeterminate colitis is a chronic inflammatory disorder of the colon, for which a definitive diagnosis of neither Crohn’s disease or ulcerative colitis can be made.
+
+  DD7Y  	Other specified inflammatory bowel diseases
+
+  DD7Z  	Inflammatory bowel diseases, unspecified
+
+Functional gastrointestinal disorders (BlockL1‑DD9)
+Functional gastrointestinal disorder (FGID) is used to define several variable combinations of chronic or recurrent gastrointestinal (GI) symptoms that do not have an identified underlying pathophysiology, and that occur in the absence of underlying structural abnormalities. FGID may include a number of separate idiopathic disorders which affect different part of the gastrointestinal tract. FGID are the most common problem in gastroenterological practice. The Rome process has helped to define the functional gastrointestinal disorders.
+Exclusions:	Bodily distress disorder (6C20)
+Hypochondriasis (6B23)
+Symptoms, signs or clinical findings, not elsewhere classified (Chapter 21)
+  DD90  	Functional oesophageal or gastroduodenal disorders
+This group incorporates oesophageal and gastroduodenal disorders which principally present unpleasant upper gastrointestinal complaints without apparent morphological changes of oesophagus and gastroduodenum.
+Exclusions:	Bodily distress disorder (6C20)
+Hypochondriasis (6B23)
+
+DD90.0	Globus
+Globus is a persistent or intermittent non-painful sensation of a lump or foreign body in the throat unrelated to swallowing without structural or motor disorder of the pharynx and/or oesophagus, often accompanying with acute anxiety or emotional conflicts.
+
+DD90.1	Functional swallowing disorder
+Functional dysphagia is a disorder having no structural abnormalities and absence of gastroesophageal reflux for dysphagia, characterised by sense of solid and/or liquid foods sticking, lodging, or passing abnormally through the oesophagus.
+Inclusions:	Functional dysphagia
+Exclusions:	dysphagia NOS (MD93)
+
+DD90.2	Functional heartburn
+Functional heartburn is a disorder having no structural abnormalities and absence of gastroesophageal reflux for heartburn, characterised by burning retrosternal discomfort or pain.
+Exclusions:	heartburn NOS (MD95)
+
+DD90.3	Functional dyspepsia
+Functional dyspepsia is a disorder defined as the presence of dyspepsia symptoms thought to originate from the gastroduodenal region, in the absence of any organic, systemic, or metabolic disease that is likely to explain the symptoms such as epigastric pain, epigastric burning, postprandial fullness, and early satiation.
+Inclusions:	Indigestion
+Exclusions:	Heartburn (MD95)
+Dyspepsia NOS (MD92)
+Coded Elsewhere:	Chronic primary epigastric pain syndrome (MG30.00)
+
+DD90.4	Functional nausea or vomiting
+Functional nausea and vomiting is a disorder having no structural abnormalities for nausea and vomiting.
+Exclusions:	Nausea or vomiting NOS (MD90)
+Coded Elsewhere:	Cyclic vomiting syndrome (8A80.4)
+
+DD90.5	Functional belching disorders
+Functional belching disorders are having troublesome repetitive belching with observed excessive air swallowing and no evidence of excessive air swallowing.
+Inclusions:	Excessive belching, unspecified
+Aerophagia
+Exclusions:	Belching NOS (MD91)
+
+DD90.6	Adult rumination syndrome
+Adult rumination syndrome is a disorder in adulthood characterised by the persistent or recurrent regurgitation of recently ingested food into the mouth with subsequent spitting or remastication and swallowing.
+Exclusions:	Rumination-regurgitation disorder (6B85)
+Rumination-regurgitation (MB29.4)
+
+DD90.Y	Other specified functional oesophageal or gastroduodenal disorders
+
+DD90.Z	Functional oesophageal or gastroduodenal disorders, unspecified
+
+  DD91  	Irritable bowel syndrome or certain specified functional bowel disorders
+This group incorporates functional bowel disorders which principally present symptoms attributable to the intestinal tract in the absence of specific and unique organic pathology in the small and large intestine.
+Inclusions:	Functional intestinal disorders NOS
+Exclusions:	Bodily distress disorder (6C20)
+Hypochondriasis (6B23)
+
+DD91.0	Irritable bowel syndrome
+Irritable bowel syndrome (IBS) is a functional bowel disorder in which abdominal pain or discomfort is associated with defecation or a change in bowel habit, and with features of disordered defecation.
+Inclusions:	irritable colon
+
+DD91.00	Irritable bowel syndrome, constipation predominant
+This is a bowel pattern subtype of irritable bowel syndrome, characterised by alteration of bowel habits with constipation predominant.
+
+DD91.01	Irritable bowel syndrome, diarrhoea predominant
+This is a bowel pattern subtype of irritable bowel syndrome, characterised by alteration of bowel habits with diarrhoea predominant.
+
+DD91.02	Irritable bowel syndrome, mixed type
+This is a bowel pattern subtype of irritable bowel syndrome, characterised by alteration of bowel habits having both diarrhoea and constipation. The subtype having diarrhoea and constipation alternatively often varying over time is also considered as synonymous.
+
+DD91.03	Irritable bowel syndrome, unsubtyped
+
+DD91.0Z	Irritable bowel syndrome, type unspecified
+
+DD91.1	Functional constipation
+Functional constipation is a functional bowel disorder that presents as persistently difficult, infrequent, or seemingly incomplete defecation, which do not meet IBS criteria.
+Exclusions:	Constipation NOS (ME05.0)
+Coded Elsewhere:	Slow transit constipation (DB32.1)
+
+DD91.2	Functional diarrhoea
+Functional diarrhoea is a continuous or recurrent syndrome characterised by the passage of loose (mushy) or watery stools without abdominal pain or discomfort.
+
+DD91.3	Functional bloating
+Functional bloating is a recurrent sensation of abdominal distension, that may or may not be associated with measurable distension, but is not part of another functional bowel or gastroduodenal disorder.
+
+DD91.4	Functional abdominal pain syndrome
+Functional abdominal pain syndrome represents a pain syndrome attributed to the abdomen that is poorly related to gut function, is associated with some loss of daily activities, and has been present at least 6 months. The pain is constant, nearly constant, or at least frequently recurring. Also there is the lack of symptom relationship to food intake or defecation.
+
+DD91.Y	Other specified irritable bowel syndrome or functional bowel disorders
+
+DD91.Z	Irritable bowel syndrome or functional bowel disorders, unspecified
+
+  DD92  	Functional anorectal disorders
+This group incorporates anorectal disorders which principally present anorectal and defecation complaints without apparent morphological changes of anorectal regions. However, the distinction between organic and functional anorectal disorders may be difficult to make in individual patients.
+Exclusions:	Bodily distress disorder (6C20)
+
+DD92.0	Functional faecal incontinence
+Recurrent uncontrolled passage of faecal material in an individual with a developmental age of at least 4 years and one or more of the following;
+a. Abnormal functioning of normally innervated and structurally intact muscles
+b. Minor abnormalities of sphincter structure and/or innervation
+c. Normal or disordered bowel habits
+d. Psychological causes
+Exclusions:	Encopresis (6C01)
+Encopresis with constipation or overflow incontinence (6C01.0)
+Encopresis without constipation or overflow incontinence (6C01.1)
+
+DD92.1	Functional anorectal pain
+This group incorporates functional disorders which principally complaints pain in the anorectal regions. In this category two disorders (chronic proctalgia – Levator ani syndrome and proctalgia fugax) are distinguished on the basis of duration, frequency, and characteristic quality of pain.
+
+DD92.2	Functional defaecation disorders
+Functional defaecation disorders are characterised by paradoxical contraction or inadequate relaxation of the pelvic floor muscles during attempted defaecation (dyssynergic defaecation) or inadequate propulsive forces during attempted defaecation (inadequate defaecatory propulsion). The patients must satisfy diagnostic criteria for functional constipation.
+Exclusions:	Encopresis (6C01)
+Encopresis with constipation or overflow incontinence (6C01.0)
+Encopresis without constipation or overflow incontinence (6C01.1)
+
+DD92.Y	Other specified functional anorectal disorders
+
+DD92.Z	Functional anorectal disorders, unspecified
+
+  DD93  	Functional digestive disorders of infants, toddlers or children
+This group incorporates functional gastrointestinal disorders in infants and toddlers and disorders diagnosed more often in school-aged children and adolescents. These disorders include a variable combination of often age-dependent, chronic or recurrent symptoms not explained by structural or biochemical abnormalities.
+Exclusions:	Bodily distress disorder (6C20)
+Hypochondriasis (6B23)
+Rumination-regurgitation (MB29.4)
+Rumination-regurgitation disorder (6B85)
+
+DD93.0	Infant regurgitation
+This is a functional regurgitation that presents frequently (greater than or equal to 2 times/day for greater than equal to 3 weeks) in infants during the first year of life, without retching, haematemesis, aspiration, apnoea, or feeding or swallowing difficulties, or abnormal posturing.
+
+DD93.1	Infantile colic
+This is a condition in which an otherwise healthy baby cries or displays symptoms of distress (cramping, moaning, etc.) frequently and for extended periods, without any discernible reason.
+
+DD93.2	Infant dyschezia
+
+DD93.Y	Other functional digestive disorders of infants, neonates or toddlers
+
+DD93.Z	Functional digestive disorders of infants, toddlers or children, unspecified
+
+  DD94  	Functional gallbladder disorder
+This is a motility disorder that manifests symptomatically with biliary pain as consequence of either an initial metabolic disorder (supersaturated bile with cholesterol) or a primary motility alteration of gallbladder, at least initially, of any abnormalities of bile composition. There are normal liver enzymes, conjugated bilirubin and amylase/lipase.
+
+  DD95  	Functional sphincter of Oddi disorder
+This is a functional disorder of the sphincter of Oddi which defines motility abnormalities of sphincter of Oddi associated with prevention of bile and pancreatic juice from flowing through and a backup of the juice. It causes severe abdominal pain with elevated pancreatic enzymes, liver enzymes or both.
+
+  DD9Y  	Other specified functional gastrointestinal disorders
+
+  DD9Z  	Functional gastrointestinal disorders, unspecified
+
+Postprocedural disorders of digestive system (BlockL1‑DE1)
+This is a group of disorders associated with the digestive system that occur after medical procedures and are not classified elsewhere.
+Exclusions:	Radiation proctitis (DB33.42)
+Coded Elsewhere:	Postcholecystectomy syndrome (DC14.1)
+Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+Chronic dental injuries (DA08.2)
+Radiation oesophageal ulcer (DA25.32)
+Intramural haemorrhage of oesophagus (DA26.2)
+Anastomotic ulcer (DA62)
+Radiation oesophagitis (DA24.22)
+Radiation gastritis (DA42.81)
+Radiation gastric ulcer (DA60.63)
+Radiation duodenal ulcer (DA63.51)
+Radiation duodenitis (DA51.53)
+Enteritis or ulcer of small intestine due to trauma (DA94.32)
+Enteritis or ulcer of small intestine due to radiation (DA94.31)
+Radiation-induced colitis (DB33.41)
+Incisional hernia (DD56)
+Postsurgical malabsorption, not elsewhere classified (DA96.0Y)
+Thermal oesophageal ulcer (NE02)
+  DE10  	Vomiting following gastrointestinal surgery
+Vomiting occurred following gastrointestinal surgery due to disturbance or inadequate movement of GI tract.
+
+  DE11  	Dumping syndrome
+Dumping syndrome is a group of signs and symptoms that develops most often in people who have had surgery to remove all or part of their stomach, or in whom surgically bypassed. It may occur early (during a meal or within 15-30 minutes after a meal with nausea, vomiting, abdominal pain, cramps, diarrhoea, dizziness, and heart palpitations) or late (1 to 3 hours after eating with sweating, weakness, fatigue, dizziness, lightheadedness, heart palpitations, and fainting).
+
+  DE12  	Malfunction or complication of external stoma of digestive organs
+This is a complication of the external pore, found in the leaf and stem epidermis that is used for gaseous exchange, of digestive organs, other.
+Exclusions:	Postsurgical leak (NE81.3)
+Acute gastrointestinal bleeding, not elsewhere classified (ME24.90)
+Acute postoperative haemorrhage (NE81.0)
+Coded Elsewhere:	Skin problem resulting from external stoma of digestive organs (EM0Y)
+
+DE12.0	Colostomy or enterostomy malfunction or complication
+
+DE12.1	Gastrostomy malfunction
+
+
+  DE2Y  	Other specified diseases of the digestive system
+
+  DE2Z  	Diseases of the digestive system, unspecified
+

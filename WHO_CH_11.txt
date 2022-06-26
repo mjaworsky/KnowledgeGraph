@@ -1,0 +1,1882 @@
+CHAPTER 11
+Diseases of the circulatory system
+This chapter has 161 four-character categories.
+Code range starts with BA00
+This refers to diseases of the organ system that passes nutrients (such as amino acids, electrolytes and lymph), gases, hormones, blood cells, etc. to and from cells in the body to help fight diseases, stabilize body temperature and pH, and to maintain homeostasis.
+Exclusions:	Certain infectious or parasitic diseases (Chapter 01)
+Certain conditions originating in the perinatal period (Chapter 19)
+Congenital malformations, deformations and chromosomal abnormalities (Chapter 20)
+Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Endocrine, nutritional or metabolic diseases (Chapter 05)
+Coded Elsewhere:	Neoplasms of the circulatory system
+Developmental anomalies of the circulatory system
+Infections of the circulatory system
+Symptoms, signs or clinical findings of the circulatory system (MC80-MC9Y)
+Cerebrovascular diseases (8B00-8B2Z)
+Functional vascular disorders of the skin (EG00-EG02)
+Diseases of the circulatory system complicating pregnancy, childbirth or the puerperium (JB64.4)
+This chapter contains the following top level blocks:
+•	Hypertensive diseases
+•	Hypotension
+•	Ischaemic heart diseases
+•	Diseases of coronary artery
+•	Pulmonary heart disease or diseases of pulmonary circulation
+•	Pericarditis
+•	Acute or subacute endocarditis
+•	Heart valve diseases
+•	Diseases of the myocardium or cardiac chambers
+•	Cardiac arrhythmia
+•	Heart failure
+•	Diseases of arteries or arterioles
+•	Diseases of veins
+•	Disorders of lymphatic vessels or lymph nodes
+•	Postprocedural disorders of circulatory system
+•	Neoplasms of the circulatory system
+•	Developmental anomalies of the circulatory system
+•	Infections of the circulatory system
+
+Hypertensive diseases (BlockL1‑BA0)
+Although a continuous association exists between higher BP and increased cardiovascular disease risk, it is useful to categorize BP levels for clinical and public health decision making. Recent guidelines categorise systemic hypertension into 4 levels on the basis of average BP measured in a healthcare setting (office pressures):
+• Normal: systolic BP <120mmHg and diastolic BP <80mmHg
+• Elevated: systolic BP 120-129mmHg and diastolic BP <80mmHg
+• Stage 1 hypertension: systolic BP 130-139mmHg or Diastolic BP 80-89mmHg
+• Stage 2 hypertension: systolic BP 140mmHg or more, Diastolic BP 90mmHg or more
+In children, systemic hypertension is defined as an average systolic or diastolic blood pressure equal or higher than the 95th percentile appropriate for the sex, age and height of the child.
+The complications of uncontrolled or prolonged hypertension include damage to the blood vessels, heart, kidneys and brain.
+Exclusions:	Pulmonary hypertension (BB01)
+involving coronary vessels (BlockL1‑BA4)
+Oedema, proteinuria, or hypertensive disorders in pregnancy, childbirth, or the puerperium (BlockL1‑JA2)
+White coat hypertension (MC80.00)
+Coded Elsewhere:	Neonatal hypertension (KB45)
+  BA00  	Essential hypertension
+Essential (primary) hypertension, accounting for 95% of all cases of hypertension, is defined as high blood pressure for which a secondary cause cannot be found.
+Inclusions:	high blood pressure
+Exclusions:	Cerebrovascular diseases (BlockL1‑8B0)
+Background retinopathy and retinal vascular changes (9B78.1)
+Coded Elsewhere:	Pre-existing essential hypertension complicating pregnancy, childbirth or the puerperium (JA20.0)
+
+BA00.0	Combined diastolic and systolic hypertension
+
+BA00.1	Isolated diastolic hypertension
+
+BA00.2	Isolated systolic hypertension
+
+BA00.Y	Other specified essential hypertension
+
+BA00.Z	Essential hypertension, unspecified
+
+  BA01  	Hypertensive heart disease
+Uncontrolled and prolonged hypertension can lead to a variety of changes in the myocardial structure, coronary vasculature, and conduction system of the heart. Hypertensive heart disease is a term applied generally to heart diseases, such as left ventricular hypertrophy, coronary artery disease, cardiac arrhythmias, and congestive heart failure, that are caused by direct or indirect effects hypertension.
+Coded Elsewhere:	Pre-existing hypertensive heart disease complicating pregnancy, childbirth or the puerperium (JA20.1)
+Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth or the puerperium (JA20.3)
+
+  BA02  	Hypertensive renal disease
+Hypertensive renal disease is a medical condition referring to damage to the kidney due to chronic high blood pressure.
+Inclusions:	hypertensive nephropathy
+Exclusions:	Secondary hypertension (BA04)
+Coded Elsewhere:	Pre-existing hypertensive renal disease complicating pregnancy, childbirth or the puerperium (JA20.2)
+Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth or the puerperium (JA20.3)
+
+  BA03  	Hypertensive crisis
+Coding Note:	Code aslo the causing condition
+
+  BA04  	Secondary hypertension
+Defined through the measurement of the blood pressure using cuff method with a sitting systolic blood pressure above 140 mmHg or a sitting diastolic blood pressure above 90 mmHg in three consequent measurements with an identifiable cause.
+Coding Note:	Code aslo the causing condition
+Exclusions:	involving vessels of brain (BlockL1‑8B0)
+involving vessels of eye (9B78.1)
+Coded Elsewhere:	Congenital renal artery stenosis (LA90.40)
+Hyperaldosteronism (5A72)
+Pre-existing secondary hypertension complicating pregnancy, childbirth or the puerperium (JA20.4)
+
+BA04.0	Combined diastolic and systolic secondary hypertension
+
+BA04.1	Isolated diastolic secondary hypertension
+
+BA04.2	Isolated systolic secondary hypertension
+
+BA04.Y	Other specified secondary hypertension
+Coding Note:	Code aslo the causing condition
+
+BA04.Z	Secondary hypertension, unspecified
+Coding Note:	Code aslo the causing condition
+
+Hypotension (BlockL1‑BA2)
+Exclusions:	cardiovascular collapse (MG40)
+Nonspecific low blood-pressure reading (MC80.1)
+Maternal hypotension syndrome (JA65.6)
+Coded Elsewhere:	Intracranial hypotension (8D61)
+Neonatal hypotension (KB46)
+  BA20  	Idiopathic hypotension
+
+  BA21  	Orthostatic hypotension
+Exclusions:	Shy-Drager syndrome (8D87.0)
+
+  BA2Y  	Other specified hypotension
+
+  BA2Z  	Hypotension, unspecified
+
+Ischaemic heart diseases (BlockL1‑BA4)
+Acute ischaemic heart disease (BlockL2‑BA4)
+Inclusions:	acute coronary syndrome
+  BA40  	Angina pectoris
+Inclusions:	Anginal syndrome
+Ischaemic chest pain
+Angina NOS
+Exclusions:	Otocephaly (LA23)
+Coded Elsewhere:	Microvascular angina (BA86)
+
+BA40.0	Unstable angina
+Inclusions:	Preinfarction syndrome
+worsening effort angina
+
+BA40.1	Stable angina
+
+BA40.Y	Other specified angina pectoris
+
+BA40.Z	Angina pectoris, unspecified
+
+  BA41  	Acute myocardial infarction
+The term acute myocardial infarction (MI) should be used when there is evidence of myocardial necrosis in a clinical setting consistent with acute myocardial ischemia. Under these conditions any one of the following criteria meets the diagnosis for MI;
+Detection of a rise and/or fall of cardiac biomarker values with at least one value above the 99th percentile upper reference limit (URL ) and with at least one of the following;
+a. Symptoms of ischaemia.
+b. New or presumed new significant ST-segment-T wave (ST-T) changes or new left bundle branch block (LBBB).
+c. Development of pathologic Q waves in the ECG.
+d. Imaging evidence of new loss of viable myocardium or new regional wall motion abnormality.
+e. Identification of an intracoronary thrombus by angiography or autopsy.
+Infarction of any myocardial site, occurring within 4 weeks (28 days) from onset of a previous infarction (WHO)
+Exclusions:	postmyocardial infarction syndrome (BA60.0)
+Subsequent myocardial infarction (BA42)
+Certain current complications following acute myocardial infarction (BA60)
+Old myocardial infarction (BA50)
+
+BA41.0	Acute ST elevation myocardial infarction
+STEMI is an acute myocardial infarction with developing ST elevation in two contiguous leads. The criteria of ST elevation is follows; New ST elevation at the J point in two contiguous leads with the cut-points apply: 0.2mV in men>40 years; >0.25mV in men<40 years, or >0.15 mV in women.
+
+BA41.1	Acute non-ST elevation myocardial infarction
+
+BA41.Z	Acute myocardial infarction, unspecified
+
+  BA42  	Subsequent myocardial infarction
+Infarction of any myocardial site, occurring within 4 weeks (28 days) from onset of a previous infarction
+Inclusions:	extension of myocardial infarction
+recurrent myocardial infarction
+Exclusions:	specified as chronic or with a stated duration of more than 4 weeks (more than 28 days) from onset (BA50)
+
+BA42.0	Subsequent myocardial infarction, STEMI
+Extension or recurrent myocardial infarction. This category should be assigned for infarction of any myocardial site, occurring within 4 weeks (28 days) from onset of a previous infarction. This most commonly results from total occlusion of the culprit coronary artery.
+
+BA42.1	Subsequent myocardial infarction, NSTEMI
+Extension or recurrent myocardial infarction. For morbidity coding, this category should be assigned for infarction of any myocardial site, occurring within 4 weeks (28 days) from onset of a previous infarction. This most commonly results from severe obstruction, but not total occlusion, of the culprit coronary artery.
+
+BA42.Z	Subsequent myocardial infarction, unspecified
+
+  BA43  	Coronary thrombosis not resulting in myocardial infarction
+Superimposed thrombus associated with plaque rupture or erosion which does not obstruct the coronary flow to cause myocardial infarction.
+Inclusions:	Occlusion of coronary artery or vein not resulting in myocardial infarction
+Embolism of coronary artery or vein not resulting in myocardial infarction
+Thromboembolism of coronary artery or vein not resulting in myocardial infarction
+
+  BA4Z  	Acute ischaemic heart disease, unspecified
+
+Chronic ischaemic heart disease (BlockL2‑BA5)
+Chronic heart disease is seen due to the atherosclerosis. of coronary arteries. It is characterised by angina pectoris and unstable angina.
+  BA50  	Old myocardial infarction
+Past myocardial infarction diagnosed by ECG or other special investigation, but currently presenting no symptoms.
+Inclusions:	healed myocardial infarction
+
+  BA51  	Ischaemic cardiomyopathy
+Ischaemic cardiomyopathy has been defined as left ventricular systolic dysfunction with one or more of the following: a history of prior myocardial revascularisation or myocardial infarction, more than 75% stenosis in the left main stem or left anterior descending artery, or two vessels or more with a greater than 75% stenosis. It consists of a spectrum of pathophysiological states that relate to perfusion contraction matching and mismatching, including myocardial infarction, stunning, hibernation and scarring.
+
+  BA5Y  	Other specified chronic ischaemic heart disease
+
+  BA5Z  	Chronic ischaemic heart disease, unspecified
+
+  BA60  	Certain current complications following acute myocardial infarction
+Secondary conditions which may occur in the course after the heart attack. They include pericarditis, arrhythmia, cardiogenic shock, heart failure, ventricular rupture, ventricular aneurysm (with thrombus) and recurrent infarction.
+Exclusions:	the listed conditions, when: not specified as current complications following acute myocardial infarction (Chapter 11)
+the listed conditions, when: concurrent with acute myocardial infarction (BA41)
+
+BA60.0	Dressler syndrome
+A condition of postmyocardial infarction (1 to 8 weeks), characterised by a set of associated symptom, including malaise, fever, pericardial discomfort, leukocytosis, an elevated sedimentation rate, and a pericardial effusion. Patients with this syndrome usually demonstrate localised fibrous pericarditis containing polymorphonuclear leukocytes.
+Inclusions:	Postmyocardial infarction syndrome
+
+BA60.1	Other pericarditis as current complication following acute myocardial infarction
+An inflammation of the pericardium that can produce chest pain, which occurs as early as the first day and as late as 6 weeks after acute myocardial infarction. The pain of pericarditis radiates to either trapezius ridge. Transmural myocardial infarction is responsible for local pericardial inflammation. Transient pericardial friction rubs are relatively common in patients with transmural infarction within the first 48 hours. An acute fibrinous pericarditis occurs commonly after transmural infarction, whereas the risk of haemorrhagic pericarditis is increased by anticoagulation.
+
+BA60.2	Ventricular aneurysm as current complication following acute myocardial infarction
+A discrete dyskinetic area of the left ventricular wall with a broad neck after acute myocardial infarction. The wall of the true aneurysm is thinner than the rest of the left ventricle; it is usually composed of fibrous tissue and necrotic muscle, occasionally mixed with viable myocardium. In contrast, pseudoaneurysms are composed of organised hematoma and pericardium and lack any elements of the original myocardial wall.
+
+BA60.3	Ventricular septal defect as current complication following acute myocardial infarction
+A mechanical rupture of the interventricular septum after S-T elevation myocardial infarction resulting in the left-to-right shunt to deteriorate hemodynamic, which confers a high 30-day mortality. Rupture of the septum with an anterior infarction tends to be apical in location, whereas inferior infarctions are associated with perforation of the basal septum.
+
+BA60.4	Cardiac rupture as current complication following acute myocardial infarction
+A tearing of acutely infarcted tissue after acute myocardial infarction, which may involve the papillary muscles, interventricular septum, or free wall of either ventricle.
+
+BA60.5	Pulmonary embolism as current complication following acute myocardial infarction
+A pulmonary embolism that resulted from thrombi in the veins of the lower extremities (e.g. after prolonged periods of bed rest) or mural thrombi overlying an area of right ventricular infarction after acute myocardial infarction.
+Exclusions:	Mural thrombus as current complication following acute myocardial infarction (BA60.7)
+
+BA60.6	Rupture of papillary muscle or chordae tendineae as current complication following acute myocardial infarction
+
+BA60.7	Mural thrombus as current complication following acute myocardial infarction
+A blood clot formed on the endoventricle or endoatirium, usually overlying dyskinetic or akinetic area of the ventricular infarction after acute myocardial infarction.
+Exclusions:	Pulmonary embolism as current complication following acute myocardial infarction (BA60.5)
+
+BA60.8	Arrhythmia as current complication following acute myocardial infarction
+A large and heterogeneous group of conditions in which the heart beats with an irregular or abnormal rhythm that can complicate the course of patients with acute myocardial infarction.
+
+BA60.9	Cardiogenic shock, unrelated to mechanical complications, as current complication following acute myocardial infarction
+The most severe clinical expression of left ventricular failure and is associated with extensive damage to the left ventricular myocardium after acute myocardial infarction, unrelated to a mechanical defect such as ventricular septal or papillary muscle rupture. Shock is defined as systolic BP < 90 mmHg and organ hypoperfusion.
+
+BA60.Y	Other specified current complications following acute myocardial infarction
+
+BA60.Z	Certain current complications following acute myocardial infarction, unspecified
+
+  BA6Z  	Ischaemic heart diseases, unspecified
+
+Diseases of coronary artery (BlockL1‑BA8)
+Conditions affecting the blood perfusion of the heart.
+Coded Elsewhere:	Cardiac transplant associated coronary allograft vasculopathy (BE1A)
+  BA80  	Coronary atherosclerosis
+Atherosclerosis is the build up inside the coronary arteries of cholesterol, fatty acids, calcium, fibrous connective tissue and cells (mostly macrophages), referred to as plaque. The effect of this is to reduce the blood flow through the coronary arteries to heart muscle and when marked results in heart damage often with symptoms such as chest pain.
+Inclusions:	Coronary artery atherosclerosis
+Coronary artery atheroma
+Coronary artery sclerosis
+coronary artery ostial stenosis
+
+BA80.0	Coronary atherosclerosis of native coronary artery
+Atherosclerotic lesions, or atherosclerotic plaques of native coronary artery.
+Inclusions:	Coronary atherosclerosis without significant ischaemia of native coronary artery
+
+BA80.1	Coronary atherosclerosis of autologous bypass graft
+Atherosclerotic lesions, or atherosclerotic plaques of autologous bypass graft.
+Inclusions:	Coronary atherosclerosis of autologous bypass graft without significant ischaemia
+
+BA80.2	Coronary atherosclerosis of non-autologous bypass graft
+Atherosclerotic lesions, or atherosclerotic plaques of non-autologous bypass graft.
+Inclusions:	Coronary atherosclerosis without significant ischaemia of non-autologous bypass graft
+
+BA80.Z	Coronary atherosclerosis, unspecified site
+
+  BA81  	Coronary artery aneurysm
+Coronary dilatation which exceeds the diameter of normal adjacent segments or the diameter of the patient's largest coronary vessel by 1.5 times.
+Exclusions:	Congenital coronary arterial aneurysm (LA8C)
+Mucocutaneous lymph node syndrome (4A44.5)
+
+BA81.0	Coronary artery aneurysm with perforation
+
+BA81.1	Coronary artery aneurysm with rupture
+
+BA81.2	Coronary artery aneurysm without mention of perforation or rupture
+
+  BA82  	Coronary artery dissection
+Coronary artery dissection results from a tear in the inner layer of the coronary artery, the tunica intima. This allows blood to penetrate and cause an intramural hematoma in the central layer, the tunica media, and restriction in the size of lumen.
+Inclusions:	spontaneous coronary artery dissection
+Exclusions:	Injury or harm arising from a procedure, not elsewhere classified (NE81)
+Injury of blood vessels of thorax (NB30)
+
+  BA83  	Coronary artery fistula, acquired
+Abnormal communication between a coronary artery and a cardiac chamber or major vessels, acquired after coronary or heart surgery, coronary angioplasty, rupture or coronary artery aneurysm or injury to the heart.
+
+  BA84  	Chronic total occlusion of coronary artery
+A chronic total occlusion of coronary artery is defined as the complete obstruction of a coronary artery or coronary arteries, exhibiting a TIMI flow score of zero or one, with an occlusion duration of greater than 3 months.’
+Coding Note:	Code aslo the causing condition
+Exclusions:	Acute myocardial infarction (BA41)
+
+  BA85  	Coronary vasospastic disease
+The term coronary vasospastic disease refers to a sudden, intense vasoconstriction of an epicardial coronary artery that causes vessel occlusion or near occlusion. Although it may be involved in other coronary syndromes, it represents the usual cause of variant angina.
+
+BA85.0	Silent coronary vasospastic disease
+The feature of this is the frequency of asymptomatic ischemic episodes in coronary vasospastic disease.
+
+BA85.Y	Other specified coronary vasospastic disease
+
+BA85.Z	Coronary vasospastic disease, unspecified
+
+  BA86  	Coronary microvascular disease
+
+  BA8Y  	Other specified diseases of coronary artery
+
+  BA8Z  	Diseases of coronary artery, unspecified
+
+Pulmonary heart disease or diseases of pulmonary circulation (BlockL1‑BB0)
+  BB00  	Pulmonary thromboembolism
+Exclusions:	Complications following abortion, ectopic or molar pregnancy (JA05)
+Diseases of the circulatory system complicating pregnancy, childbirth or the puerperium (JB64.4)
+
+BB00.0	Acute pulmonary thromboembolism
+Acute pulmonary thromboembolism is defined as a partial or complete occlusion of a pulmonary arterial branch with the abrupt onset of related symptoms, such as dyspnoea, tachypnoea, chest pain, cough and blood-tinged sputum. However, acute pulmonary embolism may also occur in the absence of any symptoms.
+
+BB00.1	Chronic pulmonary thromboembolism
+Chronic pulmonary thromboembolism is defined as a partial or complete occlusion of at least one major pulmonary arterial branch in the presence of a mean pulmonary artery pressure 25mmHg at rest, and normal left ventricular filling pressures, despite effective coagulation over at least three months.
+Coded Elsewhere:	Chronic thromboembolic pulmonary hypertension (BB01.3)
+
+BB00.Z	Pulmonary thromboembolism, unspecified
+
+  BB01  	Pulmonary hypertension
+Pulmonary hypertension (PH) is a haemodynamic and pathophysiological condition defined as an increase in mean pulmonary arterial pressure (PAP) 25 mmHg at rest as assessed by right heart catheterization. PH can be found in multiple clinical conditions.
+Coded Elsewhere:	Persistent pulmonary hypertension of the newborn (KB42)
+
+BB01.0	Pulmonary arterial hypertension
+Pulmonary arterial hypertension is a clinical condition characterised by the presence of pre-capillary pulmonary hypertension in the absence of other causes of pre-capillary pulmonary hypertension, such as due to lung diseases, chronic thromboembolic pulmonary hypertension, or other rare diseases. It includes different forms that share a similar clinical picture and virtually identical pathological changes of the lung microcirculation.
+Inclusions:	primary pulmonary hypertension
+
+BB01.1	Pulmonary hypertension due to left heart disease
+
+BB01.2	Pulmonary hypertension due to lung disease or hypoxia
+
+BB01.3	Chronic thromboembolic pulmonary hypertension
+Chronic thromboembolic pulmonary hypertension (CTEPH) is characterised by the persistence of thromboemboli in the form of organised tissue obstructing the pulmonary arteries. The consequence is an increase in pulmonary vascular resistance (PVR) resulting in pulmonary hypertension (PH) and progressive right heart failure.
+
+BB01.4	Pulmonary hypertension with multifactorial mechanism
+Coding Note:	Code aslo the causing condition
+
+BB01.5	Cor pulmonale
+Cor pulmonale refers to the altered structure and/or impaired function of the right ventricle that results from pulmonary hypertension associated with diseases of the lung, upper airway, or chest wall.
+Coding Note:	Code aslo the causing condition
+
+BB01.Z	Pulmonary hypertension, unspecified
+
+  BB02  	Certain specified diseases of pulmonary vessels
+This definition includes Arteriovenous fistula of pulmonary vessels, Aneurysm of pulmonary artery and Other specified diseases of pulmonary vessels.
+
+BB02.0	Arteriovenous fistula of pulmonary vessels
+
+BB02.1	Aneurysm of pulmonary artery
+Aneurysm of pulmonary artery is an abnormal dilatation of part of the pulmonary artery
+
+BB02.10	Aneurysm of pulmonary artery with perforation
+
+BB02.11	Aneurysm of pulmonary artery with rupture
+
+BB02.12	Aneurysm of pulmonary artery without mention of perforation or rupture
+
+BB02.1Y	Other specified aneurysm of pulmonary artery
+
+BB02.1Z	Aneurysm of pulmonary artery, unspecified
+
+BB02.2	Rupture of pulmonary vessels
+
+BB02.3	Acquired pulmonary arterial tree abnormality
+A postnatal pathological change in form or function of the pulmonary arterial tree.
+Coded Elsewhere:	Postprocedural pulmonary trunk stenosis (BE15.0)
+Postprocedural pulmonary arterial tree disorder (BE15)
+
+  BB03  	Acquired pulmonary venous abnormality
+A postnatal pathological change in form or function of one or more pulmonary veins.
+Coded Elsewhere:	Postprocedural pulmonary venous disorder (BE16)
+
+BB03.0	Acquired pulmonary venous obstruction
+A postnatal pathologic condition of one or more pulmonary vein(s) in which flow is impeded or blocked due to narrowing or atresia.
+
+BB03.Y	Other specified acquired pulmonary venous abnormality
+
+BB03.Z	Acquired pulmonary venous abnormality, unspecified
+
+  BB0Y  	Other specified pulmonary heart disease or diseases of pulmonary circulation
+
+  BB0Z  	Pulmonary heart disease or diseases of pulmonary circulation, unspecified
+
+Pericarditis (BlockL1‑BB2)
+Coded Elsewhere:	Acute rheumatic pericarditis (1B41.0)
+  BB20  	Acute pericarditis
+Acute pericarditis is defined as pericardial inflammation of no more than 1 to 2 weeks duration.
+Coding Note:	Code aslo the causing condition
+Inclusions:	acute pericardial effusion
+Exclusions:	Acute rheumatic pericarditis (1B41.0)
+
+BB20.0	Infectious pericarditis
+A disease of the pericardium, caused by a secondary infection with a bacterial, viral, or fungal source. This disease is characterised by fever, odynophagia, cough, fatigue, or chest pain. Confirmation is by identification of the bacterial, viral, or fungal agent in a blood sample.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Pyopericarditis
+
+BB20.1	Neoplastic pericarditis
+Coding Note:	Code aslo the causing condition
+
+BB20.2	Myopericarditis
+Inclusions:	Perimyocarditis
+
+BB20.Y	Other specified acute pericarditis
+Coding Note:	Code aslo the causing condition
+
+BB20.Z	Acute pericarditis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BB21  	Chronic rheumatic pericarditis
+Inflammation of the pericardium and of the surrounding mediastinal cellular tissue resulted from rheumatic etiology.
+
+  BB22  	Constrictive pericarditis
+Chronic fibrous pericarditis due to the presence of dense fibrous tissue between the parietal and visceral layers of pericardium and neighbouring structures.
+Inclusions:	Concretio cordis
+
+  BB23  	Cardiac tamponade
+Cardiac tamponade is a clinical syndrome caused by the accumulation of fluid in the pericardial space, resulting in reduced ventricular filling and subsequent hemodynamic compromise. Cardiac tamponade is a medical emergency, the complications of which include shock, and death.
+
+  BB24  	Haemopericardium
+This is hemopericardium caused by diseases not elsewhere classified. Hemopericardium generally refers to blood in the pericardial sac of the heart. It is clinically similar to a pericardial effusion, and, depending on the volume and rapidity with which it develops, may cause cardiac tamponade.
+
+  BB25  	Pericardial effusion
+Pericardial effusion is an abnormal accumulation of fluid in the pericardial sac. Noninflammatory diseases such as chronic renal failure, circulatory congestion, hypothyroidism and amyroidosis can cause pericardial effusion.
+
+  BB2Y  	Other specified pericarditis
+
+  BB2Z  	Pericarditis, unspecified
+
+Acute or subacute endocarditis (BlockL1‑BB4)
+A condition characterised by inflammation of endocardium
+Coded Elsewhere:	Acute rheumatic endocarditis (1B41.1)
+Systemic lupus erythematosus with cardiac involvement (4A40.0Y)
+Typhoid fever with heart involvement (1A07.Y)
+  BB40  	Acute or subacute infectious endocarditis
+Coding Note:	Code aslo the causing condition
+Exclusions:	Infectious myocarditis (BC42.1)
+Coded Elsewhere:	Endocardial fibroelastosis (BC43.3)
+Syphilitic endocarditis (1A62.1)
+Tuberculosis of endocardium (1B12.0)
+
+  BB41  	Myoendocarditis
+Exclusions:	Infectious myocarditis (BC42.1)
+
+  BB42  	Periendocarditis
+
+  BB4Y  	Other specified acute or subacute endocarditis
+
+  BB4Z  	Acute or subacute endocarditis, unspecified
+
+Heart valve diseases (BlockL1‑BB6)
+Exclusions:	Congenital anomaly of a ventriculo-arterial valve or adjacent regions (LA8A)
+Atypical truncal valve (LA85.4)
+Acute rheumatic fever (BlockL2‑1B4)
+Structural developmental anomalies of the circulatory system (BlockL2‑LA8)
+Mitral valve disease (BlockL2‑BB6)
+This is a disorder of the heart in which the mitral valve does not close properly when the heart pumps out blood. It is the abnormal leaking of blood from the left ventricle through the mitral valve into the left atrium when the left ventricle contracts. Simply put, there is regurgitation of blood back into the left atrium.
+Exclusions:	Congenital anomaly of mitral valve (LA87.1)
+Coded Elsewhere:	Injury to mitral valve (NB31.40)
+  BB60  	Mitral valve stenosis
+Exclusions:	Mitral valve stenosis with insufficiency (BB63)
+Coded Elsewhere:	Postprocedural mitral valve stenosis (BE12.0)
+
+BB60.0	Rheumatic mitral valve stenosis
+Mitral stenosis refers to narrowing of the mitral valve orifice, resulting in impedance of filling of the left ventricle in diastole. It is usually caused by rheumatic heart disease.
+
+BB60.1	Nonrheumatic mitral valve stenosis
+Mitral stenosis is narrowing of the passage through the mitral valve due to fibrosis, and calcinosis in the leaflets and chordal areas.
+The most common reason of mitral stenosis is rheumatic fever. Except rheumatic fever; SLE, Malignant Sarcoid, Active Infective Endocarditis, Gout Whipple's Disease, Massive Annular calcification cause to the mitral stenosis.
+Exclusions:	Postprocedural mitral valve stenosis (BE12.0)
+
+BB60.Z	Mitral valve stenosis, unspecified
+
+  BB61  	Mitral valve insufficiency
+Mitral insufficiency is a clinical condition which mitral valve can't close properly. It is the antidromic leaking of blood from the left ventricle through the mitral valve, and into the left atrium.
+Exclusions:	Mitral valve stenosis with insufficiency (BB63)
+Coded Elsewhere:	Postprocedural mitral valve insufficiency (BE12.1)
+Mitral valve insufficiency due to acute myocardial infarction (BA60.6)
+
+BB61.0	Rheumatic mitral valve insufficiency
+Mitral insufficiency can be caused by conditions such as rheumatic fever.
+Mitral insufficiency is leakage of blood from the left ventricle into the left atrium during systole.
+
+BB61.Y	Other specified mitral valve insufficiency
+
+BB61.Z	Mitral valve insufficiency, unspecified
+
+  BB62  	Mitral valve prolapse
+Inclusions:	floppy mitral valve syndrome
+Exclusions:	Marfan syndrome (LD28.01)
+
+BB62.0	Rheumatic mitral valve prolapse
+This is a rheumatic valvular heart disease characterised by the displacement of an abnormally thickened mitral valve leaflet into the left atrium during systole.
+
+BB62.1	Degenerative mitral valve prolapse
+This is a degenerative valvular heart disease characterised by the displacement of an abnormally thickened mitral valve leaflet into the left atrium during systole.
+
+BB62.Y	Other specified nonrheumatic mitral valve prolapse
+
+BB62.Z	Mitral valve prolapse, unspecified
+
+  BB63  	Mitral valve stenosis with insufficiency
+This is a valvular heart disease characterised by the narrowing of the orifice of the mitral valve of the heart, with regurgitation.
+
+BB63.0	Rheumatic mitral stenosis with insufficiency
+Mitral stenosis and mitral insufficiency occur in patients with rheumatic heart disease.
+
+BB63.1	Nonrheumatic mitral stenosis with insufficiency
+This is a non-rheumatic valvular heart disease characterised by the narrowing of the orifice of the mitral valve of the heart, with regurgitation.
+
+BB63.Z	Mitral valve stenosis with insufficiency, unspecified
+
+  BB64  	Mitral valvar abscess
+
+  BB65  	Mitral valve rupture
+Exclusions:	Rupture of papillary muscle or chordae tendineae as current complication following acute myocardial infarction (BA60.6)
+
+  BB6Y  	Other specified mitral valve disease
+
+  BB6Z  	Mitral valve disease, unspecified
+
+Aortic valve disease (BlockL2‑BB7)
+Exclusions:	Congenital anomaly of aortic valve (LA8A.2)
+Coded Elsewhere:	Traumatic injury to aortic valve (NB31.4Y)
+Dysplasia of aortic valve (LA8A.2Y)
+  BB70  	Aortic valve stenosis
+Aortic valve stenosis is abnormal narrowing of the aortic valve. This decreases the blood flow from heart to organs.
+Exclusions:	Congenital supravalvar aortic stenosis (LA8A.3)
+Congenital subaortic stenosis (LA8A.5)
+Coded Elsewhere:	Postprocedural aortic valve stenosis (BE12.2)
+
+BB70.0	Rheumatic aortic valve stenosis
+Aortic stenosis occur scarring of the aortic valve due to rheumatic fever as a child or young adult. In aortic stenosis, the aortic valve does not open fully. This decreases blood flow from the heart.
+
+BB70.1	Nonrheumatic aortic valve stenosis
+Exclusions:	Postprocedural aortic valve stenosis (BE12.2)
+Coded Elsewhere:	Stenosis of the neoaortic valve of pulmonary origin (BC02.30)
+
+BB70.Y	Other specified aortic valve stenosis
+
+BB70.Z	Aortic valve stenosis, unspecified
+
+  BB71  	Aortic valve insufficiency
+Aortic valve insufficiency results from leakage and backflow of blood that is ejected from the left ventricle into the ascending aorta back into the left ventricle.
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Postprocedural aortic valve insufficiency (BE12.3)
+Insufficiency of the neoaortic valve of pulmonary origin (BC02.31)
+
+BB71.0	Rheumatic aortic valve insufficiency
+Aortic insufficiency is the leaking of the aortic valve of the heart that causes blood to flow in the reverse direction during ventricular diastole, from the aorta into the left ventricle. Rheumatic fever cause the cuspis retraction.
+Inclusions:	rheumatic aortic incompetence
+rheumatic aortic regurgitation
+
+BB71.Y	Other specified nonrheumatic aortic valve insufficiency
+Coding Note:	Code aslo the causing condition
+
+BB71.Z	Aortic valve insufficiency, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BB72  	Aortic valve stenosis with insufficiency
+
+BB72.0	Rheumatic aortic stenosis with insufficiency
+Aortic stenosis from chronic rheumatic heart disease is typically associated with aortic insufficiency. The valve commissures and cuspis become adherent and fused, and the valve orifice becomes small. Upon auscultation, S2 may be single because the aortic leaflets are immobile and do not produce an aortic closure sound
+
+BB72.1	Nonrheumatic aortic valve stenosis with insufficiency
+This is a non-rheumatic disease of the heart valves in which the opening of the aortic valve is narrowed, with regurgitation.
+
+BB72.Z	Aortic valve stenosis with insufficiency, unspecified
+
+  BB73  	Aortic valvar abscess
+
+  BB74  	Aortic valvar prolapse
+A congenital cardiovascular malformation of the aortic valve in which part or all of one or more of the aortic valve leaflets is on the ventricular side of the plane of the inferior aspect of the attachments of the aortic valve leaflets.
+
+  BB7Y  	Other specified aortic valve disease
+
+  BB7Z  	Aortic valve disease, unspecified
+
+Tricuspid valve disease (BlockL2‑BB8)
+Exclusions:	Congenital anomaly of tricuspid valve (LA87.0)
+Coded Elsewhere:	Traumatic injury to tricuspid valve (NB31.4Y)
+  BB80  	Tricuspid valve stenosis
+This is a valvular heart disease which results in the narrowing of the orifice of the tricuspid valve of the heart. It is a relatively rare condition that causes stenosis- increased resistance to blood flow through the valve.
+Coded Elsewhere:	Postprocedural tricuspid valve stenosis (BE12.4)
+
+BB80.0	Rheumatic tricuspid valve stenosis
+Tricuspid stenosis is almost always rheumatic in origin. Tricuspid stenosis results in the narrowing of the orifice of the tricuspid valve of the heart.
+
+BB80.Y	Other specified nonrheumatic tricuspid valve stenosis
+
+BB80.Z	Tricuspid valve stenosis, unspecified
+
+  BB81  	Tricuspid valve insufficiency
+This refers to the failure of the heart's tricuspid valve to close properly during systole. As a result, with each heart beat some blood passes from the right ventricle to the right atrium, the opposite of the normal direction.
+Coded Elsewhere:	Postprocedural tricuspid valve insufficiency (BE12.5)
+
+BB81.0	Rheumatic tricuspid valve insufficiency
+
+BB81.Y	Other specified nonrheumatic tricuspid valve insufficiency
+
+BB81.Z	Tricuspid valve insufficiency, unspecified
+
+  BB82  	Tricuspid valve stenosis with insufficiency
+This is a valvular heart disease which results in the narrowing of the orifice of the tricuspid valve of the heart. It is a relatively rare condition that causes stenosis- increased resistance to blood flow through the valve, with regurgitation.
+
+BB82.0	Rheumatic tricuspid valve stenosis with insufficiency
+Tricuspid valve insufficiency due to leaflet abnormalities may be secondary to rheumatic heart disease. When due to the latter, it generally occurs in combination with tricuspid stenosis
+
+BB82.Y	Other specified nonrheumatic tricuspid valve stenosis with insufficiency
+
+BB82.Z	Tricuspid valve stenosis with insufficiency, unspecified
+
+  BB83  	Tricuspid valvular abscess
+
+  BB84  	Tricuspid valve rupture
+
+  BB8Y  	Other specified tricuspid valve disease
+
+  BB8Z  	Tricuspid valve disease, unspecified
+
+Pulmonary valve disease (BlockL2‑BB9)
+Exclusions:	Congenital anomaly of pulmonary valve (LA8A.0)
+Coded Elsewhere:	Traumatic injury to pulmonary valve (NB31.4Y)
+  BB90  	Pulmonary valve stenosis
+Pulmonary valve stenosis is an obstruction at the level of pulmonary valve which impedes the outflow of blood from right ventricle to pulmonary artery.
+Coded Elsewhere:	Postprocedural pulmonary valve stenosis (BE12.6)
+
+BB90.0	Rheumatic pulmonary valve stenosis
+This is a rheumatic heart valve disorder in which outflow of blood from the right ventricle of the heart is obstructed at the level of the pulmonic valve.
+
+BB90.Y	Other specified nonrheumatic pulmonary valve stenosis
+
+BB90.Z	Pulmonary valve stenosis, unspecified
+
+  BB91  	Pulmonary valve insufficiency
+Pulmonary valve insufficiency which is an incomplete closure of the pulmonary valve allows blood to return from pulmonary artery into the right ventricle.
+Coded Elsewhere:	Postprocedural pulmonary valve insufficiency (BE12.7)
+Neopulmonary valve regurgitation (BE14.41)
+
+BB91.0	Rheumatic pulmonary valve insufficiency
+This is a rheumatic condition where the pulmonary valve is not strong enough to prevent backflow to the right ventricle.
+
+BB91.Y	Other specified nonrheumatic pulmonary valve insufficiency
+
+BB91.Z	Pulmonary valve insufficiency, unspecified
+
+  BB92  	Pulmonary valve stenosis with insufficiency
+It is a clinical condition pulmonary valve stenosis and pulmonary sufficiency are seen together
+
+BB92.0	Rheumatic pulmonary valve stenosis with insufficiency
+This is a rheumatic heart valve disorder in which outflow of blood from the right ventricle of the heart is obstructed at the level of the pulmonic valve, with regurgitation.
+
+BB92.1	Nonrheumatic pulmonary valve stenosis with insufficiency
+This is a non-rheumatic heart valve disorder in which outflow of blood from the right ventricle of the heart is obstructed at the level of the pulmonic valve, with regurgitation.
+
+BB92.Z	Pulmonary valve stenosis with insufficiency, unspecified
+
+  BB93  	Pulmonary valvar abscess
+
+  BB9Y  	Other specified pulmonary valve disease
+
+  BB9Z  	Pulmonary valve disease, unspecified
+
+  BC00  	Multiple valve disease
+Coding Note:	When specific type of valve disease is known, assign codes for the specific conditions.
+
+  BC01  	Prosthetic valve disease
+Coding Note:	When specific type of valve disease is known, assign codes for the specific conditions.
+
+  BC02  	Acquired abnormality of congenitally malformed valve
+A postnatal pathological change in form or function of a congenitally malformed valve.
+Exclusions:	Congenital anomaly of aortic valve (LA8A.2)
+Congenital anomaly of mitral valve (LA87.1)
+Congenital anomaly of pulmonary valve (LA8A.0)
+Congenital anomaly of tricuspid valve (LA87.0)
+Coded Elsewhere:	Endocarditis of common atrioventricular valve (BB40)
+Endocarditis of right atrioventricular valve (BB40)
+Endocarditis of left atrioventricular valve (BB40)
+Endocarditis of the neoaortic valve of pulmonary origin (BB40)
+Endocarditis of neopulmonary valve (BB40)
+
+BC02.0	Acquired common atrioventricular valvar abnormality in biventricular connections
+A postnatal pathological change in form or function of the common atrioventricular valve in the presence of biventricular atrioventricular connections.
+
+BC02.1	Acquired truncal valvar abnormality
+A postnatal pathological change in form or function of the truncal valve when the truncal valve supplies both the systemic and pulmonary circulations.
+Coded Elsewhere:	Endocarditis of truncal valve or neo-aortic valve of truncal origin (BB40)
+
+BC02.2	Acquired common atrioventricular valvar abnormality in double inlet ventricle
+Coded Elsewhere:	Postprocedural common atrioventricular valvar abnormality in double-inlet ventricle (BE14.7)
+Postprocedural right-sided atrioventricular valvar abnormality in double-inlet ventricle (BE14.5)
+Postprocedural left-sided atrioventricular valvar abnormality in double-inlet ventricle (BE14.6)
+
+BC02.3	Acquired abnormality of neoaortic valve of pulmonary origin
+
+BC02.30	Stenosis of the neoaortic valve of pulmonary origin
+Acquired obstruction to flow through the neo-aortic valve of pulmonary origin, that is, the native pulmonary valve that has become the functional neo-aortic valve.
+Examples of hearts in which a neo-aortic valve has been created include the aortopulmonary anastomosis (Damus-Kaye-Stansel, Norwood procedures), pulmonary valve autograft (Ross procedure), and arterial switch operation
+
+BC02.31	Insufficiency of the neoaortic valve of pulmonary origin
+Acquired backward flow through the neo-aortic valve of pulmonary origin, that is, the native pulmonary valve that has become the functional neo-aortic valve.
+Examples of hearts in which a neo-aortic valve has been created include the aortopulmonary anastomosis (Damus-Kaye-Stansel, Norwood procedures), pulmonary valve autograft (Ross procedure), and arterial switch operation.
+
+BC02.3Y	Other specified acquired abnormality of neoaortic valve of pulmonary origin
+
+BC02.3Z	Acquired abnormality of neoaortic valve of pulmonary origin, unspecified
+
+BC02.4	Acquired abnormality of the neoaortic valve of truncal origin
+A postnatal pathological change in form or function of the neo-aortic valve that results from biventricular repair of common arterial trunk (truncus arteriosus)
+
+BC02.40	Acquired stenosis of the neoaortic valve of truncal origin
+Acquired obstruction to flow through the neo-aortic valve, when the neo-aortic valve results from biventricular repair of common arterial trunk (truncus arteriosus)
+
+BC02.41	Acquired regurgitation of the neoaortic valve of truncal origin
+Acquired backward flow through the neo-aortic valve, when the neo-aortic valve results from biventricular repair of common arterial trunk (truncus arteriosus)
+
+BC02.4Y	Other specified acquired abnormality of the neoaortic valve of truncal origin
+
+BC02.4Z	Acquired abnormality of the neoaortic valve of truncal origin, unspecified
+
+BC02.Y	Other specified acquired abnormality of congenitally malformed valve
+
+BC02.Z	Acquired abnormality of congenitally malformed valve, unspecified
+
+  BC0Z  	Heart valve diseases, unspecified
+
+  BC20  	Chronic rheumatic heart diseases, not elsewhere classified
+Coded Elsewhere:	Acute rheumatic fever with heart involvement (1B41)
+Rheumatic mitral valve stenosis (BB60.0)
+Rheumatic mitral valve insufficiency (BB61.0)
+Rheumatic mitral valve prolapse (BB62.0)
+Rheumatic mitral stenosis with insufficiency (BB63.0)
+Rheumatic aortic valve stenosis (BB70.0)
+Rheumatic aortic valve insufficiency (BB71.0)
+Rheumatic aortic stenosis with insufficiency (BB72.0)
+Rheumatic tricuspid valve stenosis (BB80.0)
+Rheumatic tricuspid valve insufficiency (BB81.0)
+Rheumatic tricuspid valve stenosis with insufficiency (BB82.0)
+Rheumatic pulmonary valve stenosis (BB90.0)
+Rheumatic pulmonary valve insufficiency (BB91.0)
+Rheumatic pulmonary valve stenosis with insufficiency (BB92.0)
+
+BC20.0	Rheumatic diseases of endocardium, valve unspecified
+Endocardium and valves are affected to varying degrees due to rheumatic process.
+
+BC20.1	Rheumatic heart disease, unspecified
+
+BC20.Y	Other specified chronic rheumatic heart disease
+
+BC20.Z	Chronic rheumatic heart disease, unspecified
+
+Diseases of the myocardium or cardiac chambers (BlockL1‑BC4)
+This refers to diseases of a type of involuntary striated muscle found in the walls and histological foundation of the heart, with specific reference to the atrial and ventricular chambers, as well as the myocardium itself.
+  BC40  	Acquired atrial abnormality
+A postnatal pathological change in form or function of one or both atriums.
+Coded Elsewhere:	Postprocedural residual or recurrent interatrial communication (BE17)
+Postprocedural right atrial complication (BE1E)
+Postprocedural left atrial complication (BE1F)
+
+BC40.0	Acquired interatrial communication
+A postnatal pathological hole or pathway between the atrial chambers.
+
+BC40.Y	Other specified acquired atrial abnormality
+
+BC40.Z	Acquired atrial abnormality, unspecified
+
+  BC41  	Acquired ventricular abnormality
+A postnatal pathological change in form or function of a ventricle.
+Coded Elsewhere:	Postprocedural ventricular septal defect disorder (BE14.8)
+
+BC41.0	Acquired interventricular communication
+Hole or pathway between the ventricular chambers not present at birth.
+Coded Elsewhere:	Ventricular septal defect as current complication following acute myocardial infarction (BA60.3)
+
+BC41.Y	Other specified acquired ventricular abnormality
+
+BC41.Z	Acquired ventricular abnormality, unspecified
+
+  BC42  	Myocarditis
+Myocarditis (inflammatory cardiomyopathy) is inflammation of the heart muscle generally in the presence of a dilated cardiomyopathy that results from exposure to either discrete infectious external antigens such as viruses, bacteria, fungae or parasites; non-infectious external antigens such as hypersensitivity to drugs; or internal non-infectious triggers such as autoimmune or hypersensitive activation against self-antigens.
+Additional information: The classic Dallas criteria for the pathological diagnosis of myocarditis require the presence of inflammatory cells simultaneously with evidence of myocyte necrosis on the same microscopic section when examining a myocardial biopsy. Borderline myocarditis is characterised by inflammatory cell infiltrate without myocardial necrosis. A negative biopsy does not necessarily rule out myocarditis.
+Coding Note:	Code aslo the causing condition
+Coded Elsewhere:	Sarcoid myocarditis (4B20.Y)
+Loeffler endocarditis (BC43.20)
+
+BC42.0	Giant cell myocarditis
+Giant cell myocarditis is a form of dilated cardiomyopathy secondary to myocardial Inflammation that is characterised by widespread infiltration of giant cells (abnormal masses produced by the fusion of macrophages) associated with other inflammatory cells and heart muscle cell destruction.
+
+BC42.1	Infectious myocarditis
+Infectious myocarditis (infectious inflammatory cardiomyopathy) is inflammation of the heart muscle generally in the presence of a dilated cardiomyopathy that results from exposure to discrete infectious external antigens such as a virus, bacteria or parasite.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Acute rheumatic myocarditis (1B41.2)
+Myoendocarditis (BB41)
+Acute or subacute infectious endocarditis (BB40)
+
+BC42.2	Hypersensitivity myocarditis
+Hypersensitivity myocarditis is the presence of dilated cardiomyopathy in association with a known related disorder (hypereosinophilic syndrome (usually a restrictive cardiomyopathy), Churg-Strauss syndrome, malignancy, parasite infection, drugs, or vaccines) and findings of interstitial lymphocytic and eosinophilic infiltration, giant cell, and possible myocardial necrosis on biopsy, usually with peripheral eosinophilia.
+Inclusions:	eosinophilic myocarditis
+
+BC42.3	Rheumatic myocarditis
+Rheumatic myocarditis is cardiac inflammation and scarring triggered by an autoimmune reaction to group A streptococci infection resulting acutely in pancarditis involving inflammation of the myocardium, endocardium, and epicardium and chronically by valve fibrosis.
+Coding Note:	Code aslo the causing condition
+
+BC42.Y	Other specific myocarditis
+Coding Note:	Code aslo the causing condition
+
+BC42.Z	Myocarditis, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BC43  	Cardiomyopathy
+These are myocardial disorders in which the heart muscle is structurally and functionally abnormal, in the absence of coronary artery disease, hypertension, valvular disease and congenital heart disease sufficient to cause the observed myocardial abnormality.
+Coding Note:	Code aslo the causing condition
+Exclusions:	Inflammatory cardiomyopathy (BC42)
+Myocarditis (BC42)
+Coded Elsewhere:	Ischaemic cardiomyopathy (BA51)
+Pacemaker-induced cardiomyopathy (NE82.03)
+Cardiomyopathy in the puerperium (JB44.3)
+
+BC43.0	Dilated cardiomyopathy
+Dilated cardiomyopathy is a myocardial disorder in which there is systolic dysfunction and chamber dilation of one or both ventricles in the absence of a haemodynamic cause that can produce the existent dilation and dysfunction, including physiological (such as sepsis) or anatomic causes with either abnormal loading conditions (such as coarctation of the aorta) or ischaemia (such as coronary artery disease or anomalies).
+Additional information: Physiological and anatomic conditions can affect the dilated cardiomyopathy morphofunctional phenotype. If this morphofunctional phenotype is retained after appropriate intervention, then a dilated cardiomyopathy is established.
+Inclusions:	Congestive cardiomyopathy
+
+BC43.00	Familial-genetic dilated cardiomyopathy
+Familial-genetic dilated cardiomyopathy is the presence of dilated cardiomyopathy that is present in multiple members of a pedigree, or in the presence of a genetic mutation known to be significantly associated with dilated cardiomyopathy.
+Additional information: Candidate cytoskeletal and Z disk–encoding genes, most of whom are hypothesized to lead to abnormalities in force transmission, include δ-sarcoglycan, β-sarcoglycan, desmin, lamin A/C, metavinculin, muscle LIM protein, titin, α-actinin-2, nebulette, myopalladin, and ZASP (Z band alternatively spliced PDZ domain protein)
+Coded Elsewhere:	Dilated cardiomyopathy due to glycogen branching enzyme deficiency (5C51.3)
+
+BC43.01	Nonfamilial dilated cardiomyopathy
+Nonfamilial dilated cardiomyopathy is dilated cardiomyopathy secondary to an acquired systemic disorder that is known to be associated with dilated or inflammatory cardiomyopathy such as infectious myocarditis, exposure to toxins such as alcohol or anthracycline therapy, nutritional disorders, autoimmune disease, and many others.
+Exclusions:	Pacemaker-induced cardiomyopathy (NE82.03)
+
+BC43.0Z	Dilated cardiomyopathy, unspecified
+
+BC43.1	Hypertrophic cardiomyopathy
+Hypertrophic cardiomyopathy is the presence of a hypertrophied, non-dilated ventricle in the absence of a hemodynamic cause that is capable of producing the existent magnitude of wall thickening excluding both physiologic hypertrophy secondary to physical activity, and pathologic hypertrophy due to systemic hypertension, aortic valvar stenosis, and coarctation.
+Coded Elsewhere:	Syndrome of infant of a diabetic mother, type 1 or 2, nongestational, insulin dependent (KB60.1)
+
+BC43.10	Familial-genetic hypertrophic cardiomyopathy
+Familial isolated hypertrophic cardiomyopathy is the presence of non-syndromic hypertrophic cardiomyopathy in multiple members of a pedigree, or in the presence of a genetic mutation known to be significantly associated with hypertrophic cardiomyopathy.
+
+BC43.11	Non-obstructive hypertrophic cardiomyopathy
+Non-obstructive hypertrophic cardiomyopathy is hypertrophic cardiomyopathy that has no fixed or dynamic intraventricular narrowing sufficient to result in a significant pressure gradient between the ventricular apex and the outflow valve (aortic or pulmonary).
+
+BC43.12	Obstructive hypertrophic cardiomyopathy
+Obstructive hypertrophic cardiomyopathy is hypertrophic cardiomyopathy that manifests sufficient fixed or dynamic narrowing within one or both ventricles to result in a significant pressure gradient between the ventricular apex and the outflow valve (aortic or pulmonary).
+
+BC43.1Y	Other specified hypertrophic cardiomyopathy
+
+BC43.1Z	Hypertrophic cardiomyopathy, unspecified
+
+BC43.2	Restrictive cardiomyopathy
+Restrictive cardiomyopathy is the presence of impaired ventricular diastolic function related to reduced rate and/or extent of relaxation and/or compliance in the absence of another predominant phenotype of dilated or hypertrophic cardiomyopathy.
+
+BC43.20	Nonfamilial restrictive cardiomyopathy
+Nonfamilial restrictive cardiomyopathy is restrictive cardiomyopathy secondary to an acquired systemic disorder that is known to be associated with restrictive cardiomyopathy such as amyloidosis, scleroderma, sarcoidosis, or anthracycline therapy.
+
+BC43.2Y	Other specified restrictive cardiomyopathy
+
+BC43.2Z	Restrictive cardiomyopathy, unspecified
+
+BC43.3	Endocardial fibroelastosis
+Endocardial fibroelastosis is the formation of a marked fibro-elastic thickening of the subendocardium in one or both cardiac ventricles. A disorder of fetuses and infants, secondary causes include congenital left-sided obstructive cardiac lesions, metabolic disorders, autoimmune disease (anti-Ro/ anti-La antibodies), and transplacental viral infection such as mumps. Primary endocardial fibroelastosis has been linked to recessive and x-linked inheritance, such as with Barth syndrome.
+
+BC43.4	Cardiomyopathy due to drugs or other external agents
+This is one type of cardiomyopathy due to drugs and other external agents. Causing agents are alcohol, cocaine chemotherapeutic agents, psychotherapeutic agents and chemical toxins.
+
+BC43.5	Stress-induced cardiomyopathy
+Stress-induced or Takotsubo cardiomyopathy is a disease of the myocardium characterised by episodes of acute onset, reversible left ventricular apical wall motion abnormalities mimicking acute myocardial infarction, but with non-specific electrocardiographic ST elevation and T wave changes, and minimal myocardial enzymatic release, in the absence of coronary stenosis.
+Inclusions:	Takotsubo cardiomyopathy
+
+BC43.6	Arrhythmogenic ventricular cardiomyopathy
+Arrhythmogenic ventricular cardiomyopathy is a cardiomyopathy characterised by myocardial cell loss with partial or total replacement of right ventricular muscle by adipose and fibrous tissue, beginning subepicardially to become transmural in time, sparing the papillary muscles and trabeculae, and often associated with aneurysms particularly of the right ventricular outflow tract. There is progressive systolic impairment with ventricular dilation and marked propensity for ventricular arrhythmias of right, as well as left, ventricular origin. Classically a disease of the right ventricle, more recent evidence suggests left ventricular involvement to a varying extent in up to 75% of cases, as well as isolated left ventricular disease.
+Source: ISNPCHD and American Heart Association Scientific Statement 2019
+Additional information: Arrhythmogenic ventricular cardiomyopathy/dysplasia (AVC/D) is a heart muscle disease clinically characterised by life-threatening ventricular arrhythmias. Its prevalence has been estimated to vary from 1:2,500 to 1:5,000 and is a major cause of sudden death in the young and in athletes. Classically a disease of the right ventricle, more recent evidence suggests left ventricular involvement to a varying extent in up to 75% of cases, as well as isolated left ventricular disease. The clinical picture may include: a subclinical phase without symptoms and with ventricular fibrillation being the first presentation; an electrical disorder with palpitations and syncope, due to tachyarrhythmias of right ventricular origin (left bundle branch block pattern) but also of left ventricular origin (right bundle branch block pattern) when left ventricular disease present; right ventricular or biventricular pump failure, so severe as to require transplantation. The pathology consists of a genetically determined dystrophy of the right (or left) ventricular myocardium with fibro-fatty replacement which may lead to right ventricular aneurysms. The causative genes (ACTN2, DSC2, DSG2, DSP, JUP, TMEM43, LDB3, PKP2, RYR2, TGFB3) encode proteins of mechanical cell junctions (plakoglobin, plakophilin, desmoglein, desmocollin, desmoplakin) and account for intercalated disk remodelling. Familial occurrence with an autosomal dominant pattern of inheritance and variable penetrance has been reported. Recessive variants associated with palmoplantar keratoderma and woolly hair (see these terms) have also been described. Classically clinical diagnosis depends on demonstrating functional and structural alterations of the right ventricle (echocardiography and magnetic resonance imaging), ECG depolarization and repolarization abnormalities, arrhythmias with the left bundle branch block morphology and fibro-fatty replacement through endomyocardial biopsy. Electroanatomic mapping is able to detect areas of low voltage corresponding to myocardial atrophy with fibro-fatty replacement. The main differential diagnoses are idiopathic right ventricular outflow tract tachycardia, myocarditis, dilated cardiomyopathy and sarcoidosis (see these terms). Management includes antiarrhythmic drugs, catheter ablation and implantable cardioverter-defibrillators (ICDs). Young age, family history of juvenile sudden death, QRS dispersion greater than or equal to 340 ms, T-wave inversion, left ventricular involvement, ventricular tachycardia, syncope and prior cardiac arrest are the major risk factors for an adverse prognosis.
+
+BC43.7	Diabetic cardiomyopathy
+Diabetic cardiomyopathy is the presence of myocardial dysfunction in the absence of overt clinical coronary artery disease, valvar disease, and other conventional cardiovascular risk factors, such as hypertension and dyslipidemia. It is initially characterised by myocardial fibrosis, dysfunctional remodeling, and diastolic dysfunction, progressing to systolic dysfunction and heart failure.
+Additional information. The development and progression of diabetic cardiomyopathy has been linked to impaired cardiac insulin metabolic signaling, increases in oxidative stress, reduced nitric oxide bioavailability, collagen-based cardiomyocyte and extracellular matrix stiffness, impaired mitochondrial and cardiomyocyte calcium handling, inflammation, renin–angiotensin–aldosterone system activation, cardiac autonomic neuropathy, endoplasmic reticulum stress, microvascular dysfunction, and a myriad of cardiac metabolic abnormalities.
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+BC43.Y	Other specified cardiomyopathy
+Coding Note:	Code aslo the causing condition
+
+BC43.Z	Cardiomyopathy, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BC44  	Noncompaction cardiomyopathy
+Noncompaction cardiomyopathy is a morphologic abnormality of the myocardium predominantly affecting the apex of the ventricle characterised by hypertrabeculation and deep inter-trabecular recesses, usually accompanied by an abnormally thin subepicardial layer of compacted myocardium , that is generally but not always associated with ventricular dysfunction.
+Additional information. Noncompaction cardiomyopathy classically involves the left ventricle but can also involve only the right ventricle or both. It can occur as an isolated finding or in association with a dilated, hypertrophic, or mixed cardiomyopathic phenotype. It has been described in association with complex congenital heart disease, coronary artery anomalies and as an isolated finding, with and without musculoskeletal and other system abnormalities.
+
+  BC45  	Cardiomegaly
+
+  BC46  	Intracardiac thrombosis
+Exclusions:	Acute myocardial infarction, without specification of ST elevation (BA41)
+
+  BC4Y  	Other specified diseases of the myocardium or cardiac chambers
+
+  BC4Z  	Diseases of the myocardium or cardiac chambers, unspecified
+
+Cardiac arrhythmia (BlockL1‑BC6)
+This is any of a large and heterogeneous group of conditions in which there is abnormal electrical activity in the heart. The heartbeat may be too fast or too slow, and may be regular or irregular.
+Coded Elsewhere:	Cardiac arrest (MC82)
+Cardiac arrhythmias in the neonate (KB41)
+Dysfunction or complication of pacemaker, pacemaker lead or implantable cardioverter defibrillator, not elsewhere classified (NE82)
+  BC60  	Atrial premature depolarization
+Cardiac electrical depolarization arising from the atria, occurring earlier than the expected sinus beat
+
+  BC61  	Junctional premature depolarization
+Cardiac electrical depolarization arising from the compact atrioventricular node or His bundle occurring earlier than the expected sinus beat.
+
+  BC62  	Accessory pathway
+An additional electrical connection which typically bypasses the AV node, typically inserting directly into atrial and ventricular myocardium, but may also connect to the specialised conduction system (e.g., the bundle of His, right or left bundles, or one of the fascicles).
+
+  BC63  	Conduction disorders
+Any abnormal alteration of atrio-ventricular conduction.
+Coded Elsewhere:	Congenital heart block (LA8Y)
+
+BC63.0	Atrioventricular block, first degree
+Disorder of the atrioventricular conduction system in which the PR interval is greater than the 97th percentile for age or > 200 ms in adults
+
+BC63.1	Atrioventricular block, second degree
+Disorder of the atrioventricular conduction system in which some but not all atrial impulses fail to propogate to the ventricles. Electrocardiographically, some P waves are not followed by a QRS complex
+
+BC63.10	High-grade second degree atrioventricular block
+Form of second degree atrioventricular block in which either multiple consecutive P-waves are not conducted or there are transient periods of atrioventricular dissociation
+
+BC63.1Y	Other specified atrioventricular block, second degree
+
+BC63.1Z	Atrioventricular block, second degree, unspecified
+
+BC63.2	Complete atrioventricular block
+Disorder of the atrioventricular conduction system in which there is failure of all atrial impulses to propagate to the ventricle
+Inclusions:	Third-degree block
+
+BC63.20	Congenital complete atrioventricular block
+Third degree atrioventricular block is defined as the absence of atrioventricular node conduction and here it is congenital, that is it has been present since birth and is not acquired, although but may be first detected later.
+
+BC63.21	Acquired complete atrioventricular block
+Complete atrioventricular block in which the onset of the conduction disorder is recognised after birth
+
+BC63.2Z	Complete atrioventricular block, unspecified
+
+BC63.3	Right bundle branch block
+Disorder of the atrioventricular conduction system characterised by prolonged QRS duration (greater than or equal to 120 ms in adults, greater than 100 ms in children ages 4 to 16 years, and greater than 90 ms in children less than 4 years of age), rsr, rsR, or rSR in leads V1 or V2, S wave of greater duration than R wave (or greater than 40 ms in leads I and V6 in adults)
+
+BC63.4	Left bundle branch block
+Disorder of the atrioventricular conduction system in which the QRS duration is greater than or equal to 120 ms in adults, greater than 100 ms in children 4 to 16 years of age, and greater than 90 ms in children less than 4 years of age; there is a QS or rS pattern in lead V1 and a wide slurred R wave in leads I and V6.
+
+BC63.40	Left anterior fascicular block
+Disorder of the atrioventricular conduction system characterised by left axis deviation for age (frontal plane axis between -45° and -90°), qR pattern in lead aVL, R-peak time in lead aVL of 45 ms or more, and a QRS duration that does not meet age dependent criteria for complete bundle branch block (less than 120 ms in adults, less than 100 ms in children 4 to 16 years of age, and less than 90 ms in children less than 4 years of age)
+
+BC63.41	Left posterior fascicular block
+Disorder of the atrioventricular conduction system characterised by right axis deviation for age (between 90° and 180° in adults), with a qR pattern in inferior leads, rS pattern in leftward leads (I and aVL), and a QRS duration that does not meet age dependent criteria for complete bundle branch block (less than 120 ms in adults, less than 100 ms in children 4 to 16 years of age, and less than 90 ms in children less than 4 years of age)
+
+BC63.4Z	Left bundle branch block, fascicle unspecified
+
+BC63.5	Nonspecific intraventricular conduction delay
+Disorder of the atrioventricular conduction system characterised by a prolonged QRS duration (QRS duration greater than 110 ms in adults, greater than 90 ms in children 8 to 16 years of age, and greater than 80 ms in children less than 8 years of age) without criteria for right or left bundle branch block.
+
+BC63.Y	Other specified conduction disorders
+
+BC63.Z	Conduction disorders, unspecified
+
+  BC64  	Sudden arrhythmic death syndrome
+
+  BC65  	Cardiac arrhythmia associated with genetic disorder
+
+BC65.0	Long QT syndrome
+A congenital disorder of ventricular myocardial repolarization characterised by a prolonged QT interval on the electrocardiogram (ECG) that can lead to symptomatic ventricular arrhythmias and an increased risk of sudden cardiac death.
+
+BC65.1	Brugada syndrome
+Clinical manifestations of cardiac syncope, ventricular tachycardia, ventricular fibrillation, or sudden death in conjunction with a genetic mutation associated with Brugada Syndrome and/or a Brugada pattern ECG (spontaneous or provoked).
+
+BC65.2	Short QT syndrome
+Familial short QT syndrome is a rare cardiac rhythm disorder that associates a short QT interval (QT and QTc 300 ms) on the surface electrocardiogram (ECG) with a high risk of syncope or sudden death due to malignant ventricular arrhythmia.
+
+BC65.3	Early repolarisation syndrome
+Genetic arrhythmia disorder characterised by inferolateral J wave elevation noted on ECG in conjunction with ventricular fibrillation not explained by other causes.
+
+BC65.4	Idiopathic ventricular fibrillation
+Genetic arrhythmia disorder characterised by occurrence of ventricular fibrillation in the absence of other underlying causes, including absence of electrocardiogram (ECG) findings of Brugada syndrome, bidirectional ventricular tachycardia, and inferolateral J wave elevation.
+
+BC65.5	Catecholaminergic polymorphic ventricular tachycardia
+Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a severe genetic arrhythmogenic disorder of childhood characterised by adrenergically-induced ventricular tachycardia (bidirectional ventricular tachycardia and, less frequently, supraventricular tachycardia and atrial fibrillation) manifesting as syncope and sudden death.
+
+BC65.Y	Other specified cardiac arrhythmia associated with genetic disorder
+
+BC65.Z	Cardiac arrhythmia associated with genetic disorder, unspecified
+
+Ventricular rhythm disturbance (BlockL2‑BC7)
+Any cardiac rhythm anomaly arising from the ventricles.
+  BC70  	Ventricular premature depolarization
+Ventricular depolarization occurring earlier than the expected ventricular depolarization initiated by the sinoatrial node or another supraventricular pacemaker.
+
+  BC71  	Ventricular tachyarrhythmia
+Any ventricular rhythm disturbance with a rate faster than the normal age dependent ventricular escape rate.
+
+BC71.0	Ventricular tachycardia
+Ventricular tachycardia is a cardiac arrhythmia of three or more consecutive complexes in duration emanating from the ventricles at a rate of greater than 120 bpm in adolescents or adults and a rate greater than 150 bpm in child. Ventricular tachycardia may occur with or without loss of cardiac output.
+
+BC71.00	Right outflow tract ventricular tachycardia
+Monomorphic ventricular tachycardia with focal activity originating from the right ventricular outflow tract, having a left bundle branch block (LBBB) morphology and inferior axis.
+
+BC71.01	Polymorphic ventricular tachycardia
+Ventricular tachycardia with 2 or more QRS morphologies.
+
+BC71.02	Sustained ventricular tachycardia
+Ventricular tachycardia that has a duration of >30 seconds or causes haemodynamic instability.
+
+BC71.03	Non-sustained ventricular tachycardia
+Ventricular tachycardia lasting less than or equal to 30 seconds
+
+BC71.0Y	Other specified ventricular tachycardia
+
+BC71.0Z	Ventricular tachycardia, unspecified
+
+BC71.1	Ventricular fibrillation
+Ventricular fibrillation is a rapid grossly irregular ventricular rhythm, usually more than 300 bpm/200 ms (cycle length 180 ms or less), with marked variability in QRS cycle length, morphology, and amplitude, associated with loss of cardiac output, and is usually sustained, requiring intervention to terminate.
+
+BC71.2	Re-entry ventricular arrhythmia
+
+BC71.Y	Other specified ventricular tachyarrhythmia
+
+BC71.Z	Ventricular tachyarrhythmia, unspecified
+
+  BC7Y  	Other specified ventricular rhythm disturbance
+
+  BC7Z  	Ventricular rhythm disturbance, unspecified
+
+Supraventricular rhythm disturbance (BlockL2‑BC8)
+  BC80  	Supraventricular bradyarrhythmia
+Any of a number of possible arrhythmias originating from at or above the level of bundle of His in which the heart beats slower than the age-dependent lower limits of normal.
+
+BC80.0	Sinus pause
+An interruption in the typical sinus cadence where the p-p interval > sum of 2 previous p-p (excludes sinus arrhythmia).
+
+BC80.1	Sinus bradycardia
+Resting sinus rates below the 97% for age (<60 bpm in adults).
+
+BC80.2	Sinus node dysfunction
+Non-specific term that refers to abnormalities in sinus node impulse formation and propagation and includes sinus bradycardia, sinus pause/arrest, chronotropic incompetence, and sinoatrial exit block.
+
+BC80.20	Sick sinus syndrome
+Sick sinus syndrome may be defined as inappropriate sinus rates (either resting bradycardia or chronotropic incompetence) which may be associated with episodes of atrial tachycardia.
+
+BC80.21	Sinoatrial block
+Delay or block of the electrical impulse from the sinus node to the atria
+
+BC80.2Y	Other specified sinus node dysfunction
+
+BC80.2Z	Sinus node dysfunction, unspecified
+
+BC80.Y	Other specified supraventricular bradyarrhythmia
+
+BC80.Z	Supraventricular bradyarrhythmia, unspecified
+
+  BC81  	Supraventricular tachyarrhythmia
+Tachycardia originating at or above the atrioventricular (AV) node, usually with a narrow QRS or QRS complex similar to the sinus QRS morphology.
+
+BC81.0	Ectopic atrial tachycardia
+Ectopic atrial tachycardia originates from a small area (focus) in the atrium and spreading centrifugally.
+
+BC81.1	Junctional ectopic tachycardia
+Narrow or usual complex tachycardia originates from a focus at or near the atrioventricular junction.
+
+BC81.2	Macro reentrant atrial tachycardia
+An atrial arrhythmia in which there is intra-atrial reentry or circus movement around a fixed or functional central obstacle. The central obstacle may consist normal (e.g. valves) or abnormal (e.g., scar) structures.
+This form of SVT originates in the atrium; conduction to the ventricles is not necessary for the tachycardia to continue. An organised atrial rhythm with a rate typically between 250 and 350 bpm, including tachycardias using a variety of reentry circuits that often occupy large areas of the atrium (‘‘macro-reentrant’’). Here the arrhythmia involves the cavotricuspid isthmus.
+
+BC81.20	Cavotricuspid isthmus dependent macroreentry tachycardia
+A macro re-entrant atrial tachycardia that rotates around the tricuspid annulus.
+
+BC81.21	Non-scar, non-isthmus dependent macro reentrant atrial tachycardia
+A macro re-entrant atrial tachycardia coursing around a normal cardiac structure (except the cavotricuspid isthmus) such as the mitral valve annulus, or superior caval vein.
+
+BC81.22	Scar mediated macro reentrant atrial tachycardia
+A macro re-entrant atrial tachycardia in which the central obstacle and/or the zone of slow conduction sustaining the tachycardia are due to scar. In this context scar generally refers to surgical or ischaemic heart disease mediated scarring rather than the fibrosis than can accompany other disease states or aging.
+
+BC81.2Y	Other specified macro reentrant atrial tachycardia
+
+BC81.2Z	Macro reentrant atrial tachycardia, unspecified
+
+BC81.3	Atrial fibrillation
+An atrial tachyarrhythmia characterised by rapid (usually faster than 300 bpm), irregular and uncoordinated atrial impulse generation, usually manifesting on ECG with indistinct P-waves and an irregularly irregular ventricular response.
+
+BC81.30	Paroxysmal atrial fibrillation
+recurrent AF (>=2 episodes) that terminates spontaneously within 7 days or less (usually within 24 hours).
+
+BC81.31	Persistent atrial fibrillation
+Atrial fibrillation (AF) which is sustained beyond seven days, or lasting less than seven days but necessitating pharmacologic or electrical cardioversion to restore normal sinus rhythm.
+
+BC81.32	Permanent atrial fibrillation
+A term used to identify individuals with persistent AF where a decision has been made to no longer pursue a rhythm control strategy, or where cardioversion has either failed or not been attempted.
+
+BC81.33	Preexcited atrial fibrillation
+Atrial fibrillation that occurs in the setting of a preexcitation syndrome such a Wolff-Parkinson-White syndrome, resulting in an erratic wide-complex rhythm that can degenerate into ventricular fibrillation, and sudden cardiac death.
+
+BC81.3Y	Other specified atrial fibrillation
+
+BC81.3Z	Atrial fibrillation, unspecified
+
+BC81.4	Wolff-Parkinson-White syndrome
+Arrhythmia symptoms, documented supraventricular tachycardia, and/or cardiac arrest due to rapidly conducted atrial fibrillation associated with preexcitation on electrocardiogram. Includes latent preexcitation identified during electrophysiology study.
+
+BC81.5	Sinus node reentrant tachycardia
+A reentrant tachycardia within the sinus node/perinodal tissue characterised by abrupt onset/termination, regular cadence, and P-waves consistent with sinus node origin
+
+BC81.6	Inappropriate sinus tachycardia
+Heart rate which is elevated with regard to level of activity; usually exhibits features of automaticity.
+
+BC81.7	Atrioventricular reciprocating tachycardia
+A macro-reentrant tachycardia involving the atria and ventricles in series that uses the atrioventricular node or an accessory pathway for one limb of the circuit and an accessory pathway for the other.
+
+BC81.70	Atrioventricular reciprocating tachycardia, orthodromic
+An atrioventricular reciprocating tachycardia that uses an accessory pathway for retrograde conduction and the atrioventricular node for anterograde conduction resulting in a narrow or usual complex tachycardia.
+
+BC81.71	Atrioventricular reciprocating tachycardia, antidromic
+An atrioventricular reciprocating tachycardia that uses the atrioventricular node for retrograde conduction and the accessory pathway for anterograde conduction resulting in a wide complex tachycardia.
+
+BC81.7Y	Other specified atrioventricular reciprocating tachycardia
+
+BC81.7Z	Atrioventricular reciprocating tachycardia, unspecified
+
+BC81.8	Atrioventricular nodal reentry tachycardia
+A reentrant supraventricular tachycardia that uses multiple slow atrioventricular nodal pathways or a slow atrioventricular nodal pathway in conjunction with a fast atrioventricular nodal pathway in a reentry circuit.
+
+BC81.Y	Other specified supraventricular tachyarrhythmia
+
+BC81.Z	Supraventricular tachyarrhythmia, unspecified
+
+  BC8Y  	Other specified supraventricular rhythm disturbance
+
+  BC8Z  	Supraventricular rhythm disturbance, unspecified
+
+  BC90  	Rhythm disturbance at level of atrioventricular junction
+
+  BC91  	Pacemaker or implantable cardioverter defibrillator battery at end of battery life
+Pacemaker or implantable cardioverter defibrillator (ICD) battery at or near complete exhaustion.
+Coding Note:	Note: "End of life" refers to the end of the battery's life not the patient's life.
+
+  BC9Y  	Other specified cardiac arrhythmia
+
+  BC9Z  	Cardiac arrhythmia, unspecified
+
+Heart failure (BlockL1‑BD1)
+Exclusions:	Heart failure following cardiac surgery or due to presence of cardiac prosthesis (BE11)
+complicating abortion or ectopic or molar pregnancy (JA05)
+complicating obstetric surgery and procedures (JB0D.3)
+Coded Elsewhere:	Neonatal cardiac failure (KB40)
+  BD10  	Congestive heart failure
+A clinical syndrome characterised by abnormalities of ventricular function and neurohormonal regulation which are accompanied by effort intolerance and fluid retention.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Congestive heart disease
+
+  BD11  	Left ventricular failure
+A clinical syndrome characterised by abnormalities of left ventricular function resulting in pulmonary congestion and fluid retention.
+Coding Note:	Code aslo the causing condition
+Inclusions:	Left heart failure
+
+BD11.0	Left ventricular failure with preserved ejection fraction
+A syndrome of left ventricular dysfunction occurring with normal or relatively preserved ejection fraction
+Coding Note:	Code aslo the causing condition
+
+BD11.1	Left ventricular failure with mid range ejection fraction
+Coding Note:	Code aslo the causing condition
+
+BD11.2	Left ventricular failure with reduced ejection fraction
+A syndrome of left ventricular dysfunction associated with reduced ejection fraction.
+Coding Note:	Code aslo the causing condition
+
+BD11.Z	Left ventricular failure, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BD12  	High output syndromes
+Increased cardiac output above normal associated with anaemia, arteriovenous fistulas, thyrotoxicosis and other syndromes. May result in heart failure.
+
+  BD13  	Right ventricular failure
+Heart failure associated with right ventricular dysfunction manifest by distention of the neck veins, enlargement of the liver, and dependent oedema.
+Coding Note:	Code aslo the causing condition
+
+  BD14  	Biventricular failure
+Coding Note:	Code aslo the causing condition
+
+  BD1Y  	Other specified heart failure
+
+  BD1Z  	Heart failure, unspecified
+
+Diseases of arteries or arterioles (BlockL1‑BD3)
+Exclusions:	Diseases of coronary artery (BlockL1‑BA8)
+  BD30  	Acute arterial occlusion
+Coding Note:	Code aslo the causing condition
+
+BD30.0	Acute upper limb arterial occlusion
+
+BD30.00	Acute thromboembolic upper limb arterial occlusion
+
+BD30.01	Acute thrombotic upper limb arterial occlusion
+
+BD30.0Y	Other specified acute upper limb arterial occlusion
+
+BD30.0Z	Acute upper limb arterial occlusion, unspecified
+
+BD30.1	Acute aortoiliac occlusion
+
+BD30.10	Acute thromboembolic aortoiliac occlusion
+
+BD30.11	Acute thrombotic aortoiliac occlusion
+
+BD30.1Y	Other specified acute aortoiliac occlusion
+
+BD30.1Z	Acute aortoiliac occlusion, unspecified
+
+BD30.2	Acute lower limb arterial occlusion
+
+BD30.20	Acute thromboembolic lower limb arterial occlusion
+
+BD30.21	Acute thrombotic lower limb arterial occlusion
+
+BD30.2Y	Other specified acute lower limb arterial occlusion
+
+BD30.2Z	Acute lower limb arterial occlusion, unspecified
+
+BD30.Y	Other specified acute arterial occlusion
+Coding Note:	Code aslo the causing condition
+
+BD30.Z	Acute arterial occlusion, unspecified
+Coding Note:	Code aslo the causing condition
+
+Chronic arterial occlusive disease (BlockL2‑BD4)
+Coded Elsewhere:	Secondary peripheral angiopathy (BD53.Y)
+  BD40  	Atherosclerotic chronic arterial occlusive disease
+Inclusions:	endarteritis deformans
+senile arteritis
+senile endarteritis
+Exclusions:	Chronic vascular disorders of intestine (DD31)
+Cerebral ischaemic stroke due to intracranial large artery atherosclerosis (8B11.1)
+Coronary atherosclerosis (BA80)
+Chilblains (NF03.0)
+Frostbite (BlockL1‑NE4)
+Cerebral ischaemic stroke due to extracranial large artery atherosclerosis (8B11.0)
+Asymptomatic stenosis of intracranial or extracranial artery (BD55)
+Coded Elsewhere:	Atherosclerotic retinopathy (BD40.Y)
+
+BD40.0	Lower limb atherosclerosis
+This is a condition in which an artery wall thickens as a result of the accumulation of fatty materials such as cholesterol, of the lower limb.
+
+BD40.1	Atherosclerosis of aorta
+
+BD40.2	Atherosclerosis of renal artery
+Exclusions:	atherosclerosis of renal arterioles (BA02)
+
+BD40.3	Aortic bifurcation syndrome
+
+BD40.Y	Other specified atherosclerotic chronic arterial occlusive disease
+
+BD40.Z	Atherosclerotic chronic arterial occlusive disease, unspecified
+
+  BD41  	Non-atherosclerotic chronic arterial occlusive disease
+A heterogeneous group of disorders which may present with symptoms suggestive of atherosclerotic peripheral arterial disease (e.g. intermittent claudication) but in which arterial or arteriolar occlusion is due to other causes such as fibromuscular dysplasia, thromboarteritis obliterans and calcific arteriolopathy.
+Coded Elsewhere:	Thromboangiitis obliterans (4A44.8)
+Calcific arteriolopathy (EB90.42)
+
+BD41.0	Arterial fibromuscular dysplasia
+Fibromuscular dysplasia, formerly called fibromuscular fibroplasia, is a group of nonatherosclerotic, noninflammatory arterial diseases that most commonly involve the renal and carotid arteries.
+
+BD41.Y	Other specified non-atherosclerotic chronic arterial occlusive disease
+
+BD41.Z	Non-atherosclerotic chronic arterial occlusive disease, unspecified
+
+  BD42  	Raynaud phenomenon
+Raynaud phenomenon describes an exaggerated vascular response to cold temperature or emotional stimuli resulting in episodic digital ischaemia. It is characterised by paroxysmal vasoconstriction producing initially pallor, an essential component for the diagnosis, followed by cyanosis and erythema. Primary Raynaud disease is an isolated innocuous disorder. Secondary Raynaud phenomenon occurs in association with a wide range of different disorders including dysproteinaemias and non-organ-specific systemic autoimmune diseases.
+
+BD42.0	Primary Raynaud disease
+Raynaud phenomenon unassociated with any concomitant disease, drug or other provoking trauma. Criteria for diagnosis include: bilateral symmetrical episodic attacks without evidence of peripheral vascular disease or tissue injury, normal nail fold capillaroscopy, negative antinuclear antibody and normal erythrocyte sedimentation rate.
+Inclusions:	Raynaud disease
+
+BD42.1	Secondary Raynaud phenomenon
+Coding Note:	Code aslo the causing condition
+
+BD42.Z	Raynaud phenomenon, unspecified
+
+  BD4Y  	Other specified chronic arterial occlusive disease
+
+  BD4Z  	Chronic arterial occlusive disease, unspecified
+
+  BD50  	Aortic aneurysm or dissection
+Aortic aneurysm is a term for any swelling (dilation or aneurysm) of the aorta to greater than 1.5 times normal, usually representing an underlying weakness in the wall of the aorta at that location. Aortic dissection occurs when a tear in the inner wall of the aorta causes blood to flow between the layers of the wall of the aorta, forcing the layers apart.
+Coded Elsewhere:	Postprocedural true or false aortic aneurysm (BE13)
+Aortic aneurysm due to congenital heart disease (LA8Y)
+
+BD50.0	Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch
+This occurs when a tear in the inner wall of the aorta causes blood to flow between the layers of the wall of the aorta, forcing the layers apart: ascending aorta dissection and propagation beyond arch.
+
+BD50.00	Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch with perforation
+
+BD50.01	Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch with rupture
+
+BD50.02	Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch without mention of perforation or rupture
+
+BD50.0Y	Other specified thoracic aortic dissection, ascending aorta dissection and propagation beyond arch
+
+BD50.0Z	Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch, unspecified
+
+BD50.1	Ascending aorta dissection not beyond arch
+
+BD50.10	Ascending aorta dissection not beyond arch with perforation
+
+BD50.11	Ascending aorta dissection not beyond arch with rupture
+
+BD50.12	Ascending aorta dissection not beyond arch without mention of perforation or rupture
+
+BD50.1Y	Other specified ascending aorta dissection not beyond arch
+
+BD50.1Z	Ascending aorta dissection not beyond arch, unspecified
+
+BD50.2	Descending aorta dissection and distal propagation
+This occurs when a tear in the inner wall of the aorta causes blood to flow between the layers of the wall of the aorta, forcing the layers apart, and distal propagation.
+
+BD50.20	Descending aorta dissection and distal propagation with perforation
+
+BD50.21	Descending aorta dissection and distal propagation with rupture
+
+BD50.22	Descending aorta dissection and distal propagation without mention of perforation or rupture
+
+BD50.2Y	Other specified descending aorta dissection and distal propagation
+
+BD50.2Z	Descending aorta dissection and distal propagation, unspecified
+
+BD50.3	Thoracic aortic aneurysm
+
+BD50.30	Thoracic aortic aneurysm with perforation
+
+BD50.31	Thoracic aortic aneurysm with rupture
+
+BD50.32	Thoracic aortic aneurysm without mention of perforation or rupture
+
+BD50.3Y	Other specified thoracic aortic aneurysm
+
+BD50.3Z	Thoracic aortic aneurysm, unspecified
+
+BD50.4	Abdominal aortic aneurysm
+
+BD50.40	Abdominal aortic aneurysm with perforation
+
+BD50.41	Abdominal aortic aneurysm with rupture
+
+BD50.4Y	Other specified abdominal aortic aneurysm
+
+BD50.4Z	Abdominal aortic aneurysm, unspecified
+
+BD50.5	Thoracoabdominal aortic aneurysm
+
+BD50.50	Thoracoabdominal aortic aneurysm with perforation
+
+BD50.51	Thoracoabdominal aortic aneurysm with rupture
+
+BD50.52	Thoracoabdominal aortic aneurysm without mention of perforation or rupture
+
+BD50.5Y	Other specified thoracoabdominal aortic aneurysm
+
+BD50.5Z	Thoracoabdominal aortic aneurysm, unspecified
+
+BD50.Z	Aortic aneurysm or dissection, unspecified
+
+  BD51  	Arterial aneurysm or dissection, excluding aorta
+Exclusions:	Aneurysm of pulmonary artery (BB02.1)
+aneurysm of heart (BA41)
+aneurysm of varicose (BD52.1)
+aneurysm of retinal (9B78.1)
+dissection of precerebral artery, congenital (nonruptured) (LA90.41)
+aneurysm (of): aorta (BD50)
+aneurysm (of): arteriovenous NOS acquired (BD52.1)
+Cerebral aneurysm, nonruptured (8B22.5)
+Coronary artery aneurysm (BA81)
+ruptured cerebral aneurysm (8B01.0)
+
+BD51.0	Aneurysm or dissection of carotid artery
+
+BD51.1	Aneurysm or dissection of vertebral artery
+
+BD51.2	Aneurysm or dissection of other precerebral arteries
+Exclusions:	Aneurysm or dissection of carotid artery (BD51.0)
+Aneurysm or dissection of vertebral artery (BD51.1)
+
+BD51.3	Aneurysm or dissection of artery of upper extremity
+
+BD51.4	Aneurysm or dissection of renal artery
+
+BD51.5	Aneurysm or dissection of iliac artery
+
+BD51.6	Aneurysm or dissection of artery of lower extremity
+
+BD51.Y	Aneurysm and dissection of other artery, excluding aorta
+
+BD51.Z	Aneurysm and dissection of unspecified artery
+
+  BD52  	Certain specified disorders of arteries or arterioles
+Exclusions:	collagen (vascular) diseases (BlockL1‑4A4)
+Hypersensitivity angiitis (4A44.B)
+Acute arterial occlusion (BD30)
+Chronic arterial occlusive disease (BlockL2‑BD4)
+
+BD52.0	Segmental arterial mediolysis
+Segmental arterial mediolysis is a rare noninflammatory vascular disease of the abdominal splanchnic arteries, characterised by disruption of the arterial medial layer. It will induce multiple aneurysms in mesenteric arteries with susceptibility to vessel dissection, haemorrhage and mesenteric ischemia.
+
+BD52.1	Arteriovenous fistula, acquired
+Exclusions:	Cerebral aneurysm, nonruptured (8B22.5)
+traumatic - see injury of blood vessel by body region. (Chapter 22)
+Coronary artery aneurysm (BA81)
+
+BD52.2	Stricture of artery
+
+BD52.3	Rupture of artery
+Exclusions:	traumatic rupture of artery - see injury of blood vessel by body region. (Chapter 22)
+
+BD52.4	Necrosis of artery
+
+BD52.5	Coeliac artery compression syndrome
+
+BD52.6	Congenital great vessel related acquired abnormality
+Any postnatal pathological change in form or function of the heart and/or great vessels consequent to the presence of congenital cardiovascular disease.
+Exclusions:	Acquired systemic vein abnormality (BD73)
+Acquired pulmonary venous abnormality (BB03)
+Acquired pulmonary arterial tree abnormality (BB02.3)
+Coded Elsewhere:	Acquired abnormality of congenitally malformed valve (BC02)
+Postprocedural arterial duct disorder (BE14.A)
+Acquired narrowing of constructed cardiac intraventricular tunnel (BE14.B)
+Acquired subaortic stenosis (BB70.Y)
+Acquired pulmonary atresia (BB90.Y)
+Cardiac conduit related disorder (BE14.B)
+Superior cavopulmonary anastomosis related disorder (BE14.B)
+Systemic-to-pulmonary arterial shunt related disorder (BE14.B)
+
+BD52.7	Certain acquired abnormalities of aorta
+A pathological change in form or function of the aorta that develops after birth.
+Coded Elsewhere:	Recoarctation of the aorta (BE14.9)
+
+BD52.70	Acquired abnormality of aortic arch branch
+A postnatal pathological change in form or function of one or more branches of the aortic arch.
+
+BD52.71	Acquired ascending aorta or root dilation
+Enlargement of the luminal diameter of the aorta between the ventriculo-aortic junction and the origin of the first brachiocephalic branch above the upper limit of normal adjusted for body size that develops after birth
+Coded Elsewhere:	Postprocedural ascending aorta dilation (BE14.9)
+
+BD52.7Y	Other specified certain acquired abnormalities of aorta
+
+BD52.7Z	Certain acquired abnormalities of aorta, unspecified
+
+BD52.Y	Other specified disorders of arteries or arterioles
+
+  BD53  	Secondary disorders of arteries and arterioles
+Coding Note:	Code aslo the causing condition
+
+BD53.0	Arterial cystic medial diseases
+Coding Note:	Code aslo the causing condition
+
+BD53.1	Hypothenar hammer syndrome
+
+BD53.2	Iliac artery arteriopathy
+
+BD53.3	Popliteal entrapment syndrome
+
+BD53.4	Cholesterol atheroembolism
+Embolic occlusion of distal small arteries and arterioles by cholesterol crystals released from atherosclerotic plaque in larger more central arteries. The resultant microvascular ischaemia is accompanied by an inflammatory response to the presence of cholesterol crystals. This may occur spontaneously or as a complication of angiography or vascular surgery. Organs most commonly affected include the skin, kidneys, gastrointestinal tract, and brain. Cutaneous manifestations, present in the majority of cases, include livedo reticularis and focal ischaemic necrosis and ulceration; these are commonly associated with acute kidney injury.
+
+BD53.40	Cholesterol atheroembolism to kidneys
+This occurs when cholesterol is released, usually from an atherosclerotic plaque, and travels along with the bloodstream (embolism) to other places in the kidneys, where it obstructs blood vessels.
+
+BD53.4Y	Cholesterol atheroembolism to other specified sites
+
+BD53.4Z	Cholesterol atheroembolism to unspecified site
+
+BD53.Y	Other specified secondary disorders of arteries and arterioles
+Coding Note:	Code aslo the causing condition
+
+BD53.Z	Secondary disorders of arteries and arterioles, unspecified
+Coding Note:	Code aslo the causing condition
+
+  BD54  	Diabetic foot ulcer
+Chronic foot ulcers occur in as many as 15–25% of diabetic patients. The underlying aetiology is a combination of disturbed sensation from diabetic neuropathy and impaired perfusion from diabetic vasculopathy. Poor foot care, abnormal foot structure, or poorly fitting shoes increase the risk of diabetic foot ulcers. The ulcers typically occur in areas of increased plantar pressure, especially beneath the metatarsal heads.
+Coding Note:	Always assign an additional code for diabetes mellitus.
+
+  BD55  	Asymptomatic stenosis of intracranial or extracranial artery
+Stenosis of intracranial or extracranial artery that has not caused TIA or cerebral ischemic stroke.
+Inclusions:	narrowing of basilar, carotid or vertebral arteries, not resulting in cerebral infarction
+Exclusions:	Transient ischaemic attack (8B10)
+Cerebral ischaemic stroke (8B11)
+
+  BD56  	Asymptomatic occlusion of intracranial or extracranial artery
+Occlusion of intracranial or extracranial artery that has not caused TIA or cerebral ischemic stroke.
+Exclusions:	Transient ischaemic attack (8B10)
+Cerebral ischaemic stroke (8B11)
+
+  BD5Y  	Other specified diseases of arteries or arterioles
+
+  BD5Z  	Diseases of arteries or arterioles, unspecified
+
+Diseases of veins (BlockL1‑BD7)
+Coded Elsewhere:	Other venous complications following abortion, ectopic or molar pregnancy (JA05.7)
+Venous complications in pregnancy (JA61)
+  BD70  	Superficial thrombophlebitis
+Coded Elsewhere:	Superficial thrombophlebitis in pregnancy (JA61.2)
+Superficial thrombophlebitis in the puerperium (JB41.0)
+
+BD70.0	Superficial thrombophlebitis of lower limbs
+Inflammation and thrombosis of the superficial veins of the lower limbs affecting particularly varicose superficial leg veins.
+
+BD70.1	Superficial thrombophlebitis of upper limbs
+
+BD70.2	Thrombophlebitis migrans
+Thrombophlebitis migrans is characterised by the development of recurrent and migratory superficial thrombophlebitis. It is an acquired coagulopathy that is strongly associated with malignancy, especially solid tumours of the adenocarcinoma type.
+
+BD70.3	Mondor disease
+A form of localised superficial venous thrombophlebitis typically affecting the chest wall and manifesting as a fibrous cord with surrounding skin retraction and an absence of overlying cutaneous inflammation. No cause is found in many cases but trauma and breast surgery are often implicated.
+Coded Elsewhere:	Mondor disease of the penis (GB06.3)
+
+BD70.Y	Other specified superficial thrombophlebitis
+
+BD70.Z	Superficial thrombophlebitis, unspecified
+
+  BD71  	Deep vein thrombosis
+The process whereby thrombus (blood clot) forms in the large veins of the peripheral venous system. In addition to obstructing venous return it posses a hazard whereby thrombus may detach and embolize to the pulmonary circulation.
+Coded Elsewhere:	Deep phlebothrombosis in pregnancy (JA61.3)
+Deep phlebothrombosis in the puerperium (JB41.1)
+
+BD71.0	Upper limb deep vein thrombosis
+Venous thrombosis within the deep veins of the upper limb.
+
+BD71.1	Vena caval thrombosis
+Venous thrombosis within the vena cava.
+
+BD71.2	Renal vein thrombosis
+Venous thrombosis within the renal vein
+
+BD71.3	Iliac vein thrombosis
+Venous thrombosis within the iliac veins.
+
+BD71.4	Lower limb deep vein thrombosis
+Thrombosis within the deep venous system of the lower limb.
+
+BD71.Y	Other specified deep vein thrombosis
+
+  BD72  	Venous thromboembolism
+
+  BD73  	Acquired systemic vein abnormality
+A postnatal pathological change in form or function of a systemic vein.
+
+BD73.0	Acquired inferior caval vein abnormality
+A postnatal pathologic pathological change in form or function of the inferior caval vein (inferior vena cava).
+Coded Elsewhere:	Inferior caval vein obstruction due to foreign body (BE1C)
+
+BD73.1	Acquired superior caval vein abnormality
+A postnatal pathological change in form or function of the superior caval vein (superior vena cava).
+Coded Elsewhere:	Superior caval vein obstruction due to foreign body (BE1D)
+
+BD73.2	Systemic vein obstruction
+A postnatal pathologic condition of a systemic vein in which flow is impeded or blocked due to narrowing or atresia.
+
+BD73.20	Obstruction of peripheral vein
+A postnatal pathologic condition of a peripheral vein in which flow is impeded or blocked due to narrowing or atresia.
+
+BD73.21	Obstruction of visceral vein
+A postnatal pathologic condition of a visceral vein in which flow is impeded or blocked due to narrowing or atresia.
+
+BD73.2Y	Other specified systemic vein obstruction
+
+BD73.2Z	Systemic vein obstruction, unspecified
+
+BD73.3	Acquired coronary sinus abnormality
+A postnatal pathologic pathological change in form or function of the coronary sinus.
+
+BD73.Y	Other specified acquired systemic vein abnormality
+
+BD73.Z	Acquired systemic vein abnormality, unspecified
+
+  BD74  	Chronic peripheral venous insufficiency of lower extremities
+The presence of increased pressure in the peripheral venous system, particularly of the lower extremities. Peripheral venous hypertension may be due to incompetence of venous valves following deep vein thrombosis but other factors including obesity may also impair venous return. The consequences of chronic peripheral venous insufficiency include varicose veins, venous ulceration and lymphoedema.
+Coded Elsewhere:	Lymphoedema due to venous insufficiency (BD93.10)
+
+BD74.0	Uncomplicated lower limb venous hypertension
+The presence of lower limb venous incompetence or hypertension as may be manifest by the presence of haemosiderin pigmentation of the skin, telangiectasia or finely dilated superficial veins.
+Coded Elsewhere:	Lower limb venous telangiectases (EF20.2)
+
+BD74.1	Lower limb varicose veins
+Varicose veins of lower extremities is the venous insufficiency that caused by the failure of carrying venous blood from the distal to proximal regions of lower extremities. Chronically increased venous pressure causes symptoms like heaviness, discomfort, extremity fatigue, itching, and dull or burning pain.
+Exclusions:	complicating: puerperium (JB41)
+Coded Elsewhere:	Varicose veins of lower extremity in pregnancy (JA61.0)
+
+BD74.10	Varicose veins with great saphenous reflux
+Varicose veins associated with reflux within the great saphenous vein, normally as the result of valve incompetence: this can be due to congenitally weak valves or following injury from direct trauma or venous thrombosis.
+
+BD74.11	Varicose veins with small saphenous reflux
+Varicose veins associated with reflux within the small saphenous vein, normally as the result of valve incompetence: this can be due to congenitally weak valves or following injury from direct trauma or venous thrombosis.
+
+BD74.12	Varicose veins with non-truncal reflux
+Varicose veins associated with reflux sparing the main truncal veins of the lower limb.
+
+BD74.1Z	Lower limb varicose veins, not further specified
+
+BD74.2	Lipodermatosclerosis
+Lipodermatosclerosis is a form of panniculitis of the lower legs that develops in the context of venous insufficiency, giving rise to features that include oedema, erythema, hyperpigmentation and induration. In the acute phase tenderness, erythema and oedema predominate and may mimic cellulitis. As the condition becomes chronic, post-inflammatory pigmentation, fibrosis and lymphoedema predominate, sometimes resulting in the lower leg assuming an “inverted champagne bottle” appearance.
+
+BD74.3	Venous leg ulcer
+Venous leg ulcers are chronic skin ulcers of the gaiter area (ankle and lower leg) due to chronic peripheral venous hypertension. They are often associated with other manifestations of chronic peripheral venous insufficiency of the lower extremities including lower limb varicose veins and lipodermatosclerosis.
+Inclusions:	Gravitational ulcer
+Varicose ulcer
+
+BD74.30	Primary venous leg ulcer
+A venous leg ulcer developing in skin without preceding episodes of ulceration.
+
+BD74.31	Recurrent venous leg ulcer
+A venous leg ulcer developing in skin which has been damaged by previous episodes of ulceration. The chances of long-term healing are reduced in comparison with primary venous leg ulcers.
+
+BD74.32	Healed venous leg ulcer
+
+BD74.3Z	Venous leg ulcer, unspecified
+
+BD74.Z	Chronic peripheral venous insufficiency of lower extremities, unspecified
+
+  BD75  	Venous varicosities of sites other than lower extremity
+Exclusions:	retinal varices (9B78.1)
+Duodenal varices (DA52.0)
+Coded Elsewhere:	Gastric varices (DA43.0)
+Oesophageal varices (DA26.0)
+
+BD75.0	Sublingual varices
+Varicose veins on the underside of the tongue
+
+BD75.1	Scrotal varices
+Inclusions:	Varicocele of scrotum
+
+BD75.2	Vulval varices
+Congested and dilated vulval veins, occurring particularly in association with pregnancy.
+Exclusions:	complicating: childbirth and the puerperium (JB41)
+Genital varices in pregnancy (JA61.1)
+
+BD75.3	Pelvic varices
+The presence of dilated and incompetent ovarian and pelvic veins in women. These may cause no symptoms but may be associated with chronic pelvic pain (pelvic congestion syndrome) or with externally apparent vulvovaginal varicosities.
+
+BD75.Y	Venous varicosities of other specified sites
+
+BD75.Z	Venous varicosities of unspecified site
+
+  BD7Y  	Other specified diseases of veins
+
+  BD7Z  	Diseases of veins, unspecified
+
+Disorders of lymphatic vessels or lymph nodes (BlockL1‑BD9)
+Disorders due to developmental and acquired disturbances of lymph circulation and drainage and to infective disorders of lymph vessels and nodes.
+Exclusions:	Enlarged lymph nodes (MA01)
+Coded Elsewhere:	Lymphatic malformations (LA90.1)
+  BD90  	Lymphadenitis
+Exclusions:	human immunodeficiency virus [HIV] disease resulting in generalized lymphadenopathy (BlockL1‑1C6)
+Enlarged lymph nodes (MA01)
+lymphadenopathy (MA01)
+Malignant neoplasm metastasis in lymph nodes (BlockL3‑2D6)
+
+BD90.0	Acute lymphadenitis
+Exclusions:	Nonspecific mesenteric lymphadenitis (BD90.1)
+Chronic lymphadenitis (BD90.2)
+human immunodeficiency virus [HIV] disease resulting in generalized lymphadenopathy (BlockL1‑1C6)
+enlarged lymph nodes (MA01)
+
+BD90.1	Nonspecific mesenteric lymphadenitis
+
+BD90.2	Chronic lymphadenitis
+Exclusions:	Enlarged lymph nodes (MA01)
+Nonspecific mesenteric lymphadenitis (BD90.1)
+Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically or histologically (1B10.0)
+Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation (1B10)
+Tuberculous peripheral lymphadenopathy (1B12.6)
+
+BD90.20	Chronic cervical lymphadenitis
+
+BD90.21	Chronic axillary lymphadenitis
+
+BD90.22	Chronic inguinal lymphadenitis
+
+BD90.2Y	Other specified chronic lymphadenitis
+
+BD90.2Z	Chronic lymphadenitis, unspecified
+
+BD90.Y	Other specified lymphadenitis
+
+BD90.Z	Lymphadenitis, unspecified
+
+  BD91  	Lymphangitis
+Lymphangitis is an inflammation of lymphatic vessels. It is most often caused by infection from bacteria, virus or fungus or infiltration by cancer cells.
+Coding Note:	Code first any underlying infection.
+Exclusions:	Lymphocutaneous sporotrichosis (1F2J.0)
+Coded Elsewhere:	Ascending bacterial lymphangitis (1B70.3)
+Sclerosing lymphangitis of penis (GB06.5)
+
+  BD92  	Lymphangiectasia
+
+BD92.0	Intestinal lymphangiectasia
+Intestinal lymphangiectasia is a pathologic dilation of lymph vessels of intestinal mucosa. This results in lymph leakage into the small bowel lumen and responsible for protein-losing enteropathy.
+Coded Elsewhere:	Primary intestinal lymphangiectasia (LB15.Y)
+
+BD92.1	Cutaneous lymphangiectasia
+
+  BD93  	Lymphoedema
+Swelling due to the excess accumulation of lymph in the tissues caused by inadequate lymph drainage. It typically affects the extremities but may involve any body site. It is disfiguring and increases susceptibility to recurrent infection and local malignancy.
+
+BD93.0	Primary lymphoedema
+Lymphoedema as a result of lymphatic vessel hypoplasia
+Coded Elsewhere:	Yellow nail syndrome (EE11.1)
+Noonan syndrome (LD2F.15)
+
+BD93.1	Secondary lymphoedema
+Lymphoedema as a result of an identifiable cause that renders insufficient the function of existing lymphatic vessels.
+Coding Note:	Code aslo the causing condition
+
+BD93.10	Lymphoedema due to venous insufficiency
+Permanent lymphoedema, usually of the lower extremities, resulting from venous hypertension and chronic gravitational oedema.
+Coding Note:	Code aslo the causing condition
+
+BD93.11	Lymphoedema due to dependency and immobility
+Lymphoedema occurring in immobile individuals with reduced muscle pump activity as a result of paralysis or infirmity. It is particularly liable to develop in those who are unable to sleep recumbent.
+Coding Note:	Code aslo the causing condition
+
+BD93.12	Lymphoedema due to obesity
+Lymphoedema resulting from morbid obesity. Lymphoedema of the lower limbs and lymphoedema of the abdominal apron fold are common sequelae of chronic morbid obesity.
+Coding Note:	Code aslo the causing condition
+
+BD93.13	Lymphoedema due to lymphatic filariasis
+Lymphoedema resulting from infestation of lymphatics by nematode worms of the genera Wuchereria and Brugia. This is the commonest cause of lymphoedema worldwide. The lymphoedema may present years after initial infection and most commonly affects the legs and male genitalia.
+Coding Note:	Code aslo the causing condition
+
+BD93.14	Lymphoedema due to podoconiosis
+Lymphoedema of the lower limbs resulting from an inflammatory response within lymphatic vessels to mineral particles from soil in genetically susceptible individuals. It is a leading cause of lower limb lymphoedema in farmers in Africa, Central America and India.
+Coding Note:	Code aslo the causing condition
+
+BD93.15	Lymphoedema due to malignant infiltration
+Lymphoedema resulting from obstruction of draining lymphatics as a result of infiltration by malignant, usually metastatic cells.
+Coding Note:	Code aslo the causing condition
+
+BD93.1Y	Lymphoedema secondary to other specified cause
+Coding Note:	Code aslo the causing condition
+
+BD93.1Z	Secondary lymphoedema, unspecified
+Coding Note:	Code aslo the causing condition
+
+BD93.Y	Other specified forms of lymphoedema
+
+BD93.Z	Lymphoedema, unspecified
+
+  BD9Y  	Other specified disorders of lymphatic vessels or lymph nodes
+
+  BD9Z  	Disorders of lymphatic vessels or lymph nodes, unspecified
+
+Postprocedural disorders of circulatory system (BlockL1‑BE1)
+This refers to postprocedural disorders of the organ system that passes nutrients (such as amino acids, electrolytes and lymph), gases, hormones, blood cells, etc. to and from cells in the body to help fight diseases, stabilize body temperature and pH, and to maintain homeostasis, not elsewhere classified.
+Coded Elsewhere:	Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+Prosthetic valve disease (BC01)
+Coronary artery fistula, acquired (BA83)
+Dysfunction or complication of pacemaker, pacemaker lead or implantable cardioverter defibrillator, not elsewhere classified (NE82)
+Postprocedural complete atrioventricular block (BC63.21)
+Postprocedural obstructed systemic venous pathway (BD73.2Y)
+Postprocedural left pulmonary artery stenosis (BB02.3)
+Postprocedural inferior caval vein complication (BD73.0)
+Postprocedural right pulmonary artery stenosis (BB02.3)
+Postprocedural superior caval vein complication (BD73.1)
+Postoperative junctional ectopic tachycardia (BC81.1)
+  BE10  	Postcardiotomy syndrome
+Postcardiotomy syndrome is a hypersensitivity reaction to antigen derived from injured myocardium 3 weeks to 2 months after myocardial infarction, cardiac surgery, or penetrating and non penetrating heart injury. The diagnosis is made by history of heart injury, and exclusion of other diseases such as congestive heart failure, recurrent myocardial infarction, endocarditis, myocarditis, and pericarditis.
+
+  BE11  	Other functional disturbances following cardiac surgery
+
+  BE12  	Postprocedural valve disorders
+
+BE12.0	Postprocedural mitral valve stenosis
+
+BE12.1	Postprocedural mitral valve insufficiency
+This is a postprocedural disorder of the heart in which the mitral valve does not close properly when the heart pumps out blood. It is the abnormal leaking of blood from the left ventricle, through the mitral valve, and into the left atrium, when the left ventricle contracts, i.e. there is regurgitation of blood back into the left atrium.
+
+BE12.2	Postprocedural aortic valve stenosis
+Coded Elsewhere:	Stenosis of the neoaortic valve of pulmonary origin (BC02.30)
+
+BE12.3	Postprocedural aortic valve insufficiency
+This refers to postprocedural aortic valve of the heart that causes blood to flow in the reverse direction during ventricular diastole, from the aorta into the left ventricle.
+Coded Elsewhere:	Insufficiency of the neoaortic valve of pulmonary origin (BC02.31)
+
+BE12.4	Postprocedural tricuspid valve stenosis
+
+BE12.5	Postprocedural tricuspid valve insufficiency
+This refers to the postprocedural failure of the heart's tricuspid valve to close properly during systole. As a result, with each heart beat some blood passes from the right ventricle to the right atrium, the opposite of the normal direction.
+
+BE12.6	Postprocedural pulmonary valve stenosis
+
+BE12.7	Postprocedural pulmonary valve insufficiency
+
+  BE13  	Postprocedural true or false aortic aneurysm
+This refers to postprocedural true and false swelling (dilation or aneurysm) of the aorta to greater than 1.5 times normal, usually representing an underlying weakness in the wall of the aorta at that location.
+
+  BE14  	Postprocedural disorder of circulatory system following repair of congenital heart or great vessel anomaly
+
+BE14.4	Acquired abnormality of the neopulmonary valve
+A postnatal pathological change in form or function of the neopulmonary valve, that is, the native aortic valve that has become the functional neopulmonary valve after the arterial switch operation.
+
+BE14.40	Neopulmonary valve stenosis
+Acquired obstruction to flow through the neopulmonary valve, that is, the native aortic valve that has become the functional neopulmonary valve after the arterial switch operation.
+Exclusions:	Postprocedural pulmonary valve stenosis (BE12.6)
+
+BE14.41	Neopulmonary valve regurgitation
+Acquired backward flow through the neopulmonary valve, that is, the native aortic valve that has become the functional neopulmonary valve after the arterial switch operation
+Exclusions:	Postprocedural pulmonary valve insufficiency (BE12.7)
+
+BE14.5	Postprocedural right-sided atrioventricular valvar abnormality in double-inlet ventricle
+A postnatal pathological change in form or function of the right-sided atrioventricular valve in double inlet ventricle that occurred during or after an intervention.
+Coding Note:	Includes: right ventricular component and right-sided atrioventricular valve within a common atrioventricular junction (atrioventricular septal defect).
+Exclusions:	Congenital anomaly of an atrioventricular valve or atrioventricular septum (LA87)
+
+BE14.6	Postprocedural left-sided atrioventricular valvar abnormality in double-inlet ventricle
+A postnatal pathological change in form or function of the left-sided atrioventricular valve in double inlet ventricle that occurred during or after an intervention.
+Coding Note:	Includes: left ventricular component and left-sided atrioventricular valve within a common atrioventricular junction (atrioventricular septal defect) in the setting of double inlet ventricle
+Exclusions:	Congenital anomaly of an atrioventricular valve or atrioventricular septum (LA87)
+
+BE14.7	Postprocedural common atrioventricular valvar abnormality in double-inlet ventricle
+A postnatal pathological change in form or function of the common atrioventricular valve in double inlet ventricle that occurred during or after an intervention.
+
+BE14.8	Postprocedural ventricular septal defect disorder
+An event or occurrence affecting a ventricular septal defect that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+BE14.9	Postprocedural aortic disorder related to congenital heart anomaly
+An event or occurrence affecting the aorta consequent to the presence of congenital cardiovascular disease, that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+BE14.A	Postprocedural arterial duct disorder
+An event or occurrence affecting the arterial duct (ductus arteriosus) that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+BE14.B	Postprocedural disorder following cardiovascular conduit or shunt procedure
+
+  BE15  	Postprocedural pulmonary arterial tree disorder
+An event or occurrence affecting the pulmonary arterial tree that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+BE15.0	Postprocedural pulmonary trunk stenosis
+Discrete narrowing of the luminal diameter of the pulmonary trunk (main pulmonary artery) (below the lower limit of normal adjusted for body size) that occurs during or after an intervention.
+
+  BE16  	Postprocedural pulmonary venous disorder
+An event or occurrence affecting one or more pulmonary vein(s) that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome.
+
+  BE17  	Postprocedural residual or recurrent interatrial communication
+A persistent or recurrent hole or pathway between the atrial chambers, including intentional residual communications.
+
+  BE19  	Postprocedural ventricular abnormality
+
+  BE1A  	Cardiac transplant associated coronary allograft vasculopathy
+Coronary artery initimal proliferation following cardiac transplantation, defined based on a combination of visual angiographic vessel descriptors in concert with measures of cardiac allograft function, according to the International Society for Heart and Lung Transplantation.
+
+  BE1B  	Lymphoedema due to surgery or radiotherapy
+Lymphoedema resulting from damage to draining lymphatics as a result of surgery or radiotherapy.
+
+BE1B.0	Postmastectomy lymphoedema syndrome
+
+BE1B.1	Lymphoedema due to other medical or surgical procedures
+
+  BE1C  	Inferior caval vein obstruction due to foreign body
+A postnatal pathologic condition of the inferior caval vein (inferior vena cava) in which flow is impeded or blocked by a foreign body.
+
+  BE1D  	Superior caval vein obstruction due to foreign body
+A postnatal pathologic condition of the superior caval vein (superior vena cava) in which flow is impeded or blocked by a foreign body.
+
+  BE1E  	Postprocedural right atrial complication
+An event or occurrence affecting the morphologically right atrium that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome
+
+BE1E.0	Postprocedural right atrial perforation
+Perforation of the morphologically right atrial wall that occurred during or after an intervention
+
+BE1E.1	Right atrial erosion due to implanted device
+Injury of the morphologically right atrial wall occurring as a direct result of chronic friction from an implanted device or wire
+
+  BE1F  	Postprocedural left atrial complication
+An event or occurrence affecting the morphologically left atrium that is associated with a healthcare intervention, is a departure from the desired course of events, and may cause, or be associated with, a suboptimal outcome
+
+BE1F.0	Postprocedural left atrial perforation
+Perforation of the morphologically left atrial wall that occurred during or after an intervention
+
+BE1F.1	Left atrial erosion due to implanted device
+Injury of the morphologically left atrial wall occurring as a direct result of chronic friction from an implanted device or wire
+
+  BE2Y  	Other specified diseases of the circulatory system
+
+  BE2Z  	Diseases of the circulatory system, unspecified
+

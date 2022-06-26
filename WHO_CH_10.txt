@@ -1,0 +1,466 @@
+CHAPTER 10
+Diseases of the ear or mastoid process
+This chapter has 79 four-character categories.
+Code range starts with AA00
+This chapter contains diseases of the ear and diseases of the mastoid process.
+Exclusions:	Complications of pregnancy, childbirth and the puerperium (Chapter 18)
+Certain infectious or parasitic diseases (Chapter 01)
+Certain conditions originating in the perinatal period (Chapter 19)
+Injury, poisoning or certain other consequences of external causes (Chapter 22)
+Neoplasms (Chapter 02)
+Endocrine, nutritional or metabolic diseases (Chapter 05)
+Coded Elsewhere:	Structural developmental anomalies of the ear (LA20-LA2Z)
+Symptoms, signs or clinical findings of ear or mastoid process (MC40-MC6Y)
+This chapter contains the following top level blocks:
+•	Diseases of external ear
+•	Diseases of middle ear or mastoid
+•	Diseases of inner ear
+•	Disorders with hearing impairment
+•	Disorders of ear, not elsewhere classified
+•	Postprocedural disorders of ear or mastoid process
+
+Diseases of external ear (BlockL1‑AA0)
+Coded Elsewhere:	Inflammatory disorders of the external ear (EG40-EG4Z)
+Infectious diseases of external ear (BlockL2‑AA0)
+Coded Elsewhere:	Erysipelas of external ear (1B70.01)
+Candida otomycosis (1F23.16)
+Herpes simplex infection of external ear (1F00.0Y)
+Otitis externa due to zoster (1E91.Y)
+  AA00  	Abscess of external ear
+A fluctuant collection of purulent exudate and necrotic tissue located in the external auditory canal or in the soft tissues of the pinna, most commonly due to Staphylococcus aureus.
+
+  AA01  	Cellulitis of external ear
+A diffuse subacute bacterial infection of the soft tissues of the external ear, most commonly due to beta-haemolytic streptococci. It may arise within an apparently healthy external ear but may complicate both inflammatory and infective forms of otitis externa.
+Exclusions:	Erysipelas of external ear (1B70.01)
+Staphylococcal cellulitis of skin (1B70.2)
+Streptococcal cellulitis of skin (1B70.1)
+
+  AA02  	Malignant otitis externa
+Malignant otitis externa is a rare life-threatening infective complication of otitis externa. It is due in the majority of cases to Pseudomonas aeruginosa. Organisms penetrate from the external ear canal into the surrounding deeper tissues resulting in osteomyelitis of the temporal bone and risks of damage to adjacent cranial nerves and septic thrombo-emboli to the brain. Advanced age, uncontrolled diabetes mellitus and immunosuppression are risk factors.
+
+  AA03  	Otomycosis
+Fungal infection of the ear. Otomycosis is due to Aspergillus spp., especially A. niger, in 75% or more of cases and Candida in most of the remainder.
+Coded Elsewhere:	Aspergillus otomycosis (1F20.10)
+Candida otomycosis (1F23.16)
+
+  AA04  	Perichondritis of external ear
+Perichondritis is an infection of the tissue surrounding the cartilage of the outer ear, the perichondrium. It usually results from injury to the ear from ear surgery, ear piercing (especially piercing of the cartilage), or trauma from contact sports. The most common bacterium causing perichondritis is Pseudomonas aeruginosa. Presenting features include pain, redness and swelling of the auricle, and fever.
+
+  AA0Y  	Other specified infectious diseases of external ear
+
+  AA0Z  	Infectious diseases of external ear, unspecified
+
+Otitis externa (BlockL2‑AA1)
+Inflammation of the outer ear including the external ear canal, cartilages of the auricle, and the tympanic membrane.
+Noninfectious inflammation of external ear (BlockL3‑AA1)
+Coded Elsewhere:	Contact dermatitis of external ear (EG40)
+Juvenile spring eruption (EJ30.0)
+  AA10  	Seborrhoeic otitis externa
+Seborrhoeic dermatitis affecting the skin of the external ear. It is usually accompanied by evidence of seborrhoeic dermatitis at other sites. In mild cases it may be asymptomatic but it can present acutely with severe pain, oedema and exudation. Longstanding cases maybe complicated by chronic lymphoedema and occlusion of the external auditory canal.
+Exclusions:	Seborrhoea (ED91.2)
+
+  AA11  	Acute noninfectious otitis externa
+Rapid onset of eczematous inflammation of the outer ear the cause of which cannot be more precisely classified.
+Exclusions:	Acute seborrhoeic otitis externa (AA10)
+Allergic contact dermatitis of external ear (EG40.0)
+Irritant contact dermatitis of external ear (EK02.10)
+
+  AA12  	Chondrodermatitis nodularis
+A common pressure-induced painful nodule or ulcer affecting the external ear. It results from ischaemia of skin and underlying cartilage from a focal point of high pressure from the weight of the recumbent head. The site of involvement is dependent on the shape of the pinna (most commonly the helix is involved but in some individuals it is the antihelix which is more prominent) and whether the sufferer is limited to sleeping on one side and is thus unable to spare the ear from constant pressure when lying in bed.
+
+  AA13  	Chronic otitis externa
+
+  AA1Y  	Other specified noninfectious inflammation of external ear
+
+  AA1Z  	Noninfectious inflammation of external ear, unspecified
+
+
+  AA3Y  	Other specified otitis externa
+
+  AA3Z  	Otitis externa, unspecified
+
+Noninflammatory disorders of the external ear (BlockL2‑AA4)
+Miscellaneous noninflammatory disorders involving the external ear.
+Coded Elsewhere:	Ear-lobe keloid (EE60.00)
+Acanthoma fissuratum (EH92.Y)
+  AA40  	Acquired deformity of external auditory canal
+
+AA40.0	Exostosis of external auditory canal
+
+AA40.1	Acquired stenosis of external auditory canal
+Acquired stenosis of external auditory canal was described as resulting from a number of different causes. Since then, histology and imaging studies of this disease have shown that a common cascade of inflammatory changes resulting from these different causes is the primary pathogenesis leading to medial canal fibrosis. Once there is complete obstruction of the external auditory canal, surgery is the primary treatment.
+
+AA40.2	Cholesteatoma of external auditory canal
+
+AA40.Y	Other specified acquired deformity of external auditory canal
+
+  AA41  	Acquired deformity of pinna
+Acquired deformities involving the external ear.
+Inclusions:	Acquired deformity of auricle
+
+AA41.0	Cauliflower ear
+Cauliflower ear is the end result of fibrosis of the skin and soft tissues of the pinna following a traumatic subperichondrial haematoma, usually due to trauma. It manifests as permanent swelling and deformity of the ear, described as resembling a cauliflower. It is found most commonly amongst men involved in contact sports such as boxing, wrestling, martial arts and rugby football.
+
+AA41.Y	Other specified acquired deformity of pinna
+
+  AA42  	Impacted cerumen
+Impacted cerumen is the presence of occlusive aural wax in the external ear canal. Wax may cause tinnitus or otalgia and removal may be required to allow adequate otoscopic examination and/or alleviate symptoms.
+
+  AA4Y  	Other specified noninflammatory disorders of the external ear
+
+  AA4Z  	Noninflammatory disorders of the external ear, unspecified
+
+
+  AA6Z  	Diseases of external ear, unspecified
+
+Diseases of middle ear or mastoid (BlockL1‑AA8)
+Middle ear, derived from the first pharyngeal (branchial) pouch; has the malleus and incus and stapes and includes the spaces of the epitympanum and mesotympanum and hypotympanum. The mastoid; normally contains "air"; the lateral boundary of the mesotympanum is where the tympanic membrane is, or normally would be located.
+Coded Elsewhere:	Congenital conductive hearing loss (AB50.0)
+Otosclerosis (AB33)
+Congenital mixed conductive and sensorineural hearing loss (AB50.2)
+Otitis media (BlockL2‑AA8)
+Nonsuppurative otitis media (BlockL3‑AA8)
+  AA80  	Acute serous or mucoid otitis media
+Acute serous or mucoid otitis media is a collection of non-infected fluid in the middle ear that has developed as a result of a upper respiratory infection.
+
+  AA81  	Acute nonserous nonsuppurative otitis media
+Exclusions:	Otitic barotrauma (NF04.0)
+
+  AA82  	Chronic serous or mucoid otitis media
+Chronic serous or mucoid otitis media is probably the most common form of sub-acute middle ear disease found in the developed world. It typically lingers following otitis media, when the fluid in the ear, formed by the infection, does not clear spontaneously. The tympanic membrane is intact but the middle ear is liquid- fluid filled. This presumably puts the middle ear at risk for further infection and often worsens hearing by about 30 dB. This is most frequently found in children and can interfere with language acquisition and learning.
+
+  AA83  	Noninfected otitis media with effusion
+
+  AA8Z  	Nonsuppurative otitis media, unspecified
+
+Suppurative otitis media (BlockL3‑AA9)
+This involves a perforation (hole) in the tympanic membrane and active bacterial infection within the middle ear space for several weeks or more. There may be enough pus that it drains to the outside of the ear (otorrhea), or the purulence may be minimal enough to only be seen on examination using a binocular microscope, unspecified.
+  AA90  	Acute suppurative otitis media
+Acute suppurative otitis media is defined as an inflammation of the middle ear which erupts suddenly and passes quickly. It is characteristic to have a middle-ear infection behind a reddened eardrum.
+
+  AA91  	Chronic suppurative otitis media
+
+AA91.0	Chronic tubotympanic suppurative otitis media
+Having a tympanic membrane perforation for at least three months, chronic suppurative otitis media has traditionally been classified into safe and unsafe type. Chronic tubotympanic suppurative otitis media is considered "safe" (meaning it is unlikely to become a worse problem for the patient) if it involves a central perforation of the pars tensa with the inflammatory process affecting the mucosa of the middle ear cleft.
+Inclusions:	Benign chronic suppurative otitis media
+Chronic tubotympanic disease
+
+AA91.1	Chronic atticoantral suppurative otitis media
+Chronic suppurative otitis media has traditionally been classified into safe and unsafe type. Chronic atticoantral suppurative otitis media which is unsafe type is typified by a marginal perforation of the posterosuperior pars tensa or pars flaccida.
+Inclusions:	Chronic atticoantral disease
+
+AA91.2	Other chronic suppurative otitis media
+This involves a perforation (hole) in the tympanic membrane and active bacterial infection within the middle ear space for several weeks or more. There may be enough pus that it drains to the outside of the ear (otorrhea), or the purulence may be minimal enough to only be seen on examination using a binocular microscope.
+
+AA91.Z	Chronic suppurative otitis media, unspecified
+
+  AA9Y  	Other specified suppurative otitis media
+
+  AA9Z  	Suppurative otitis media, unspecified
+
+  AB00  	Acute otitis media
+Coded Elsewhere:	Acute nonserous nonsuppurative otitis media (AA81)
+Acute suppurative otitis media (AA90)
+
+  AB01  	Chronic otitis media
+Coded Elsewhere:	Chronic serous or mucoid otitis media (AA82)
+Chronic suppurative otitis media (AA91)
+
+  AB0Y  	Other specified otitis media
+
+  AB0Z  	Otitis media, unspecified
+
+  AB10  	Disorders of Eustachian tube
+
+AB10.0	Diverticulum of Eustachian tube
+
+AB10.1	Patulous Eustachian tube
+
+AB10.2	Eustachian salpingitis
+
+AB10.3	Obstruction of Eustachian tube
+Inclusions:	Compression of Eustachian tube
+Stricture of Eustachian tube
+
+AB10.Y	Other specified disorders of Eustachian tube
+
+AB10.Z	Disorders of Eustachian tube, unspecified
+
+  AB11  	Mastoiditis or related conditions
+
+AB11.0	Acute mastoiditis
+Rapid onset inflammation of the mastoid bone, located in the skull just behind the ear. It is often a complication of otitis media.
+
+AB11.1	Chronic mastoiditis
+Persistent or recurrent inflammation of the space in the mastoid bone. It is often a complication of otitis media.
+
+AB11.2	Petrositis
+
+AB11.3	Mastoiditis, not elsewhere classified
+
+AB11.Y	Other specified mastoiditis or related conditions
+
+  AB12  	Cholesteatoma of middle ear
+Exclusions:	Recurrent cholesteatoma of postmastoidectomy cavity (AB90)
+Cholesteatoma of external auditory canal (AA40.2)
+
+  AB13  	Perforation of tympanic membrane
+Exclusions:	Traumatic rupture of ear drum (NA0A.2)
+
+AB13.0	Central perforation of tympanic membrane
+A temporary or persistent opening in the central portion of the tympanic membrane. Clinical signs depend on the size, location, and associated pathological condition.
+
+AB13.1	Attic perforation of tympanic membrane
+Inclusions:	Perforation of pars flaccida
+
+AB13.2	Other marginal perforations of tympanic membrane
+
+AB13.Y	Other specified perforation of tympanic membrane
+
+AB13.Z	Perforation of tympanic membrane, unspecified
+
+  AB14  	Acute myringitis
+Myringitis is the inflammation of the tympanic membrane, often involving painful blisters on the tympanic membrane. It can develop as self-maintained primary disease of the TM (primary myringitis) or as an effect of an inflammatory process of adjacent tissues of the external or middle ear (secondary myringitis). Myringitis may be accompanied by hearing impairment and a sensation of congestion and earache. It is generally a viral or bacterial infection and may occur with otitis media. After 3 weeks, acute myringitis becomes subacute and, within 3 months, chronic.
+Inclusions:	Acute tympanitis
+Exclusions:	Acute myringitis with otitis media (AB00)
+
+  AB15  	Chronic myringitis
+Persistent or recurrent inflammation of the tympanic membrane.
+Inclusions:	Chronic tympanitis
+Exclusions:	Chronic myringitis with otitis media (AB01)
+
+  AB16  	Tympanosclerosis
+Tympanosclerosis is a scarring process with a remarkable variability in its localization within the middle ear. It can lead to conductive hearing loss.
+
+  AB17  	Adhesive middle ear disease
+Inclusions:	Adhesive otitis
+Exclusions:	glue ear (AA82)
+
+  AB18  	Discontinuity or dislocation of ear ossicles
+
+  AB19  	Acquired abnormalities of ear ossicles not related to discontinuity or dislocation
+
+  AB1A  	Polyp of middle ear
+
+AB1A.0	Aural polyp
+
+AB1A.Y	Other specified polyp of middle ear
+
+AB1A.Z	Polyp of middle ear, unspecified
+
+  AB1B  	Middle ear cicatrix
+
+  AB1Y  	Other specified diseases of middle ear or mastoid
+
+  AB1Z  	Diseases of middle ear or mastoid, unspecified
+
+Diseases of inner ear (BlockL1‑AB3)
+Coded Elsewhere:	Congenital mixed conductive and sensorineural hearing loss (AB50.2)
+Congenital sensorineural hearing loss (AB50.1)
+  AB30  	Acute vestibular syndrome
+A clinical syndrome of acute-onset, continuous vertigo, dizziness, or unsteadiness lasting days to weeks, and generally including features suggestive of new, ongoing vestibular system dysfunction (e.g., vomiting, nystagmus, severe postural instability). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Acute vestibular syndrome usually connotes a single, monophasic event, often caused by a one-time disorder, but it may instead punctuate a relapsing-and-remitting or stepwise, progressive illness course. Disorders typically presenting this syndrome include vestibular neuritis, acute labyrinthitis, traumatic vestibulopathy, demyelinating disease with vestibular involvement, and strokes affecting central or peripheral vestibular structures.
+Coding Note:	Code aslo the causing condition
+
+AB30.0	Vestibular neuritis
+Vestibular neuritis (also known as vestibular neuronitis) may be described as acute, sustained dysfunction of the peripheral vestibular system with secondary nausea, vomiting, and vertigo. Important negative features include aural fullness and hearing loss.
+
+AB30.1	Labyrinthitis
+Labyrinthitis is an inflammatory disorder of the inner ear (labyrinth) producing disturbances of balance and hearing to varying degrees. It can be caused by bacterial or viral infections and autoimmune processes.
+
+AB30.Y	Other specified acute vestibular syndrome
+Coding Note:	Code aslo the causing condition
+
+AB30.Z	Acute vestibular syndrome, unspecified
+Coding Note:	Code aslo the causing condition
+
+  AB31  	Episodic vestibular syndrome
+A clinical syndrome of transient vertigo, dizziness, or unsteadiness lasting seconds to hours, occasionally days, and generally including features suggestive of temporary, short-lived vestibular system dysfunction (e.g., nausea, nystagmus, sudden falls). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Episodic vestibular syndrome usually connotes multiple, recurrent events caused by an episodic disorder with repeated spells (triggered or spontaneous), but may initially present after the first event.
+Coded Elsewhere:	Benign paroxysmal vertigo of childhood (8A80.Y)
+
+AB31.0	Meniere disease
+Ménière Disease (MD) is a chronic disorder, mainly seen in patients of European and Asian descendence leading to endolymphatic hydrops in the inner ear. It is characterised by recurrent episodes of spontaneous vertigo lasting from minutes to up to one day, accompanied by a sense of fullness and tinnitus in the affected ear, and ipsilateral fluctuating sensorineural hearing loss (SNHL) in the low or low and middle frequencies.
+Inclusions:	Labyrinthine hydrops
+
+AB31.1	Vestibular migraine
+Recurrent attacks of moderate to severe vestibular symptoms lasting from 5 minutes to 72 hours in patients with a past or ongoing history of migraine headaches. Vestibular symptoms are usually spontaneous and positional vertigo, head motion-induced and visual vertigo as well as head motion-induced dizziness with nausea. Attacks of vestibular symptoms may occur together or independently of migraine symptoms like headache, photophobia, phonophobia or visual aura.
+
+AB31.2	Benign positional paroxysmal vertigo
+Benign paroxysmal positional vertigo is defined as an abnormal sensation of motion that is elicited by certain critical provocative physical positions of the patient (e.g. becoming dorsal recumbent). The provocative positions usually trigger specific eye movements (e.g. nystagmus). The character and direction of the nystagmus is specific to the part of the inner ear affected and the underlying pathophysiology.
+
+AB31.3	Superior canal dehiscence syndrome
+Superior canal dehiscence syndrome (SCDS) occurs when thin or dehiscent bone over the superior semicircular canal, best demonstrated on CT, allows pressure transmission between the canal and the intracranial space. Vertigo and nystagmus may occur when the canal is stimulated by loud sounds or changes in middle ear or intracranial pressure. Hyperacusis to bone-conducted sounds can cause conductive hearing loss, pulsatile tinnitus, or autophony (hearing one’s own body sounds as loud or distorted). While the bony defect may be congenital, head trauma can be the final step that opens a functionally mobile labyrinthine window.
+
+AB31.4	Disembarkment syndrome
+Disembarkment syndrome, or Mal de debarquement (MdD) occurs when habituation to unfamiliar motion patterns like traveling on a boat, train, or airplane, becomes resistant to re-adaption on return to stable conditions. It results in an illusion of self motion typically described as rocking, bobbing, or swaying. Brief periods of MdD (hours) are common in healthy individuals, this otherwise natural phenomenon can become persistent in some individuals.
+
+AB31.5	Autoimmune inner ear disease
+Autoimmune inner ear disease (AIED) is a clinical syndrome of bilateral sensorineural hearing loss (SNHL) >30dB at one or more frequencies progressing over a period of 3-90 days. Progression of SNLH >15dB at one frequency or >10dB in two frequencies in at least one ear should be demonstrated. Vestibular symptoms may be present in 50% of patients and systemic autoimmune disease (SAD) coexists in 30% of patients.
+
+AB31.6	Vestibular paroxysmia
+Vestibular paroxysmia (VP) is characterised by recurrent spells of vertigo or dizziness, lasting seconds to minutes, often many times a day. Attacks usually occur spontaneously but may occasionally be induced by changes of head position (which then needs to be distinguished from benign paroxysmal positioning vertigo). Possible accompanying symptoms are short attacks of tinnitus or changes in hearing. In the attack-free interval mild to moderate impairments of vestibular or audiological function may be found. Neurovascular cross-compression of the eighth nerve is the assumed mechanism.
+
+AB31.7	Vertiginous syndromes
+
+AB31.Y	Other specified episodic vestibular syndrome
+
+AB31.Z	Episodic vestibular syndrome, unspecified
+
+  AB32  	Chronic vestibular syndrome
+A clinical syndrome of chronic vertigo, dizziness, or unsteadiness lasting months to years and generally including features suggestive of persistent vestibular system dysfunction (e.g., oscillopsia, nystagmus, gait unsteadiness). There may also be symptoms or signs suggesting cochlear or central nervous system dysfunction. Chronic vestibular syndrome often connotes a progressive, deteriorating course, but sometimes instead reflects a stable, incomplete recovery after an acute vestibular event, or persistent, lingering symptoms between episodic vestibular events.
+
+AB32.0	Persistent Postural-Perceptual Dizziness
+Persistent non-vertiginous dizziness, unsteadiness, or both lasting three months or more. Symptoms are present most days, often increasing throughout the day, but may wax and wane. Momentary flares may occur spontaneously or with sudden movement. Affected individuals feel worst when upright, exposed to moving or complex visual stimuli, and during active or passive head motion. These situations may not be equally provocative. Typically, the disorder follows occurrences of acute or episodic vestibular or balance-related problems. Symptoms may begin intermittently, and then consolidate. Gradual onset is uncommon.
+
+AB32.1	Chronic unilateral idiopathic vestibulopathy
+
+AB32.2	Persistent unilateral vestibulopathy after vestibular neuronitis
+
+AB32.3	Unilateral vestibulopathy due to schwannoma
+
+AB32.4	Unilateral vestibulopathy after medical intervention
+
+AB32.5	Chronic bilateral vestibulopathy
+Bilateral vestibulopathy (BVP) results from impaired vestibular function of both inner ears. It is clinically characterised by postural imbalance and unsteadiness of gait that worsens in darkness and on uneven ground, head or body movement-induced oscillopsia. If known, the etiology should be added to the diagnosis.
+
+AB32.Y	Other specified chronic vestibular syndrome
+
+AB32.Z	Chronic vestibular syndrome, unspecified
+
+  AB33  	Otosclerosis
+Otosclerosis is a genetically mediated metabolic bone disease that affects the otic capsule and stapes. It is an autosomal dominant disorder with varying penetrance and expressivity. Usually symptomatic hearing loss from otosclerosis develops early in the third decade of life, although onset in the teenage years does occur.
+Inclusions:	otospongiosis
+
+  AB34  	Disorders of vestibular function
+Exclusions:	vertigo: NOS (MB48.0)
+vertigo: epidemic (BlockL1‑1C8)
+
+AB34.0	Idiopathic bilateral vestibulopathy
+This results as the culmination of damage done to both inner ears and causes problems in vision, hearing and motor coordination.
+
+AB34.1	Other peripheral vertigo
+
+AB34.Y	Other specified disorders of vestibular function
+
+AB34.Z	Disorders of vestibular function, unspecified
+
+  AB35  	Labyrinthine fistula
+Labyrinthine fistula is a condition in which an abnormal communication is present between the perilymphatic space of the inner ear and the middle ear (usually at or adjacent to the round or oval window). The manifestations of this disease vary in severity and complexity, commonly ranging from very mild to incapacitating.
+
+  AB36  	Labyrinthine dysfunction
+
+  AB37  	Noise effects on inner ear
+Noise toxicity can cause hearing loss, either transient or permanent, and impairment. Noise-induced hearing loss typically begins in the high-pitched frequency range of human voices communication.
+Inclusions:	Noise-induced hearing loss
+
+  AB3Y  	Other specified diseases of inner ear
+
+  AB3Z  	Diseases of inner ear, unspecified
+
+Disorders with hearing impairment (BlockL1‑AB5)
+Exclusions:	Otosclerosis (AB33)
+  AB50  	Congenital hearing impairment
+Both dominant and recessive genes exist which can cause mild to profound impairment. If a family has a dominant gene for deafness it will persist across generations because it will manifest itself in the offspring even if it is inherited from only one parent. If a family had genetic hearing impairment caused by a recessive gene it will not always be apparent as it will have to be passed onto offspring from both parents. Hearing impairment is sustained before the acquisition of language, which occurs due to a congenital condition.
+
+AB50.0	Congenital conductive hearing loss
+
+AB50.1	Congenital sensorineural hearing loss
+
+AB50.2	Congenital mixed conductive and sensorineural hearing loss
+
+AB50.Y	Other specified congenital hearing impairment
+
+AB50.Z	Congenital hearing impairment, unspecified
+
+  AB51  	Acquired hearing impairment
+Loss of hearing that occurs sometime the course of life and is not present at birth. The hearing impairment is sustained after the acquisition of language, which can occur due to disease, trauma, or as a side-effect of a medicine. Conductive hearing loss may occur as a result of a problem in the outer or middle ear such as an obstruction (cerumen, foreign body), damage to the ossicles, middle ear infections, and/or perforation of the tympanic membrane. Sensorineural hearing loss is a type of hearing loss in which the root cause lies in the vestibulocochlear nerve (Cranial nerve VIII), the inner ear, or central processing centres of the brain. Mixed conductive and sensorineural hearing loss refers to a mix of both conductive and sensorineural hearing loss.
+Exclusions:	noise-induced hearing loss (AB37)
+Ototoxic hearing loss (AB53)
+Sudden idiopathic hearing loss (AB55)
+deafness NOS (AB52)
+Deaf mutism, not elsewhere classified (BlockL1‑AB5)
+
+AB51.0	Acquired conductive hearing loss
+Conductive hearing loss occurs when there is a problem conducting sound waves anywhere along the route through the outer ear, tympanic membrane (eardrum), or middle ear (ossicles), bilateral.
+
+AB51.1	Acquired sensorineural hearing loss
+Sensorineural hearing loss is a type of hearing loss in which the root cause lies in the vestibulocochlear nerve (Cranial nerve VIII), the inner ear, or central processing centres of the brain.
+
+AB51.2	Acquired mixed conductive and sensorineural hearing loss
+Conductive hearing loss occurs when there is a problem conducting sound waves anywhere along the route through the outer ear, tympanic membrane (eardrum), or middle ear (ossicles). Sensorineural hearing loss is a type of hearing loss in which the root cause lies in the vestibulocochlear nerve (Cranial nerve VIII), the inner ear, or central processing centres of the brain. This diagnosis refers to a mix of both conductive and sensorineural hearing loss.
+
+AB51.Y	Other specified acquired hearing impairment
+
+AB51.Z	Acquired hearing impairment, unspecified
+
+  AB52  	Deafness not otherwise specified
+
+  AB53  	Ototoxic hearing loss
+
+  AB54  	Presbycusis
+The term presbycusis refers to sensorineural hearing impairment in elderly individuals. Characteristically, presbycusis involves bilateral high-frequency hearing loss associated with difficulty in speech discrimination and central auditory processing of information.
+Inclusions:	Presbyacusia
+
+  AB55  	Sudden idiopathic hearing loss
+
+  AB56  	Hereditary hearing loss
+Exclusions:	Congenital hearing impairment (AB50)
+Acquired hearing impairment (AB51)
+
+  AB57  	Auditory synaptopathy or neuropathy
+Normal outer hair cell function but lacking synchrony of neural transmission of auditory information due to damage of inner hair cells or their synapses or of the spiral ganglion cells or of the auditory nerve
+
+  AB5Y  	Other specified disorders with hearing impairment
+
+  AB5Z  	Disorders with hearing impairment, unspecified
+
+Disorders of ear, not elsewhere classified (BlockL1‑AB7)
+Exclusions:	Tinnitus (MC41)
+  AB70  	Otalgia or effusion of ear
+Exclusions:	Otitis media (BlockL2‑AA8)
+Chronic primary orofacial pain (MG30.03)
+Chronic secondary headache or orofacial pain (MG30.6)
+
+AB70.0	Otorrhoea
+Exclusions:	leakage of cerebrospinal fluid through ear (8D63)
+Otorrhagia (AB70.1)
+
+AB70.1	Otorrhagia
+Exclusions:	traumatic otorrhagia - code by type of injury. (Chapter 22)
+
+AB70.2	Otalgia
+Pain in one or both ears.
+Exclusions:	Chronic primary orofacial pain (MG30.03)
+Chronic secondary headache or orofacial pain (MG30.6)
+
+  AB71  	Degenerative or vascular disorders of ear
+Exclusions:	Presbycusis (AB54)
+
+  AB72  	Disorders of acoustic nerve
+Inclusions:	Disorder of 8th cranial nerve
+
+AB72.0	Acoustic neuritis
+Coding Note:	Code aslo the causing condition
+
+AB72.Y	Other specified disorders of acoustic nerve
+
+AB72.Z	Disorders of acoustic nerve, unspecified
+
+  AB73  	Atrophy ear
+
+  AB7Y  	Other specified disorders of ear, not elsewhere classified
+
+Postprocedural disorders of ear or mastoid process (BlockL1‑AB9)
+Coded Elsewhere:	Injury or harm arising from surgical or medical care, not elsewhere classified (NE80-NE8Z)
+  AB90  	Recurrent cholesteatoma of postmastoidectomy cavity
+
+  AB91  	Mucosal cyst of postmastoidectomy cavity
+
+  AB92  	Granulation of postmastoidectomy cavity
+
+  AB93  	Chronic inflammation of postmastoidectomy cavity
+
+
+  AC0Y  	Other specified diseases of the ear or mastoid process
+
+  AC0Z  	Diseases of the ear or mastoid process, unspecified
+

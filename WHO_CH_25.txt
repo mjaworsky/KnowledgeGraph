@@ -1,0 +1,69 @@
+CHAPTER 25
+Codes for special purposes
+This chapter has 17 four-character categories.
+Code range starts with RA00
+This chapter contains the following top level blocks:
+•	International provisional assignment of new diseases of uncertain aetiology and emergency use
+•	National provisional assignment of new diseases of uncertain aetiology
+
+International provisional assignment of new diseases of uncertain aetiology and emergency use (BlockL1‑RA0)
+  RA00  	Conditions of uncertain aetiology and emergency use
+
+RA00.0	Vaping related disorder
+Disorder resulting from inhaling a vaporized solution (aerosol) which frequently contains flavourants, usually dissolved into Propylene Glycol or Glycerin, or both, and may or may not contain doses of nicotine, and other substances and additives with the use of electronic nicotine delivery systems (ENDS) or electronic non-nicotine delivery systems (ENNDS).
+In the affected individual, infections as cause of the damage are unlikely or should have been excluded.
+Relevant findings include proof of presence of pulmonary infiltrate, such as opacities, on plain film chest radiograph or ground-glass opacities on chest CT.
+
+  RA01  	COVID-19
+As definition may evolve, the URL for the Global surveillance document will be added as the short description
+
+RA01.0	COVID-19, virus identified
+Coding Note:	Use this code when infection with the COVID-19 virus (SARS-CoV-2) has been confirmed by laboratory testing irrespective of severity of clinical signs or symptoms.
+Inclusions:	Coronavirus disease 2019
+COVID-19 NOS
+Exclusions:	Coronavirus infection, unspecified site (1D92)
+Middle East respiratory syndrome (1D64)
+Severe acute respiratory syndrome (1D65)
+
+RA01.1	COVID-19, virus not identified
+Coding Note:	Use this code when COVID-19 is diagnosed clinically or epidemiologically but laboratory testing is inconclusive or not available.
+Exclusions:	COVID-19, virus identified (RA01.0)
+Coronavirus infection, unspecified site (1D92)
+Special screening examination for other viral diseases (QA08.5)
+suspected but ruled out by negative laboratory results (QA02)
+confirmed by laboratory testing (RA01.0)
+
+  RA02  	Post COVID-19 condition
+Coding Note:	This optional code serves to allow the establishment of a link with COVID-19. This code is not to be used in cases that still are presenting COVID-19.
+
+  RA03  	Multisystem inflammatory syndrome associated with COVID-19
+Exclusions:	Kawasaki syndrome (4A44.5)
+Mucocutaneous lymph node syndrome (4A44.5)
+
+  RA04  	International emergency code 05
+
+  RA05  	International emergency code 06
+
+  RA06  	International emergency code 07
+
+  RA07  	International emergency code 08
+
+  RA08  	International emergency code 09
+
+  RA09  	International emergency code 10
+
+National provisional assignment of new diseases of uncertain aetiology (BlockL1‑RA2)
+  RA20  	National emergency code 01
+
+  RA21  	National emergency code 02
+
+  RA22  	National emergency code 03
+
+  RA23  	National emergency code 04
+
+  RA24  	National emergency code 05
+
+  RA25  	National emergency code 06
+
+  RA26  	National emergency code 07
+
